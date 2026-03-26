@@ -2,30 +2,30 @@ name: Build site on schedule or main branch update
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   schedule:
-    # Adjust refresh schedule here. By default, it runs once per day.
-    # Syntax reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#schedule
-    # Recommended tool: https://crontab.guru/
+    # 每天北京时间早上 8 点自动更新（你可以改）
     - cron: "0 0 * * *"
+
+# 重要：给 Actions 写权限，让它能创建 gh-pages 分支
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2.1.4
+      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: "16"
+          node-version: 20
       - name: Install dependencies
-        run: npm i
+        run: npm ci
       - name: Build the feed
         run: npm run build
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
