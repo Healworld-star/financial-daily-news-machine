@@ -1,16 +1,11 @@
-#########################
-# Full reference
-# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
-#########################
-
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
-sources:
 cacheUrl: https://healworld-star.github.io/financial-daily-news-machine/cache.json
 sources:
   - href: https://feeds.bbci.co.uk/news/business/rss.xml
     title: BBC Business
   - href: http://rss.cnn.com/rss/money_latest.rss
     title: CNN Money
+  - href: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+    title: NYT Business
   - href: https://www.investing.com/rss/news.rss
     title: Investing.com
   - href: https://www.reddit.com/r/investing/.rss
