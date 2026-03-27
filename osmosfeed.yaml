@@ -5,20 +5,15 @@
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
- cacheUrl: https://healworld-star.github.io/financial-daily-news-machine/cache.json
+cacheUrl: https://healworld-star.github.io/financial-daily-news-machine/cache.json
 sources:
-  # BBC 商业
   - href: https://feeds.bbci.co.uk/news/business/rss.xml
-  # CNN 商业
+    title: BBC Business
   - href: http://rss.cnn.com/rss/money_latest.rss
-  # NYT 商业
-  - href: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
-  # Investing.com 金融新闻
+    title: CNN Money
   - href: https://www.investing.com/rss/news.rss
-  # Reddit 世界论坛 - 投资
+    title: Investing.com
   - href: https://www.reddit.com/r/investing/.rss
-  # Reddit 世界论坛 - 金融
+    title: Reddit Investing
   - href: https://www.reddit.com/r/finance/.rss
-  # Reddit 世界论坛 - 散户热议（可选）
-  - href: https://www.reddit.com/r/wallstreetbets/.rss
-  # 你可以继续在这里加更多 RSS（以后我们一起找）
+    title: Reddit Finance
