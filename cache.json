@@ -1,474 +1,1608 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "BBC News",
+      "feedUrl": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "siteUrl": "https://www.bbc.co.uk/news/business",
+      "articles": [
+        {
+          "id": "https://www.bbc.com/news/articles/c747x7gz249o#1",
+          "author": null,
+          "description": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+          "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-27T03:21:48.000Z",
+          "wordCount": 7613,
+          "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9830/live/9e8aadf0-28e0-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cvg4p02lvd0o#0",
+          "author": null,
+          "description": "A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.",
+          "link": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-27T00:44:24.000Z",
+          "wordCount": 4874,
+          "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f956/live/979a6b50-2978-11f1-a79a-77e93010d956.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/videos/cn08y2jgdxpo#6",
+          "author": null,
+          "description": "Conservatives gathered at the annual CPAC conference in Texas were mixed when asked about their feelings on the current economy.",
+          "link": "https://www.bbc.com/news/videos/cn08y2jgdxpo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-27T00:01:51.000Z",
+          "wordCount": 5308,
+          "title": "'Affordability is the biggest thing' - Conservatives mixed on economy under Trump",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1b99/live/a4fd5310-296f-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c3ewyyjjzkwo#0",
+          "author": null,
+          "description": "Indian farmers are turning to dragon fruit as a profitable alternative to mangoes and coffee.",
+          "link": "https://www.bbc.com/news/articles/c3ewyyjjzkwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-27T00:01:01.000Z",
+          "wordCount": 6626,
+          "title": "The spiky cactus fruit giving Indian farmers a cash boost",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2a3e/live/e9822070-1ded-11f1-9120-a910fc22c6ac.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cz0el909yp3o#0",
+          "author": null,
+          "description": "The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.",
+          "link": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T23:36:14.000Z",
+          "wordCount": 4687,
+          "title": "Trump's signature to appear on US dollars in first for sitting president",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/aded/live/35f0f270-297d-11f1-a79a-77e93010d956.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/videos/crr109r2gd4o#6",
+          "author": null,
+          "description": "The Apprentice candidates try to sell a table tennis set live on TV.",
+          "link": "https://www.bbc.com/news/videos/crr109r2gd4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T22:42:12.000Z",
+          "wordCount": 2375,
+          "title": "Who knew Lord Sugar is a table tennis fan?",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n8yvhx.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c3931xz101do#1",
+          "author": null,
+          "description": "Jaguar Land Rover pauses Range Rover production at its West Midlands factory due to supplier issue.",
+          "link": "https://www.bbc.com/news/articles/c3931xz101do?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T19:43:48.000Z",
+          "wordCount": 4636,
+          "title": "JLR temporarily halts production at Solihull plant",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0620/live/c77972e0-294a-11f1-a7a2-d14032155d9d.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c05dlm0l0jgo#0",
+          "author": null,
+          "description": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.",
+          "link": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T17:29:13.000Z",
+          "wordCount": 4691,
+          "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a734/live/95be3b70-292f-11f1-b930-6bf1eac08e0d.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c86e3q5j992o#0",
+          "author": null,
+          "description": "Parenting experts share their tips on how to keep children's screen time under control.",
+          "link": "https://www.bbc.com/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T16:19:41.000Z",
+          "wordCount": 6374,
+          "title": "Don't panic - five ways to stop your kids' endless scrolling",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9877/live/55f3caf0-2902-11f1-be8b-2136d1c912ba.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c3w3eg4n9zwo#0",
+          "author": null,
+          "description": "Pensions Minister Torston Bell said those affected would receive compensation \"where appropriate\".",
+          "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T16:14:54.000Z",
+          "wordCount": 6025,
+          "title": "NS&I boss replaced as savers left waiting for millions of pounds",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a6d8/live/70609ad0-2939-11f1-a79a-77e93010d956.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cdd29v8mp9jo#4",
+          "author": null,
+          "description": "Typical household bills will fall by 7% when the new energy cap takes effect on 1 April 2026.",
+          "link": "https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T16:01:21.000Z",
+          "wordCount": 9642,
+          "title": "What is happening to gas and electricity prices?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e128/live/e48b62d0-8314-11f0-be81-6985215d22ca.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c20zgjzz0e4o#1",
+          "author": null,
+          "description": "For every $10 rise in oil prices, motorists face paying roughly 7p per litre more in the UK.",
+          "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T15:41:57.000Z",
+          "wordCount": 6820,
+          "title": "How high could UK petrol and diesel prices go?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6653/live/64a76bc0-1baa-11f1-9f65-e32170917420.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/ckger01gxkno#1",
+          "author": null,
+          "description": "Port operator ABP will begin work on developing a facility to assemble and launch turbines out to sea.",
+          "link": "https://www.bbc.com/news/articles/ckger01gxkno?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T14:36:51.000Z",
+          "wordCount": 6594,
+          "title": "Port Talbot to become offshore wind hub for Celtic Sea",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eeda/live/aeba1070-2909-11f1-8742-11d9a3760e0c.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c2k350g3jelo#0",
+          "author": null,
+          "description": "Readers contacted BBC Your Voice to say they not been able to claim funds from dead family members' premium bond investments.",
+          "link": "https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T13:19:38.000Z",
+          "wordCount": 5420,
+          "title": "'It took six years to receive my late father's premium bonds'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e7ae/live/a9c8d9f0-2924-11f1-b297-95b0a0a8331e.png"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c2k350g3jelo#4",
+          "author": null,
+          "description": "Readers contacted BBC Your Voice to say they not been able to claim funds from dead family members' premium bond investments.",
+          "link": "https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T13:19:38.000Z",
+          "wordCount": 5420,
+          "title": "'It took six years to receive my late father's premium bonds'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e7ae/live/a9c8d9f0-2924-11f1-b297-95b0a0a8331e.png"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cgk0j71g417o#1",
+          "author": null,
+          "description": "The OECD downgrades forecasts for many of the world's biggest economies due to the US-Israel war with Iran.",
+          "link": "https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T12:56:33.000Z",
+          "wordCount": 6498,
+          "title": "UK forecast to see biggest hit to growth from Iran war out of major economies",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/982f/live/91905290-2916-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/videos/cede8e6z01po#6",
+          "author": null,
+          "description": "Martin Lewis explains that you can use your Lifetime ISA to buy with someone who has already bought.",
+          "link": "https://www.bbc.com/news/videos/cede8e6z01po?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T12:22:50.000Z",
+          "wordCount": 2412,
+          "title": "How to make the most of your Lifetime Isa",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n8whn6.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/ceqw9x1l15go#1",
+          "author": null,
+          "description": "Suntory Global Spirits did not give a reason for why the plan is not going ahead.",
+          "link": "https://www.bbc.com/news/articles/ceqw9x1l15go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T11:46:07.000Z",
+          "wordCount": 4541,
+          "title": "Whisky giant drops plans for £150m facility in Ayrshire",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7cf8/live/918fcd70-2902-11f1-8d7b-c7ea0e92917e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/crm172nkeplo#1",
+          "author": null,
+          "description": "Shirine Khoury-Haq's departure comes after a troubled year, in which the retailer suffered a cyber-attack and faced allegations about its workplace culture.",
+          "link": "https://www.bbc.com/news/articles/crm172nkeplo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T10:47:02.000Z",
+          "wordCount": 4643,
+          "title": "Co-op boss quits after 'toxic culture' claims reported by BBC",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/12c1/live/65491330-2901-11f1-b297-95b0a0a8331e.png"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cew7xrj4497o#1",
+          "author": null,
+          "description": "The government will invest £100m to restart the Teesside site producing carbon dioxide, a key part of food and drink manufacturing.",
+          "link": "https://www.bbc.com/news/articles/cew7xrj4497o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T09:55:18.000Z",
+          "wordCount": 4315,
+          "title": "UK CO2 plant to reopen in Iran war contingency plan",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9e92/live/24bf6d00-28b6-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c87wd0d84jqo#1",
+          "author": null,
+          "description": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.",
+          "link": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T09:37:57.000Z",
+          "wordCount": 7338,
+          "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/57c0/live/feb5be00-28f8-11f1-a95f-75471ca6e71e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn8dg5wq9pyo#1",
+          "author": null,
+          "description": "Judge rules that Hewlett-Packard Enterprise was owed damages for the £8.2bn acquisition of Autonomy in 2011.",
+          "link": "https://www.bbc.com/news/articles/cn8dg5wq9pyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T09:20:55.000Z",
+          "wordCount": 6015,
+          "title": "Estate of late tycoon Mike Lynch to pay damages of £920m",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7437/live/bca25db0-2491-11ef-9a89-4f45ca826717.png"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c05dpr1m71go#1",
+          "author": null,
+          "description": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
+          "link": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T07:34:55.000Z",
+          "wordCount": 4757,
+          "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5dba/live/26022b50-2968-11f1-961e-d160a99d7710.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/videos/c78r5ky49nxo#4",
+          "author": null,
+          "description": "Six weeks from the Holyrood election, the BBC takes the temperature in one central Scotland constituency.",
+          "link": "https://www.bbc.com/news/videos/c78r5ky49nxo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T06:23:03.000Z",
+          "wordCount": 5059,
+          "title": "NHS, bills and immigration: One constituency's election talking points",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c91c/live/37f76820-287d-11f1-a79a-77e93010d956.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/czxr567npxko#4",
+          "author": null,
+          "description": "More working families asking for baby essentials",
+          "link": "https://www.bbc.com/news/articles/czxr567npxko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T06:22:44.000Z",
+          "wordCount": 5714,
+          "title": "Working parents 'struggling to afford nappies or food'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8449/live/b5d1b400-282b-11f1-b289-fd2d6419405a.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c87wx970yw9o#4",
+          "author": null,
+          "description": "Organisations say there is support available after heating oil doubled in price due to the war in Iran.",
+          "link": "https://www.bbc.com/news/articles/c87wx970yw9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T06:02:22.000Z",
+          "wordCount": 5887,
+          "title": "Do not turn your heating off, charities warn",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e058/live/d7a10ff0-2780-11f1-b6c4-11a8e903bb84.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c5y8d721q18o#1",
+          "author": null,
+          "description": "Reports it plans the biggest listing ever sent the shares of firms in its orbit soaring in US trade on Wednesday.",
+          "link": "https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T02:01:39.000Z",
+          "wordCount": 4663,
+          "title": "Rocket stocks soar on report Musk's SpaceX to file for share sale",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a653/live/74eea880-28b7-11f1-a969-25e19bf2e998.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn08x9lw0pzo#1",
+          "author": null,
+          "description": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
+          "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T00:41:16.000Z",
+          "wordCount": 11637,
+          "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1543/live/c1c12910-2837-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn08x9lw0pzo#5",
+          "author": null,
+          "description": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
+          "link": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T00:41:16.000Z",
+          "wordCount": 11637,
+          "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1543/live/c1c12910-2837-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn08lx745ndo#2",
+          "author": null,
+          "description": "Greg Daily has swapped sleeping on friends' sofas for running a popular digital marketing company.",
+          "link": "https://www.bbc.com/news/articles/cn08lx745ndo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T00:03:36.000Z",
+          "wordCount": 6230,
+          "title": "The homeless teenager who became a successful advertising boss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f116/live/62b5ab20-2761-11f1-8dfa-e79b06fb69fd.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c4gjlezq80no#1",
+          "author": null,
+          "description": "The UK giant is optimistic but chief executive Greg Jackson tells the BBC he is making contingency plans.",
+          "link": "https://www.bbc.com/news/articles/c4gjlezq80no?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T00:00:49.000Z",
+          "wordCount": 6521,
+          "title": "Octopus boss: We've seen a 50% rise in solar panel sales since start of Iran war",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e0c8/live/8ea0abf0-2882-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c995xp4jxj2o#1",
+          "author": null,
+          "description": "Crude rose back above $100 a barrel as the US and Iran clashed over bringing the conflict to an end.",
+          "link": "https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-25T21:18:55.000Z",
+          "wordCount": 5227,
+          "title": "Oil prices volatile as Trump talks up Iran negotiations",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/738e/live/9c6d4c40-281c-11f1-931f-e9f364d2732b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cx2w47e9v2vo#1",
+          "author": null,
+          "description": "The speed of price rises in the UK has stayed the same, according to data which was collected before the US-Israel war with Iran began.",
+          "link": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-25T13:27:50.000Z",
+          "wordCount": 6353,
+          "title": "UK inflation rate stays at 3% before Iran war hits oil prices",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/70aa/live/fd7df6e0-276f-11f1-82f7-f757ccb9d4bd.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c9wqrdkx8ppo#1",
+          "author": null,
+          "description": "Larry Fink also warns if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
+          "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-25T12:00:38.000Z",
+          "wordCount": 6778,
+          "title": "We need more plumbers and fewer lawyers in AI age, says BlackRock boss",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/30fd/live/65c23d50-27ad-11f1-a79a-77e93010d956.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c17rgd8e9gjo#1",
+          "author": null,
+          "description": "UK Inflation has dropped back from record highs but remains above the Bank of England's 2% target.",
+          "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-25T08:35:11.000Z",
+          "wordCount": 8472,
+          "title": "Why are UK prices still rising?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/73aa/live/9eb3d5f0-a8dd-11f0-a522-95977dce8b09.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c3w3e467ewqo#1",
+          "author": null,
+          "description": "The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.",
+          "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-25T04:48:56.000Z",
+          "wordCount": 5358,
+          "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bf4a/live/a6f433a0-2807-11f1-af73-bd55eb0878e2.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cm25e8k2je1o#1",
+          "author": null,
+          "description": "For many, the promise of getting a foot on the property ladder has turned into a nightmare.",
+          "link": "https://www.bbc.com/news/articles/cm25e8k2je1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-25T01:23:06.000Z",
+          "wordCount": 8290,
+          "title": "'Wildly unaffordable': The harsh reality of shared ownership",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a56e/live/3fe94400-282c-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cwy8wxgmgd1o#2",
+          "author": null,
+          "description": "Start-ups are offering tech for novices to create apps with the help of AI.",
+          "link": "https://www.bbc.com/news/articles/cwy8wxgmgd1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-24T00:36:02.000Z",
+          "wordCount": 6257,
+          "title": "Would you build your own apps?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5e7e/live/14e9d440-1b9d-11f1-b048-c9424b2cf5fd.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c5yg6kyd9dzo#2",
+          "author": null,
+          "description": "Weight-loss drug prices are falling in the US - but can the example be repeated?",
+          "link": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-23T06:03:48.000Z",
+          "wordCount": 7276,
+          "title": "US weight-loss drugmakers slash prices in fight to win customers",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/66a0/live/5e1a7690-248c-11f1-a673-e3b236a15253.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c3wlww83yv4o#2",
+          "author": null,
+          "description": "The European nation, struggling to find skilled staff, is giving jobs to young people from India.",
+          "link": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-23T00:03:25.000Z",
+          "wordCount": 7033,
+          "title": "Germany has a shortage of workers - so it's turning to India for help",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/53d7/live/472f0520-25dd-11f1-965f-2f5aaeeadad7.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cly0krjy57lo#2",
+          "author": null,
+          "description": "Young people are driving a gym boom as more fitness spaces are transformed into vibrant hangouts.",
+          "link": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-22T00:56:15.000Z",
+          "wordCount": 7703,
+          "title": "'Club vibes without the hangover': The twenty-somethings going out - in the gym",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e0c7/live/36421040-1985-11f1-ad8c-2577a14d4f52.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cgl5rwgr5l2o#2",
+          "author": null,
+          "description": "How could a company that charged as much as £65 for a day's parking fail to turn a profit?",
+          "link": "https://www.bbc.com/news/articles/cgl5rwgr5l2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-21T01:59:52.000Z",
+          "wordCount": 6869,
+          "title": "Home working, long leases and rise of parking apps - what went wrong for NCP",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9f23/live/3ee13540-247b-11f1-9ac5-2fb77b4b4b71.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c4g2kyg4e78o#2",
+          "author": null,
+          "description": "Colombia has become a tech hub for Latin America, but attracting investors is a challenge.",
+          "link": "https://www.bbc.com/news/articles/c4g2kyg4e78o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-20T00:09:01.000Z",
+          "wordCount": 6442,
+          "title": "Colombia's budding tech scene needs a cash boost",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0521/live/472e0590-1317-11f1-801d-ed3cff6bf876.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c4gjn1d74jlo#5",
+          "author": null,
+          "description": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?",
+          "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-20T00:01:51.000Z",
+          "wordCount": 9887,
+          "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/802e/live/0cf142f0-2444-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cly1mg3zy20o#2",
+          "author": null,
+          "description": "The chains all have detailed plans to follow in the event of the nation going to war.",
+          "link": "https://www.bbc.com/news/articles/cly1mg3zy20o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-19T00:10:45.000Z",
+          "wordCount": 6445,
+          "title": "How Finnish supermarkets are central to the country's defence",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e0dc/live/89a6fa90-22b6-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cy4wemk4dzvo#2",
+          "author": null,
+          "description": "Using plastic in construction is cheap and easy, but some are trying to radically cut back its use.",
+          "link": "https://www.bbc.com/news/articles/cy4wemk4dzvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-17T00:01:31.000Z",
+          "wordCount": 7084,
+          "title": "Is it possible to build a plastic-free home?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d622/live/5089a2a0-0e3c-11f1-9972-d3f265c101c6.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c20jyngz7ygo#2",
+          "author": null,
+          "description": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.",
+          "link": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-16T00:06:14.000Z",
+          "wordCount": 8226,
+          "title": "Ukraine's urgent fight on the financial frontline",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d07e/live/c121c150-20cf-11f1-8052-4700e05237bf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cm2871wyz9ko#2",
+          "author": null,
+          "description": "The US said easing sanctions on Russian oil would provide only a limited financial boost to Putin.",
+          "link": "https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-13T16:07:39.000Z",
+          "wordCount": 6291,
+          "title": "Why has Trump eased sanctions on Russian oil - and will it help Putin?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/af02/live/ab211230-1ef8-11f1-b048-c9424b2cf5fd.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn0z7971r4zo#2",
+          "author": null,
+          "description": "The government's hopes that 2026 would be the year when growth picks up are at risk of being scuppered.",
+          "link": "https://www.bbc.com/news/articles/cn0z7971r4zo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-13T10:58:28.000Z",
+          "wordCount": 5197,
+          "title": "Dharshini David: Economy on shaky ground even before Iran war",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/36b1/live/43738fb0-1eca-11f1-8936-d579f3009acf.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cvg3wg0yrp5o#2",
+          "author": null,
+          "description": "Cost and convenience have made disposable nappies dominant - can start-ups compete?",
+          "link": "https://www.bbc.com/news/articles/cvg3wg0yrp5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-13T00:03:14.000Z",
+          "wordCount": 6238,
+          "title": "Can plastic-eating fungi help clean up nappy waste?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/486b/live/03a46a10-16e3-11f1-b048-c9424b2cf5fd.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Latest financial news - CNNMoney.com",
+      "feedUrl": "http://rss.cnn.com/rss/money_latest.rss",
+      "siteUrl": "http://money.cnn.com/?section=money_latest",
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "NYT > Business",
+      "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+      "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=391438",
-          "author": "Geoff Graham",
-          "description": "Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.\nGenerative UI Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/generative-ui-notes/",
-          "publishedOn": "2026-03-26T14:59:55.000Z",
-          "wordCount": 3171,
-          "title": "Generative UI Notes",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/toolset.webp"
+          "id": "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html",
+          "author": "The New York Times",
+          "description": "President Trump said on Thursday he would delay an imminent deadline to begin attacking Iran’s power grid.",
+          "link": "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html",
+          "publishedOn": "2026-03-27T04:53:54.000Z",
+          "wordCount": null,
+          "title": "Stocks Are Mixed and Oil Dips After Trump Delays Threat to Bomb Iran",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392503",
-          "author": "Daniel Schwarz",
-          "description": "The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.\nExperimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/",
-          "publishedOn": "2026-03-23T13:51:15.000Z",
-          "wordCount": 3544,
-          "title": "Experimenting With Scroll-Driven corner-shape Animations",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/corner-shape-amimation-1.mp4",
-            "length": "812988",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/corner-shape-animation.webp"
+          "id": "https://www.nytimes.com/2026/03/27/theater/tickets-theater-broadway-west-end-london.html",
+          "author": "Michael Paulson and Alex Marshall",
+          "description": "For half the price of a great seat at a Broadway show, you can see “Paddington” in the West End (if you can find a ticket) and snack on a marmalade sandwich.",
+          "link": "https://www.nytimes.com/2026/03/27/theater/tickets-theater-broadway-west-end-london.html",
+          "publishedOn": "2026-03-27T04:01:10.000Z",
+          "wordCount": null,
+          "title": "Theater Tickets Are Cheaper in London Than New York. What Gives?",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392714",
-          "author": "Mat Marquis",
-          "description": "Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. \nJavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/javascript-for-everyone-destructuring/",
-          "publishedOn": "2026-03-19T13:06:30.000Z",
-          "wordCount": 5775,
-          "title": "JavaScript for Everyone: Destructuring",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/javascript-for-everyone-scaled.png"
+          "id": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
+          "author": "Meaghan Tobin and Xinyun Wu",
+          "description": "With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions.",
+          "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
+          "publishedOn": "2026-03-27T04:00:21.000Z",
+          "wordCount": null,
+          "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=393021",
-          "author": "Daniel Schwarz",
-          "description": "For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.\nWhat’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-important-7/",
-          "publishedOn": "2026-03-16T15:06:01.000Z",
-          "wordCount": 2641,
-          "title": "What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/wi7.png"
+          "id": "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html",
+          "author": "Alan Rappeport",
+          "description": "President Trump is poised to be the first sitting president to have his signature appear on the U.S. dollar.",
+          "link": "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html",
+          "publishedOn": "2026-03-27T02:14:03.000Z",
+          "wordCount": null,
+          "title": "Trump’s Signature Is Set to Be Added to America’s Currency",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392180",
-          "author": "Zell Liew",
-          "description": "Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.\n4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/",
-          "publishedOn": "2026-03-16T14:01:02.000Z",
-          "wordCount": 3642,
-          "title": "4 Reasons That Make Tailwind Great for Building Layouts",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
+          "id": "https://www.nytimes.com/2026/03/26/business/iran-war-ships-strait-of-hormuz.html",
+          "author": "Peter Eavis",
+          "description": "Iran has allowed a small number of vessels to pass, but that won’t alleviate pressure or risk for the shipping industry and energy markets any time soon.",
+          "link": "https://www.nytimes.com/2026/03/26/business/iran-war-ships-strait-of-hormuz.html",
+          "publishedOn": "2026-03-27T01:57:08.000Z",
+          "wordCount": null,
+          "title": "Iran Keeps a Tight Grip on Strait of Hormuz, Pressuring Shipping and Energy Sectors",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392463",
-          "author": "Patrick Brosset",
-          "description": "Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.\nAbusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/abusing-customizable-selects/",
-          "publishedOn": "2026-03-11T13:59:15.000Z",
-          "wordCount": 4925,
-          "title": "Abusing Customizable Selects",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
-            "length": "410481",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/custom-select.webp"
+          "id": "https://www.nytimes.com/2026/03/26/business/oil-stock-gas-prices-iran.html",
+          "author": "Joe Rennison",
+          "description": "The S&P 500 tumbled 1.7 percent on Thursday and oil prices continued rising as investors fret about when the war would end.",
+          "link": "https://www.nytimes.com/2026/03/26/business/oil-stock-gas-prices-iran.html",
+          "publishedOn": "2026-03-27T01:03:51.000Z",
+          "wordCount": null,
+          "title": "U.S. Stocks Have Their Biggest Drop Since Start of Iran War",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392843",
-          "author": "Amit Sheen",
-          "description": "How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.\nThe Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-value-of-z-index/",
-          "publishedOn": "2026-03-09T14:20:01.000Z",
-          "wordCount": 4286,
-          "title": "The Value of z-index",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_8926F490CDA74C2CA8D0B6E99405A055C6BF40F4CCE75686F0BAADE6ECBD39FB_1772115867944_image.png"
+          "id": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html",
+          "author": "Michael J. de la Merced",
+          "description": "The company, which develops autonomous military technology, also plans to buy a maker of simulation software as interest in next-generation defense soars.",
+          "link": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html",
+          "publishedOn": "2026-03-27T00:24:47.000Z",
+          "wordCount": null,
+          "title": "Shield AI, a Start-Up Making Military Drones, Raises $2 Billion",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392257",
-          "author": "Daniel Schwarz",
-          "description": "Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?\nThe Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-different-ways-to-select-html-in-css/",
-          "publishedOn": "2026-03-05T14:01:04.000Z",
-          "wordCount": 2642,
-          "title": "The Different Ways to Select <html> in CSS",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/02/css-block-html.png"
+          "id": "https://www.nytimes.com/2026/03/26/business/inflation-prices-energy-iran-oecd.html",
+          "author": "Eshe Nelson",
+          "description": "Higher energy prices and uncertainty over the war in the Middle East will boost inflation and weigh on economic growth, a new forecast says.",
+          "link": "https://www.nytimes.com/2026/03/26/business/inflation-prices-energy-iran-oecd.html",
+          "publishedOn": "2026-03-26T21:34:34.000Z",
+          "wordCount": null,
+          "title": "War in Iran Will Push U.S. Inflation Above 4 Percent, O.E.C.D. Forecast Says",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=388435",
-          "author": "Zell Liew",
-          "description": "Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.\nPopover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/",
-          "publishedOn": "2026-03-02T15:10:07.000Z",
-          "wordCount": 3923,
-          "title": "Popover API or Dialog API: Which to Choose?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+          "id": "https://www.nytimes.com/2026/03/26/us/politics/trump-pakistan-iran.html",
+          "author": "David Yaffe-Bellany, Ben Protess and Elian Peltier",
+          "description": "Steve Witkoff, a diplomatic envoy, used the Board of Peace to announce an agreement that could raze a Pakistan-owned Manhattan hotel. Now the country is involved in negotiating peace talks with Iran.",
+          "link": "https://www.nytimes.com/2026/03/26/us/politics/trump-pakistan-iran.html",
+          "publishedOn": "2026-03-26T20:48:27.000Z",
+          "wordCount": null,
+          "title": "After Wooing Trump With Deals, Pakistan Gets a Seat at the Table",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392661",
-          "author": "Daniel Schwarz",
-          "description": "Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!\nWhat’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-important-6/",
-          "publishedOn": "2026-02-27T16:30:22.000Z",
-          "wordCount": 3166,
-          "title": "What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/border-shape.mp4",
-            "length": "2187724",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/important-color.png"
+          "id": "https://www.nytimes.com/2026/03/26/business/story-house-montana-economy.html",
+          "author": "Brian Josephs",
+          "description": "Story House arrived in Missoula last year with big plans for a movie and television campus that would create hundreds of jobs and build a filmmaking ecosystem.",
+          "link": "https://www.nytimes.com/2026/03/26/business/story-house-montana-economy.html",
+          "publishedOn": "2026-03-26T20:21:16.000Z",
+          "wordCount": null,
+          "title": "A Film Studio Moved to Montana for Tax Breaks. Will It Benefit the Locals?",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392540",
-          "author": "Juan Diego Rodríguez",
-          "description": "TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!\nYet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/yet-another-way-to-center-an-absolute-element/",
-          "publishedOn": "2026-02-27T14:40:42.000Z",
-          "wordCount": 2876,
-          "title": "Yet Another Way to Center an (Absolute) Element",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2014/09/guide-centering.png"
+          "id": "https://www.nytimes.com/2026/03/26/travel/tsa-airports-shutdown-security-sfo-mci.html",
+          "author": "Gabe Castro-Root",
+          "description": "A handful of airports, including San Francisco and Kansas City International, participate in a program that lets them rely on private screeners instead of T.S.A. agents.",
+          "link": "https://www.nytimes.com/2026/03/26/travel/tsa-airports-shutdown-security-sfo-mci.html",
+          "publishedOn": "2026-03-26T19:05:32.000Z",
+          "wordCount": null,
+          "title": "At Non-TSA Airports, Wait Times Are Minutes, Not Hours",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=392606",
-          "author": "Lee Meyer",
-          "description": "Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a \"CSS exploit\" that \"allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.\"\nAn Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-exploit-in-css/",
-          "publishedOn": "2026-02-25T21:31:39.000Z",
-          "wordCount": 3774,
-          "title": "An Exploit … in CSS?!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/code-magnify.png"
+          "id": "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html",
+          "author": "Peter Eavis, Gilad Thaler, Edward Vega, Lauren Pruitt and Joey Sendaydiego",
+          "description": "Kharg Island exports 90 percent of Iran’s crude oil. It has also become a potential U.S. target. Peter Eavis, our Business reporter, examines how the small island in the Persian Gulf has become a strategic target with significant risks.",
+          "link": "https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html",
+          "publishedOn": "2026-03-26T18:41:46.000Z",
+          "wordCount": 2675,
+          "title": "How Kharg Island May Change the Trajectory of the Iran War",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/27/business/economy/THUMBNAILV2/THUMBNAILV2-facebookJumbo.jpg?video-overlay"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
+          "author": "David Yaffe-Bellany and Michael Forsythe",
+          "description": "The world’s largest crypto exchange is under fire after investigators found accounts moving $1.7 billion to entities linked to Iran. Clues about those accounts were in plain sight for over a year.",
+          "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
+          "publishedOn": "2026-03-26T18:37:34.000Z",
+          "wordCount": null,
+          "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html",
+          "author": "Niraj Chokshi and Karoun Demirjian",
+          "description": "Regulators, pilots and others in aviation have worried about the kind of runway accident that happened at LaGuardia Airport on Sunday.",
+          "link": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html",
+          "publishedOn": "2026-03-26T18:32:36.000Z",
+          "wordCount": null,
+          "title": "Safety Experts Considered LaGuardia Challenging but Not an Outlier",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/science/biotechnology-pharmaceuticals-eggs.html",
+          "author": "Carl Zimmer",
+          "description": "A biotech start-up is testing a novel way of efficiently producing pharmaceutical drugs.",
+          "link": "https://www.nytimes.com/2026/03/26/science/biotechnology-pharmaceuticals-eggs.html",
+          "publishedOn": "2026-03-26T18:31:46.000Z",
+          "wordCount": null,
+          "title": "How to Turn a Chicken Egg Into a Drug Factory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/business/media/academy-awards-moving-downtown-los-angeles.html",
+          "author": "Nicole Sperling",
+          "description": "The event will be held in downtown Los Angeles starting in 2029 as part of a deal between the academy and AEG, a developer of entertainment venues.",
+          "link": "https://www.nytimes.com/2026/03/26/business/media/academy-awards-moving-downtown-los-angeles.html",
+          "publishedOn": "2026-03-26T18:14:03.000Z",
+          "wordCount": null,
+          "title": "Oscars Will Move to a Venue Outside Hollywood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
+          "author": "David McCabe",
+          "description": "The Justice Department sued the large New York health system, saying it restricted insurance companies from offering patients cheaper options.",
+          "link": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
+          "publishedOn": "2026-03-26T18:09:55.000Z",
+          "wordCount": null,
+          "title": "U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
+          "author": "Adam Satariano",
+          "description": "Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.",
+          "link": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
+          "publishedOn": "2026-03-26T18:04:39.000Z",
+          "wordCount": null,
+          "title": "Snapchat Investigated in Europe Over Child Safety Policies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/insider/how-fast-journalists-type.html",
+          "author": "Sarah Bahr",
+          "description": "When it comes to breaking news, it’s a race not only to get the story, but to record it. We tracked down some of the speediest fingers in our newsroom.",
+          "link": "https://www.nytimes.com/2026/03/25/insider/how-fast-journalists-type.html",
+          "publishedOn": "2026-03-26T17:08:44.000Z",
+          "wordCount": null,
+          "title": "Write It Up! How Fast Do Our Journalists Type?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html",
+          "author": "Gregory Schmidt",
+          "description": "The average rate on a 30-year mortgage in the United States hit 6.38 percent, the fourth increase since the war began.",
+          "link": "https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html",
+          "publishedOn": "2026-03-26T16:35:32.000Z",
+          "wordCount": null,
+          "title": "Mortgage Rates Jump Again as Iran War Effects Ripple Through Housing Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
+          "author": "Clay Risen",
+          "description": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
+          "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
+          "publishedOn": "2026-03-26T16:21:28.000Z",
+          "wordCount": null,
+          "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/business/europe-natural-gas-storage-iran-war.html",
+          "author": "Eshe Nelson",
+          "description": "The region’s stores of natural gas are running at the lowest level in years, and filling them up is increasingly daunting as the U.S.-led war in Iran pushes up prices.",
+          "link": "https://www.nytimes.com/2026/03/26/business/europe-natural-gas-storage-iran-war.html",
+          "publishedOn": "2026-03-26T16:12:16.000Z",
+          "wordCount": null,
+          "title": "Europe Heads for Another Energy Shock as Iran War Raises Natural Gas Prices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html",
+          "author": "Lydia DePillis",
+          "description": "Tech companies are running into resistance from neighbors and may not be able to build at the pace they promised investors.",
+          "link": "https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html",
+          "publishedOn": "2026-03-26T15:29:24.000Z",
+          "wordCount": null,
+          "title": "Local Opposition Is Slowing A.I. Data Centers. Wall Street Has Noticed.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/travel/budget-rental-car-discount.html",
+          "author": "Seth Kugel",
+          "description": "An American who rented a vehicle for a two-week European vacation brought it back to the airport just a few hours ahead of schedule. Why did the price nearly double?",
+          "link": "https://www.nytimes.com/2026/03/26/travel/budget-rental-car-discount.html",
+          "publishedOn": "2026-03-26T14:02:36.000Z",
+          "wordCount": null,
+          "title": "Help! Budget Charged Me Almost $600 for Returning a Car Early.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
+          "description": "Back-to-back courtroom losses have put technology giants, including Meta and Google, in uncertain territory as they face lawsuits and bans on teen users.",
+          "link": "https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html",
+          "publishedOn": "2026-03-26T13:25:27.000Z",
+          "wordCount": null,
+          "title": "Is Big Tech Facing a Big Tobacco Moment?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/us/politics/trump-bipartisan-backlash-oil-sanctions-russia-iran.html",
+          "author": "Robert Jimison",
+          "description": "Republicans and Democrats alike have criticized the Trump administration’s moves, taken to stabilize oil markets rocked by the war with Iran, warning that it is benefiting two U.S. adversaries.",
+          "link": "https://www.nytimes.com/2026/03/25/us/politics/trump-bipartisan-backlash-oil-sanctions-russia-iran.html",
+          "publishedOn": "2026-03-26T01:42:31.000Z",
+          "wordCount": null,
+          "title": "Trump Draws Bipartisan Backlash for Easing Oil Sanctions on Russia and Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html",
+          "author": "Alex Travelli, Choe Sang-Hun, Sui-Lee Wee and Jason Gutierrez",
+          "description": "From India to Southeast Asia to South Korea, currencies are crumbling as governments race to secure fuel that is priced in American money.",
+          "link": "https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html",
+          "publishedOn": "2026-03-25T23:50:52.000Z",
+          "wordCount": null,
+          "title": "Asia Is Getting Crushed Between Oil Prices and the Dollar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/business/oil-price-italian-ice.html",
+          "author": "Sydney Ember",
+          "description": "Higher energy prices caused by the war with Iran could affect more than just prices at the pump for American consumers.",
+          "link": "https://www.nytimes.com/2026/03/25/business/oil-price-italian-ice.html",
+          "publishedOn": "2026-03-25T22:43:44.000Z",
+          "wordCount": null,
+          "title": "The Oil Price Shock Could Make Italian Ice More Expensive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/business/oil-stock-gas-prices-iran.html",
+          "author": "The New York Times",
+          "description": "Investors reacted to signals of possible de-escalation of the war in the Middle East.",
+          "link": "https://www.nytimes.com/2026/03/24/business/oil-stock-gas-prices-iran.html",
+          "publishedOn": "2026-03-25T21:23:15.000Z",
+          "wordCount": null,
+          "title": "Oil Prices Fall as Trump Shows Eagerness to Talk to Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+          "author": "Peter Eavis",
+          "description": "Ships with no ties to Israel or the United States would be allowed to pass, the government said, but it was unclear if any vessels would try.",
+          "link": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+          "publishedOn": "2026-03-25T20:30:32.000Z",
+          "wordCount": null,
+          "title": "Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html",
+          "author": "Peter Eavis",
+          "description": "President Trump has suggested providing escorts for stranded tankers. A mine strike on a U.S. frigate in the Persian Gulf shows the perils of doing so.",
+          "link": "https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html",
+          "publishedOn": "2026-03-25T19:26:08.000Z",
+          "wordCount": null,
+          "title": "What Happened After a U.S. Warship Hit an Iranian Mine in 1988",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+          "author": "Ann E. Marimow",
+          "description": "Leading music labels sued Cox Communications for failing to terminate accounts of subscribers flagged for distributing copyrighted music.",
+          "link": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+          "publishedOn": "2026-03-25T18:40:12.000Z",
+          "wordCount": null,
+          "title": "Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/video/business/100000010785304/what-soaring-fuel-costs-mean-for-your-air-travel.html",
+          "author": "Niraj Chokshi, Léo Hamelin, Stephanie Swart, Rebecca Suner and Lauren Pruitt",
+          "description": "The price of jet fuel has almost doubled since the start of the war. Our reporter Niraj Chokshi, who covers aviation, describes what that will mean for flights.",
+          "link": "https://www.nytimes.com/video/business/100000010785304/what-soaring-fuel-costs-mean-for-your-air-travel.html",
+          "publishedOn": "2026-03-25T15:25:03.000Z",
+          "wordCount": 2570,
+          "title": "What Soaring Fuel Costs Mean for Your Air Travel",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/17/arts/RV_Thumbnail/RV_Thumbnail-facebookJumbo.jpg?video-overlay"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/business/energy-environment/iran-california-gas-prices.html",
+          "author": "Ivan Penn and Kurtis Lee",
+          "description": "A gallon has climbed to nearly $6 in the state, about $2 above the national average.",
+          "link": "https://www.nytimes.com/2026/03/25/business/energy-environment/iran-california-gas-prices.html",
+          "publishedOn": "2026-03-25T13:30:10.000Z",
+          "wordCount": null,
+          "title": "As Gas Prices Spike, California Is Hit Hardest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/business/dealbook/sora-openai-finances-ipo.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
+          "description": "The artificial intelligence start-up has pulled the plug on the video-making tool as it rethinks spending ahead of a possible blockbuster I.P.O.",
+          "link": "https://www.nytimes.com/2026/03/25/business/dealbook/sora-openai-finances-ipo.html",
+          "publishedOn": "2026-03-25T13:03:47.000Z",
+          "wordCount": null,
+          "title": "What Sora’s End Says About OpenAI’s Strategy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
+          "author": "Michael Levenson",
+          "description": "The cut represents about 20 percent of the video game company’s work force, a spokeswoman said.",
+          "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
+          "publishedOn": "2026-03-25T11:22:07.000Z",
+          "wordCount": null,
+          "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/dining/noma-brigade-system.html",
+          "author": "Pete Wells",
+          "description": "Allegations against Noma’s chef have spurred debate over whether a 19th-century model for organizing kitchen staffs breeds physical and psychic violence.",
+          "link": "https://www.nytimes.com/2026/03/25/dining/noma-brigade-system.html",
+          "publishedOn": "2026-03-25T10:54:48.000Z",
+          "wordCount": null,
+          "title": "The Brigade System Helps Restaurants Succeed. Does It Also Lead to Abuse?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html",
+          "author": "Nicholas Kulish",
+          "description": "Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done?",
+          "link": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html",
+          "publishedOn": "2026-03-25T10:27:53.000Z",
+          "wordCount": null,
+          "title": "Cheap Drones Remain Wild Card in Iran war",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/travel/airports-flights-security-ticket-prices.html",
+          "author": "Christine Chung and Ceylan Yeğinsu",
+          "description": "Travelers are waiting hours at security checkpoints, paying top dollar for tickets and worrying about safety after a deadly crash at LaGuardia.",
+          "link": "https://www.nytimes.com/2026/03/25/travel/airports-flights-security-ticket-prices.html",
+          "publishedOn": "2026-03-25T09:06:12.000Z",
+          "wordCount": null,
+          "title": "Can Flights Get Any Worse? Travelers Deal With TSA Lines, High Ticket Prices and Anxiety.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/business/daily-money-managers-finances.html",
+          "author": "Paulette Perhach",
+          "description": "Daily money managers generally help older adults and the wealthy, but busy professionals are increasingly using their services when they get behind.",
+          "link": "https://www.nytimes.com/2026/03/25/business/daily-money-managers-finances.html",
+          "publishedOn": "2026-03-25T09:01:40.000Z",
+          "wordCount": null,
+          "title": "How Daily Money Managers Help Busy People With Their Finances",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/25/business/economy/single-family-homes-rentals-housing-shortage.html",
+          "author": "Conor Dougherty and Ronda Kaysen",
+          "description": "Within the Senate’s housing bill lie the terms of an unusual debate: Who gets to own — and live in — single-family homes?",
+          "link": "https://www.nytimes.com/2026/03/25/business/economy/single-family-homes-rentals-housing-shortage.html",
+          "publishedOn": "2026-03-25T09:01:34.000Z",
+          "wordCount": null,
+          "title": "Senate Housing Bill Sparks Debate About Who Gets to Own Single-Family Homes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/business/delta-congress-travel-services-suspended.html",
+          "author": "Livia Albeck-Ripka",
+          "description": "Airport escorts and “red coat” assistance for lawmakers will be suspended, the airline said on Tuesday, citing the extended partial government shutdown.",
+          "link": "https://www.nytimes.com/2026/03/24/business/delta-congress-travel-services-suspended.html",
+          "publishedOn": "2026-03-24T23:40:34.000Z",
+          "wordCount": null,
+          "title": "Delta Air Lines Says It Will Suspend Special Services for Congress Members",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/business/media/new-york-times-pentagon-court-order.html",
+          "author": "Erik Wemple",
+          "description": "The company said in a legal filing that the department sought to fashion an “end run” when it issued revised media rules on Monday.",
+          "link": "https://www.nytimes.com/2026/03/24/business/media/new-york-times-pentagon-court-order.html",
+          "publishedOn": "2026-03-24T23:17:02.000Z",
+          "wordCount": null,
+          "title": "New York Times Accuses Pentagon of Defying Court Order",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/business/moodys-private-credit-downgrade.html",
+          "author": "Maureen Farrell",
+          "description": "Investors are concerned about the health of the industry, which ballooned over the past decade.",
+          "link": "https://www.nytimes.com/2026/03/24/business/moodys-private-credit-downgrade.html",
+          "publishedOn": "2026-03-24T22:19:47.000Z",
+          "wordCount": null,
+          "title": "New Limits on Investors and a Debt Downgrade Add to Private Credit Woes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/us/politics/cuba-russia-china.html",
+          "author": "Michael Crowley",
+          "description": "Moscow may be challenging President Trump’s effort to choke Cuba’s economy. China also has suspected listening posts on the island.",
+          "link": "https://www.nytimes.com/2026/03/24/us/politics/cuba-russia-china.html",
+          "publishedOn": "2026-03-24T21:51:03.000Z",
+          "wordCount": null,
+          "title": "Russian Oil Shipment Puts Focus on Kremlin Spy Outpost in Cuba",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/us/politics/oil-gas-prices-iran.html",
+          "author": "Tony Romm and Rebecca F. Elliott",
+          "description": "While the president has promised rapid relief, Americans could feel the financial sting of the conflict for some time after it ends.",
+          "link": "https://www.nytimes.com/2026/03/24/us/politics/oil-gas-prices-iran.html",
+          "publishedOn": "2026-03-24T20:41:21.000Z",
+          "wordCount": null,
+          "title": "High Oil and Gas Prices Could Outlast Trump’s War With Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/business/iran-war-airlines-jet-fuel.html",
+          "author": "Niraj Chokshi, Pragati K.B. and Aaron Krolik",
+          "description": "Some airlines and travelers, especially in the Middle East and elsewhere in Asia, are bearing the brunt of the pain, while others are doing better.",
+          "link": "https://www.nytimes.com/2026/03/24/business/iran-war-airlines-jet-fuel.html",
+          "publishedOn": "2026-03-24T17:39:01.000Z",
+          "wordCount": null,
+          "title": "War in Iran Is Disrupting Air Travel, Hitting Middle East Hardest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/business/economy/sba-pandemic-loan-defaults.html",
+          "author": "Lydia DePillis",
+          "description": "The Small Business Administration lent $378 billion to keep businesses afloat. Getting paid back is proving difficult.",
+          "link": "https://www.nytimes.com/2026/03/24/business/economy/sba-pandemic-loan-defaults.html",
+          "publishedOn": "2026-03-24T17:03:50.000Z",
+          "wordCount": null,
+          "title": "Covid Relief Loans Are Haunting Small Businesses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/24/business/dealbook/markets-tehran-trump.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
+          "description": "Global markets are under pressure again amid doubts that the fighting in the Middle East can end anytime soon.",
+          "link": "https://www.nytimes.com/2026/03/24/business/dealbook/markets-tehran-trump.html",
+          "publishedOn": "2026-03-24T11:35:50.000Z",
+          "wordCount": null,
+          "title": "Investors Question Whether Quick Peace in Iran Is Possible",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "All News",
+      "feedUrl": "https://www.investing.com/rss/news.rss",
+      "siteUrl": "https://www.investing.com",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?",
-          "link": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
-          "publishedOn": "2026-03-26T10:00:00.000Z",
-          "wordCount": 4831,
-          "title": "The Site-Search Paradox: Why The Big Box Always Wins",
+          "id": "https://www.investing.com/news/economy-news/morning-bid-for-hungry-markets-it-was-a-kids-menu-taco-4584097",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/morning-bid-for-hungry-markets-it-was-a-kids-menu-taco-4584097",
+          "publishedOn": "2026-03-27T05:36:28.000Z",
+          "wordCount": null,
+          "title": "Morning Bid: For hungry markets, it was a kids’ menu TACO",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_M_1440048532.jpg",
+            "length": "86428",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg"
+          "imageUrl": "https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_M_1440048532.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
-          "author": "hello@smashingmagazine.com (Ruben Ferreira Duarte)",
-          "description": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.",
-          "link": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
-          "publishedOn": "2026-03-24T13:00:00.000Z",
-          "wordCount": 6114,
-          "title": "Testing Font Scaling For Accessibility With Figma Variables",
+          "id": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-011-4584096",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-011-4584096",
+          "publishedOn": "2026-03-27T05:30:04.000Z",
+          "wordCount": null,
+          "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.11%",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPECB61PM_M.jpg",
+            "length": "37748",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg"
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPECB61PM_M.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
-          "author": "hello@smashingmagazine.com (Godstime Aburu)",
-          "description": "Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.",
-          "link": "https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/",
-          "publishedOn": "2026-03-20T13:00:00.000Z",
-          "wordCount": 5130,
-          "title": "Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/dropdowns-scrollable-containers-why-break-how-fix/dropdowns-scrollable-containers-why-break-how-fix.jpg"
+          "id": "https://www.investing.com/news/stock-market-news/pdd-holdings-nomura-upgrades-to-buy-on-attractive-valuation-temu-strength-4584095",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/pdd-holdings-nomura-upgrades-to-buy-on-attractive-valuation-temu-strength-4584095",
+          "publishedOn": "2026-03-27T05:16:07.000Z",
+          "wordCount": null,
+          "title": "PDD Holdings: Nomura upgrades to Buy on attractive valuation, Temu strength",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
-          "publishedOn": "2026-03-19T15:00:00.000Z",
-          "wordCount": 4006,
-          "title": "Modal vs. Separate Page: UX Decision Tree",
+          "id": "https://www.investing.com/news/world-news/china-stations-jetsturneddrones-at-bases-near-taiwan-strait-report-says-4584094",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/china-stations-jetsturneddrones-at-bases-near-taiwan-strait-report-says-4584094",
+          "publishedOn": "2026-03-27T05:12:09.000Z",
+          "wordCount": null,
+          "title": "China stations jets-turned-drones at bases near Taiwan Strait, report says",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/modal-separate-page-ux-decision-tree/modal-separate-page-ux-decision-tree.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg",
+            "length": "19866",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/modal-separate-page-ux-decision-tree/modal-separate-page-ux-decision-tree.jpg"
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
-          "author": "hello@smashingmagazine.com (Alan Cohen)",
-          "description": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.",
-          "link": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
-          "publishedOn": "2026-03-17T10:00:00.000Z",
-          "wordCount": 4486,
-          "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
+          "id": "https://www.investing.com/news/economy-news/factboxapac-governments-scramble-to-assure-markets-as-middle-east-war-saps-confidence-4584092",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/factboxapac-governments-scramble-to-assure-markets-as-middle-east-war-saps-confidence-4584092",
+          "publishedOn": "2026-03-27T04:54:29.000Z",
+          "wordCount": null,
+          "title": "Factbox-APAC governments scramble to assure markets as Middle East war saps confidence",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q07H_L.jpg",
+            "length": "33105",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg"
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q07H_L.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
-          "author": "hello@smashingmagazine.com (Joe Attardi)",
-          "description": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.",
-          "link": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
-          "publishedOn": "2026-03-13T13:00:00.000Z",
-          "wordCount": 6367,
-          "title": "Moving From Moment.js To The JS Temporal API",
+          "id": "https://www.investing.com/news/world-news/trump-pauses-attacks-on-irans-energy-plants-and-says-talks-are-going-well-4583959",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/trump-pauses-attacks-on-irans-energy-plants-and-says-talks-are-going-well-4583959",
+          "publishedOn": "2026-03-27T04:42:52.000Z",
+          "wordCount": null,
+          "title": "Trump extends deadline for striking Iran’s energy plants into April",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1IC_L.jpg",
+            "length": "50043",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg"
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1IC_L.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.",
-          "link": "https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/",
-          "publishedOn": "2026-03-12T10:00:00.000Z",
-          "wordCount": 5101,
-          "title": "Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI",
+          "id": "https://www.investing.com/news/economy-news/boj-likely-to-warn-of-inflation-whiplash-from-iran-war-excentral-bank-executive-says-4584091",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/boj-likely-to-warn-of-inflation-whiplash-from-iran-war-excentral-bank-executive-says-4584091",
+          "publishedOn": "2026-03-27T04:42:33.000Z",
+          "wordCount": null,
+          "title": "BOJ likely to warn of inflation whiplash from Iran war, ex-central bank executive says",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q074_L.jpg",
+            "length": "117071",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/beyond-border-radius-css-corner-shape-property-ui/beyond-border-radius-css-corner-shape-property-ui.jpg"
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q074_L.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
-          "author": "hello@smashingmagazine.com (Sunil Sandhu)",
-          "description": "Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.",
-          "link": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
-          "publishedOn": "2026-03-10T13:00:00.000Z",
-          "wordCount": 5331,
-          "title": "Building Dynamic Forms In React And Next.js",
+          "id": "https://www.investing.com/news/forex-news/asia-fx-muted-as-traders-weigh-iran-diplomacy-indian-rupee-hits-new-record-low-4584090",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-traders-weigh-iran-diplomacy-indian-rupee-hits-new-record-low-4584090",
+          "publishedOn": "2026-03-27T04:34:31.000Z",
+          "wordCount": null,
+          "title": "Asia FX muted as traders weigh Iran diplomacy; Indian rupee hits new record low",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/building-dynamic-forms-react-next-js/building-dynamic-forms-react-next-js.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEB3Q04T_M.jpg",
+            "length": "14074",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/building-dynamic-forms-react-next-js/building-dynamic-forms-react-next-js.jpg"
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEB3Q04T_M.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-          "author": "hello@smashingmagazine.com (Anders Toxboe)",
-          "description": "Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.",
-          "link": "https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/",
-          "publishedOn": "2026-03-09T11:00:00.000Z",
-          "wordCount": 7459,
-          "title": "Persuasive Design: Ten Years Later",
+          "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-trump-pauses-attacks-on-iranian-energy-plants-4584061",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-trump-pauses-attacks-on-iranian-energy-plants-4584061",
+          "publishedOn": "2026-03-27T04:24:26.000Z",
+          "wordCount": null,
+          "title": "Oil prices on track for steepest weekly fall in 6 months",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q030_L.jpg",
+            "length": "75945",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/persuasive-design-ten-years-later/persuasive-design-ten-years-later.jpg"
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q030_L.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.",
-          "link": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
-          "publishedOn": "2026-03-06T08:00:00.000Z",
-          "wordCount": 4560,
-          "title": "Human Strategy In An AI-Accelerated Workflow",
+          "id": "https://www.investing.com/news/company-news/zenas-biopharma-prices-200m-convertible-notes-100m-stock-sale-93CH-4584089",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/zenas-biopharma-prices-200m-convertible-notes-100m-stock-sale-93CH-4584089",
+          "publishedOn": "2026-03-27T04:17:22.000Z",
+          "wordCount": null,
+          "title": "Zenas BioPharma prices $200M convertible notes, $100M stock sale",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg",
-            "length": "0",
-            "type": "image/jpg"
+            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+            "length": "10322",
+            "type": "image/jpeg"
           },
-          "imageUrl": "http://files.smashing.media/articles/human-strategy-ai-accelerated-workflow/human-strategy-ai-accelerated-workflow.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
-          "author": "hello@smashingmagazine.com (Ari Stiles)",
-          "description": "Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.",
-          "link": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
-          "publishedOn": "2026-03-03T15:00:00.000Z",
-          "wordCount": 4112,
-          "title": "Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/accessible-ux-research-release/accessible-ux-research-coffee.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/accessible-ux-research-release/accessible-ux-research-coffee.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
-          "author": "hello@smashingmagazine.com (Godstime Aburu)",
-          "description": "What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.",
-          "link": "https://smashingmagazine.com/2026/03/getting-started-popover-api/",
-          "publishedOn": "2026-03-02T10:00:00.000Z",
-          "wordCount": 5643,
-          "title": "Getting Started With The Popover API",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/getting-started-popover-api/getting-started-popover-api.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/",
-          "publishedOn": "2026-02-28T09:00:00.000Z",
-          "wordCount": 4415,
-          "title": "Fresh Energy In March (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a44be9ea-24bd-4614-aa0d-c45b03012f43/mar-15-wake-up-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.",
-          "link": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
-          "publishedOn": "2026-02-26T11:00:00.000Z",
-          "wordCount": 4059,
-          "title": "Say Cheese! Meet SmashingConf Amsterdam 🇳🇱",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/meet-smashingconf-amsterdam/smashingconf-amsterdam-2026-pink-blue-preview.png"
+          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
         }
       ]
     },
     {
-      "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news/",
+      "title": "Lose money with friends!",
+      "feedUrl": "https://www.reddit.com/r/investing/.rss",
+      "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
         {
-          "id": "69c5a33110e664c5da34c6d3",
-          "author": "Tapas Adhikary",
-          "description": "Have you ever faced a situation as a frontend developer where you needed to show a demo to your product manager, and something was broken in the API response? Or, a production bug where you were block",
-          "link": "https://www.freecodecamp.org/news/how-to-override-api-responses-and-headers-in-chrome-devtools/",
-          "publishedOn": "2026-03-26T21:20:49.000Z",
-          "wordCount": 2724,
-          "title": "How to Override API Responses and Headers in Chrome DevTools: A Step-by-Step Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a2fee8e9-cb71-4065-af8e-ef0357e6ca2c.png"
+          "id": "https://www.reddit.com/r/investing/comments/1s4vx0f/rocket_pharmaceuticals_gets_fda_approval_rckt/",
+          "author": null,
+          "description": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-severe-leukocyte-adhesion-deficiency-type-i\n This information dropped around 7 PM Thursday evening regarding their drug Kresladi. Let’s see what this thing does in the morning!\n    submitted by    /u/Frequent-Discount174  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4vx0f/rocket_pharmaceuticals_gets_fda_approval_rckt/",
+          "publishedOn": "2026-03-27T05:59:04.000Z",
+          "wordCount": null,
+          "title": "Rocket pharmaceuticals gets FDA approval (RCKT)",
+          "imageUrl": null
         },
         {
-          "id": "69c5a2af10e664c5da34709b",
-          "author": "Orim Dominic Adah",
-          "description": "The Web Speech API is a web browser API that enables web applications to use sound as data in their operations. With the API, web apps can transcribe the speech in sound input and also synthesise spee",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-voice-powered-ai-application-with-the-web-speech-api/",
-          "publishedOn": "2026-03-26T21:18:39.000Z",
-          "wordCount": 4512,
-          "title": "How to Build a Voice-Powered AI Application with the Web Speech API",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d6c77704-8ad6-4852-8a10-6656c76a34f4.png"
+          "id": "https://www.reddit.com/r/investing/comments/1s4uw71/spacex_is_trying_to_distract_from_the_real_game/",
+          "author": null,
+          "description": "https://www.reuters.com/business/finance/musk-rewrites-ipo-playbook-with-large-slice-spacex-stock-retail-investors-source-2026-03-26/\n SpaceX claims it will allocate 30% of IPO shares to individual investors. But this is merely a distraction from the goal of forcing passive investment funds to buy artificially inflated shares from private shareholders.\n Pay attention to the IPO float (likely to be very small) and the NASDAQ-100 and S&P500 rule changes (likely to occur shortly before the SpaceX IPO).\n    submitted by    /u/cherrypoplar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4uw71/spacex_is_trying_to_distract_from_the_real_game/",
+          "publishedOn": "2026-03-27T05:02:31.000Z",
+          "wordCount": null,
+          "title": "SpaceX is trying to distract from the real game: the mechanical bagdump on passive index funds",
+          "imageUrl": null
         },
         {
-          "id": "69c557bd10e664c5daf283c3",
-          "author": "Tatev Aslanyan",
-          "description": "The healthcare industry is undergoing a profound transformation powered by artificial intelligence (AI) and data science. No longer limited to administrative automation or basic chat tools, AI now pla",
-          "link": "https://www.freecodecamp.org/news/ai-in-healthcare-handbook-intelligent-care-from-lab-to-clinic/",
-          "publishedOn": "2026-03-26T15:58:53.000Z",
-          "wordCount": 17523,
-          "title": "The AI in Healthcare Handbook: Intelligent Care from Lab to Clinic",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762904104942/4de96e11-f822-44c2-b6ca-3b0f7b5888f4.png"
+          "id": "https://www.reddit.com/r/investing/comments/1s4pp0l/do_i_continue_all_in_on_schg/",
+          "author": null,
+          "description": "I am 37, and have been putting around $1500 a month into fidelity brokerage account, all into SCHG since past 18 months or so. Considering my growth appetite for next 5 years, should I keep doing this or split 30%-40% with another growth fund like IWO? Also came to know about MTUM, but it may have some overlap with either of those funds depending on the market.\n Update #2:\n Just brief on retirement accounts - my wife and I have separate 401k accounts through our employers - with total combined yearly contributions at approx. $19k.\n My current 401k mix:\n Fidelity 500 Index Fund - 30%\n Vanguard Growth Index Institutional Fund - 30%\n Principal SmallCap S&P 600 Index Separate Account - 10%\n American Funds New World R6 Fund - 10%\n Vanguard Developed Markets Index - 20%\n Update #3:\n We do keep some emergency fund in hysa. Even though the investment into brokerage account is meant for retirement, the reason for contributing into this versus increasing investment in 401k is to just have some flexibility in case the money needed to be withdrawn for some reason. At the same time, we want to be a bit aggressive for next 8-10 years to get some benefit of higher returns of growth funds compared to typical hysa/bonds/value funds.\n Any suggestions are appreciated.\n    submitted by    /u/New-Function-6250  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4pp0l/do_i_continue_all_in_on_schg/",
+          "publishedOn": "2026-03-27T00:58:41.000Z",
+          "wordCount": null,
+          "title": "Do I continue all in on SCHG?",
+          "imageUrl": null
         },
         {
-          "id": "69c54b8510e664c5dae65e6c",
-          "author": "Beau Carnes",
-          "description": "AI literacy isn’t just for developers anymore. It’s a fundamental skill for navigating the modern world. We just posted a course on the freeCodeCamp YouTube channel that will help anyone learn how the",
-          "link": "https://www.freecodecamp.org/news/ai-literacy-for-everybody/",
-          "publishedOn": "2026-03-26T15:06:45.000Z",
-          "wordCount": 1111,
-          "title": "AI Literacy for Everybody",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/73b9d85a-6769-4bf9-822d-cd4142fe5b6e.jpg"
+          "id": "https://www.reddit.com/r/investing/comments/1s4pd4h/i_got_tired_of_having_12_tabs_open_to_do_basic_dd/",
+          "author": null,
+          "description": "I consolidated every critical signal into a single, unified research suite. And it's free.\n - market heatmap with sector breakdowns\n - real-time news from CNBC, WSJ, Barron's\n - congressional trades from Senate and House\n - insider trades with share counts and prices\n - hedge fund 13F filings from Berkshire, Pershing Square, and more\n - analyst ratings, financials, peer comparisons\n - price charts, fundamentals, DCF data\n I would love to get your guys feedback on this. What would you like to see me add?\n check it out: Thesis[dot]so\n Edit: GUYS, this is not some random vibe coded shit i cooked up over the weekend. I put three months of work into this. I don't intend to waste anyones time. I'm just a guy trying to build something valuable. If you have any feedback on the app or anything please let me know.\n    submitted by    /u/LoadRevolutionary461  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4pd4h/i_got_tired_of_having_12_tabs_open_to_do_basic_dd/",
+          "publishedOn": "2026-03-27T00:44:14.000Z",
+          "wordCount": null,
+          "title": "I got tired of having 12 tabs open to do basic DD so I built this",
+          "imageUrl": null
         },
         {
-          "id": "69c5490d10e664c5dae3f95e",
-          "author": "Beau Carnes",
-          "description": "Cluade Code can supercharge your software development. We just posted a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Claude Code to build real-world agentic codin",
-          "link": "https://www.freecodecamp.org/news/claude-code-essentials-exampro/",
-          "publishedOn": "2026-03-26T14:56:13.000Z",
-          "wordCount": 1168,
-          "title": "Claude Code Essentials",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/3530a6a9-65d5-4c5c-9a89-0ac85cc2053a.jpg"
+          "id": "https://www.reddit.com/r/investing/comments/1s4nwar/suncor_and_sulfur_asymmetric_opportunity/",
+          "author": null,
+          "description": "All investments involve risk. The key to actually making money is to evaluate what both the upside and downside potential of things are and consistently position yourself into trades that have asymmetric upside potential. I think I found one of those. One that has every single upside in a market that is actively failing, and no downside that I can visibly see. (do due diligence yourself though, obviously)\n TL;DR: Suncor (SU) 75$ Jan 15 2027 Strikes: Bet the farm.\n (Or just buy some stock)\n (Quick note: prices are fluctuating hourly. Don’t ding things on small mismatches. I can’t keep up)\n At its core, this thesis is about one stock. But it’s also about several stocks and the role they play, together, through the coming crisis. All built from one core element. Sulfur. 50% of which comes fro…",
+          "link": "https://www.reddit.com/r/investing/comments/1s4nwar/suncor_and_sulfur_asymmetric_opportunity/",
+          "publishedOn": "2026-03-26T23:42:47.000Z",
+          "wordCount": null,
+          "title": "Suncor and Sulfur - Asymmetric opportunity",
+          "imageUrl": null
         },
         {
-          "id": "69c541f010e664c5dadc877e",
-          "author": "Osomudeya Zudonu",
-          "description": "If someone asked you how secrets flow from AWS Secrets Manager into a running pod, could you explain it confidently? Storing them is straightforward. But handling rotation, stale env vars, and the gap",
-          "link": "https://www.freecodecamp.org/news/how-to-sync-aws-secrets-manager-secrets-into-kubernetes-with-the-external-secrets-operator/",
-          "publishedOn": "2026-03-26T14:25:52.000Z",
-          "wordCount": 4080,
-          "title": "How to Sync AWS Secrets Manager Secrets into Kubernetes with the External Secrets Operator",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6cca126e-dd50-4400-ae9d-65449581345b.png"
+          "id": "https://www.reddit.com/r/investing/comments/1s4l6x3/jpstcorporate_bond_abnormal_movement_lately/",
+          "author": null,
+          "description": "What is going on with Corporate Bond ETF?\n Normally you would see a daily +0.0x% and then big drop at month end due to dividend payout. \n But JPST has been relatively flat for the past month. \n Meanwhile treasury ETFs like SGOV or SHV still look like normal cyclical movement. So that rules our fluctuation in interest rate for the cause.\n Are we anticipating default in corporate bond or something?\n    submitted by    /u/Dense_Sir_8748  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4l6x3/jpstcorporate_bond_abnormal_movement_lately/",
+          "publishedOn": "2026-03-26T21:55:56.000Z",
+          "wordCount": null,
+          "title": "JPST/Corporate Bond Abnormal Movement Lately",
+          "imageUrl": null
         },
         {
-          "id": "69c5415810e664c5dadbf6e0",
-          "author": "Mokshita V P",
-          "description": "If you've ever modified a variable inside a Python function and been surprised or confused by what happened to it outside the function, you're not alone. This tripped me up for a long time. Coming fro",
-          "link": "https://www.freecodecamp.org/news/how-passing-by-object-reference-works-in-python/",
-          "publishedOn": "2026-03-26T14:23:20.000Z",
-          "wordCount": 1528,
-          "title": "How Passing by Object Reference Works in Python",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/0fb11934-22c6-4304-948c-54c7d423c79d.png"
+          "id": "https://www.reddit.com/r/investing/comments/1s4k7jk/current_us_stock_market_crisis/",
+          "author": null,
+          "description": "Who all agrees with me that someone is tweeting a fake claim to bring up the prices, people start investing, then the market dumps back taking away all the money, and a couple of days later the same person comes up with a different claim. This is like a repeating cycle that has been occurring for the past couple of months.\n IYKYK who the person is 😅\n    submitted by    /u/Call_Me__Heisenberg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4k7jk/current_us_stock_market_crisis/",
+          "publishedOn": "2026-03-26T21:17:51.000Z",
+          "wordCount": null,
+          "title": "Current US Stock Market crisis",
+          "imageUrl": null
         },
         {
-          "id": "69c51cf610e664c5dab6fcad",
-          "author": "Estefania Cassingena Navone",
-          "description": "SQL (Structured Query Language) is the standard language for managing and manipulating data in relational databases. It's an essential tool that allows you to communicate with the databases that power",
-          "link": "https://www.freecodecamp.org/news/learn-sql-course-for-beginners-in-spanish/",
-          "publishedOn": "2026-03-26T11:48:06.000Z",
-          "wordCount": 1310,
-          "title": "Learn SQL – Course for Beginners in Spanish",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/6354793a48f6ebd7a37ed09c/0ddf40a7-19b7-4601-924e-3eb6c4e8cac5.png"
+          "id": "https://www.reddit.com/r/investing/comments/1s4hbs7/which_stock_sectors_will_recover_first_when_this/",
+          "author": null,
+          "description": "The war with Iran has affected the market big time.\n But all wars end.\n When this one ends and the world economy claws out of the rubble, who do you think recovers first?\n Or do you think this is the end of the current stock market system?\n Personally I think that, with the cost oil oil and LNG going up, that energy and defensive stocks will remain the winners in 2026, as we drift to recession by 2027. \n    submitted by    /u/Bossanova12345  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4hbs7/which_stock_sectors_will_recover_first_when_this/",
+          "publishedOn": "2026-03-26T19:29:32.000Z",
+          "wordCount": null,
+          "title": "Which stock sectors will recover first when this war ends?",
+          "imageUrl": null
         },
         {
-          "id": "69c46b2610e664c5da070aa0",
-          "author": "Grant Riordan",
-          "description": "When you're working with .NET, interacting with databases (particularly SQL databases) is inevitable. Common approaches involve using ORM (Object Relational Mapping) with tools like Entity Framework.",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-dapper-in-net/",
-          "publishedOn": "2026-03-25T23:09:26.000Z",
-          "wordCount": 5838,
-          "title": "How to Work With Dapper in .Net",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/66b52b176a1b17f6b28d9822/d091bd67-ef80-4cae-ad84-3dc5b79ca73b.jpg"
+          "id": "https://www.reddit.com/r/investing/comments/1s4h0nx/the_10minute_read_what_i_learned_from_100/",
+          "author": null,
+          "description": "I discussed investors about the one principle they wished they understood earlier. Here’s the distilled wisdom.\n  \nStart early. Time is the only irreplaceable ingredient. A dollar invested at 25 is worth far more than one invested at 35. Automate your contributions and let the exponent work.\n Volatility is not risk. Permanent capital loss is risk. A 50% loss requires a 100% gain to recover. Keep liquidity so you're never a forced seller.\n Boring is correct. If your portfolio feels exciting, you're probably gambling. Low-cost index funds, dollar-cost averaging, and patience win over time.\n Behavior > intelligence. Most mistakes come from reacting at the wrong time; panic selling, holding losers, stopping contributions. Write a plan when you're calm and follow it when you're not.\n Cut losers, let winners run. Most people do the opposite. Before adding to a losing position, ask: would I buy this today?\n Be honest about yourself. The mortgage vs. invest debate is personal. The mathematically optimal choice doesn't matter if you can't stick to it.\n Stay humble. You can't predict the market. Diversify, use index funds as your core, and admit mistakes quickly.\n  \nThe bottom line: \n  \nInvesting isn't about being right. It's about staying in the game long enough for compounding to work. Start early, control your behavior, and let time do the heavy lifting.\n  \n   submitted by    /u/mahend72  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4h0nx/the_10minute_read_what_i_learned_from_100/",
+          "publishedOn": "2026-03-26T19:17:53.000Z",
+          "wordCount": null,
+          "title": "The 10-Minute Read: What I Learned from 100+ Investors",
+          "imageUrl": null
         },
         {
-          "id": "69c46ab210e664c5da06ac46",
-          "author": "Olasunkanmi Emmanuel Jesuferanmi",
-          "description": "These days, businesses and startups rely on well-designed databases to manage vast amounts of data. In domains like Healthcare, E-commerce, and Fintech/Banking, a solid database design ensures data in",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-database-system-design/",
-          "publishedOn": "2026-03-25T23:07:30.000Z",
-          "wordCount": 3982,
-          "title": "An Introduction to Database System Design",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e0c4195f-9f09-45f4-99d1-977c02731b02.png"
+          "id": "https://www.reddit.com/r/investing/comments/1s4gd6n/i_have_the_worst_timing_maybe_it_will_get_better/",
+          "author": null,
+          "description": "self employed, max out Roth IRA every year. finally doing things. correctly and saving...have 60/40 domestic/international stock portfolio. tracks pretty closely s&p 500...bought shares when it was right neat 7k. \n i will hold, but man is it rough when the first thing you do immediatly flips on its head. the desire to sell and hold on for the floor is overwhelming, but I'm going to hold. maybe I'll just delete my investing app and not look at it\n    submitted by    /u/Beautiful_Gas_1214  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4gd6n/i_have_the_worst_timing_maybe_it_will_get_better/",
+          "publishedOn": "2026-03-26T18:53:50.000Z",
+          "wordCount": null,
+          "title": "I have the worst timing, maybe it will get better",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s4fsmx/gut_check_on_tax_loss_harvest/",
+          "author": null,
+          "description": "Need a quick gut check that this all makes sense.\n Left my FA in January to go on my own. Sold all positions in a 15+ fund portfolio to move self-managed 80/20 VTI/VXUS. Put the 1.3% advisor fee and 0.3% ETF fees back into my pocket.\n I incurred $44k in realized gains with the liquidation. Estimated tax payment is due before 4/15 - roughly $13k between Fed & State. Don't need to liquidate any more positions to pay this, I have had it off to the side in cash.\n Current unrealized losses on the year so far are $12,500.\n I want to liquidate the VTI to move to FSKAX and liquidate the VXUX to move to FTIHX – are these “substantially identical”? Seems like not even the IRS knows.\n Turn off DRIP to avoid wash rule.\n Turn my $44k realized gains into $31.5k. Submit estimated tax payment on only $31.5k now.\n If the market continues on it’s downward trajectory, wait until I can lock in another decently large loss to switch back to VTI/VXUS (after 31+ days), in hopes of recouping some (or all) of the estimated tax payment with my refund during tax season next year.\n All makes sense? Am I missing anything?\n    submitted by    /u/markprice211  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4fsmx/gut_check_on_tax_loss_harvest/",
+          "publishedOn": "2026-03-26T18:32:51.000Z",
+          "wordCount": null,
+          "title": "Gut check on tax loss harvest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s4e0jz/are_we_about_to_see_the_biggest_fire_sale_in/",
+          "author": null,
+          "description": "Dubai has been selling this 'safe haven of the Middle East' vibe for years, but the recent Iran situation is really putting that to the test\n The panic is actually real... people went from aggressively buying off-plan to trying to cash out ASAP\n So, are we about to see a massive real estate crash with money fleeing the region? Or is all this fear already priced in, and big players are just waiting to buy the dip? What do you guys think?\n For those asking for data, here is the official source for real-time market fluctuations: https://dxbinteract.com/\n    submitted by    /u/tohangout  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4e0jz/are_we_about_to_see_the_biggest_fire_sale_in/",
+          "publishedOn": "2026-03-26T17:29:29.000Z",
+          "wordCount": null,
+          "title": "Are we about to see the biggest fire sale in Dubai real estate history, or is the 'fear' priced in?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s4dwwv/first_time_investing_through_war/",
+          "author": null,
+          "description": "As the title says. Im still new to this. Just past few years. If the stuff in Iran wasnt happening I would still be pretty confident dca im to what I have been already. Prices are down to about what they were in September. But Im not sure how this would really go if this war stretches on and wondering should I hold out or just stay the course\n    submitted by    /u/wideguy12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4dwwv/first_time_investing_through_war/",
+          "publishedOn": "2026-03-26T17:25:51.000Z",
+          "wordCount": null,
+          "title": "First time investing through war",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s4dtju/the_war_report_high_stock_market_volatility/",
+          "author": null,
+          "description": "This is just a couple of the most volatile dates from the past two wars we got into with Afghanistan and Iraq. Only days with – or + 2% volatility on the SPY are pulled.\n October 10, 2001 Wednesday\n DOW +2.1%, S&P + 2.3%, NASDAQ, +3.6%.\n The first day with real movement related to war was 10/10/2000. At this point, the US had been striking Afghanistan for the past three days. Apparently, ''people are starting to get some level of comfort with the way we're handling it,'' said Stephen J. Massocca. It helped that the week before, Bush had proposed around $100 billion in emergency stimulus and spending related to the 9/11 attacks, and the market had been greatly depressed before it.\n October 29, 2001 Monday\n DOW -2.9%, S&P -2.4%, NASDAQ -3.9%\n Just a few weeks later, there didn’t seem to be a…",
+          "link": "https://www.reddit.com/r/investing/comments/1s4dtju/the_war_report_high_stock_market_volatility/",
+          "publishedOn": "2026-03-26T17:22:25.000Z",
+          "wordCount": null,
+          "title": "The WAR Report: High Stock Market Volatility During the Wars in Afghanistan and Iraq",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s4cjut/any_recommendations_for_a_customizable_robo/",
+          "author": null,
+          "description": "As part of my jobs compensation packages I get stocks vesting on a monthly basis, and there is an enrollment window in May for automatically selling shares upon vest. I would like to do this to avoid concentration risk, and transfer the funds to a brokerage account.\n Through work I also have access to free sessions with a financial advisor so I’ve been talking to him about which funds and allocation percentages make sense for me given my risk tolerance and financial goals.\n I only want to be medium hands on with this account, so something he mentioned was robo advisors that automatically do rebalancing and tax loss harvesting (something I would really like to not have to do manually). \n Does anyone have recommendations for a robo advisor that has those features, but allows you to select which investments to make? From the Googling I’ve done about it, it seems like Wealthfront, Betterment, and M1 finance might be good options? Anyone have experience with these? \n To give a dollar amount reference incase it helps, my account is quite small now (~$9.5k), but will likely exceed $25k in 7 months.\n    submitted by    /u/el_lube  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s4cjut/any_recommendations_for_a_customizable_robo/",
+          "publishedOn": "2026-03-26T16:37:02.000Z",
+          "wordCount": null,
+          "title": "Any Recommendations for a Customizable Robo Advisor?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s41bdi/daily_general_discussion_and_advice_thread_march/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s41bdi/daily_general_discussion_and_advice_thread_march/",
+          "publishedOn": "2026-03-26T08:00:43.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - March 26, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s40xde/sumitomo_electric_vs_axti/",
+          "author": null,
+          "description": "What are your opinions on Sumitomo Electric? They compete with AXTI in producing InP, but despite being Japanese company, they produce InP in Oregon and don't face Chinese export controls. I would have to think an American company that is looking for a steady supply would have to go with Sumitomo. I don't see how Sumitomo does not dominate this market. I guess perhaps AXTI although being an American company could be China's biggest supplier of InP.\n    submitted by    /u/Expert_Statement_847  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s40xde/sumitomo_electric_vs_axti/",
+          "publishedOn": "2026-03-26T07:35:28.000Z",
+          "wordCount": null,
+          "title": "Sumitomo Electric vs AXTI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s3zliy/asian_markets_cautious_as_iran_rules_out_direct/",
+          "author": null,
+          "description": "Asian markets are trending lower, and oil prices are rising due to the mixed signals on the Iranian ceasefire talks, with Iran stating that there are no direct talks yet and that it is still reviewing the U.S. proposal. Investors remain cautious due to the geopolitical risks and the rebound in oil prices\n    submitted by    /u/Sanaa_24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s3zliy/asian_markets_cautious_as_iran_rules_out_direct/",
+          "publishedOn": "2026-03-26T06:13:59.000Z",
+          "wordCount": null,
+          "title": "Asian Markets Cautious as Iran Rules Out Direct Ceasefire Talks, Oil Rebounds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s3y67z/if_arctic_shipping_routes_open_up_in_the_future/",
+          "author": null,
+          "description": "With all the talk about Arctic routes opening up, im trying to figure out what’s actually investable here. I can think of shipping and defense industry with the tension around there, but what else?\n Also I was wondering if it’s a bit too early to invest in this given all the uncertainties. What are your thoughts?\n    submitted by    /u/No_Angle_5602  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s3y67z/if_arctic_shipping_routes_open_up_in_the_future/",
+          "publishedOn": "2026-03-26T04:53:40.000Z",
+          "wordCount": null,
+          "title": "If Arctic shipping routes open up in the future, which industry / stock will likely to benefit?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s3sqcl/i_went_through_congressional_trade_filings_from/",
+          "author": null,
+          "description": "Josh Gottheimer is on the House Intelligence Committee.\n 2/2: Bought Exxon\n 2/4: Bought Exxon\n 2/27: Sold Palo Alto\n Exxon is up 10% since\n Sold a cybersecurity company stock the day before bombs dropped.\n Looks like selling off after some wins and buying energy just before an Oil crisis.\n More questions than answers but very fortunate timing to say the least.\n    submitted by    /u/Wegs1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s3sqcl/i_went_through_congressional_trade_filings_from/",
+          "publishedOn": "2026-03-26T00:38:42.000Z",
+          "wordCount": null,
+          "title": "I went through congressional trade filings from the week before the Iran war started. An Intelligence Committee member bought Exxon twice in early February and.....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s3ryoj/meta_and_youtube_found_liable_in_social_media/",
+          "author": null,
+          "description": "Saw this on Blossom and thought this was pretty significant from an investing perspective\n A U.S. jury found Meta and YouTube liable in a case arguing their platforms were intentionally designed to be addictive (infinite scroll, autoplay, notifications, etc.). The plaintiff was awarded $3M, with punitive damages still to be decided.\n If this holds on appeal, it could force real changes to core engagement mechanics, which are basically the foundation of ad revenue for these platforms.\n Feels like a potential “Big Tobacco” moment for social media if regulation follows.\n https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d?mod=tech_lead_story\n    submitted by    /u/kabirsbhutani  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s3ryoj/meta_and_youtube_found_liable_in_social_media/",
+          "publishedOn": "2026-03-26T00:05:39.000Z",
+          "wordCount": null,
+          "title": "🚨 Meta and YouTube found liable in social media addiction case, potential implications for business models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s3oodt/is_2026_the_year_of_renewable_energy/",
+          "author": null,
+          "description": "With everything going on in Iran and the strait of hormuz, and the increasing demand for energy from AI, will renewable energy sector be the winner of 2026? \n The Phillippines is said to only have enough fuel for 45 days, will this be the event that finally accelerates the world towards renewable energy? \n    submitted by    /u/drivingaddictionchan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s3oodt/is_2026_the_year_of_renewable_energy/",
+          "publishedOn": "2026-03-25T21:55:54.000Z",
+          "wordCount": null,
+          "title": "is 2026 the year of renewable energy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s3eemc/70k_investment_moving_from_interest_savings/",
+          "author": null,
+          "description": "I have had my money in regular interest savings accounts and buying property for a few years. I am looking to put $50-70k into 80% Vanguard All-world ETF and 20% into EM and All world Tech ETFs. \n I know timing the market is not as important as time in the market, but timing could be nice too!\n I am intent to leave this money in the funds long term. \n I’m no market speculator, hence the ETFs, if you were in my position would you wait out the current uncertainty or just go for it? \n    submitted by    /u/postmanmalone123  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s3eemc/70k_investment_moving_from_interest_savings/",
+          "publishedOn": "2026-03-25T15:44:51.000Z",
+          "wordCount": null,
+          "title": "$70k Investment: Moving from interest savings accounts to ETFs, bad time?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s372d0/robinhood_announces_15_billion_share_buyback/",
+          "author": null,
+          "description": "Source: https://beincrypto.com/robinhood-buyback-hood-stock-decline-2026/\n HOOD tripled in 2025 then lost 39% year-to-date in 2026, closing at a yearly low of $69.08, down over 54% from its October all-time high of $152.46. Robinhood's board responded by approving a $1.5 billion share repurchase program to be executed over three years, adding $1.1 billion in fresh buyback capacity.\n The company also quietly expanded its JPMorgan credit facility from $2.65 billion to $3.25 billion, expandable to $4.87 billion. Wall Street analysts still hold a strong buy rating with a 12-month price target implying roughly 79% upside from current levels.\n The question is whether this buyback signals genuine undervaluation or just management trying to catch a falling knife.\n    submitted by    /u/Kitchen_Biscotti_747  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s372d0/robinhood_announces_15_billion_share_buyback/",
+          "publishedOn": "2026-03-25T10:34:53.000Z",
+          "wordCount": null,
+          "title": "Robinhood Announces $1.5 Billion Share Buyback Program as Stock Slides 39%",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Financial news and views",
+      "feedUrl": "https://www.reddit.com/r/finance/.rss",
+      "siteUrl": "https://www.reddit.com/r/finance/",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1s4qr93/having_trouble_understanding_a_projects_costing/",
+          "author": null,
+          "description": "submitted by    /u/DubaiBabyYoda  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1s4qr93/having_trouble_understanding_a_projects_costing/",
+          "publishedOn": "2026-03-27T01:45:17.000Z",
+          "wordCount": null,
+          "title": "Having trouble understanding a project’s costing flow - is this thinking correct?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1s4a9jd/the_anatomy_of_a_scam/",
+          "author": null,
+          "description": "submitted by    /u/Mastbubbles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1s4a9jd/the_anatomy_of_a_scam/",
+          "publishedOn": "2026-03-26T15:14:16.000Z",
+          "wordCount": null,
+          "title": "The Anatomy of a Scam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1s35js8/how_a_dirty_money_trail_from_venezuela_to_iran/",
+          "author": null,
+          "description": "From Bloomberg News reporters Noele Illien and Myriam Balezou: \n Even as MBaer Merchant Bank was named among the \"most prosperous\" Swiss private banks last year by a local wealth-management event, its end was near. \n The alleged facilitation of money laundering brought the Swiss minnow to the attention of US Treasury Secretary Scott Bessent, who on the eve of war with Iran late last month, effectively forced it to shut down.\n “MBaer has funneled over a hundred million dollars through the US financial system on behalf of illicit actors tied to Iran and Russia,” Bessent said in a statement. The threat to cut the bank off from the US financial system was enough to overcome legal challenges to the Swiss regulator Finma’s earlier order to liquidate the firm.\n Its ignominious end undermines Switzerland’s years-long efforts to clean up its financial system and prove that Zurich and Geneva no longer offer an easy haven for cash linked to crime.\n    submitted by    /u/bloomberg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1s35js8/how_a_dirty_money_trail_from_venezuela_to_iran/",
+          "publishedOn": "2026-03-25T09:03:45.000Z",
+          "wordCount": null,
+          "title": "How a Dirty Money Trail From Venezuela to Iran Brought Down a Swiss Bank",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1s18u9h/moronic_monday_march_23_2026_your_weekly/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1s18u9h/moronic_monday_march_23_2026_your_weekly/",
+          "publishedOn": "2026-03-23T06:01:29.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - March 23, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rxc1vz/the_fed_holds_rates_steady_and_punts_on_the/",
+          "author": null,
+          "description": "The Federal Reserve held rates steady Wednesday for the second meeting in a row as the war in Iran clouds an already murky economic picture. In its statement, the Fed acknowledged the war, but kept its language cautious, saying the economic implications of the Middle East conflict remain “uncertain.” \n The decision was nearly unanimous, save for Stephen Miran, the Trump-appointed governor, who cast his fifth consecutive dissent in favor of a quarter-point cut. \n But the rest of the committee opted to sit tight, citing elevated uncertainty on both sides of the Fed’s dual mandate: inflation that won’t come down and a labor market that shocked economists with its slackness last month. \n Read more: https://fortune.com/2026/03/18/federal-reserve-decision-iran-war-inflation-jobs-rates-steady/\n    submitted by    /u/fortune  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rxc1vz/the_fed_holds_rates_steady_and_punts_on_the/",
+          "publishedOn": "2026-03-18T18:31:39.000Z",
+          "wordCount": null,
+          "title": "The Fed holds rates steady and punts on the Middle East: \"uncertain\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rv1gl7/moronic_monday_march_16_2026_your_weekly/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rv1gl7/moronic_monday_march_16_2026_your_weekly/",
+          "publishedOn": "2026-03-16T06:01:02.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - March 16, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rsp3bs/goldman_executive_says_private_markets_clients/",
+          "author": null,
+          "description": "submitted by    /u/Tayo826  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rsp3bs/goldman_executive_says_private_markets_clients/",
+          "publishedOn": "2026-03-13T14:38:26.000Z",
+          "wordCount": null,
+          "title": "Goldman executive says private markets clients ‘glad’ about Iran war ‘distraction’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rshzi1/gulf_bonds_safe_haven_status_under_fire/",
+          "author": null,
+          "description": "submitted by    /u/wreckingcru  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rshzi1/gulf_bonds_safe_haven_status_under_fire/",
+          "publishedOn": "2026-03-13T08:45:49.000Z",
+          "wordCount": null,
+          "title": "Gulf Bonds Safe haven status: under fire everywhere but credit markets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rs88cd/us_intervention_in_oil_futures_would_be_biblical/",
+          "author": null,
+          "description": "submitted by    /u/coolbern  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rs88cd/us_intervention_in_oil_futures_would_be_biblical/",
+          "publishedOn": "2026-03-13T00:19:46.000Z",
+          "wordCount": null,
+          "title": "US intervention in oil futures would be ‘biblical disaster’, CME warns. Terry Duffy says any attempt by the government to lower prices using derivatives market would erode confidence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rs4o4o/a_guide_to_the_fault_lines_in_the_credit_market/",
+          "author": null,
+          "description": "submitted by    /u/wreckingcru  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rs4o4o/a_guide_to_the_fault_lines_in_the_credit_market/",
+          "publishedOn": "2026-03-12T21:59:18.000Z",
+          "wordCount": null,
+          "title": "A Guide to the Fault Lines in the Credit Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rrorw1/british_fintech_revolut_gets_full_banking_licence/",
+          "author": null,
+          "description": "submitted by    /u/Dragonogard549  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rrorw1/british_fintech_revolut_gets_full_banking_licence/",
+          "publishedOn": "2026-03-12T11:58:36.000Z",
+          "wordCount": null,
+          "title": "British fintech Revolut gets full banking licence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rotp2j/cash_in_the_constitution_a_swiss_decision_on_an/",
+          "author": null,
+          "description": "submitted by    /u/stinglikebutterbee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rotp2j/cash_in_the_constitution_a_swiss_decision_on_an/",
+          "publishedOn": "2026-03-09T07:29:41.000Z",
+          "wordCount": null,
+          "title": "Cash in the constitution: a Swiss decision on an international issue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1ros869/moronic_monday_march_09_2026_your_weekly/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1ros869/moronic_monday_march_09_2026_your_weekly/",
+          "publishedOn": "2026-03-09T06:01:07.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - March 09, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rnoc6u/blackrock_fund_limits_withdrawals_as_redemptions/",
+          "author": null,
+          "description": "submitted by    /u/Fresh-Function3319  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rnoc6u/blackrock_fund_limits_withdrawals_as_redemptions/",
+          "publishedOn": "2026-03-07T23:07:57.000Z",
+          "wordCount": null,
+          "title": "BlackRock fund limits withdrawals as redemptions rattle private credit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rngqna/lloyd_blankfeins_unapologetic_case_for_goldman/",
+          "author": null,
+          "description": "The former CEO’s memoir Streetwise is a love letter to the firm that forged him and a defense of the culture that made it dominant.\n    submitted by    /u/bloomberg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rngqna/lloyd_blankfeins_unapologetic_case_for_goldman/",
+          "publishedOn": "2026-03-07T18:04:49.000Z",
+          "wordCount": null,
+          "title": "Lloyd Blankfein’s Unapologetic Case for Goldman Sachs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rk0n7v/how_anonymous_bettors_profited_from_the_iranian/",
+          "author": null,
+          "description": "submitted by    /u/No-Flounder2988  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rk0n7v/how_anonymous_bettors_profited_from_the_iranian/",
+          "publishedOn": "2026-03-03T20:33:14.000Z",
+          "wordCount": null,
+          "title": "How Anonymous Bettors Profited From the Iranian Strike Just Hours Before It Happened",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rixpfd/trumps_action_against_iran_is_yet_another_wobble/",
+          "author": null,
+          "description": "submitted by    /u/fortune  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rixpfd/trumps_action_against_iran_is_yet_another_wobble/",
+          "publishedOn": "2026-03-02T16:36:44.000Z",
+          "wordCount": null,
+          "title": "Trump's action against Iran is yet another wobble for government debt, warns UBS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rikxqi/moronic_monday_march_02_2026_your_weekly/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rikxqi/moronic_monday_march_02_2026_your_weekly/",
+          "publishedOn": "2026-03-02T06:01:08.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - March 02, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1rfdw20/us_says_swiss_bank_mbaer_could_lose_access_to/",
+          "author": null,
+          "description": "submitted by    /u/Outrageous-Baker5834  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1rfdw20/us_says_swiss_bank_mbaer_could_lose_access_to/",
+          "publishedOn": "2026-02-26T15:56:39.000Z",
+          "wordCount": null,
+          "title": "US Says Swiss Bank MBaer Could Lose Access to Financial System",
+          "imageUrl": null
         }
       ]
     }

@@ -1,380 +1,1712 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-27T05:51:45.075Z</id>
+    <id>https://healworld-star.github.io/financial-daily-news-machine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-27T05:51:45.075Z</updated>
+    <updated>2026-03-27T06:05:37.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://healworld-star.github.io/financial-daily-news-machine/index.html"/>
+    <link rel="self" href="https://healworld-star.github.io/financial-daily-news-machine/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How to Override API Responses and Headers in Chrome DevTools: A Step-by-Step Guide]]></title>
-        <id>69c5a33110e664c5da34c6d3</id>
-        <link href="https://www.freecodecamp.org/news/how-to-override-api-responses-and-headers-in-chrome-devtools/"/>
-        <updated>2026-03-26T21:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever faced a situation as a frontend developer where you needed to show a demo to your product manager, and something was broken in the API response? Or, a production bug where you were block]]></summary>
+        <title type="html"><![CDATA[Rocket pharmaceuticals gets FDA approval (RCKT)]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4vx0f/rocket_pharmaceuticals_gets_fda_approval_rckt/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4vx0f/rocket_pharmaceuticals_gets_fda_approval_rckt/"/>
+        <updated>2026-03-27T05:59:04.000Z</updated>
+        <summary type="html"><![CDATA[https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-severe-leukocyte-adhesion-deficiency-type-i
+ This information dropped around 7 PM Thursday evening regarding their drug Kresladi. Let’s see what this thing does in the morning!
+    submitted by    /u/Frequent-Discount174  
+ [link]   [comments]]]></summary>
         <author>
-            <name>Tapas Adhikary</name>
+            <name>Lose money with friends!</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Voice-Powered AI Application with the Web Speech API]]></title>
-        <id>69c5a2af10e664c5da34709b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-voice-powered-ai-application-with-the-web-speech-api/"/>
-        <updated>2026-03-26T21:18:39.000Z</updated>
-        <summary type="html"><![CDATA[The Web Speech API is a web browser API that enables web applications to use sound as data in their operations. With the API, web apps can transcribe the speech in sound input and also synthesise spee]]></summary>
+        <title type="html"><![CDATA[Morning Bid: For hungry markets, it was a kids’ menu TACO]]></title>
+        <id>https://www.investing.com/news/economy-news/morning-bid-for-hungry-markets-it-was-a-kids-menu-taco-4584097</id>
+        <link href="https://www.investing.com/news/economy-news/morning-bid-for-hungry-markets-it-was-a-kids-menu-taco-4584097"/>
+        <updated>2026-03-27T05:36:28.000Z</updated>
         <author>
-            <name>Orim Dominic Adah</name>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The AI in Healthcare Handbook: Intelligent Care from Lab to Clinic]]></title>
-        <id>69c557bd10e664c5daf283c3</id>
-        <link href="https://www.freecodecamp.org/news/ai-in-healthcare-handbook-intelligent-care-from-lab-to-clinic/"/>
-        <updated>2026-03-26T15:58:53.000Z</updated>
-        <summary type="html"><![CDATA[The healthcare industry is undergoing a profound transformation powered by artificial intelligence (AI) and data science. No longer limited to administrative automation or basic chat tools, AI now pla]]></summary>
+        <title type="html"><![CDATA[Australia stocks lower at close of trade; S&P/ASX 200 down 0.11%]]></title>
+        <id>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-011-4584096</id>
+        <link href="https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-011-4584096"/>
+        <updated>2026-03-27T05:30:04.000Z</updated>
         <author>
-            <name>Tatev Aslanyan</name>
+            <name>Investing.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Literacy for Everybody]]></title>
-        <id>69c54b8510e664c5dae65e6c</id>
-        <link href="https://www.freecodecamp.org/news/ai-literacy-for-everybody/"/>
-        <updated>2026-03-26T15:06:45.000Z</updated>
-        <summary type="html"><![CDATA[AI literacy isn’t just for developers anymore. It’s a fundamental skill for navigating the modern world. We just posted a course on the freeCodeCamp YouTube channel that will help anyone learn how the]]></summary>
+        <title type="html"><![CDATA[PDD Holdings: Nomura upgrades to Buy on attractive valuation, Temu strength]]></title>
+        <id>https://www.investing.com/news/stock-market-news/pdd-holdings-nomura-upgrades-to-buy-on-attractive-valuation-temu-strength-4584095</id>
+        <link href="https://www.investing.com/news/stock-market-news/pdd-holdings-nomura-upgrades-to-buy-on-attractive-valuation-temu-strength-4584095"/>
+        <updated>2026-03-27T05:16:07.000Z</updated>
         <author>
-            <name>Beau Carnes</name>
+            <name>Investing.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generative UI Notes]]></title>
-        <id>https://css-tricks.com/?p=391438</id>
-        <link href="https://css-tricks.com/generative-ui-notes/"/>
-        <updated>2026-03-26T14:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Looking at research and experiments that are designed to automatically generate user interfaces based on user preferences.
-Generative UI Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[China stations jets-turned-drones at bases near Taiwan Strait, report says]]></title>
+        <id>https://www.investing.com/news/world-news/china-stations-jetsturneddrones-at-bases-near-taiwan-strait-report-says-4584094</id>
+        <link href="https://www.investing.com/news/world-news/china-stations-jetsturneddrones-at-bases-near-taiwan-strait-report-says-4584094"/>
+        <updated>2026-03-27T05:12:09.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Essentials]]></title>
-        <id>69c5490d10e664c5dae3f95e</id>
-        <link href="https://www.freecodecamp.org/news/claude-code-essentials-exampro/"/>
-        <updated>2026-03-26T14:56:13.000Z</updated>
-        <summary type="html"><![CDATA[Cluade Code can supercharge your software development. We just posted a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Claude Code to build real-world agentic codin]]></summary>
+        <title type="html"><![CDATA[SpaceX is trying to distract from the real game: the mechanical bagdump on passive index funds]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4uw71/spacex_is_trying_to_distract_from_the_real_game/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4uw71/spacex_is_trying_to_distract_from_the_real_game/"/>
+        <updated>2026-03-27T05:02:31.000Z</updated>
+        <summary type="html"><![CDATA[https://www.reuters.com/business/finance/musk-rewrites-ipo-playbook-with-large-slice-spacex-stock-retail-investors-source-2026-03-26/
+ SpaceX claims it will allocate 30% of IPO shares to individual investors. But this is merely a distraction from the goal of forcing passive investment funds to buy artificially inflated shares from private shareholders.
+ Pay attention to the IPO float (likely to be very small) and the NASDAQ-100 and S&P500 rule changes (likely to occur shortly before the SpaceX IPO).
+    submitted by    /u/cherrypoplar  
+ [link]   [comments]]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Lose money with friends!</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Sync AWS Secrets Manager Secrets into Kubernetes with the External Secrets Operator]]></title>
-        <id>69c541f010e664c5dadc877e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sync-aws-secrets-manager-secrets-into-kubernetes-with-the-external-secrets-operator/"/>
-        <updated>2026-03-26T14:25:52.000Z</updated>
-        <summary type="html"><![CDATA[If someone asked you how secrets flow from AWS Secrets Manager into a running pod, could you explain it confidently? Storing them is straightforward. But handling rotation, stale env vars, and the gap]]></summary>
+        <title type="html"><![CDATA[Factbox-APAC governments scramble to assure markets as Middle East war saps confidence]]></title>
+        <id>https://www.investing.com/news/economy-news/factboxapac-governments-scramble-to-assure-markets-as-middle-east-war-saps-confidence-4584092</id>
+        <link href="https://www.investing.com/news/economy-news/factboxapac-governments-scramble-to-assure-markets-as-middle-east-war-saps-confidence-4584092"/>
+        <updated>2026-03-27T04:54:29.000Z</updated>
         <author>
-            <name>Osomudeya Zudonu</name>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Passing by Object Reference Works in Python]]></title>
-        <id>69c5415810e664c5dadbf6e0</id>
-        <link href="https://www.freecodecamp.org/news/how-passing-by-object-reference-works-in-python/"/>
-        <updated>2026-03-26T14:23:20.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever modified a variable inside a Python function and been surprised or confused by what happened to it outside the function, you're not alone. This tripped me up for a long time. Coming fro]]></summary>
+        <title type="html"><![CDATA[Stocks Are Mixed and Oil Dips After Trump Delays Threat to Bomb Iran]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html"/>
+        <updated>2026-03-27T04:53:54.000Z</updated>
+        <summary type="html"><![CDATA[President Trump said on Thursday he would delay an imminent deadline to begin attacking Iran’s power grid.]]></summary>
         <author>
-            <name>Mokshita V P</name>
+            <name>The New York Times</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn SQL – Course for Beginners in Spanish]]></title>
-        <id>69c51cf610e664c5dab6fcad</id>
-        <link href="https://www.freecodecamp.org/news/learn-sql-course-for-beginners-in-spanish/"/>
-        <updated>2026-03-26T11:48:06.000Z</updated>
-        <summary type="html"><![CDATA[SQL (Structured Query Language) is the standard language for managing and manipulating data in relational databases. It's an essential tool that allows you to communicate with the databases that power]]></summary>
+        <title type="html"><![CDATA[Trump extends deadline for striking Iran’s energy plants into April]]></title>
+        <id>https://www.investing.com/news/world-news/trump-pauses-attacks-on-irans-energy-plants-and-says-talks-are-going-well-4583959</id>
+        <link href="https://www.investing.com/news/world-news/trump-pauses-attacks-on-irans-energy-plants-and-says-talks-are-going-well-4583959"/>
+        <updated>2026-03-27T04:42:52.000Z</updated>
         <author>
-            <name>Estefania Cassingena Navone</name>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Site-Search Paradox: Why The Big Box Always Wins]]></title>
-        <id>https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/</id>
-        <link href="https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/"/>
-        <updated>2026-03-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fails, leaving users to rely on global search engines to find a single page on a local site. Why does the “Big Box” still win, and how can we bring users back?]]></summary>
+        <title type="html"><![CDATA[BOJ likely to warn of inflation whiplash from Iran war, ex-central bank executive says]]></title>
+        <id>https://www.investing.com/news/economy-news/boj-likely-to-warn-of-inflation-whiplash-from-iran-war-excentral-bank-executive-says-4584091</id>
+        <link href="https://www.investing.com/news/economy-news/boj-likely-to-warn-of-inflation-whiplash-from-iran-war-excentral-bank-executive-says-4584091"/>
+        <updated>2026-03-27T04:42:33.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Work With Dapper in .Net]]></title>
-        <id>69c46b2610e664c5da070aa0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-dapper-in-net/"/>
-        <updated>2026-03-25T23:09:26.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with .NET, interacting with databases (particularly SQL databases) is inevitable. Common approaches involve using ORM (Object Relational Mapping) with tools like Entity Framework.]]></summary>
+        <title type="html"><![CDATA[Asia FX muted as traders weigh Iran diplomacy; Indian rupee hits new record low]]></title>
+        <id>https://www.investing.com/news/forex-news/asia-fx-muted-as-traders-weigh-iran-diplomacy-indian-rupee-hits-new-record-low-4584090</id>
+        <link href="https://www.investing.com/news/forex-news/asia-fx-muted-as-traders-weigh-iran-diplomacy-indian-rupee-hits-new-record-low-4584090"/>
+        <updated>2026-03-27T04:34:31.000Z</updated>
         <author>
-            <name>Grant Riordan</name>
+            <name>Investing.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Introduction to Database System Design]]></title>
-        <id>69c46ab210e664c5da06ac46</id>
-        <link href="https://www.freecodecamp.org/news/an-introduction-to-database-system-design/"/>
-        <updated>2026-03-25T23:07:30.000Z</updated>
-        <summary type="html"><![CDATA[These days, businesses and startups rely on well-designed databases to manage vast amounts of data. In domains like Healthcare, E-commerce, and Fintech/Banking, a solid database design ensures data in]]></summary>
+        <title type="html"><![CDATA[Oil prices on track for steepest weekly fall in 6 months]]></title>
+        <id>https://www.investing.com/news/commodities-news/oil-prices-fall-as-trump-pauses-attacks-on-iranian-energy-plants-4584061</id>
+        <link href="https://www.investing.com/news/commodities-news/oil-prices-fall-as-trump-pauses-attacks-on-iranian-energy-plants-4584061"/>
+        <updated>2026-03-27T04:24:26.000Z</updated>
         <author>
-            <name>Olasunkanmi Emmanuel Jesuferanmi</name>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testing Font Scaling For Accessibility With Figma Variables]]></title>
-        <id>https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/</id>
-        <link href="https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/"/>
-        <updated>2026-03-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. With Figma variables, testing font size increases becomes part of the design flow itself, making accessibility feel almost inevitable rather than optional.]]></summary>
+        <title type="html"><![CDATA[Zenas BioPharma prices $200M convertible notes, $100M stock sale]]></title>
+        <id>https://www.investing.com/news/company-news/zenas-biopharma-prices-200m-convertible-notes-100m-stock-sale-93CH-4584089</id>
+        <link href="https://www.investing.com/news/company-news/zenas-biopharma-prices-200m-convertible-notes-100m-stock-sale-93CH-4584089"/>
+        <updated>2026-03-27T04:17:22.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Ruben Ferreira Duarte)</name>
+            <name>Investing.com</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Experimenting With Scroll-Driven corner-shape Animations]]></title>
-        <id>https://css-tricks.com/?p=392503</id>
-        <link href="https://css-tricks.com/experimenting-with-scroll-driven-corner-shape-animations/"/>
-        <updated>2026-03-23T13:51:15.000Z</updated>
-        <summary type="html"><![CDATA[The new CSS corner-shape() property is mathematical, so it’s easily animated. Author Daniel Schwarz pokes at animating the property for interesting UI effects.
-Experimenting With Scroll-Driven corner-shape Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Theater Tickets Are Cheaper in London Than New York. What Gives?]]></title>
+        <id>https://www.nytimes.com/2026/03/27/theater/tickets-theater-broadway-west-end-london.html</id>
+        <link href="https://www.nytimes.com/2026/03/27/theater/tickets-theater-broadway-west-end-london.html"/>
+        <updated>2026-03-27T04:01:10.000Z</updated>
+        <summary type="html"><![CDATA[For half the price of a great seat at a Broadway show, you can see “Paddington” in the West End (if you can find a ticket) and snack on a marmalade sandwich.]]></summary>
         <author>
-            <name>Daniel Schwarz</name>
+            <name>Michael Paulson and Alex Marshall</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dropdowns Inside Scrollable Containers: Why They Break And How To Fix Them Properly]]></title>
-        <id>https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/</id>
-        <link href="https://smashingmagazine.com/2026/03/dropdowns-scrollable-containers-why-break-how-fix/"/>
-        <updated>2026-03-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dropdowns often work perfectly until they’re placed inside a scrollable panel, where they can get clipped, and half the menu disappears behind the container’s edge. Godstime Aburu explains why this happens and offers practical solutions to fix it.]]></summary>
+        <title type="html"><![CDATA[An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry]]></title>
+        <id>https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html</id>
+        <link href="https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html"/>
+        <updated>2026-03-27T04:00:21.000Z</updated>
+        <summary type="html"><![CDATA[With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+            <name>Meaghan Tobin and Xinyun Wu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modal vs. Separate Page: UX Decision Tree]]></title>
-        <id>https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/</id>
-        <link href="https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/"/>
-        <updated>2026-03-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns, a **friendly video course on UX** and design patterns by Vitaly.]]></summary>
+        <title type="html"><![CDATA[Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial]]></title>
+        <id>https://www.bbc.com/news/articles/c747x7gz249o#1</id>
+        <link href="https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-27T03:21:48.000Z</updated>
+        <summary type="html"><![CDATA[A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript for Everyone: Destructuring]]></title>
-        <id>https://css-tricks.com/?p=392714</id>
-        <link href="https://css-tricks.com/javascript-for-everyone-destructuring/"/>
-        <updated>2026-03-19T13:06:30.000Z</updated>
-        <summary type="html"><![CDATA[Mat Marquis and Andy Bell have released JavaScript for Everyone, an online course offered exclusively at Piccalilli. This post is an excerpt from the course taken specifically from a chapter all about JavaScript destructuring. 
-JavaScript for Everyone: Destructuring originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Trump’s Signature Is Set to Be Added to America’s Currency]]></title>
+        <id>https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html"/>
+        <updated>2026-03-27T02:14:03.000Z</updated>
+        <summary type="html"><![CDATA[President Trump is poised to be the first sitting president to have his signature appear on the U.S. dollar.]]></summary>
         <author>
-            <name>Mat Marquis</name>
+            <name>Alan Rappeport</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow]]></title>
-        <id>https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/</id>
-        <link href="https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/"/>
-        <updated>2026-03-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero films like James Gunn’s Superman manage emotional shifts and translating those ideas into practical patterns for product design.]]></summary>
+        <title type="html"><![CDATA[Iran Keeps a Tight Grip on Strait of Hormuz, Pressuring Shipping and Energy Sectors]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/iran-war-ships-strait-of-hormuz.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/iran-war-ships-strait-of-hormuz.html"/>
+        <updated>2026-03-27T01:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Iran has allowed a small number of vessels to pass, but that won’t alleviate pressure or risk for the shipping industry and energy markets any time soon.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alan Cohen)</name>
+            <name>Peter Eavis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=393021</id>
-        <link href="https://css-tricks.com/whats-important-7/"/>
-        <updated>2026-03-16T15:06:01.000Z</updated>
-        <summary type="html"><![CDATA[For this issue we have random(), folded clip-path corners, anchored container queries, customizable select, scroll-triggered animations, and more.
-What’s !important #7: random(), Folded Corners, Anchored Container Queries, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Having trouble understanding a project’s costing flow - is this thinking correct?]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1s4qr93/having_trouble_understanding_a_projects_costing/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1s4qr93/having_trouble_understanding_a_projects_costing/"/>
+        <updated>2026-03-27T01:45:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/DubaiBabyYoda  
+ [link]   [comments]]]></summary>
         <author>
-            <name>Daniel Schwarz</name>
+            <name>Financial news and views</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 Reasons That Make Tailwind Great for Building Layouts]]></title>
-        <id>https://css-tricks.com/?p=392180</id>
-        <link href="https://css-tricks.com/4-reasons-that-make-tailwind-great-for-building-layouts/"/>
-        <updated>2026-03-16T14:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Tailwind is really great for making layouts and there are many reasons why. Zell Liew looks at four specific examples of common use cases.
-4 Reasons That Make Tailwind Great for Building Layouts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[U.S. Stocks Have Their Biggest Drop Since Start of Iran War]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/oil-stock-gas-prices-iran.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/oil-stock-gas-prices-iran.html"/>
+        <updated>2026-03-27T01:03:51.000Z</updated>
+        <summary type="html"><![CDATA[The S&P 500 tumbled 1.7 percent on Thursday and oil prices continued rising as investors fret about when the war would end.]]></summary>
         <author>
-            <name>Zell Liew</name>
+            <name>Joe Rennison</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moving From Moment.js To The JS Temporal API]]></title>
-        <id>https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/</id>
-        <link href="https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/"/>
-        <updated>2026-03-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while addressing limitations found in Moment and other libraries. Joe Attardi shares practical “recipes” for migrating Moment-based code to the new Temporal API.]]></summary>
+        <title type="html"><![CDATA[Do I continue all in on SCHG?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4pp0l/do_i_continue_all_in_on_schg/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4pp0l/do_i_continue_all_in_on_schg/"/>
+        <updated>2026-03-27T00:58:41.000Z</updated>
+        <summary type="html"><![CDATA[I am 37, and have been putting around $1500 a month into fidelity brokerage account, all into SCHG since past 18 months or so. Considering my growth appetite for next 5 years, should I keep doing this or split 30%-40% with another growth fund like IWO? Also came to know about MTUM, but it may have some overlap with either of those funds depending on the market.
+ Update #2:
+ Just brief on retirement accounts - my wife and I have separate 401k accounts through our employers - with total combined yearly contributions at approx. $19k.
+ My current 401k mix:
+ Fidelity 500 Index Fund - 30%
+ Vanguard Growth Index Institutional Fund - 30%
+ Principal SmallCap S&P 600 Index Separate Account - 10%
+ American Funds New World R6 Fund - 10%
+ Vanguard Developed Markets Index - 20%
+ Update #3:
+ We do keep some emergency fund in hysa. Even though the investment into brokerage account is meant for retirement, the reason for contributing into this versus increasing investment in 401k is to just have some flexibility in case the money needed to be withdrawn for some reason. At the same time, we want to be a bit aggressive for next 8-10 years to get some benefit of higher returns of growth funds compared to typical hysa/bonds/value funds.
+ Any suggestions are appreciated.
+    submitted by    /u/New-Function-6250  
+ [link]   [comments]]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Joe Attardi)</name>
+            <name>Lose money with friends!</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond `border-radius`: What The CSS `corner-shape` Property Unlocks For Everyday UI]]></title>
-        <id>https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/</id>
-        <link href="https://smashingmagazine.com/2026/03/beyond-border-radius-css-corner-shape-property-ui/"/>
-        <updated>2026-03-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For years, developers have been hacking around the limitations of `border-radius`, using clip-path, SVG masks, and fragile workarounds just to get anything other than round corners. The new `corner-shape` property finally changes that, opening the door to beveled, scooped, and squircle corners.]]></summary>
+        <title type="html"><![CDATA[Judge rejects Pentagon's attempt to 'cripple' Anthropic]]></title>
+        <id>https://www.bbc.com/news/articles/cvg4p02lvd0o#0</id>
+        <link href="https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-27T00:44:24.000Z</updated>
+        <summary type="html"><![CDATA[A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abusing Customizable Selects]]></title>
-        <id>https://css-tricks.com/?p=392463</id>
-        <link href="https://css-tricks.com/abusing-customizable-selects/"/>
-        <updated>2026-03-11T13:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Let’s go over a few demos using the new customizable <select> feature that may be wild, but also give us a great chance to learn new things in CSS.
-Abusing Customizable Selects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[I got tired of having 12 tabs open to do basic DD so I built this]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4pd4h/i_got_tired_of_having_12_tabs_open_to_do_basic_dd/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4pd4h/i_got_tired_of_having_12_tabs_open_to_do_basic_dd/"/>
+        <updated>2026-03-27T00:44:14.000Z</updated>
+        <summary type="html"><![CDATA[I consolidated every critical signal into a single, unified research suite. And it's free.
+ - market heatmap with sector breakdowns
+ - real-time news from CNBC, WSJ, Barron's
+ - congressional trades from Senate and House
+ - insider trades with share counts and prices
+ - hedge fund 13F filings from Berkshire, Pershing Square, and more
+ - analyst ratings, financials, peer comparisons
+ - price charts, fundamentals, DCF data
+ I would love to get your guys feedback on this. What would you like to see me add?
+ check it out: Thesis[dot]so
+ Edit: GUYS, this is not some random vibe coded shit i cooked up over the weekend. I put three months of work into this. I don't intend to waste anyones time. I'm just a guy trying to build something valuable. If you have any feedback on the app or anything please let me know.
+    submitted by    /u/LoadRevolutionary461  
+ [link]   [comments]]]></summary>
         <author>
-            <name>Patrick Brosset</name>
+            <name>Lose money with friends!</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Dynamic Forms In React And Next.js]]></title>
-        <id>https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/</id>
-        <link href="https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/"/>
-        <updated>2026-03-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some forms stay UI, while others quietly become rule engines. Here’s why these two different approaches exist and how to choose between them.]]></summary>
+        <title type="html"><![CDATA[Shield AI, a Start-Up Making Military Drones, Raises $2 Billion]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html"/>
+        <updated>2026-03-27T00:24:47.000Z</updated>
+        <summary type="html"><![CDATA[The company, which develops autonomous military technology, also plans to buy a maker of simulation software as interest in next-generation defense soars.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Sunil Sandhu)</name>
+            <name>Michael J. de la Merced</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Value of z-index]]></title>
-        <id>https://css-tricks.com/?p=392843</id>
-        <link href="https://css-tricks.com/the-value-of-z-index/"/>
-        <updated>2026-03-09T14:20:01.000Z</updated>
-        <summary type="html"><![CDATA[How we look at the stacking order of our projects, how we choose z-index values, and more importantly, the implications of those choices.
-The Value of z-index originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA['Affordability is the biggest thing' - Conservatives mixed on economy under Trump]]></title>
+        <id>https://www.bbc.com/news/videos/cn08y2jgdxpo#6</id>
+        <link href="https://www.bbc.com/news/videos/cn08y2jgdxpo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-27T00:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Conservatives gathered at the annual CPAC conference in Texas were mixed when asked about their feelings on the current economy.]]></summary>
         <author>
-            <name>Amit Sheen</name>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Persuasive Design: Ten Years Later]]></title>
-        <id>https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/</id>
-        <link href="https://smashingmagazine.com/2026/03/persuasive-design-ten-years-later/"/>
-        <updated>2026-03-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many product teams still lean on usability improvements and isolated behavioral tweaks to address weak activation, drop-offs, and low retention – only to see results plateau or slip into shallow gamification. Anders Toxboe updates persuasive design for today’s reality, clarifying what has actually held up over the last decade.]]></summary>
+        <title type="html"><![CDATA[The spiky cactus fruit giving Indian farmers a cash boost]]></title>
+        <id>https://www.bbc.com/news/articles/c3ewyyjjzkwo#0</id>
+        <link href="https://www.bbc.com/news/articles/c3ewyyjjzkwo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-27T00:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Indian farmers are turning to dragon fruit as a profitable alternative to mangoes and coffee.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Anders Toxboe)</name>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Human Strategy In An AI-Accelerated Workflow]]></title>
-        <id>https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/</id>
-        <link href="https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/"/>
-        <updated>2026-03-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UX design is entering a new phase, with designers shifting from makers of outputs to directors of intent. AI can now generate wireframes, prototypes, and even design systems in minutes, but UX has never been only about creating interfaces. It’s about navigating ambiguity, advocating for humans in systems optimised for efficiency, and solving their problems through thoughtful design.]]></summary>
+        <title type="html"><![CDATA[Suncor and Sulfur - Asymmetric opportunity]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4nwar/suncor_and_sulfur_asymmetric_opportunity/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4nwar/suncor_and_sulfur_asymmetric_opportunity/"/>
+        <updated>2026-03-26T23:42:47.000Z</updated>
+        <summary type="html"><![CDATA[All investments involve risk. The key to actually making money is to evaluate what both the upside and downside potential of things are and consistently position yourself into trades that have asymmetric upside potential. I think I found one of those. One that has every single upside in a market that is actively failing, and no downside that I can visibly see. (do due diligence yourself though, obviously)
+ TL;DR: Suncor (SU) 75$ Jan 15 2027 Strikes: Bet the farm.
+ (Or just buy some stock)
+ (Quick note: prices are fluctuating hourly. Don’t ding things on small mismatches. I can’t keep up)
+ At its core, this thesis is about one stock. But it’s also about several stocks and the role they play, together, through the coming crisis. All built from one core element. Sulfur. 50% of which comes fro…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Carrie Webster)</name>
+            <name>Lose money with friends!</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Different Ways to Select <html> in CSS]]></title>
-        <id>https://css-tricks.com/?p=392257</id>
-        <link href="https://css-tricks.com/the-different-ways-to-select-html-in-css/"/>
-        <updated>2026-03-05T14:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Sure, we can select the <html> element in CSS with, you know, a simple element selector, html. But what other (trivial and perhaps useless) ways can we do it?
-The Different Ways to Select <html> in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Trump's signature to appear on US dollars in first for sitting president]]></title>
+        <id>https://www.bbc.com/news/articles/cz0el909yp3o#0</id>
+        <link href="https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T23:36:14.000Z</updated>
+        <summary type="html"><![CDATA[The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.]]></summary>
         <author>
-            <name>Daniel Schwarz</name>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Now Shipping: Accessible UX Research, A New Smashing Book By Michele Williams]]></title>
-        <id>https://smashingmagazine.com/2026/03/accessible-ux-research-release/</id>
-        <link href="https://smashingmagazine.com/2026/03/accessible-ux-research-release/"/>
-        <updated>2026-03-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our newest Smashing Book, “Accessible UX Research” by Michele Williams, is finally shipping worldwide — and we couldn’t be happier! This book is about research, but you’ll also learn about assistive technology, different types of disability, and how to build accessibility into the entire design process. This thoughtful book will get you thinking about ways to make your UX research more inclusive and thorough, no matter your budget or timeline. Jump to the book details or order your copy now.]]></summary>
+        <title type="html"><![CDATA[Who knew Lord Sugar is a table tennis fan?]]></title>
+        <id>https://www.bbc.com/news/videos/crr109r2gd4o#6</id>
+        <link href="https://www.bbc.com/news/videos/crr109r2gd4o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T22:42:12.000Z</updated>
+        <summary type="html"><![CDATA[The Apprentice candidates try to sell a table tennis set live on TV.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ari Stiles)</name>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Popover API or Dialog API: Which to Choose?]]></title>
-        <id>https://css-tricks.com/?p=388435</id>
-        <link href="https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/"/>
-        <updated>2026-03-02T15:10:07.000Z</updated>
-        <summary type="html"><![CDATA[Choosing between Popover API and Dialog API is difficult because they seem to do the same job, but they don’t! After a bit lots of research, I discovered that the Popover API and Dialog API are wildly different in terms of accessibility and we'll go over that in this article.
-Popover API or Dialog API: Which to Choose? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[JPST/Corporate Bond Abnormal Movement Lately]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4l6x3/jpstcorporate_bond_abnormal_movement_lately/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4l6x3/jpstcorporate_bond_abnormal_movement_lately/"/>
+        <updated>2026-03-26T21:55:56.000Z</updated>
+        <summary type="html"><![CDATA[What is going on with Corporate Bond ETF?
+ Normally you would see a daily +0.0x% and then big drop at month end due to dividend payout. 
+ But JPST has been relatively flat for the past month. 
+ Meanwhile treasury ETFs like SGOV or SHV still look like normal cyclical movement. So that rules our fluctuation in interest rate for the cause.
+ Are we anticipating default in corporate bond or something?
+    submitted by    /u/Dense_Sir_8748  
+ [link]   [comments]]]></summary>
         <author>
-            <name>Zell Liew</name>
+            <name>Lose money with friends!</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Started With The Popover API]]></title>
-        <id>https://smashingmagazine.com/2026/03/getting-started-popover-api/</id>
-        <link href="https://smashingmagazine.com/2026/03/getting-started-popover-api/"/>
-        <updated>2026-03-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What happens if you rebuild a single tooltip using the browser’s native model without the aid of a library? The Popover API turns tooltips from something you simulate into something the browser actually understands. Opening and closing, keyboard interaction, Escape handling, and much of the accessibility now come from the platform itself, not from ad-hoc JavaScript.]]></summary>
+        <title type="html"><![CDATA[War in Iran Will Push U.S. Inflation Above 4 Percent, O.E.C.D. Forecast Says]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/inflation-prices-energy-iran-oecd.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/inflation-prices-energy-iran-oecd.html"/>
+        <updated>2026-03-26T21:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Higher energy prices and uncertainty over the war in the Middle East will boost inflation and weigh on economic growth, a new forecast says.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+            <name>Eshe Nelson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fresh Energy In March (2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/</id>
-        <link href="https://smashingmagazine.com/2026/02/desktop-wallpaper-calendars-march-2026/"/>
-        <updated>2026-02-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by the community for the community, the wallpapers in this collection are the perfect opportunity to get your desktop ready for spring — and, who knows, maybe they’ll spark some new ideas, too. Enjoy!]]></summary>
+        <title type="html"><![CDATA[Current US Stock Market crisis]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4k7jk/current_us_stock_market_crisis/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4k7jk/current_us_stock_market_crisis/"/>
+        <updated>2026-03-26T21:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Who all agrees with me that someone is tweeting a fake claim to bring up the prices, people start investing, then the market dumps back taking away all the money, and a couple of days later the same person comes up with a different claim. This is like a repeating cycle that has been occurring for the past couple of months.
+ IYKYK who the person is 😅
+    submitted by    /u/Call_Me__Heisenberg  
+ [link]   [comments]]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Lose money with friends!</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More]]></title>
-        <id>https://css-tricks.com/?p=392661</id>
-        <link href="https://css-tricks.com/whats-important-6/"/>
-        <updated>2026-02-27T16:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Despite what’s been a sleepy couple of weeks for new Web Platform Features, we have an issue of What’s !important that’s prrrretty jam-packed. The web community had a lot to say, it seems, so fasten your seatbelts!
-What’s !important #6: :heading, border-shape, Truncating Text From the Middle, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[After Wooing Trump With Deals, Pakistan Gets a Seat at the Table]]></title>
+        <id>https://www.nytimes.com/2026/03/26/us/politics/trump-pakistan-iran.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/us/politics/trump-pakistan-iran.html"/>
+        <updated>2026-03-26T20:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Steve Witkoff, a diplomatic envoy, used the Board of Peace to announce an agreement that could raze a Pakistan-owned Manhattan hotel. Now the country is involved in negotiating peace talks with Iran.]]></summary>
         <author>
-            <name>Daniel Schwarz</name>
+            <name>David Yaffe-Bellany, Ben Protess and Elian Peltier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yet Another Way to Center an (Absolute) Element]]></title>
-        <id>https://css-tricks.com/?p=392540</id>
-        <link href="https://css-tricks.com/yet-another-way-to-center-an-absolute-element/"/>
-        <updated>2026-02-27T14:40:42.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR: We can center absolute-positioned elements in three lines of CSS. And it works on all browsers!
-Yet Another Way to Center an (Absolute) Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[A Film Studio Moved to Montana for Tax Breaks. Will It Benefit the Locals?]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/story-house-montana-economy.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/story-house-montana-economy.html"/>
+        <updated>2026-03-26T20:21:16.000Z</updated>
+        <summary type="html"><![CDATA[Story House arrived in Missoula last year with big plans for a movie and television campus that would create hundreds of jobs and build a filmmaking ecosystem.]]></summary>
         <author>
-            <name>Juan Diego Rodríguez</name>
+            <name>Brian Josephs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Say Cheese! Meet SmashingConf Amsterdam 🇳🇱]]></title>
-        <id>https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/</id>
-        <link href="https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/"/>
-        <updated>2026-02-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet our brand new conference for designers and UI engineers who love the web. That’s [SmashingConf Amsterdam](https://smashingconf.com/amsterdam-2026), taking place in the legendary Pathé Tuschinski, on April 13–16, 2026.]]></summary>
+        <title type="html"><![CDATA[JLR temporarily halts production at Solihull plant]]></title>
+        <id>https://www.bbc.com/news/articles/c3931xz101do#1</id>
+        <link href="https://www.bbc.com/news/articles/c3931xz101do?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T19:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Jaguar Land Rover pauses Range Rover production at its West Midlands factory due to supplier issue.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Exploit … in CSS?!]]></title>
-        <id>https://css-tricks.com/?p=392606</id>
-        <link href="https://css-tricks.com/an-exploit-in-css/"/>
-        <updated>2026-02-25T21:31:39.000Z</updated>
-        <summary type="html"><![CDATA[Read an explanation of the recent CVE-2026-2441 vulnerability that was labeled a "CSS exploit" that "allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page."
-An Exploit … in CSS?! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Which stock sectors will recover first when this war ends?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4hbs7/which_stock_sectors_will_recover_first_when_this/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4hbs7/which_stock_sectors_will_recover_first_when_this/"/>
+        <updated>2026-03-26T19:29:32.000Z</updated>
+        <summary type="html"><![CDATA[The war with Iran has affected the market big time.
+ But all wars end.
+ When this one ends and the world economy claws out of the rubble, who do you think recovers first?
+ Or do you think this is the end of the current stock market system?
+ Personally I think that, with the cost oil oil and LNG going up, that energy and defensive stocks will remain the winners in 2026, as we drift to recession by 2027. 
+    submitted by    /u/Bossanova12345  
+ [link]   [comments]]]></summary>
         <author>
-            <name>Lee Meyer</name>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10-Minute Read: What I Learned from 100+ Investors]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4h0nx/the_10minute_read_what_i_learned_from_100/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4h0nx/the_10minute_read_what_i_learned_from_100/"/>
+        <updated>2026-03-26T19:17:53.000Z</updated>
+        <summary type="html"><![CDATA[I discussed investors about the one principle they wished they understood earlier. Here’s the distilled wisdom.
+  
+Start early. Time is the only irreplaceable ingredient. A dollar invested at 25 is worth far more than one invested at 35. Automate your contributions and let the exponent work.
+ Volatility is not risk. Permanent capital loss is risk. A 50% loss requires a 100% gain to recover. Keep liquidity so you're never a forced seller.
+ Boring is correct. If your portfolio feels exciting, you're probably gambling. Low-cost index funds, dollar-cost averaging, and patience win over time.
+ Behavior > intelligence. Most mistakes come from reacting at the wrong time; panic selling, holding losers, stopping contributions. Write a plan when you're calm and follow it when you're not.
+ Cut losers, let winners run. Most people do the opposite. Before adding to a losing position, ask: would I buy this today?
+ Be honest about yourself. The mortgage vs. invest debate is personal. The mathematically optimal choice doesn't matter if you can't stick to it.
+ Stay humble. You can't predict the market. Diversify, use index funds as your core, and admit mistakes quickly.
+  
+The bottom line: 
+  
+Investing isn't about being right. It's about staying in the game long enough for compounding to work. Start early, control your behavior, and let time do the heavy lifting.
+  
+   submitted by    /u/mahend72  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At Non-TSA Airports, Wait Times Are Minutes, Not Hours]]></title>
+        <id>https://www.nytimes.com/2026/03/26/travel/tsa-airports-shutdown-security-sfo-mci.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/travel/tsa-airports-shutdown-security-sfo-mci.html"/>
+        <updated>2026-03-26T19:05:32.000Z</updated>
+        <summary type="html"><![CDATA[A handful of airports, including San Francisco and Kansas City International, participate in a program that lets them rely on private screeners instead of T.S.A. agents.]]></summary>
+        <author>
+            <name>Gabe Castro-Root</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I have the worst timing, maybe it will get better]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4gd6n/i_have_the_worst_timing_maybe_it_will_get_better/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4gd6n/i_have_the_worst_timing_maybe_it_will_get_better/"/>
+        <updated>2026-03-26T18:53:50.000Z</updated>
+        <summary type="html"><![CDATA[self employed, max out Roth IRA every year. finally doing things. correctly and saving...have 60/40 domestic/international stock portfolio. tracks pretty closely s&p 500...bought shares when it was right neat 7k. 
+ i will hold, but man is it rough when the first thing you do immediatly flips on its head. the desire to sell and hold on for the floor is overwhelming, but I'm going to hold. maybe I'll just delete my investing app and not look at it
+    submitted by    /u/Beautiful_Gas_1214  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Kharg Island May Change the Trajectory of the Iran War]]></title>
+        <id>https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html</id>
+        <link href="https://www.nytimes.com/video/business/economy/100000010796199/how-kharg-island-may-change-the-trajectory-of-the-iran-war.html"/>
+        <updated>2026-03-26T18:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Kharg Island exports 90 percent of Iran’s crude oil. It has also become a potential U.S. target. Peter Eavis, our Business reporter, examines how the small island in the Persian Gulf has become a strategic target with significant risks.]]></summary>
+        <author>
+            <name>Peter Eavis, Gilad Thaler, Edward Vega, Lauren Pruitt and Joey Sendaydiego</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran]]></title>
+        <id>https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html"/>
+        <updated>2026-03-26T18:37:34.000Z</updated>
+        <summary type="html"><![CDATA[The world’s largest crypto exchange is under fire after investigators found accounts moving $1.7 billion to entities linked to Iran. Clues about those accounts were in plain sight for over a year.]]></summary>
+        <author>
+            <name>David Yaffe-Bellany and Michael Forsythe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gut check on tax loss harvest]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4fsmx/gut_check_on_tax_loss_harvest/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4fsmx/gut_check_on_tax_loss_harvest/"/>
+        <updated>2026-03-26T18:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Need a quick gut check that this all makes sense.
+ Left my FA in January to go on my own. Sold all positions in a 15+ fund portfolio to move self-managed 80/20 VTI/VXUS. Put the 1.3% advisor fee and 0.3% ETF fees back into my pocket.
+ I incurred $44k in realized gains with the liquidation. Estimated tax payment is due before 4/15 - roughly $13k between Fed & State. Don't need to liquidate any more positions to pay this, I have had it off to the side in cash.
+ Current unrealized losses on the year so far are $12,500.
+ I want to liquidate the VTI to move to FSKAX and liquidate the VXUX to move to FTIHX – are these “substantially identical”? Seems like not even the IRS knows.
+ Turn off DRIP to avoid wash rule.
+ Turn my $44k realized gains into $31.5k. Submit estimated tax payment on only $31.5k now.
+ If the market continues on it’s downward trajectory, wait until I can lock in another decently large loss to switch back to VTI/VXUS (after 31+ days), in hopes of recouping some (or all) of the estimated tax payment with my refund during tax season next year.
+ All makes sense? Am I missing anything?
+    submitted by    /u/markprice211  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safety Experts Considered LaGuardia Challenging but Not an Outlier]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html"/>
+        <updated>2026-03-26T18:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Regulators, pilots and others in aviation have worried about the kind of runway accident that happened at LaGuardia Airport on Sunday.]]></summary>
+        <author>
+            <name>Niraj Chokshi and Karoun Demirjian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Turn a Chicken Egg Into a Drug Factory]]></title>
+        <id>https://www.nytimes.com/2026/03/26/science/biotechnology-pharmaceuticals-eggs.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/science/biotechnology-pharmaceuticals-eggs.html"/>
+        <updated>2026-03-26T18:31:46.000Z</updated>
+        <summary type="html"><![CDATA[A biotech start-up is testing a novel way of efficiently producing pharmaceutical drugs.]]></summary>
+        <author>
+            <name>Carl Zimmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oscars Will Move to a Venue Outside Hollywood]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/media/academy-awards-moving-downtown-los-angeles.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/media/academy-awards-moving-downtown-los-angeles.html"/>
+        <updated>2026-03-26T18:14:03.000Z</updated>
+        <summary type="html"><![CDATA[The event will be held in downtown Los Angeles starting in 2029 as part of a deal between the academy and AEG, a developer of entertainment venues.]]></summary>
+        <author>
+            <name>Nicole Sperling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html"/>
+        <updated>2026-03-26T18:09:55.000Z</updated>
+        <summary type="html"><![CDATA[The Justice Department sued the large New York health system, saying it restricted insurance companies from offering patients cheaper options.]]></summary>
+        <author>
+            <name>David McCabe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapchat Investigated in Europe Over Child Safety Policies]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html"/>
+        <updated>2026-03-26T18:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.]]></summary>
+        <author>
+            <name>Adam Satariano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are we about to see the biggest fire sale in Dubai real estate history, or is the 'fear' priced in?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4e0jz/are_we_about_to_see_the_biggest_fire_sale_in/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4e0jz/are_we_about_to_see_the_biggest_fire_sale_in/"/>
+        <updated>2026-03-26T17:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Dubai has been selling this 'safe haven of the Middle East' vibe for years, but the recent Iran situation is really putting that to the test
+ The panic is actually real... people went from aggressively buying off-plan to trying to cash out ASAP
+ So, are we about to see a massive real estate crash with money fleeing the region? Or is all this fear already priced in, and big players are just waiting to buy the dip? What do you guys think?
+ For those asking for data, here is the official source for real-time market fluctuations: https://dxbinteract.com/
+    submitted by    /u/tohangout  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk's X advertising boycott lawsuit dismissed by US judge]]></title>
+        <id>https://www.bbc.com/news/articles/c05dlm0l0jgo#0</id>
+        <link href="https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T17:29:13.000Z</updated>
+        <summary type="html"><![CDATA[US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First time investing through war]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4dwwv/first_time_investing_through_war/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4dwwv/first_time_investing_through_war/"/>
+        <updated>2026-03-26T17:25:51.000Z</updated>
+        <summary type="html"><![CDATA[As the title says. Im still new to this. Just past few years. If the stuff in Iran wasnt happening I would still be pretty confident dca im to what I have been already. Prices are down to about what they were in September. But Im not sure how this would really go if this war stretches on and wondering should I hold out or just stay the course
+    submitted by    /u/wideguy12  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The WAR Report: High Stock Market Volatility During the Wars in Afghanistan and Iraq]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4dtju/the_war_report_high_stock_market_volatility/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4dtju/the_war_report_high_stock_market_volatility/"/>
+        <updated>2026-03-26T17:22:25.000Z</updated>
+        <summary type="html"><![CDATA[This is just a couple of the most volatile dates from the past two wars we got into with Afghanistan and Iraq. Only days with – or + 2% volatility on the SPY are pulled.
+ October 10, 2001 Wednesday
+ DOW +2.1%, S&P + 2.3%, NASDAQ, +3.6%.
+ The first day with real movement related to war was 10/10/2000. At this point, the US had been striking Afghanistan for the past three days. Apparently, ''people are starting to get some level of comfort with the way we're handling it,'' said Stephen J. Massocca. It helped that the week before, Bush had proposed around $100 billion in emergency stimulus and spending related to the 9/11 attacks, and the market had been greatly depressed before it.
+ October 29, 2001 Monday
+ DOW -2.9%, S&P -2.4%, NASDAQ -3.9%
+ Just a few weeks later, there didn’t seem to be a…]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write It Up! How Fast Do Our Journalists Type?]]></title>
+        <id>https://www.nytimes.com/2026/03/25/insider/how-fast-journalists-type.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/insider/how-fast-journalists-type.html"/>
+        <updated>2026-03-26T17:08:44.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to breaking news, it’s a race not only to get the story, but to record it. We tracked down some of the speediest fingers in our newsroom.]]></summary>
+        <author>
+            <name>Sarah Bahr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any Recommendations for a Customizable Robo Advisor?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s4cjut/any_recommendations_for_a_customizable_robo/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s4cjut/any_recommendations_for_a_customizable_robo/"/>
+        <updated>2026-03-26T16:37:02.000Z</updated>
+        <summary type="html"><![CDATA[As part of my jobs compensation packages I get stocks vesting on a monthly basis, and there is an enrollment window in May for automatically selling shares upon vest. I would like to do this to avoid concentration risk, and transfer the funds to a brokerage account.
+ Through work I also have access to free sessions with a financial advisor so I’ve been talking to him about which funds and allocation percentages make sense for me given my risk tolerance and financial goals.
+ I only want to be medium hands on with this account, so something he mentioned was robo advisors that automatically do rebalancing and tax loss harvesting (something I would really like to not have to do manually). 
+ Does anyone have recommendations for a robo advisor that has those features, but allows you to select which investments to make? From the Googling I’ve done about it, it seems like Wealthfront, Betterment, and M1 finance might be good options? Anyone have experience with these? 
+ To give a dollar amount reference incase it helps, my account is quite small now (~$9.5k), but will likely exceed $25k in 7 months.
+    submitted by    /u/el_lube  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mortgage Rates Jump Again as Iran War Effects Ripple Through Housing Market]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html"/>
+        <updated>2026-03-26T16:35:32.000Z</updated>
+        <summary type="html"><![CDATA[The average rate on a 30-year mortgage in the United States hit 6.38 percent, the fourth increase since the war began.]]></summary>
+        <author>
+            <name>Gregory Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans]]></title>
+        <id>https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html"/>
+        <updated>2026-03-26T16:21:28.000Z</updated>
+        <summary type="html"><![CDATA[By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.]]></summary>
+        <author>
+            <name>Clay Risen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't panic - five ways to stop your kids' endless scrolling]]></title>
+        <id>https://www.bbc.com/news/articles/c86e3q5j992o#0</id>
+        <link href="https://www.bbc.com/news/articles/c86e3q5j992o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T16:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Parenting experts share their tips on how to keep children's screen time under control.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NS&I boss replaced as savers left waiting for millions of pounds]]></title>
+        <id>https://www.bbc.com/news/articles/c3w3eg4n9zwo#0</id>
+        <link href="https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T16:14:54.000Z</updated>
+        <summary type="html"><![CDATA[Pensions Minister Torston Bell said those affected would receive compensation "where appropriate".]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe Heads for Another Energy Shock as Iran War Raises Natural Gas Prices]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/europe-natural-gas-storage-iran-war.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/europe-natural-gas-storage-iran-war.html"/>
+        <updated>2026-03-26T16:12:16.000Z</updated>
+        <summary type="html"><![CDATA[The region’s stores of natural gas are running at the lowest level in years, and filling them up is increasingly daunting as the U.S.-led war in Iran pushes up prices.]]></summary>
+        <author>
+            <name>Eshe Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is happening to gas and electricity prices?]]></title>
+        <id>https://www.bbc.com/news/articles/cdd29v8mp9jo#4</id>
+        <link href="https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T16:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Typical household bills will fall by 7% when the new energy cap takes effect on 1 April 2026.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How high could UK petrol and diesel prices go?]]></title>
+        <id>https://www.bbc.com/news/articles/c20zgjzz0e4o#1</id>
+        <link href="https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T15:41:57.000Z</updated>
+        <summary type="html"><![CDATA[For every $10 rise in oil prices, motorists face paying roughly 7p per litre more in the UK.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Opposition Is Slowing A.I. Data Centers. Wall Street Has Noticed.]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/economy/ai-data-centers-construction-local-opposition.html"/>
+        <updated>2026-03-26T15:29:24.000Z</updated>
+        <summary type="html"><![CDATA[Tech companies are running into resistance from neighbors and may not be able to build at the pace they promised investors.]]></summary>
+        <author>
+            <name>Lydia DePillis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anatomy of a Scam]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1s4a9jd/the_anatomy_of_a_scam/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1s4a9jd/the_anatomy_of_a_scam/"/>
+        <updated>2026-03-26T15:14:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Mastbubbles  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Port Talbot to become offshore wind hub for Celtic Sea]]></title>
+        <id>https://www.bbc.com/news/articles/ckger01gxkno#1</id>
+        <link href="https://www.bbc.com/news/articles/ckger01gxkno?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T14:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Port operator ABP will begin work on developing a facility to assemble and launch turbines out to sea.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help! Budget Charged Me Almost $600 for Returning a Car Early.]]></title>
+        <id>https://www.nytimes.com/2026/03/26/travel/budget-rental-car-discount.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/travel/budget-rental-car-discount.html"/>
+        <updated>2026-03-26T14:02:36.000Z</updated>
+        <summary type="html"><![CDATA[An American who rented a vehicle for a two-week European vacation brought it back to the airport just a few hours ahead of schedule. Why did the price nearly double?]]></summary>
+        <author>
+            <name>Seth Kugel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Big Tech Facing a Big Tobacco Moment?]]></title>
+        <id>https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html</id>
+        <link href="https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html"/>
+        <updated>2026-03-26T13:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Back-to-back courtroom losses have put technology giants, including Meta and Google, in uncertain territory as they face lawsuits and bans on teen users.]]></summary>
+        <author>
+            <name>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['It took six years to receive my late father's premium bonds']]></title>
+        <id>https://www.bbc.com/news/articles/c2k350g3jelo#0</id>
+        <link href="https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T13:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Readers contacted BBC Your Voice to say they not been able to claim funds from dead family members' premium bond investments.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['It took six years to receive my late father's premium bonds']]></title>
+        <id>https://www.bbc.com/news/articles/c2k350g3jelo#4</id>
+        <link href="https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T13:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Readers contacted BBC Your Voice to say they not been able to claim funds from dead family members' premium bond investments.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK forecast to see biggest hit to growth from Iran war out of major economies]]></title>
+        <id>https://www.bbc.com/news/articles/cgk0j71g417o#1</id>
+        <link href="https://www.bbc.com/news/articles/cgk0j71g417o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T12:56:33.000Z</updated>
+        <summary type="html"><![CDATA[The OECD downgrades forecasts for many of the world's biggest economies due to the US-Israel war with Iran.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make the most of your Lifetime Isa]]></title>
+        <id>https://www.bbc.com/news/videos/cede8e6z01po#6</id>
+        <link href="https://www.bbc.com/news/videos/cede8e6z01po?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T12:22:50.000Z</updated>
+        <summary type="html"><![CDATA[Martin Lewis explains that you can use your Lifetime ISA to buy with someone who has already bought.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whisky giant drops plans for £150m facility in Ayrshire]]></title>
+        <id>https://www.bbc.com/news/articles/ceqw9x1l15go#1</id>
+        <link href="https://www.bbc.com/news/articles/ceqw9x1l15go?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T11:46:07.000Z</updated>
+        <summary type="html"><![CDATA[Suntory Global Spirits did not give a reason for why the plan is not going ahead.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Co-op boss quits after 'toxic culture' claims reported by BBC]]></title>
+        <id>https://www.bbc.com/news/articles/crm172nkeplo#1</id>
+        <link href="https://www.bbc.com/news/articles/crm172nkeplo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T10:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Shirine Khoury-Haq's departure comes after a troubled year, in which the retailer suffered a cyber-attack and faced allegations about its workplace culture.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK CO2 plant to reopen in Iran war contingency plan]]></title>
+        <id>https://www.bbc.com/news/articles/cew7xrj4497o#1</id>
+        <link href="https://www.bbc.com/news/articles/cew7xrj4497o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T09:55:18.000Z</updated>
+        <summary type="html"><![CDATA[The government will invest £100m to restart the Teesside site producing carbon dioxide, a key part of food and drink manufacturing.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['A game-changing moment for social media' - what next for big tech after landmark addiction verdict?]]></title>
+        <id>https://www.bbc.com/news/articles/c87wd0d84jqo#1</id>
+        <link href="https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T09:37:57.000Z</updated>
+        <summary type="html"><![CDATA[The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estate of late tycoon Mike Lynch to pay damages of £920m]]></title>
+        <id>https://www.bbc.com/news/articles/cn8dg5wq9pyo#1</id>
+        <link href="https://www.bbc.com/news/articles/cn8dg5wq9pyo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T09:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Judge rules that Hewlett-Packard Enterprise was owed damages for the £8.2bn acquisition of Autonomy in 2011.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily General Discussion and Advice Thread - March 26, 2026]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s41bdi/daily_general_discussion_and_advice_thread_march/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s41bdi/daily_general_discussion_and_advice_thread_march/"/>
+        <updated>2026-03-26T08:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!
+ Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.
+ If you are new to investing - please refer to Wiki - Getting Started
+ The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List
+ The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos
+ If your question is "I have $XXXXXXX, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+  
+How old are you? What country do you live in?
+ Are you employed/making income? How much?
+ What are your objectives with this money? (Buy a house? Retirement savings?)
+ What is your time horizon? Do you need this money next month? Next 20yrs?
+ What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+ What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)
+ Any big debts (include interest rate) or expenses?
+ And any other relevant financial information will be useful to give you a proper answer.
+  
+Check the resources in the sidebar.
+ Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sumitomo Electric vs AXTI]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s40xde/sumitomo_electric_vs_axti/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s40xde/sumitomo_electric_vs_axti/"/>
+        <updated>2026-03-26T07:35:28.000Z</updated>
+        <summary type="html"><![CDATA[What are your opinions on Sumitomo Electric? They compete with AXTI in producing InP, but despite being Japanese company, they produce InP in Oregon and don't face Chinese export controls. I would have to think an American company that is looking for a steady supply would have to go with Sumitomo. I don't see how Sumitomo does not dominate this market. I guess perhaps AXTI although being an American company could be China's biggest supplier of InP.
+    submitted by    /u/Expert_Statement_847  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump confirms May meeting with Xi Jinping as Iran war forces postponement]]></title>
+        <id>https://www.bbc.com/news/articles/c05dpr1m71go#1</id>
+        <link href="https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T07:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS, bills and immigration: One constituency's election talking points]]></title>
+        <id>https://www.bbc.com/news/videos/c78r5ky49nxo#4</id>
+        <link href="https://www.bbc.com/news/videos/c78r5ky49nxo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T06:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Six weeks from the Holyrood election, the BBC takes the temperature in one central Scotland constituency.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working parents 'struggling to afford nappies or food']]></title>
+        <id>https://www.bbc.com/news/articles/czxr567npxko#4</id>
+        <link href="https://www.bbc.com/news/articles/czxr567npxko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T06:22:44.000Z</updated>
+        <summary type="html"><![CDATA[More working families asking for baby essentials]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asian Markets Cautious as Iran Rules Out Direct Ceasefire Talks, Oil Rebounds]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s3zliy/asian_markets_cautious_as_iran_rules_out_direct/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s3zliy/asian_markets_cautious_as_iran_rules_out_direct/"/>
+        <updated>2026-03-26T06:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Asian markets are trending lower, and oil prices are rising due to the mixed signals on the Iranian ceasefire talks, with Iran stating that there are no direct talks yet and that it is still reviewing the U.S. proposal. Investors remain cautious due to the geopolitical risks and the rebound in oil prices
+    submitted by    /u/Sanaa_24  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do not turn your heating off, charities warn]]></title>
+        <id>https://www.bbc.com/news/articles/c87wx970yw9o#4</id>
+        <link href="https://www.bbc.com/news/articles/c87wx970yw9o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T06:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Organisations say there is support available after heating oil doubled in price due to the war in Iran.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Arctic shipping routes open up in the future, which industry / stock will likely to benefit?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s3y67z/if_arctic_shipping_routes_open_up_in_the_future/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s3y67z/if_arctic_shipping_routes_open_up_in_the_future/"/>
+        <updated>2026-03-26T04:53:40.000Z</updated>
+        <summary type="html"><![CDATA[With all the talk about Arctic routes opening up, im trying to figure out what’s actually investable here. I can think of shipping and defense industry with the tension around there, but what else?
+ Also I was wondering if it’s a bit too early to invest in this given all the uncertainties. What are your thoughts?
+    submitted by    /u/No_Angle_5602  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket stocks soar on report Musk's SpaceX to file for share sale]]></title>
+        <id>https://www.bbc.com/news/articles/c5y8d721q18o#1</id>
+        <link href="https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T02:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Reports it plans the biggest listing ever sent the shares of firms in its orbit soaring in US trade on Wednesday.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Draws Bipartisan Backlash for Easing Oil Sanctions on Russia and Iran]]></title>
+        <id>https://www.nytimes.com/2026/03/25/us/politics/trump-bipartisan-backlash-oil-sanctions-russia-iran.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/us/politics/trump-bipartisan-backlash-oil-sanctions-russia-iran.html"/>
+        <updated>2026-03-26T01:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Republicans and Democrats alike have criticized the Trump administration’s moves, taken to stabilize oil markets rocked by the war with Iran, warning that it is benefiting two U.S. adversaries.]]></summary>
+        <author>
+            <name>Robert Jimison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly]]></title>
+        <id>https://www.bbc.com/news/articles/cn08x9lw0pzo#1</id>
+        <link href="https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T00:41:16.000Z</updated>
+        <summary type="html"><![CDATA[The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly]]></title>
+        <id>https://www.bbc.com/news/articles/cn08x9lw0pzo#5</id>
+        <link href="https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T00:41:16.000Z</updated>
+        <summary type="html"><![CDATA[The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I went through congressional trade filings from the week before the Iran war started. An Intelligence Committee member bought Exxon twice in early February and.....]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s3sqcl/i_went_through_congressional_trade_filings_from/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s3sqcl/i_went_through_congressional_trade_filings_from/"/>
+        <updated>2026-03-26T00:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Josh Gottheimer is on the House Intelligence Committee.
+ 2/2: Bought Exxon
+ 2/4: Bought Exxon
+ 2/27: Sold Palo Alto
+ Exxon is up 10% since
+ Sold a cybersecurity company stock the day before bombs dropped.
+ Looks like selling off after some wins and buying energy just before an Oil crisis.
+ More questions than answers but very fortunate timing to say the least.
+    submitted by    /u/Wegs1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 Meta and YouTube found liable in social media addiction case, potential implications for business models]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s3ryoj/meta_and_youtube_found_liable_in_social_media/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s3ryoj/meta_and_youtube_found_liable_in_social_media/"/>
+        <updated>2026-03-26T00:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Saw this on Blossom and thought this was pretty significant from an investing perspective
+ A U.S. jury found Meta and YouTube liable in a case arguing their platforms were intentionally designed to be addictive (infinite scroll, autoplay, notifications, etc.). The plaintiff was awarded $3M, with punitive damages still to be decided.
+ If this holds on appeal, it could force real changes to core engagement mechanics, which are basically the foundation of ad revenue for these platforms.
+ Feels like a potential “Big Tobacco” moment for social media if regulation follows.
+ https://www.wsj.com/tech/personal-tech/meta-and-youtube-found-negligent-in-social-media-addiction-trial-35b2830d?mod=tech_lead_story
+    submitted by    /u/kabirsbhutani  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The homeless teenager who became a successful advertising boss]]></title>
+        <id>https://www.bbc.com/news/articles/cn08lx745ndo#2</id>
+        <link href="https://www.bbc.com/news/articles/cn08lx745ndo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T00:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Greg Daily has swapped sleeping on friends' sofas for running a popular digital marketing company.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Octopus boss: We've seen a 50% rise in solar panel sales since start of Iran war]]></title>
+        <id>https://www.bbc.com/news/articles/c4gjlezq80no#1</id>
+        <link href="https://www.bbc.com/news/articles/c4gjlezq80no?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-26T00:00:49.000Z</updated>
+        <summary type="html"><![CDATA[The UK giant is optimistic but chief executive Greg Jackson tells the BBC he is making contingency plans.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asia Is Getting Crushed Between Oil Prices and the Dollar]]></title>
+        <id>https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html"/>
+        <updated>2026-03-25T23:50:52.000Z</updated>
+        <summary type="html"><![CDATA[From India to Southeast Asia to South Korea, currencies are crumbling as governments race to secure fuel that is priced in American money.]]></summary>
+        <author>
+            <name>Alex Travelli, Choe Sang-Hun, Sui-Lee Wee and Jason Gutierrez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Oil Price Shock Could Make Italian Ice More Expensive]]></title>
+        <id>https://www.nytimes.com/2026/03/25/business/oil-price-italian-ice.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/business/oil-price-italian-ice.html"/>
+        <updated>2026-03-25T22:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Higher energy prices caused by the war with Iran could affect more than just prices at the pump for American consumers.]]></summary>
+        <author>
+            <name>Sydney Ember</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[is 2026 the year of renewable energy?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s3oodt/is_2026_the_year_of_renewable_energy/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s3oodt/is_2026_the_year_of_renewable_energy/"/>
+        <updated>2026-03-25T21:55:54.000Z</updated>
+        <summary type="html"><![CDATA[With everything going on in Iran and the strait of hormuz, and the increasing demand for energy from AI, will renewable energy sector be the winner of 2026? 
+ The Phillippines is said to only have enough fuel for 45 days, will this be the event that finally accelerates the world towards renewable energy? 
+    submitted by    /u/drivingaddictionchan  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil Prices Fall as Trump Shows Eagerness to Talk to Iran]]></title>
+        <id>https://www.nytimes.com/2026/03/24/business/oil-stock-gas-prices-iran.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/business/oil-stock-gas-prices-iran.html"/>
+        <updated>2026-03-25T21:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Investors reacted to signals of possible de-escalation of the war in the Middle East.]]></summary>
+        <author>
+            <name>The New York Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil prices volatile as Trump talks up Iran negotiations]]></title>
+        <id>https://www.bbc.com/news/articles/c995xp4jxj2o#1</id>
+        <link href="https://www.bbc.com/news/articles/c995xp4jxj2o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-25T21:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Crude rose back above $100 a barrel as the US and Iran clashed over bringing the conflict to an end.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz]]></title>
+        <id>https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html"/>
+        <updated>2026-03-25T20:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Ships with no ties to Israel or the United States would be allowed to pass, the government said, but it was unclear if any vessels would try.]]></summary>
+        <author>
+            <name>Peter Eavis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened After a U.S. Warship Hit an Iranian Mine in 1988]]></title>
+        <id>https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html"/>
+        <updated>2026-03-25T19:26:08.000Z</updated>
+        <summary type="html"><![CDATA[President Trump has suggested providing escorts for stranded tankers. A mine strike on a U.S. frigate in the Persian Gulf shows the perils of doing so.]]></summary>
+        <author>
+            <name>Peter Eavis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music]]></title>
+        <id>https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html"/>
+        <updated>2026-03-25T18:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Leading music labels sued Cox Communications for failing to terminate accounts of subscribers flagged for distributing copyrighted music.]]></summary>
+        <author>
+            <name>Ann E. Marimow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$70k Investment: Moving from interest savings accounts to ETFs, bad time?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s3eemc/70k_investment_moving_from_interest_savings/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s3eemc/70k_investment_moving_from_interest_savings/"/>
+        <updated>2026-03-25T15:44:51.000Z</updated>
+        <summary type="html"><![CDATA[I have had my money in regular interest savings accounts and buying property for a few years. I am looking to put $50-70k into 80% Vanguard All-world ETF and 20% into EM and All world Tech ETFs. 
+ I know timing the market is not as important as time in the market, but timing could be nice too!
+ I am intent to leave this money in the funds long term. 
+ I’m no market speculator, hence the ETFs, if you were in my position would you wait out the current uncertainty or just go for it? 
+    submitted by    /u/postmanmalone123  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Soaring Fuel Costs Mean for Your Air Travel]]></title>
+        <id>https://www.nytimes.com/video/business/100000010785304/what-soaring-fuel-costs-mean-for-your-air-travel.html</id>
+        <link href="https://www.nytimes.com/video/business/100000010785304/what-soaring-fuel-costs-mean-for-your-air-travel.html"/>
+        <updated>2026-03-25T15:25:03.000Z</updated>
+        <summary type="html"><![CDATA[The price of jet fuel has almost doubled since the start of the war. Our reporter Niraj Chokshi, who covers aviation, describes what that will mean for flights.]]></summary>
+        <author>
+            <name>Niraj Chokshi, Léo Hamelin, Stephanie Swart, Rebecca Suner and Lauren Pruitt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Gas Prices Spike, California Is Hit Hardest]]></title>
+        <id>https://www.nytimes.com/2026/03/25/business/energy-environment/iran-california-gas-prices.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/business/energy-environment/iran-california-gas-prices.html"/>
+        <updated>2026-03-25T13:30:10.000Z</updated>
+        <summary type="html"><![CDATA[A gallon has climbed to nearly $6 in the state, about $2 above the national average.]]></summary>
+        <author>
+            <name>Ivan Penn and Kurtis Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK inflation rate stays at 3% before Iran war hits oil prices]]></title>
+        <id>https://www.bbc.com/news/articles/cx2w47e9v2vo#1</id>
+        <link href="https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-25T13:27:50.000Z</updated>
+        <summary type="html"><![CDATA[The speed of price rises in the UK has stayed the same, according to data which was collected before the US-Israel war with Iran began.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Sora’s End Says About OpenAI’s Strategy]]></title>
+        <id>https://www.nytimes.com/2026/03/25/business/dealbook/sora-openai-finances-ipo.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/business/dealbook/sora-openai-finances-ipo.html"/>
+        <updated>2026-03-25T13:03:47.000Z</updated>
+        <summary type="html"><![CDATA[The artificial intelligence start-up has pulled the plug on the video-making tool as it rethinks spending ahead of a possible blockbuster I.P.O.]]></summary>
+        <author>
+            <name>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We need more plumbers and fewer lawyers in AI age, says BlackRock boss]]></title>
+        <id>https://www.bbc.com/news/articles/c9wqrdkx8ppo#1</id>
+        <link href="https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-25T12:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Larry Fink also warns if oil prices stay high for a sustained period it will have "profound implications" for the world economy.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump]]></title>
+        <id>https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html"/>
+        <updated>2026-03-25T11:22:07.000Z</updated>
+        <summary type="html"><![CDATA[The cut represents about 20 percent of the video game company’s work force, a spokeswoman said.]]></summary>
+        <author>
+            <name>Michael Levenson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Brigade System Helps Restaurants Succeed. Does It Also Lead to Abuse?]]></title>
+        <id>https://www.nytimes.com/2026/03/25/dining/noma-brigade-system.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/dining/noma-brigade-system.html"/>
+        <updated>2026-03-25T10:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Allegations against Noma’s chef have spurred debate over whether a 19th-century model for organizing kitchen staffs breeds physical and psychic violence.]]></summary>
+        <author>
+            <name>Pete Wells</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Announces $1.5 Billion Share Buyback Program as Stock Slides 39%]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s372d0/robinhood_announces_15_billion_share_buyback/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s372d0/robinhood_announces_15_billion_share_buyback/"/>
+        <updated>2026-03-25T10:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Source: https://beincrypto.com/robinhood-buyback-hood-stock-decline-2026/
+ HOOD tripled in 2025 then lost 39% year-to-date in 2026, closing at a yearly low of $69.08, down over 54% from its October all-time high of $152.46. Robinhood's board responded by approving a $1.5 billion share repurchase program to be executed over three years, adding $1.1 billion in fresh buyback capacity.
+ The company also quietly expanded its JPMorgan credit facility from $2.65 billion to $3.25 billion, expandable to $4.87 billion. Wall Street analysts still hold a strong buy rating with a 12-month price target implying roughly 79% upside from current levels.
+ The question is whether this buyback signals genuine undervaluation or just management trying to catch a falling knife.
+    submitted by    /u/Kitchen_Biscotti_747  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheap Drones Remain Wild Card in Iran war]]></title>
+        <id>https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html"/>
+        <updated>2026-03-25T10:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done?]]></summary>
+        <author>
+            <name>Nicholas Kulish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Flights Get Any Worse? Travelers Deal With TSA Lines, High Ticket Prices and Anxiety.]]></title>
+        <id>https://www.nytimes.com/2026/03/25/travel/airports-flights-security-ticket-prices.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/travel/airports-flights-security-ticket-prices.html"/>
+        <updated>2026-03-25T09:06:12.000Z</updated>
+        <summary type="html"><![CDATA[Travelers are waiting hours at security checkpoints, paying top dollar for tickets and worrying about safety after a deadly crash at LaGuardia.]]></summary>
+        <author>
+            <name>Christine Chung and Ceylan Yeğinsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Dirty Money Trail From Venezuela to Iran Brought Down a Swiss Bank]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1s35js8/how_a_dirty_money_trail_from_venezuela_to_iran/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1s35js8/how_a_dirty_money_trail_from_venezuela_to_iran/"/>
+        <updated>2026-03-25T09:03:45.000Z</updated>
+        <summary type="html"><![CDATA[From Bloomberg News reporters Noele Illien and Myriam Balezou: 
+ Even as MBaer Merchant Bank was named among the "most prosperous" Swiss private banks last year by a local wealth-management event, its end was near. 
+ The alleged facilitation of money laundering brought the Swiss minnow to the attention of US Treasury Secretary Scott Bessent, who on the eve of war with Iran late last month, effectively forced it to shut down.
+ “MBaer has funneled over a hundred million dollars through the US financial system on behalf of illicit actors tied to Iran and Russia,” Bessent said in a statement. The threat to cut the bank off from the US financial system was enough to overcome legal challenges to the Swiss regulator Finma’s earlier order to liquidate the firm.
+ Its ignominious end undermines Switzerland’s years-long efforts to clean up its financial system and prove that Zurich and Geneva no longer offer an easy haven for cash linked to crime.
+    submitted by    /u/bloomberg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Daily Money Managers Help Busy People With Their Finances]]></title>
+        <id>https://www.nytimes.com/2026/03/25/business/daily-money-managers-finances.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/business/daily-money-managers-finances.html"/>
+        <updated>2026-03-25T09:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Daily money managers generally help older adults and the wealthy, but busy professionals are increasingly using their services when they get behind.]]></summary>
+        <author>
+            <name>Paulette Perhach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senate Housing Bill Sparks Debate About Who Gets to Own Single-Family Homes]]></title>
+        <id>https://www.nytimes.com/2026/03/25/business/economy/single-family-homes-rentals-housing-shortage.html</id>
+        <link href="https://www.nytimes.com/2026/03/25/business/economy/single-family-homes-rentals-housing-shortage.html"/>
+        <updated>2026-03-25T09:01:34.000Z</updated>
+        <summary type="html"><![CDATA[Within the Senate’s housing bill lie the terms of an unusual debate: Who gets to own — and live in — single-family homes?]]></summary>
+        <author>
+            <name>Conor Dougherty and Ronda Kaysen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are UK prices still rising?]]></title>
+        <id>https://www.bbc.com/news/articles/c17rgd8e9gjo#1</id>
+        <link href="https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-25T08:35:11.000Z</updated>
+        <summary type="html"><![CDATA[UK Inflation has dropped back from record highs but remains above the Bank of England's 2% target.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI closes Sora video-making app and cancels $1bn Disney deal]]></title>
+        <id>https://www.bbc.com/news/articles/c3w3e467ewqo#1</id>
+        <link href="https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-25T04:48:56.000Z</updated>
+        <summary type="html"><![CDATA[The move comes less two years after the launch of the AI video app sent shockwaves through the media industry.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Wildly unaffordable': The harsh reality of shared ownership]]></title>
+        <id>https://www.bbc.com/news/articles/cm25e8k2je1o#1</id>
+        <link href="https://www.bbc.com/news/articles/cm25e8k2je1o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-25T01:23:06.000Z</updated>
+        <summary type="html"><![CDATA[For many, the promise of getting a foot on the property ladder has turned into a nightmare.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delta Air Lines Says It Will Suspend Special Services for Congress Members]]></title>
+        <id>https://www.nytimes.com/2026/03/24/business/delta-congress-travel-services-suspended.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/business/delta-congress-travel-services-suspended.html"/>
+        <updated>2026-03-24T23:40:34.000Z</updated>
+        <summary type="html"><![CDATA[Airport escorts and “red coat” assistance for lawmakers will be suspended, the airline said on Tuesday, citing the extended partial government shutdown.]]></summary>
+        <author>
+            <name>Livia Albeck-Ripka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York Times Accuses Pentagon of Defying Court Order]]></title>
+        <id>https://www.nytimes.com/2026/03/24/business/media/new-york-times-pentagon-court-order.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/business/media/new-york-times-pentagon-court-order.html"/>
+        <updated>2026-03-24T23:17:02.000Z</updated>
+        <summary type="html"><![CDATA[The company said in a legal filing that the department sought to fashion an “end run” when it issued revised media rules on Monday.]]></summary>
+        <author>
+            <name>Erik Wemple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Limits on Investors and a Debt Downgrade Add to Private Credit Woes]]></title>
+        <id>https://www.nytimes.com/2026/03/24/business/moodys-private-credit-downgrade.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/business/moodys-private-credit-downgrade.html"/>
+        <updated>2026-03-24T22:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Investors are concerned about the health of the industry, which ballooned over the past decade.]]></summary>
+        <author>
+            <name>Maureen Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Oil Shipment Puts Focus on Kremlin Spy Outpost in Cuba]]></title>
+        <id>https://www.nytimes.com/2026/03/24/us/politics/cuba-russia-china.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/us/politics/cuba-russia-china.html"/>
+        <updated>2026-03-24T21:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Moscow may be challenging President Trump’s effort to choke Cuba’s economy. China also has suspected listening posts on the island.]]></summary>
+        <author>
+            <name>Michael Crowley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Oil and Gas Prices Could Outlast Trump’s War With Iran]]></title>
+        <id>https://www.nytimes.com/2026/03/24/us/politics/oil-gas-prices-iran.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/us/politics/oil-gas-prices-iran.html"/>
+        <updated>2026-03-24T20:41:21.000Z</updated>
+        <summary type="html"><![CDATA[While the president has promised rapid relief, Americans could feel the financial sting of the conflict for some time after it ends.]]></summary>
+        <author>
+            <name>Tony Romm and Rebecca F. Elliott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[War in Iran Is Disrupting Air Travel, Hitting Middle East Hardest]]></title>
+        <id>https://www.nytimes.com/2026/03/24/business/iran-war-airlines-jet-fuel.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/business/iran-war-airlines-jet-fuel.html"/>
+        <updated>2026-03-24T17:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Some airlines and travelers, especially in the Middle East and elsewhere in Asia, are bearing the brunt of the pain, while others are doing better.]]></summary>
+        <author>
+            <name>Niraj Chokshi, Pragati K.B. and Aaron Krolik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid Relief Loans Are Haunting Small Businesses]]></title>
+        <id>https://www.nytimes.com/2026/03/24/business/economy/sba-pandemic-loan-defaults.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/business/economy/sba-pandemic-loan-defaults.html"/>
+        <updated>2026-03-24T17:03:50.000Z</updated>
+        <summary type="html"><![CDATA[The Small Business Administration lent $378 billion to keep businesses afloat. Getting paid back is proving difficult.]]></summary>
+        <author>
+            <name>Lydia DePillis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investors Question Whether Quick Peace in Iran Is Possible]]></title>
+        <id>https://www.nytimes.com/2026/03/24/business/dealbook/markets-tehran-trump.html</id>
+        <link href="https://www.nytimes.com/2026/03/24/business/dealbook/markets-tehran-trump.html"/>
+        <updated>2026-03-24T11:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Global markets are under pressure again amid doubts that the fighting in the Middle East can end anytime soon.]]></summary>
+        <author>
+            <name>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would you build your own apps?]]></title>
+        <id>https://www.bbc.com/news/articles/cwy8wxgmgd1o#2</id>
+        <link href="https://www.bbc.com/news/articles/cwy8wxgmgd1o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-24T00:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Start-ups are offering tech for novices to create apps with the help of AI.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US weight-loss drugmakers slash prices in fight to win customers]]></title>
+        <id>https://www.bbc.com/news/articles/c5yg6kyd9dzo#2</id>
+        <link href="https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-23T06:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Weight-loss drug prices are falling in the US - but can the example be repeated?]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moronic Monday - March 23, 2026 - Your Weekly Questions Thread]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1s18u9h/moronic_monday_march_23_2026_your_weekly/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1s18u9h/moronic_monday_march_23_2026_your_weekly/"/>
+        <updated>2026-03-23T06:01:29.000Z</updated>
+        <summary type="html"><![CDATA[This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.
+ Replies are expected to be constructive and civil.
+ Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany has a shortage of workers - so it's turning to India for help]]></title>
+        <id>https://www.bbc.com/news/articles/c3wlww83yv4o#2</id>
+        <link href="https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-23T00:03:25.000Z</updated>
+        <summary type="html"><![CDATA[The European nation, struggling to find skilled staff, is giving jobs to young people from India.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Club vibes without the hangover': The twenty-somethings going out - in the gym]]></title>
+        <id>https://www.bbc.com/news/articles/cly0krjy57lo#2</id>
+        <link href="https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-22T00:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Young people are driving a gym boom as more fitness spaces are transformed into vibrant hangouts.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home working, long leases and rise of parking apps - what went wrong for NCP]]></title>
+        <id>https://www.bbc.com/news/articles/cgl5rwgr5l2o#2</id>
+        <link href="https://www.bbc.com/news/articles/cgl5rwgr5l2o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-21T01:59:52.000Z</updated>
+        <summary type="html"><![CDATA[How could a company that charged as much as £65 for a day's parking fail to turn a profit?]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colombia's budding tech scene needs a cash boost]]></title>
+        <id>https://www.bbc.com/news/articles/c4g2kyg4e78o#2</id>
+        <link href="https://www.bbc.com/news/articles/c4g2kyg4e78o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-20T00:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Colombia has become a tech hub for Latin America, but attracting investors is a challenge.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers]]></title>
+        <id>https://www.bbc.com/news/articles/c4gjn1d74jlo#5</id>
+        <link href="https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-20T00:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Finnish supermarkets are central to the country's defence]]></title>
+        <id>https://www.bbc.com/news/articles/cly1mg3zy20o#2</id>
+        <link href="https://www.bbc.com/news/articles/cly1mg3zy20o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-19T00:10:45.000Z</updated>
+        <summary type="html"><![CDATA[The chains all have detailed plans to follow in the event of the nation going to war.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fed holds rates steady and punts on the Middle East: "uncertain"]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rxc1vz/the_fed_holds_rates_steady_and_punts_on_the/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rxc1vz/the_fed_holds_rates_steady_and_punts_on_the/"/>
+        <updated>2026-03-18T18:31:39.000Z</updated>
+        <summary type="html"><![CDATA[The Federal Reserve held rates steady Wednesday for the second meeting in a row as the war in Iran clouds an already murky economic picture. In its statement, the Fed acknowledged the war, but kept its language cautious, saying the economic implications of the Middle East conflict remain “uncertain.” 
+ The decision was nearly unanimous, save for Stephen Miran, the Trump-appointed governor, who cast his fifth consecutive dissent in favor of a quarter-point cut. 
+ But the rest of the committee opted to sit tight, citing elevated uncertainty on both sides of the Fed’s dual mandate: inflation that won’t come down and a labor market that shocked economists with its slackness last month. 
+ Read more: https://fortune.com/2026/03/18/federal-reserve-decision-iran-war-inflation-jobs-rates-steady/
+    submitted by    /u/fortune  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it possible to build a plastic-free home?]]></title>
+        <id>https://www.bbc.com/news/articles/cy4wemk4dzvo#2</id>
+        <link href="https://www.bbc.com/news/articles/cy4wemk4dzvo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-17T00:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Using plastic in construction is cheap and easy, but some are trying to radically cut back its use.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moronic Monday - March 16, 2026 - Your Weekly Questions Thread]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rv1gl7/moronic_monday_march_16_2026_your_weekly/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rv1gl7/moronic_monday_march_16_2026_your_weekly/"/>
+        <updated>2026-03-16T06:01:02.000Z</updated>
+        <summary type="html"><![CDATA[This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.
+ Replies are expected to be constructive and civil.
+ Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine's urgent fight on the financial frontline]]></title>
+        <id>https://www.bbc.com/news/articles/c20jyngz7ygo#2</id>
+        <link href="https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-16T00:06:14.000Z</updated>
+        <summary type="html"><![CDATA[The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why has Trump eased sanctions on Russian oil - and will it help Putin?]]></title>
+        <id>https://www.bbc.com/news/articles/cm2871wyz9ko#2</id>
+        <link href="https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-13T16:07:39.000Z</updated>
+        <summary type="html"><![CDATA[The US said easing sanctions on Russian oil would provide only a limited financial boost to Putin.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goldman executive says private markets clients ‘glad’ about Iran war ‘distraction’]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rsp3bs/goldman_executive_says_private_markets_clients/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rsp3bs/goldman_executive_says_private_markets_clients/"/>
+        <updated>2026-03-13T14:38:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Tayo826  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dharshini David: Economy on shaky ground even before Iran war]]></title>
+        <id>https://www.bbc.com/news/articles/cn0z7971r4zo#2</id>
+        <link href="https://www.bbc.com/news/articles/cn0z7971r4zo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-13T10:58:28.000Z</updated>
+        <summary type="html"><![CDATA[The government's hopes that 2026 would be the year when growth picks up are at risk of being scuppered.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gulf Bonds Safe haven status: under fire everywhere but credit markets]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rshzi1/gulf_bonds_safe_haven_status_under_fire/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rshzi1/gulf_bonds_safe_haven_status_under_fire/"/>
+        <updated>2026-03-13T08:45:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/wreckingcru  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US intervention in oil futures would be ‘biblical disaster’, CME warns. Terry Duffy says any attempt by the government to lower prices using derivatives market would erode confidence]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rs88cd/us_intervention_in_oil_futures_would_be_biblical/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rs88cd/us_intervention_in_oil_futures_would_be_biblical/"/>
+        <updated>2026-03-13T00:19:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/coolbern  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can plastic-eating fungi help clean up nappy waste?]]></title>
+        <id>https://www.bbc.com/news/articles/cvg3wg0yrp5o#2</id>
+        <link href="https://www.bbc.com/news/articles/cvg3wg0yrp5o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-13T00:03:14.000Z</updated>
+        <summary type="html"><![CDATA[Cost and convenience have made disposable nappies dominant - can start-ups compete?]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to the Fault Lines in the Credit Market]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rs4o4o/a_guide_to_the_fault_lines_in_the_credit_market/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rs4o4o/a_guide_to_the_fault_lines_in_the_credit_market/"/>
+        <updated>2026-03-12T21:59:18.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/wreckingcru  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British fintech Revolut gets full banking licence]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rrorw1/british_fintech_revolut_gets_full_banking_licence/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rrorw1/british_fintech_revolut_gets_full_banking_licence/"/>
+        <updated>2026-03-12T11:58:36.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Dragonogard549  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cash in the constitution: a Swiss decision on an international issue]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rotp2j/cash_in_the_constitution_a_swiss_decision_on_an/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rotp2j/cash_in_the_constitution_a_swiss_decision_on_an/"/>
+        <updated>2026-03-09T07:29:41.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/stinglikebutterbee  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moronic Monday - March 09, 2026 - Your Weekly Questions Thread]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1ros869/moronic_monday_march_09_2026_your_weekly/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1ros869/moronic_monday_march_09_2026_your_weekly/"/>
+        <updated>2026-03-09T06:01:07.000Z</updated>
+        <summary type="html"><![CDATA[This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.
+ Replies are expected to be constructive and civil.
+ Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackRock fund limits withdrawals as redemptions rattle private credit]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rnoc6u/blackrock_fund_limits_withdrawals_as_redemptions/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rnoc6u/blackrock_fund_limits_withdrawals_as_redemptions/"/>
+        <updated>2026-03-07T23:07:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Fresh-Function3319  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lloyd Blankfein’s Unapologetic Case for Goldman Sachs]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rngqna/lloyd_blankfeins_unapologetic_case_for_goldman/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rngqna/lloyd_blankfeins_unapologetic_case_for_goldman/"/>
+        <updated>2026-03-07T18:04:49.000Z</updated>
+        <summary type="html"><![CDATA[The former CEO’s memoir Streetwise is a love letter to the firm that forged him and a defense of the culture that made it dominant.
+    submitted by    /u/bloomberg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Anonymous Bettors Profited From the Iranian Strike Just Hours Before It Happened]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rk0n7v/how_anonymous_bettors_profited_from_the_iranian/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rk0n7v/how_anonymous_bettors_profited_from_the_iranian/"/>
+        <updated>2026-03-03T20:33:14.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/No-Flounder2988  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump's action against Iran is yet another wobble for government debt, warns UBS]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rixpfd/trumps_action_against_iran_is_yet_another_wobble/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rixpfd/trumps_action_against_iran_is_yet_another_wobble/"/>
+        <updated>2026-03-02T16:36:44.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/fortune  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moronic Monday - March 02, 2026 - Your Weekly Questions Thread]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rikxqi/moronic_monday_march_02_2026_your_weekly/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rikxqi/moronic_monday_march_02_2026_your_weekly/"/>
+        <updated>2026-03-02T06:01:08.000Z</updated>
+        <summary type="html"><![CDATA[This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.
+ Replies are expected to be constructive and civil.
+ Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Says Swiss Bank MBaer Could Lose Access to Financial System]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1rfdw20/us_says_swiss_bank_mbaer_could_lose_access_to/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1rfdw20/us_says_swiss_bank_mbaer_could_lose_access_to/"/>
+        <updated>2026-02-26T15:56:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Outrageous-Baker5834  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
         </author>
     </entry>
 </feed>
