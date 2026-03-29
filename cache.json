@@ -6,6 +6,66 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.com/news/articles/cg4gdxp553wo#4",
+          "author": null,
+          "description": "Social media posts claimed Newcastle's scene was thriving, but venues claim it is not the case.",
+          "link": "https://www.bbc.com/news/articles/cg4gdxp553wo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-28T07:35:20.000Z",
+          "wordCount": 8207,
+          "title": "City's electronic music venues struggling despite growth",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5ac8/live/866c1250-2781-11f1-b6c4-11a8e903bb84.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cdxd9ee1dwzo#4",
+          "author": null,
+          "description": "People across the West explain how the charges on their buildings are affecting their finances.",
+          "link": "https://www.bbc.com/news/articles/cdxd9ee1dwzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-28T07:17:55.000Z",
+          "wordCount": 6890,
+          "title": "Service charges coming under government scrutiny",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b281/live/40f0fee0-290f-11f1-ac3b-771a0d255958.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c17ve1n8njgo#4",
+          "author": null,
+          "description": "Mia, a student, says it will lesson the burden on anyone spending hundreds of pounds on a dress.",
+          "link": "https://www.bbc.com/news/articles/c17ve1n8njgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-28T06:47:48.000Z",
+          "wordCount": 6019,
+          "title": "Free prom hire boutique set up for two schools",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/84a4/live/fa887810-29f5-11f1-8f65-5dbc9a6a5bd5.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c397n3jl3z8o#5",
+          "author": null,
+          "description": "Butter, chocolate, coffee and milk have all seen prices rocket. Tracing back through the story of one particular supermarket staple begins to explain why",
+          "link": "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-28T06:30:45.000Z",
+          "wordCount": 10588,
+          "title": "The £5.30 orange juice that tells the story of why supermarket prices are sky high",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c624/live/674f7590-ab41-11f0-ba75-093eca1ac29b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c4g8wyvv1wxo#4",
+          "author": null,
+          "description": "Taoiseach (Prime Minister) Micheál Martin said Ireland's economy enters the crisis from a position of \"relative strength\".",
+          "link": "https://www.bbc.com/news/articles/c4g8wyvv1wxo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-28T06:17:59.000Z",
+          "wordCount": 4952,
+          "title": "How will energy crisis hit Ireland's economy?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8f3c/live/7f4fb6e0-29eb-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cvgk8zk9epgo#0",
+          "author": null,
+          "description": "Oil markets have been sensitive to Donald Trump's comments on the war. But are traders growing less responsive?",
+          "link": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-28T03:04:47.000Z",
+          "wordCount": 5069,
+          "title": "How Trump and the oil markets move in sync: a tango in five charts",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/afff/live/0ed104c0-29fd-11f1-99ef-b5dfea7d5974.jpg"
+        },
+        {
           "id": "https://www.bbc.com/news/articles/cdxdnd87v78o#0",
           "author": null,
           "description": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
@@ -224,6 +284,16 @@
           "wordCount": 5420,
           "title": "'It took six years to receive my late father's premium bonds'",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e7ae/live/a9c8d9f0-2924-11f1-b297-95b0a0a8331e.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sounds/play/m002t2vv#6",
+          "author": null,
+          "description": "What are the reasons for the large number of young people without a job in the UK?",
+          "link": "https://www.bbc.co.uk/sounds/play/m002t2vv?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-03-26T13:08:00.000Z",
+          "wordCount": 1954,
+          "title": "The Briefing Room",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0n8hm6l.jpg"
         },
         {
           "id": "https://www.bbc.com/news/articles/cgk0j71g417o#1",
@@ -588,6 +658,66 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/03/28/business/nexgrill-grill-brush-recall-spikes-ingested.html",
+          "author": "Claire Fahy",
+          "description": "In at least five cases, customers sought medical attention to remove bristles “from their digestive tract or throat,” a federal agency said.",
+          "link": "https://www.nytimes.com/2026/03/28/business/nexgrill-grill-brush-recall-spikes-ingested.html",
+          "publishedOn": "2026-03-28T21:18:46.000Z",
+          "wordCount": null,
+          "title": "10 Million Grill Brushes Recalled After Some People Ingested Loose Bristles",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/28/business/iran-propaganda-war-ai.html",
+          "author": "Steven Lee Myers, Tiffany Hsu and Stuart A. Thompson",
+          "description": "Propaganda and disinformation have flooded the internet in a sophisticated effort to undermine support for U.S. and Israeli attacks.",
+          "link": "https://www.nytimes.com/2026/03/28/business/iran-propaganda-war-ai.html",
+          "publishedOn": "2026-03-28T16:55:01.000Z",
+          "wordCount": null,
+          "title": "In an Asymmetrical War, Iran Seeks an Edge With Its Information War",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/28/business/oil-shocks-1970s-iran-war.html",
+          "author": "Jeff Sommer",
+          "description": "Gas lines and quadrupling oil prices freaked out American consumers. But the oil crises also transformed global finance.",
+          "link": "https://www.nytimes.com/2026/03/28/business/oil-shocks-1970s-iran-war.html",
+          "publishedOn": "2026-03-28T16:33:29.000Z",
+          "wordCount": null,
+          "title": "The Oil Shocks of the ’70s Changed the World. Will the Iran War Do the Same?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
+          "author": "Ivan Nechepurenko",
+          "description": "The challenges faced by a small-business owner near Moscow highlight how Russia’s war-drained economy is on the doorstep of a major crisis.",
+          "link": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
+          "publishedOn": "2026-03-28T16:26:21.000Z",
+          "wordCount": null,
+          "title": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
+          "author": "Lora Kelley",
+          "description": "As artificial intelligence takes on more and more tasks, tech executives are embracing teams as small as two: one person plus A.I.",
+          "link": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
+          "publishedOn": "2026-03-28T12:53:20.000Z",
+          "wordCount": null,
+          "title": "Smaller Is Better in Silicon Valley’s ‘Tiny Team’ Moment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/03/28/business/dealbook/chef-restaurant-residencies.html",
+          "author": "Matthew Kronsberg",
+          "description": "From Las Vegas to the Côte d’Azur, high-profile chefs are taking their cuisine on the road.",
+          "link": "https://www.nytimes.com/2026/03/28/business/dealbook/chef-restaurant-residencies.html",
+          "publishedOn": "2026-03-28T12:00:03.000Z",
+          "wordCount": null,
+          "title": "The Biggest Names in Fine Dining Now Have Rock-Star Residencies",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/03/27/business/bank-of-america-epstein-victims-settlement.html",
           "author": "Matthew Goldstein",
@@ -1236,6 +1366,146 @@
       "siteUrl": "https://www.investing.com",
       "articles": [
         {
+          "id": "https://www.investing.com/news/economy-news/baltic-port-attacks-halt-russian-crude-loadings-as-ukraine-targets-energy-hubs-4586565",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/baltic-port-attacks-halt-russian-crude-loadings-as-ukraine-targets-energy-hubs-4586565",
+          "publishedOn": "2026-03-29T05:12:21.000Z",
+          "wordCount": null,
+          "title": "Baltic port attacks halt Russian crude loadings as Ukraine targets energy hubs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/us-and-india-remain-split-on-wto-ecommerce-moratorium-extension-4586564",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/us-and-india-remain-split-on-wto-ecommerce-moratorium-extension-4586564",
+          "publishedOn": "2026-03-29T04:44:42.000Z",
+          "wordCount": null,
+          "title": "U.S. and India remain split on WTO e-commerce moratorium extension",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEC8L124_M.jpg",
+            "length": "16569",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEC8L124_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/biorestorative-therapies-earnings-beat-by-001-revenue-fell-short-of-estimates-4586563",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/biorestorative-therapies-earnings-beat-by-001-revenue-fell-short-of-estimates-4586563",
+          "publishedOn": "2026-03-29T04:23:14.000Z",
+          "wordCount": null,
+          "title": "BioRestorative Therapies earnings beat by $0.01, revenue fell short of estimates",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+            "length": "28806",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/tpi-composites-earnings-missed-by-186-revenue-fell-short-of-estimates-4586562",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/tpi-composites-earnings-missed-by-186-revenue-fell-short-of-estimates-4586562",
+          "publishedOn": "2026-03-29T04:19:24.000Z",
+          "wordCount": null,
+          "title": "TPI Composites earnings missed by $1.86, revenue fell short of estimates",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg",
+            "length": "31260",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/amplitech-earnings-missed-by-008-revenue-topped-estimates-4586561",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/amplitech-earnings-missed-by-008-revenue-topped-estimates-4586561",
+          "publishedOn": "2026-03-29T04:16:03.000Z",
+          "wordCount": null,
+          "title": "Amplitech earnings missed by $0.08, revenue topped estimates",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+            "length": "12906",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/wto-talks-stalled-going-into-final-day-amid-usindia-ecommerce-deadlock-4586560",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/wto-talks-stalled-going-into-final-day-amid-usindia-ecommerce-deadlock-4586560",
+          "publishedOn": "2026-03-29T04:06:24.000Z",
+          "wordCount": null,
+          "title": "WTO talks stalled going into final day amid U.S.-India e-commerce deadlock",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S01Y_L.jpg",
+            "length": "98755",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S01Y_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/how-will-higher-freight-costs-impact-offprice-retailers-4586559",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/how-will-higher-freight-costs-impact-offprice-retailers-4586559",
+          "publishedOn": "2026-03-29T04:03:42.000Z",
+          "wordCount": null,
+          "title": "How will higher freight costs impact off-price retailers?",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPED030DB_M.jpg",
+            "length": "23656",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPED030DB_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/australian-states-pivot-to-free-public-transport-as-fuel-shortages-rattle-economy-4586558",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/australian-states-pivot-to-free-public-transport-as-fuel-shortages-rattle-economy-4586558",
+          "publishedOn": "2026-03-29T03:29:51.000Z",
+          "wordCount": null,
+          "title": "Australian states pivot to free public transport as fuel shortages rattle economy",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPED6H07K_M.jpg",
+            "length": "28933",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPED6H07K_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/yemens-houthis-enter-iran-war-with-attacks-on-israel-while-us-marines-arrive-in-region-4586547",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/yemens-houthis-enter-iran-war-with-attacks-on-israel-while-us-marines-arrive-in-region-4586547",
+          "publishedOn": "2026-03-29T03:12:23.000Z",
+          "wordCount": null,
+          "title": "Yemen’s Houthis enter Iran war with attacks on Israel, while US Marines arrive in region",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2R0EP_L.jpg",
+            "length": "68652",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2R0EP_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/why-a-coding-agent-may-emerge-as-a-key-unlock-for-growth-4586557",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/why-a-coding-agent-may-emerge-as-a-key-unlock-for-growth-4586557",
+          "publishedOn": "2026-03-29T02:54:55.000Z",
+          "wordCount": null,
+          "title": "Why a Coding Agent May Emerge as a Key Unlock for Growth",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.investing.com/news/world-news/rubio-sees-us-action-in-iran-completed-in-weeks-as-airstrikes-rumble-on-4586362",
           "author": "Reuters",
           "description": "",
@@ -1532,6 +1802,196 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6myfr/centera_gold_had_me_hooked/",
+          "author": null,
+          "description": "I bought 250 shares of CGAU for about 14.90 average per share. It was up to 21 before the war started so I wasn’t worried. But now it’s dipping to within a dollar of what I payed for it. I’m a new investor so I don’t know if I should hold or take the little profit that is left. Everyone says hold, and buy more. But this market turn happened right when I was thinking of trimming my position. It’s hard out here in these streets. I wish everyone good luck!\n    submitted by    /u/StackiiBabii  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6myfr/centera_gold_had_me_hooked/",
+          "publishedOn": "2026-03-29T05:43:28.000Z",
+          "wordCount": null,
+          "title": "Centera Gold had me hooked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6l3b9/when_wall_street_says_buy_ask_yourself_whos/",
+          "author": null,
+          "description": "Markets will eventually find a floor, because they always have across every correction and bear market in modern history. But the floor isn''t determined by analyst opinions or media headlines, it''s determined by the point where selling pressure exhausts itself, where valuations reflect realistic forward earnings, and where institutional money starts flowing back into risk assets rather than out of them.\n Right now, we''re not there yet, and the evidence is consistent across multiple data points: the insider data, the fund flow data, and the VIX itself all suggest the market hasn''t reached the level of exhaustion that typically marks a sustainable bottom.\n That doesn''t mean you should sell everything and hide in cash. But it does mean you should think carefully about whether your next buy is driven by your own analysis or by someone else''s narrative. Because in every market downturn, someone ends up holding shares at prices that the sellers never intended to see again.\n    submitted by    /u/SignAncient8111  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6l3b9/when_wall_street_says_buy_ask_yourself_whos/",
+          "publishedOn": "2026-03-29T04:00:59.000Z",
+          "wordCount": null,
+          "title": "When Wall Street Says 'Buy,' Ask Yourself: Who's Selling?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6h07r/with_the_possible_fertilizer_shortage_how_do_you/",
+          "author": null,
+          "description": "Since the fertilizer shortage will cause prices to rise do we think a company that is focused on fertilizer in a more lawn and garden sub sector will increase in price or will the ag industry be the only ones who can get fertilizer as they will be the primary target for any fertilizer we get so we can produce corn for ethanol and other big crops.\n    submitted by    /u/vtmass  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6h07r/with_the_possible_fertilizer_shortage_how_do_you/",
+          "publishedOn": "2026-03-29T00:41:18.000Z",
+          "wordCount": null,
+          "title": "With the possible fertilizer shortage how do you think sticks like Scott’s Miracle Gro (SMG) move?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6faed/why_do_we_fall_for_the_sunk_cost_fallacy/",
+          "author": null,
+          "description": "Hi, I'm wanting to hear from experienced investors on this one. I think a lot of people fall prey to the sunk cost fallacy, and I would like to know why.\n let's say person A invested in Google two years ago and is up 100 percent, but owns 100k worth today\n let's say person B invested in Google two months ago and is down like ten percent, but owns 100k worth today.\n It seems like most people would advise person A to hold, but advise person B to cut their losses. but why? the two portfolios are identical. Your previous entry point doesn't affect whether google will gain or lose money in the future.\n so why do people do this? why are they more comfortable holding in bad positions, just because they previously made money on them?\n    submitted by    /u/dr_eh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6faed/why_do_we_fall_for_the_sunk_cost_fallacy/",
+          "publishedOn": "2026-03-28T23:24:11.000Z",
+          "wordCount": null,
+          "title": "Why do we fall for the sunk cost fallacy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6f61m/why_is_the_dollar_rising_compared_to_mxn/",
+          "author": null,
+          "description": "In 2025 i converted basically all my funds to MXN since the dollar was rapidly dropping from 20 to 17 MXN, i do business in MX so its why i chose that over the euro or something else\n Now the dollar is rising, i dont get it, the US was reported insolvent and all the other issues with China and Japan selling their bonds and and the huge list of other issues with the world not trusting the US ie; the dollar anymore\n Is it continued to rise or will it crash?\n    submitted by    /u/xboxhaxorz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6f61m/why_is_the_dollar_rising_compared_to_mxn/",
+          "publishedOn": "2026-03-28T23:18:48.000Z",
+          "wordCount": null,
+          "title": "Why is the dollar rising compared to MXN?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6bbdx/thoughts_on_primerica_withdrawing_roth_ira_from/",
+          "author": null,
+          "description": "My Dad is retired and wanted to withdraw his Roth IRA. He was telling me he was having trouble with it and wanted me to look over the paperwork for him. He drops a statement on the account with the Primerica logo on it and my heart almost sank. I told him to just withdraw it online, but he was told he would have to fill out paperwork and mail it back in . . . like its the 1990s.\n I tried making him an online account, and sure enough no simple path to withdrawing the funds. I have read a lot about how scummy this company is. Am I better off having him trying to roll it over to a real company like Fidelity? Or trusting him going along with signing some paperwork and mailing it over hoping they respond to the request? I can't find anything regarding how to with draw the funds outside of some \"Systematic Withdrawl Plans\" tab that just pulls up a message about \"Due to minimum required distribution regulations, modification of retirement account systematic withdrawal plans via the Internet is currently not supported.\"\n    submitted by    /u/AshyLarry27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6bbdx/thoughts_on_primerica_withdrawing_roth_ira_from/",
+          "publishedOn": "2026-03-28T20:37:29.000Z",
+          "wordCount": null,
+          "title": "Thoughts on Primerica? Withdrawing Roth IRA from online or roll it?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6b3kk/37f_180k_to_invest_retiring_at_60_simple_etf/",
+          "author": null,
+          "description": "Profile:\n • 37 years old\n • €180k to invest now\n • Time horizon: ~23 years\n • Goal: retire around 60\n • Based in Europe, using IBKR\n • Prefers simple, low-maintenance investing (no stock picking, no active trading)\n Current idea:\n • 100% VWCE (global equities)\n or\n • 80% VWCE / 20% global bonds (EUR hedged)\n Questions:\n  \nWith ~23 years horizon, does adding bonds now make sense or just reduces returns unnecessarily?\n Is sticking to 1–2 ETFs optimal here, or would you structure it differently?\n Any major risks or blind spots in this setup (sequence risk, allocation, etc.)?\n  \nLooking for a simple, robust long-term approach. Not interested in complex portfolios.\n thanks \n    submitted by    /u/Lucky0680  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6b3kk/37f_180k_to_invest_retiring_at_60_simple_etf/",
+          "publishedOn": "2026-03-28T20:28:57.000Z",
+          "wordCount": null,
+          "title": "37F, €180k to invest, retiring at ~60. simple ETF portfolio?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6a9td/looking_for_technical_advice_using_morgan_stanley/",
+          "author": null,
+          "description": "Hi,\n Anybody out there use the Morgan Stanley online brokerage? I'd love some technical advice.\n My elderly father-in-law has an account there and has asked me to help him transfer $1000 out of the account to his regular checking so he can pay his taxes. I helped him log into the system, but I've never used Morgan Stanley and I am a little confused on next steps! \n He seems to have one account with $350,000, but the money is in three different \"asset classes\":\n 1) Stocks/options has $301,000.\n 2) Cash/MMF+BDP has -$15,000 (what does this mean? Why is it negative?)\n 3) Savings and Time Deposits has $66,000 (is this a savings account? It looks like his dividends are being swept into this account?)\n Here's what I find confusing: When we went to \"Transfer Funds\" it said there was \"$135,000 Available Funds.\" Where does this number come from?\n So here are my several questions:\n 1) Since he seems to have $66K in his \"Savings\" asset, is there a way to just transfer $1000 from that account to his external savings? (I didn't see that option.) \n 2) What is this \"Cash/MMF\" asset class that is in the negative?\n 3) If we simply say \"transfer $1000 to his external checking\" where does it actually take the money from? It doesn't seem to ask where to take the money from.\n 4) Why does it say he has $135,000 available? How is that number derived?\n Thanks for your help!!\n    submitted by    /u/bzbsteve  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6a9td/looking_for_technical_advice_using_morgan_stanley/",
+          "publishedOn": "2026-03-28T19:56:18.000Z",
+          "wordCount": null,
+          "title": "Looking For Technical Advice using Morgan Stanley Online System",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s69jpd/interpreting_watchlist_that_still_has_high_pe/",
+          "author": null,
+          "description": "A few stocks on my watchlist but too overvalued. \n They STILL haven’t come down enough to really alter their PE. I know they have moats, lots of sales, and are good companies. \n But how do you evaluate when to buy if even ALL THIS won’t drive them down?\n Talking about PE:\n ISRG- 57.5\n AVGO- 58\n COSTCO- 51\n GEV- 48\n Like I don’t think any of these will drop another 40% to be good buys. \n So how do you set rules for when to invest in these?\n    submitted by    /u/Bossanova12345  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s69jpd/interpreting_watchlist_that_still_has_high_pe/",
+          "publishedOn": "2026-03-28T19:27:13.000Z",
+          "wordCount": null,
+          "title": "Interpreting Watchlist that still has high PE Ratios.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s689w7/short_term_investment_sgov_vbil_and_vusxx/",
+          "author": null,
+          "description": "Hi everyone,\n For short term investment, I'd like your opinions regarding SGOV, VBIL and VUSXX. The yield is similar, VBIL has the lowest expense ratio at 0.06%, VUSXX has the best liquidity just because it is a money market fund. However, most people use SGOV, I don't quite understand the rationale behind the decision. In addition, the recent issues of private equities involving BlackRock and other banks make me worried about SGOV although possibility of default by BlackRock is near zero.\n If I would sell SGOV, the best time is just after its monthly distribution to minimize the capital gains?\n Thank you.\n    submitted by    /u/jjha66  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s689w7/short_term_investment_sgov_vbil_and_vusxx/",
+          "publishedOn": "2026-03-28T18:36:47.000Z",
+          "wordCount": null,
+          "title": "Short term investment SGOV, VBIL and VUSXX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s63wzu/mu_is_a_strong_buy_in_my_model/",
+          "author": null,
+          "description": "Revenue is projected to increase 190% this FYE 8/26 and 52% next fiscal year:\n https://finance.yahoo.com/quote/MU/analysis/\n The stock is trading at 9x EV/projected operating profit, for a Value Score of 26. Anything above a 2 is a buy candidate for me.\n At the grassroots level, VCs are still investing heavily in AI. It accounted for 46% of VC investments in February.\n    submitted by    /u/Constant-Bridge3690  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s63wzu/mu_is_a_strong_buy_in_my_model/",
+          "publishedOn": "2026-03-28T15:49:47.000Z",
+          "wordCount": null,
+          "title": "MU is a strong buy in my model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s62qkf/gold_as_stabilizer_rather_than_an_investment/",
+          "author": null,
+          "description": "with how things have been lately like markets swinging around and all the macro noise, i kinda stopped trying to fit gold into the same box as stocks. it doesnt produce anything, doesnt compound the same way, so comparing it directly always felt off to me.\n recently i just treat it as a small stabilizing layer instead of something im trying to optimize. i still keep most of my money in equities, but having a bit of gold sitting there doing its own thing feels different mentally. ive been building it slowly over time, some direct buys and some through something like bullionbox just so it stays consistent without me constantly second guessing.\n not saying its better than stocks or anything like that, just feels like it plays a different role entirely. curious how others here think about it, do u treat gold as part of your main investing strategy or more like a separate layer altogether?\n    submitted by    /u/No-Caterpillar-2729  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s62qkf/gold_as_stabilizer_rather_than_an_investment/",
+          "publishedOn": "2026-03-28T15:04:23.000Z",
+          "wordCount": null,
+          "title": "gold as stabilizer rather than an investment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/",
+          "author": null,
+          "description": "AI data centers need power that never goes off. Solar and wind can't guarantee that. Nuclear, natural gas, and hydro can.\n One AI query uses 10x the electricity of a Google search. At billions of queries a day, the grid math stops working for renewables without battery storage at a scale we don't have yet.\n Institutional capital has been quietly rerating power assets for 18 months. Nuclear operators signing direct behind-the-meter deals with Microsoft and Meta. Midstream gas getting re-valued as \"always-on\" infrastructure. Photonics companies being repriced as energy efficiency plays.\n I wrote up the full thesis here if anyone wants to dig in: bigmarketreport.com/analysis/post-green-pivot-hard-power-energy-war-2026\n Happy to discuss in the comments. Curious whether others are seeing the same rotation.\n    submitted by    /u/1stplacelastrunnerup  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s61yle/ai_is_killing_the_green_energy_trade_and/",
+          "publishedOn": "2026-03-28T14:33:50.000Z",
+          "wordCount": null,
+          "title": "AI is killing the green energy trade and replacing it with Hard Power",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s6104c/pacific_market_outlooks_and_opinions/",
+          "author": null,
+          "description": "I’m wondering what people think of Asian stocks and ETFs given the current geopolitical climate. \n Personally I bought a good bit around a year ago when tariffs were put in place from the US. It has gone up dramatically over the last year but I have some concerns around chip inputs and oil flow to Asian countries. If anyone is invested in pacific stocks or indexes what trends and news are you looking at, are you buying selling or holding?\n    submitted by    /u/ethanbwinters  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s6104c/pacific_market_outlooks_and_opinions/",
+          "publishedOn": "2026-03-28T13:55:24.000Z",
+          "wordCount": null,
+          "title": "Pacific Market Outlooks and Opinions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s5zfi6/dont_you_find_it_hilarious_people_have_been/",
+          "author": null,
+          "description": "Appreciate I'm on anti depressants so It doesn't bother me seeing my portfolio down 11% but damn, everyones talking about the market being overvalued and now there's finally a market downturn people panic.\n like Nvidea is literally in the teens for FWD PE... there's finally a decent buying opportunity out there and everyone knows the market will recover eventually.\n    submitted by    /u/PpSize-QuestionMark  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s5zfi6/dont_you_find_it_hilarious_people_have_been/",
+          "publishedOn": "2026-03-28T12:47:32.000Z",
+          "wordCount": null,
+          "title": "Don't you find it hilarious people have been gagging for a correction for ages and now it's the end of the world when it happens?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s5ujd4/why_doesnt_the_current_and_previous_oil_situation/",
+          "author": null,
+          "description": "I understand the petroleum industry has the leverage, but with another oil crisis how do these tensions not cause a stronger motivation for green energy infrastructure? Not to say it doesn't have its own complications, but earlier development of wind farms, solar, battery, etc. you wouldn't have to worry about pointless feuds over oil.\n    submitted by    /u/ThEaZnInVaZn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s5ujd4/why_doesnt_the_current_and_previous_oil_situation/",
+          "publishedOn": "2026-03-28T08:08:27.000Z",
+          "wordCount": null,
+          "title": "Why doesn't the current and previous oil situation cause a stronger desire for green energy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s5uesy/daily_general_discussion_and_advice_thread_march/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s5uesy/daily_general_discussion_and_advice_thread_march/",
+          "publishedOn": "2026-03-28T08:00:37.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - March 28, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s5tzzm/hows_everyones_portfolio_doing/",
+          "author": null,
+          "description": "As per title. How badly red/green are y'all portfolio right now after yesterday's market close?\n Personally for me, my portfolio hit ATH on 3 November 2025 and is since down about 39% from the high. Holding quite a few high beta names right now\n Fundamentally, nothing much has changed for me. Still gonna buy in as and when I can. Though it does hurt a little buying the dip and it keeps dipping\n Went through and survived 2022 bear market, August 2024 Yen carry trade unwind, April 2025 liberation day and now this year's February 'SaaSpocalypse' and the ongoing Iran war\n What are your views and outlook for the next 6 months to 1 year? Gonna hurt more or we gonna look back at this as a blip on the radar?\n    submitted by    /u/Lemonbee7096  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s5tzzm/hows_everyones_portfolio_doing/",
+          "publishedOn": "2026-03-28T07:34:47.000Z",
+          "wordCount": null,
+          "title": "How’s everyone’s portfolio doing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1s5sctc/is_it_any_betterworse_to_invest_in_fixedincome/",
+          "author": null,
+          "description": "Ended up with a larger than expected tax-return and a desire to actually start preparing for any sort of long-term financial future, and I'm looking at the wider bullshit going on and assuming stocks are currently not where I want to investing money at the moment. So, what sort of fixed-income is better under current conditions, and why? And if fixed-income investments aren't a good idea right now, what's preferable right now and why?\n    submitted by    /u/Zoanzon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1s5sctc/is_it_any_betterworse_to_invest_in_fixedincome/",
+          "publishedOn": "2026-03-28T05:58:26.000Z",
+          "wordCount": null,
+          "title": "Is it any better/worse to invest in fixed-income investment right now? (Treasury notes or i-bonds, CDs, etc)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1s5reqr/moving_from_hysa_to_tax_exempt_bonds/",
           "author": null,
