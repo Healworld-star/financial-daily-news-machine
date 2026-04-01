@@ -2,10 +2,780 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://healworld-star.github.io/financial-daily-news-machine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T05:56:30.606Z</updated>
+    <updated>2026-04-01T06:12:46.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://healworld-star.github.io/financial-daily-news-machine/index.html"/>
     <link rel="self" href="https://healworld-star.github.io/financial-daily-news-machine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Energy bill support would be based on household income, Reeves says]]></title>
+        <id>https://www.bbc.com/news/articles/cgk0d76yg8po#0</id>
+        <link href="https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-04-01T06:12:24.000Z</updated>
+        <summary type="html"><![CDATA[The chancellor tells the BBC it is "too early" to say exactly who would get help but hinted any support would not arrive until the autumn.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invesco Bond Income Plus names Mark Bridgeman as chair]]></title>
+        <id>https://www.investing.com/news/company-news/invesco-bond-income-plus-names-mark-bridgeman-as-chair-93CH-4592062</id>
+        <link href="https://www.investing.com/news/company-news/invesco-bond-income-plus-names-mark-bridgeman-as-chair-93CH-4592062"/>
+        <updated>2026-04-01T06:03:22.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taiwan stocks lower at close of trade; Taiwan Weighted down 1.80%]]></title>
+        <id>https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-180-4592060</id>
+        <link href="https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-180-4592060"/>
+        <updated>2026-04-01T06:00:05.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korea manufacturing PMI hits four-year high in March on chip demand- PMI]]></title>
+        <id>https://www.investing.com/news/stock-market-news/south-korea-manufacturing-pmi-hits-fouryear-high-in-march-on-chip-demand-pmi-93CH-4592059</id>
+        <link href="https://www.investing.com/news/stock-market-news/south-korea-manufacturing-pmi-hits-fouryear-high-in-march-on-chip-demand-pmi-93CH-4592059"/>
+        <updated>2026-04-01T05:57:45.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evotec appoints Ashiq Khan as chief commercial officer]]></title>
+        <id>https://www.investing.com/news/company-news/evotec-appoints-ashiq-khan-as-chief-commercial-officer-93CH-4592058</id>
+        <link href="https://www.investing.com/news/company-news/evotec-appoints-ashiq-khan-as-chief-commercial-officer-93CH-4592058"/>
+        <updated>2026-04-01T05:57:25.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPMorgan upgrades Unibail-Rodamco-Westfield stock rating on valuation]]></title>
+        <id>https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-unibailrodamcowestfield-stock-rating-on-valuation-93CH-4592057</id>
+        <link href="https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-unibailrodamcowestfield-stock-rating-on-valuation-93CH-4592057"/>
+        <updated>2026-04-01T05:51:55.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s Laplace hits upper limit on Tesla order report; company says no deal yet]]></title>
+        <id>https://www.investing.com/news/stock-market-news/chinas-laplace-hits-upper-limit-on-tesla-order-report-company-says-no-deal-yet-4592055</id>
+        <link href="https://www.investing.com/news/stock-market-news/chinas-laplace-hits-upper-limit-on-tesla-order-report-company-says-no-deal-yet-4592055"/>
+        <updated>2026-04-01T05:43:00.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elliott says Mitsui OSK’s medium-term plan does not go ‘far enough’]]></title>
+        <id>https://www.investing.com/news/stock-market-news/elliott-says-mitsui-osks-mediumterm-plan-does-not-go-far-enough-4592054</id>
+        <link href="https://www.investing.com/news/stock-market-news/elliott-says-mitsui-osks-mediumterm-plan-does-not-go-far-enough-4592054"/>
+        <updated>2026-04-01T05:40:24.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia stocks higher at close of trade; S&P/ASX 200 up 2.24%]]></title>
+        <id>https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-224-4592053</id>
+        <link href="https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-224-4592053"/>
+        <updated>2026-04-01T05:35:04.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy bill support would be based on household income, Reeves says]]></title>
+        <id>https://www.bbc.com/news/articles/cgk0d76yg8po#4</id>
+        <link href="https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-04-01T05:30:31.000Z</updated>
+        <summary type="html"><![CDATA[The chancellor tells the BBC it is "too early" to say exactly who would get help but hinted any support would not arrive until the autumn.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earnings call transcript: Ascend Wellness Q4 2025 misses forecasts, stock dips]]></title>
+        <id>https://www.investing.com/news/transcripts/earnings-call-transcript-ascend-wellness-q4-2025-misses-forecasts-stock-dips-93CH-4592052</id>
+        <link href="https://www.investing.com/news/transcripts/earnings-call-transcript-ascend-wellness-q4-2025-misses-forecasts-stock-dips-93CH-4592052"/>
+        <updated>2026-04-01T05:29:26.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Bid: April fools rush in]]></title>
+        <id>https://www.investing.com/news/economy-news/morning-bid-april-fools-rush-in-4592041</id>
+        <link href="https://www.investing.com/news/economy-news/morning-bid-april-fools-rush-in-4592041"/>
+        <updated>2026-04-01T05:18:24.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asia stocks jump after Trump suggests Iran war could end in weeks]]></title>
+        <id>https://www.bbc.com/news/articles/c2489v97842o#0</id>
+        <link href="https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-04-01T05:17:12.000Z</updated>
+        <summary type="html"><![CDATA[The price of Brent crude oil to be delivered in May rose by a record 64% in March as the conflict disrupted energy supplies.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stocks in Asia Rally and Oil Prices Rise]]></title>
+        <id>https://www.nytimes.com/2026/04/01/business/stocks-oil-gasoline-prices-iran.html</id>
+        <link href="https://www.nytimes.com/2026/04/01/business/stocks-oil-gasoline-prices-iran.html"/>
+        <updated>2026-04-01T05:09:22.000Z</updated>
+        <summary type="html"><![CDATA[President Trump said the U.S. military would wrap up its campaign in Iran in two or three weeks.]]></summary>
+        <author>
+            <name>The New York Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pantry use up as users struggle with cost of living]]></title>
+        <id>https://www.bbc.com/news/articles/c62j836n4n8o#4</id>
+        <link href="https://www.bbc.com/news/articles/c62j836n4n8o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-04-01T05:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Rising living costs are pushing more people to rely on affordable food groups.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Considering opening a Goldman Sachs 3.65% online savings account and curious in how it works]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s9aw67/considering_opening_a_goldman_sachs_365_online/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s9aw67/considering_opening_a_goldman_sachs_365_online/"/>
+        <updated>2026-04-01T04:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Im 22 an have been able to save almost 15,000 dollars and a friend had mentioned that I can grow it with one of these accounts. They told me that it adds to my savings each month and and adds more the next month on top of those savings. For example in one month its 15,547 then in the second it will be 16,114 so at that rate at after a full year I’d have 23,055 is that correct? This is just letting it sit there and I gain 
+    submitted by    /u/HurryPuzzleheaded364  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current 401k Allocations - Any Thoughts?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s9arpc/current_401k_allocations_any_thoughts/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s9arpc/current_401k_allocations_any_thoughts/"/>
+        <updated>2026-04-01T04:45:32.000Z</updated>
+        <summary type="html"><![CDATA[60% - Vanguard 500 Index Inv (VFINX)
+ 10% - Vanguard Developed Mkts Index Inv (VDVIX)
+ 3% - Vanguard Emerging Mkts Stock Idx Inv (VEIEX)
+ 12% - Vanguard Growth Index Inv (VIGRX)
+ 8% - Vanguard Mid-Cap Index Inv (VIMSX)
+ 7% - Vanguard Small-Cap Index Inv (NAESX)
+ 25 Years old.
+    submitted by    /u/Dapper_Towel_5785  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stocks Recover Sharply Amid Hope for Iran War’s End]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html"/>
+        <updated>2026-04-01T03:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Investors weighed the news that the owner of a Kuwaiti tanker loaded with oil said it had been hit in an Iranian attack near Dubai.]]></summary>
+        <author>
+            <name>The New York Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone going big into SpaceX IPO?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s96ivc/anyone_going_big_into_spacex_ipo/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s96ivc/anyone_going_big_into_spacex_ipo/"/>
+        <updated>2026-04-01T01:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Anyone going big dollars into SpaceX IPO?
+ Or small.
+ Why?
+ And what are the factors leading to your decision?
+ Is this the new story of the guy that put his $800k inheritance into Intel?
+ Thanks all for your input, I appreciate it. 
+ The business model seems strong, market saturation is deep. Not sure about competition moat. 
+ Is the technology sound enough to dominate?
+    submitted by    /u/mutant-dermoid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earnings Season is coming up - been looking at alternative data]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s96fo7/earnings_season_is_coming_up_been_looking_at/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s96fo7/earnings_season_is_coming_up_been_looking_at/"/>
+        <updated>2026-04-01T01:23:57.000Z</updated>
+        <summary type="html"><![CDATA[Looking at the current earnings markets, a few names are standing out with very strong implied chances of beating expectations.
+ Most favored to beat:
+  
+Lamb Weston (LW): 95.5%
+ Delta Air Lines (DAL): 84.0%
+ Unity Bancorp (UNTY): 82.5%
+ Nike (NKE): 79.5%
+  
+Lamb Weston is the biggest standout by far. A 95.5% chance to beat is an extremely strong signal. Delta and Unity also look solid, and Nike is still in the stronger group with improving sentiment.
+ On the flip side, the market is pricing in real skepticism for a few companies:
+ Names the market is cautious on:
+  
+RH: 24.0% chance to beat
+ Dave & Buster’s (PLAY): 16.0%
+ CarMax (KMX): 35.0%
+ MSC Industrial (MSM): 70.7%, which is weaker than the top-tier names
+  
+RH is especially interesting because the low probability comes with deeper liquidity, which makes that bearish signal feel more credible. PLAY is even lower on raw probability, though with less liquidity behind it.
+ The overall setup looks pretty split:
+  
+stronger confidence in Lamb Weston, Delta, Unity, and Nike
+ much weaker confidence in RH, PLAY, and CarMax
+ financials look more mixed, with decent but not overwhelming confidence
+  
+My read: prediction markets are not bullish on earnings across the board right now. They are being selective, and the separation between likely beats and risky names is pretty obvious.
+ That makes this slate interesting, because if the market is right again, the biggest moves could come from the names where confidence is most extreme.
+    submitted by    /u/BadBoyBrando  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pay rise for 2.7 million people as minimum wage increase comes into force]]></title>
+        <id>https://www.bbc.com/news/articles/c36r7jk6093o#0</id>
+        <link href="https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T23:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Many businesses have said they will have to pass higher wage costs onto customers.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pay rise for 2.7 million people as minimum wage increase comes into force]]></title>
+        <id>https://www.bbc.com/news/articles/c36r7jk6093o#4</id>
+        <link href="https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T23:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Many businesses have said they will have to pass higher wage costs onto customers.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From water to council tax: How the bill rises (and one drop) affect you]]></title>
+        <id>https://www.bbc.com/news/articles/clyeke8z871o#0</id>
+        <link href="https://www.bbc.com/news/articles/clyeke8z871o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T23:00:54.000Z</updated>
+        <summary type="html"><![CDATA[A string of bill increases have taken effect but minimum wage and benefit rises will help some to pay them.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From water to council tax: How the bill rises (and one drop) affect you]]></title>
+        <id>https://www.bbc.com/news/articles/clyeke8z871o#4</id>
+        <link href="https://www.bbc.com/news/articles/clyeke8z871o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T23:00:54.000Z</updated>
+        <summary type="html"><![CDATA[A string of bill increases have taken effect but minimum wage and benefit rises will help some to pay them.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war]]></title>
+        <id>https://www.bbc.com/news/articles/c0kr8lrpekmo#0</id>
+        <link href="https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T22:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Iran's strikes on Gulf states have been especially hard for migrants who have long supported these economies to lift their families back home from poverty.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil nears highest price since start of Iran war]]></title>
+        <id>https://www.bbc.com/news/articles/c17vrd0pj95o#0</id>
+        <link href="https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T22:34:04.000Z</updated>
+        <summary type="html"><![CDATA[The US-Israel Iran war has halted almost all traffic in a key waterway and the price Brent crude has surged.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Gas Prices Hit $4 a Gallon on Average, a ‘Headache’ for Drivers and Trump]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/gas-prices-4-dollars-gallon-iran.html"/>
+        <updated>2026-03-31T22:33:28.000Z</updated>
+        <summary type="html"><![CDATA[A month since the first U.S.-Israeli attacks and Iran’s response effectively shut off Persian Gulf oil, drivers are paying significantly more to fill up.]]></summary>
+        <author>
+            <name>Emmett Lindner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Market Close Report - Tuesday, March 31, 2026]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s92cps/market_close_report_tuesday_march_31_2026/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s92cps/market_close_report_tuesday_march_31_2026/"/>
+        <updated>2026-03-31T22:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Wall Street staged a strong rebound as optimism grew over a potential resolution to the Iran conflict, with reports suggesting both sides may be open to negotiations.
+ Top Gainers:
+  
+APLS - Apellis Pharmaceuticals, Inc.: $40.23 (+135.40%)
+ CNTA - Centessa Pharmaceuticals plc: $39.75 (+44.02%)
+ FLY - Firefly Aerospace Inc.: $28.47 (+20.53%)
+ ALKS - Alkermes plc: $35.36 (+17.28%)
+ PRAX - Praxis Precision Medicines, Inc.: $322.19 (+16.55%)
+  
+Top Losers:
+  
+BTU - Peabody Energy Corporation: $32.95 (-7.65%)
+ SOC - Sable Offshore Corp: $16.52 (-7.40%)
+ VG - Venture Global, Inc.: $15.76 (-6.69%)
+ CEG - Constellation Energy Corporatio: $279.25 (-6.48%)
+ MKC - McCormick & Company, Incorporat: $50.44 (-6.11%)
+  
+Major Indices Performance:
+  
+S&P 500: 6,528.52 (+2.91%)
+ NASDAQ: 21,590.63 (+3.83%)
+ DOW: 46,341.51 (+2.49%)
+ VIX: 25.25 (-17.51%)
+  
+Data sourced from -StocksAnalyzer.app-
+ Always do your own research before making investment decisions.
+    submitted by    /u/Mhonero  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech giant Oracle makes 'significant' job cuts]]></title>
+        <id>https://www.bbc.com/news/articles/cm296jzzl9yo#0</id>
+        <link href="https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T21:50:41.000Z</updated>
+        <summary type="html"><![CDATA[It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge Blocks Trump’s Order to End Funding for NPR and PBS]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/media/trump-npr-pbs-executive-order-ruling.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/media/trump-npr-pbs-executive-order-ruling.html"/>
+        <updated>2026-03-31T19:52:12.000Z</updated>
+        <summary type="html"><![CDATA[The ruling will have minimal effect on the federal money going to public media because Congress voted to claw back funding. But it could have implications for any future funding.]]></summary>
+        <author>
+            <name>Benjamin Mullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[March Madness Puts Las Vegas Back in the Game]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/las-vegas-march-madness-tourism.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/las-vegas-march-madness-tourism.html"/>
+        <updated>2026-03-31T19:46:13.000Z</updated>
+        <summary type="html"><![CDATA[The influx of fans during this month’s college basketball tournament is a welcome lift to the city’s casinos and hotels after a dismal 2025, when the number of visitors fell 7.5 percent.]]></summary>
+        <author>
+            <name>Ken Belson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eli Lilly Will Buy a Narcolepsy Drug Developer for $6.3 Billion]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/eli-lilly-narcolepsy-centessa.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/eli-lilly-narcolepsy-centessa.html"/>
+        <updated>2026-03-31T19:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Eli Lilly plans to acquire Centessa Pharmaceuticals, which has been conducting a midstage clinical trial of its lead drug.]]></summary>
+        <author>
+            <name>Rebecca Robbins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allbirds, Once Silicon Valley’s Favorite Shoe, Sells for $39 Million]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/allbirds-sold-39-million.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/allbirds-sold-39-million.html"/>
+        <updated>2026-03-31T18:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Despite once being valued at $4 billion, the company that made sneakers from Merino wool struggled to capture a wide customer base and turn a profit.]]></summary>
+        <author>
+            <name>Kim Bhasin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq rule change for SpaceX?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8ves1/nasdaq_rule_change_for_spacex/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8ves1/nasdaq_rule_change_for_spacex/"/>
+        <updated>2026-03-31T18:17:29.000Z</updated>
+        <summary type="html"><![CDATA[https://finance.yahoo.com/news/new-rule-could-fast-track-spacex-ipo-for-nasdaq-index-inclusion-172327734.html
+ “Companies with market caps ranking within the top 40 members of the Nasdaq 100 will be eligible for inclusion in the index within 15 trading days after an initial public offering”.
+ So retail investors are just exit opportunities for companies like SpaceX through funds and institutions? Time to get out of QQQ I guess. 
+    submitted by    /u/ExpensiveToes4729  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How is this good news? - Markets up on Hormuz news]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8v8q6/how_is_this_good_news_markets_up_on_hormuz_news/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8v8q6/how_is_this_good_news_markets_up_on_hormuz_news/"/>
+        <updated>2026-03-31T18:11:26.000Z</updated>
+        <summary type="html"><![CDATA[I know nothing about stock markets. Thank goodness for diversified funds. I don’t understand how this is good news: “Stocks jumped after President Trump told aides that he's willing to end the war without fully reopening the Strait of Hormuz,”
+ https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026?mod=hp_lead_pos2
+ Can someone edify me?
+    submitted by    /u/BikeTough6760  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Prez Comments and Have we Hit the Bottom]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8uzix/iran_prez_comments_and_have_we_hit_the_bottom/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8uzix/iran_prez_comments_and_have_we_hit_the_bottom/"/>
+        <updated>2026-03-31T18:02:18.000Z</updated>
+        <summary type="html"><![CDATA[What do you all make of the Iranian President being open to end the war. Have we hit the bottom for equities or more pain to come? What do you make of today’s rally
+ Oil infra has been damaged but I’m assuming all that is priced in. What can cause further pain from here? And if the ear ends without the strait being opened, do you think US equities keep going up?
+    submitted by    /u/CAIL888  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are any of these options any good or should I just keep 100% of my contributions in the TRIM 2050 option they recommended?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8utct/are_any_of_these_options_any_good_or_should_i/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8utct/are_any_of_these_options_any_good_or_should_i/"/>
+        <updated>2026-03-31T17:56:16.000Z</updated>
+        <summary type="html"><![CDATA[edit: This is with FIDELITY…
+ TRIM 2050
+ TRIM 2060
+ TRIM 2025
+ TRIM 2035
+ TRIM 2045
+ TRIM 2055
+ TRIM 2065
+ BTC EQUITY INDEX GG
+ BTC RUSSELL 2500 J
+ International BC MSCI ACWI EXUS J
+ BTC US DEBT INDEX L
+ Large Cap DODGE & COX STOCK X
+ BTW SMID CAP III
+ International AF EUPAC FUND R6
+ TRP LG CP GR TR C
+ Stable Value MIP II CL 3
+ DFA INF PRT SEC PORT
+ BTC TOTAL RETURNL
+ …..
+ I am 36 and unfortunately just starting my first ever 401k now at my new part time job. These are the only options for investing choices I see with my employer. Not very many.
+ For reference, apparently the company “matches your Employee Contributions at $.35 for each dollar you contribute, up to 6% of your eligible Compensation.”
+ I have it set to take 8% out of my paycheck for now
+ I will probably only make about 12,500 Gross Pay a year at this job but I dont mind putting 50-75% of that into savings/investments - if that is something that should influence my choice??
+ I am not looking to take any crazy risks. I just want my money to hopefully grow over time safely and more than some standard 3-5% savings account or CD like i have used in the past.
+ I am new to all this so any advice would be greatly appreciated! Thanks everyone 😃
+    submitted by    /u/WyzeLady  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Possibility of long term damage to US market]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8uja5/possibility_of_long_term_damage_to_us_market/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8uja5/possibility_of_long_term_damage_to_us_market/"/>
+        <updated>2026-03-31T17:46:40.000Z</updated>
+        <summary type="html"><![CDATA[I’m seriously considering a large investment into VXUS at the moment to balance out my portfolio. Obviously, the typical advice is true, time in the market over timing the market etc etc etc
+ However, it seems like the current Iran situation has been much more damaging for international markets, at least in the short term. So perhaps it’s not the best time.
+ While the US market has outperformed international markets historically, I’m concerned that the current administration could seriously harm US markets for 10+ years.
+ A couple reasons:
+ * Indiscriminate tariffs: this could have a serious impact on trade relations internationally for at least the rest of this presidential term. Even if they end relatively soon, this damages the trust in the US’s largest trade partners. When countries tu…]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on CXW and GEO? Private prison stocks]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8uaqw/thoughts_on_cxw_and_geo_private_prison_stocks/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8uaqw/thoughts_on_cxw_and_geo_private_prison_stocks/"/>
+        <updated>2026-03-31T17:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Are CoreCivic and GEO Group stock worth it in the long term?
+ I am wondering how dependent they are to changes in presidential administrations since Biden put in an order to end them, Newsom is ending contracts in California.
+ Wondering what happens after the midterms, and if there is a blue wave, would the Dems have power over Trump to end contracts? If not, maybe worth investing into continued human suffering.
+    submitted by    /u/CapitalistGospels  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US petrol price tops $4 for first time since 2022]]></title>
+        <id>https://www.bbc.com/news/articles/cn8d47vzz13o#1</id>
+        <link href="https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T17:17:53.000Z</updated>
+        <summary type="html"><![CDATA[The Iran war continues to push up prices at the pump for US motorists.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MRVL ripping after NVDA deal, anyone digging into this?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8r8op/mrvl_ripping_after_nvda_deal_anyone_digging_into/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8r8op/mrvl_ripping_after_nvda_deal_anyone_digging_into/"/>
+        <updated>2026-03-31T15:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Marvell popped hard mid-session after Nvidia disclosed a $2B investment + partnership around NVLink + custom AI chips.
+ Quick numbers:
+  
+~+8% today (high 90s)
+ volume picking up vs usual pace
+ last earnings were already strong (data center carrying growth)
+  
+Feels like this is less about today’s news and more about positioning into the whole custom AI + hyperscaler infra layer.
+ I’ve been tracking stuff like revenue growth + margins + capital efficiency alongside price moves, usually these runs aren’t random when the underlying numbers are already trending up.
+ Not jumping to conclusions yet.
+ Anyone here looking at:
+  
+whether this is just headline momentum vs real accumulation?
+ options flow showing anything interesting?
+ how big this could actually get vs other NVDA ecosystem plays?
+  
+   submitted by    /u/ValueEquities  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRGC threatens strikes on US tech giants across the Middle East]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8r1lr/irgc_threatens_strikes_on_us_tech_giants_across/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8r1lr/irgc_threatens_strikes_on_us_tech_giants_across/"/>
+        <updated>2026-03-31T15:42:39.000Z</updated>
+        <summary type="html"><![CDATA["The Islamic Revolutionary Guard Corps (IRGC) has threatened to strike 18 US technology and defense-related companies operating in the Middle East, warning the action could begin as early as tomorrow night if Iran’s senior commanders are targeted.
+ In a statement, the IRGC urged employees of the listed firms to evacuate immediately, and advised nearby residents to leave surrounding areas, describing the companies as “terrorist” entities allegedly supporting US and Israeli operations against Iran.
+ The IRGC named companies including Cisco, HP, Intel, Oracle, Microsoft, Apple, Google, Meta, IBM, Dell, Nvidia, Tesla, GE, JPMorgan, and Boeing, among others, as potential targets."
+ https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-irgc-threatens-strikes-on-us-tech-giants-across-the-middle-east
+    submitted by    /u/Playwithuh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Ban on Digital Duties Expires After Stalled Talks at W.T.O.]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/economy/digital-tax-world-trade-organization.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/economy/digital-tax-world-trade-organization.html"/>
+        <updated>2026-03-31T15:19:47.000Z</updated>
+        <summary type="html"><![CDATA[A prohibition on taxing digital downloads expired, after members of the World Trade Organization concluded their annual meeting without an agreement.]]></summary>
+        <author>
+            <name>Ana Swanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Iran War Pushes Up Gas Prices, Fresh Food Distributors Add Fuel Surcharges]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/food-distributors-surcharges-fuel.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/food-distributors-surcharges-fuel.html"/>
+        <updated>2026-03-31T15:13:13.000Z</updated>
+        <summary type="html"><![CDATA[Delivering salmon, fruits and other perishable foods has become more expensive as the war with Iran pushes up diesel prices.]]></summary>
+        <author>
+            <name>Julie Creswell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McCormick to Combine With Unilever Food Unit to Create a Spice Giant]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/mccormick-unilever-food-aquisition.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/mccormick-unilever-food-aquisition.html"/>
+        <updated>2026-03-31T15:09:58.000Z</updated>
+        <summary type="html"><![CDATA[The deal ends Unilever’s time in the food industry and will create a multibillion-dollar group under the McCormick name.]]></summary>
+        <author>
+            <name>Julie Creswell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denby appoints administrators in 'necessary step']]></title>
+        <id>https://www.bbc.com/news/articles/c87wjx00vv0o#1</id>
+        <link href="https://www.bbc.com/news/articles/c87wjx00vv0o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[The 217-year-old firm says it appointed FRP Advisory as administrators on Tuesday.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does it make sense to diversify AMZN right now?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8omkj/does_it_make_sense_to_diversify_amzn_right_now/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8omkj/does_it_make_sense_to_diversify_amzn_right_now/"/>
+        <updated>2026-03-31T14:14:43.000Z</updated>
+        <summary type="html"><![CDATA[let's say I have $100,000 worth AMZN stocks and it is almost 50% of my portfolio. so I want to diversify. is right now a good time to do that while entire market is down, so I incur less capital gains and also get other stocks (let's say VTI) at lower price. 
+ so basically sell at lower price, buy another stock at lower price. less capital gains, less tax and I diversify 
+    submitted by    /u/im_maulik  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA Is Expected to Lift Restriction on Peptides, Heeding RFK Jr.’s Wishes]]></title>
+        <id>https://www.nytimes.com/2026/03/31/health/peptide-ban-fda-rfk-jr.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/health/peptide-ban-fda-rfk-jr.html"/>
+        <updated>2026-03-31T14:09:40.000Z</updated>
+        <summary type="html"><![CDATA[The peptides, which are increasingly marketed as providing longevity and health benefits, were removed in 2023 from the agency’s list of products that compounding pharmacies can sell.]]></summary>
+        <author>
+            <name>Christina Jewett and Dani Blum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving 200k out of TRBCX, where to park it?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8nqg3/moving_200k_out_of_trbcx_where_to_park_it/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8nqg3/moving_200k_out_of_trbcx_where_to_park_it/"/>
+        <updated>2026-03-31T13:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Title says it. I have 200k in TRBCX in a legacy account at T Rowe Price I've had for 20 years. I'm not happy with the performance compared to VOO or FXAIX or other ETFs. And am tired of paying cap gain taxes on it each year. Am thinking of finally taking advantage of the current down market to cash it out and reposition the money elsewhere. But where?
+ 401k is entirely in FXAIX which has done extremely well. I have other big funds in VOO. Pretty much followed Buffet's advice to track the S&P and forget about it. But am thinking a bit of diversification is nice. ChatGPT suggested splitting the 200k into VTI and VSUX, 100 each. But am wondering why bother with VSUX? Why not just put all the 200k into VTI? Or is that not enough diversification from VOO/FXAIX? 
+ These are long hold funds, in fact I may never sell them but leave them for my heirs. Something in me says don't bother with international funds, the US always outperforms in the long run. But for the sake of diversification, what would be a good alternative to VSUX while different enough from VTI?
+    submitted by    /u/DIYRestorator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investing in taxable brokerage account]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8n5w6/investing_in_taxable_brokerage_account/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8n5w6/investing_in_taxable_brokerage_account/"/>
+        <updated>2026-03-31T13:16:59.000Z</updated>
+        <summary type="html"><![CDATA[I'm 19 and I am starting a taxable brokerage account. I have maxed my Roth IRA for the last 2 years, but that is handled by my financial advisor. I want to have my own brokerage account to maybe retire early or have easy access to some money if I would ever need it. 
+ I was thinking of having 75% growth stocks and 25% dividend stocks to have a balanced portfolio.
+ I would like some opinions on which stocks to invest in, or tell me if this is a good blend or not.
+ For my dividend stocks I am thinking
+ 15% SCHD
+ 5% SPYI
+ 5% QQQI 
+ (maybe I go more schd heavy in the future)
+ Growth stocks
+ 30% SPY
+ 10% VGT
+ 15% defense stocks
+ (what would be some good defense stocks)
+ 10% Individual stocks
+ 10% precious metals 
+  
+   submitted by    /u/Radiant-Ad-4048  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Q1 teach you anything new?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8n4ig/did_q1_teach_you_anything_new/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8n4ig/did_q1_teach_you_anything_new/"/>
+        <updated>2026-03-31T13:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Q1 turned out anything but calm. Between geopolitics, energy moves, and shifting expectations, a lot has been happening...and still is.
+ So, what’s one specific lesson you took away from this eventful quarter? Something you learned from what actually happened in the market.
+    submitted by    /u/eToroTeam  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The market regime just shifted to risk-off for the first time since 2022. Here is what the data says historically happens next.]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8lwld/the_market_regime_just_shifted_to_riskoff_for_the/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8lwld/the_market_regime_just_shifted_to_riskoff_for_the/"/>
+        <updated>2026-03-31T12:23:19.000Z</updated>
+        <summary type="html"><![CDATA[I track a composite market regime score that weights four dimensions: technical momentum, macroeconomic leading indicators, volatility regime, and sentiment. This week it moved into confirmed risk-off territory for the first time since late 2022.
+ Here is what the current readings look like.
+ Technical momentum is deteriorating. SPY has made two lower peaks since mid-March and is now more than 9% off its closing high. The 6,500 level held as support through most of Q1, but it has now flipped to resistance.
+ The macro picture is flashing a stagflation warning. WTI crude is at $102, Brent is above $112, and CPI is running at 2.4% year on year with energy pass-through not yet fully priced in. Powell has explicitly said the Fed will look through the supply shock, which means no rate cut relief…]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trump Effect at the Pump as Gas Hits $4 a Gallon]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/dealbook/trump-war-gas-prices.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/dealbook/trump-war-gas-prices.html"/>
+        <updated>2026-03-31T12:16:07.000Z</updated>
+        <summary type="html"><![CDATA[The average price of gasoline in the U.S. has topped $4 a gallon, a multiyear high, as war in the Middle East roils the oil market and slams drivers.]]></summary>
+        <author>
+            <name>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US paves way for private assets to be included in 401(k) retirement plans]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8j3ft/us_paves_way_for_private_assets_to_be_included_in/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8j3ft/us_paves_way_for_private_assets_to_be_included_in/"/>
+        <updated>2026-03-31T09:58:28.000Z</updated>
+        <summary type="html"><![CDATA[https://www.reuters.com/world/us/us-department-labor-issues-401k-guidelines-private-assets-2026-03-30/
+  
+March 30 (Reuters) - The Trump administration on Monday issued a long-awaited proposed rule to open up ​retirement plans to alternative assets, paving the way for private equity and cryptocurrencies to be added to 401(k) accounts.
+ The measure, announced by the U.S. Department ‌of Labor, is intended to ease longstanding barriers to incorporating these less liquid and less transparent assets into American retirement plans. It follows an executive order from President Donald Trump last summer and could clear the way for alternative asset management firms to tap a large new source of capital.
+  
+...
+  
+The guidance lays out how plan trustees, who have a ​legal fiduciary duty to act in the…]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Housing market to soften amid Iran war fallout, Nationwide says]]></title>
+        <id>https://www.bbc.com/news/articles/ckgwe7k49d7o#1</id>
+        <link href="https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-03-31T09:47:33.000Z</updated>
+        <summary type="html"><![CDATA[The lender says the market regained momentum in March, but rising mortgage and energy costs could hit consumer confidence.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whoop, a Wearable Health Device Maker, Raises $575 Million]]></title>
+        <id>https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html</id>
+        <link href="https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html"/>
+        <updated>2026-03-31T09:06:56.000Z</updated>
+        <summary type="html"><![CDATA[With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.]]></summary>
+        <author>
+            <name>Niko Gallogly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily General Discussion and Advice Thread - March 31, 2026]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8h62p/daily_general_discussion_and_advice_thread_march/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8h62p/daily_general_discussion_and_advice_thread_march/"/>
+        <updated>2026-03-31T08:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!
+ Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.
+ If you are new to investing - please refer to Wiki - Getting Started
+ The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List
+ The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos
+ If your question is "I have $XXXXXXX, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+  
+How old are you? What country do you live in?
+ Are you employed/making income? How much?
+ What are your objectives with this money? (Buy a house? Retirement savings?)
+ What is your time horizon? Do you need this money next month? Next 20yrs?
+ What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+ What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)
+ Any big debts (include interest rate) or expenses?
+ And any other relevant financial information will be useful to give you a proper answer.
+  
+Check the resources in the sidebar.
+ Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice: HSBC FTSE 250 Index]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1s8fwnr/advice_hsbc_ftse_250_index/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1s8fwnr/advice_hsbc_ftse_250_index/"/>
+        <updated>2026-03-31T06:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Hi all. I have recently "got into" investing after talking to some colleagues at work. I decided to put £1300 into the FTSE 250. At first, everything looked swell - it was up to £1375 at one point. 
+ As if today, it is down to £1217. Should I keep it in there, or take it out and re-invest somewhere else?
+    submitted by    /u/fuk_ur_mum_m8  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Middle East risks seen limited for European MedTech: RBC]]></title>
         <id>https://www.investing.com/news/stock-market-news/middle-east-risks-seen-limited-for-european-medtech-rbc-4589141</id>
@@ -4123,31 +4893,6 @@ Check the resources in the sidebar.
         <link href="https://www.reddit.com/r/finance/comments/1rk0n7v/how_anonymous_bettors_profited_from_the_iranian/"/>
         <updated>2026-03-03T20:33:14.000Z</updated>
         <summary type="html"><![CDATA[submitted by    /u/No-Flounder2988  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Financial news and views</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's action against Iran is yet another wobble for government debt, warns UBS]]></title>
-        <id>https://www.reddit.com/r/finance/comments/1rixpfd/trumps_action_against_iran_is_yet_another_wobble/</id>
-        <link href="https://www.reddit.com/r/finance/comments/1rixpfd/trumps_action_against_iran_is_yet_another_wobble/"/>
-        <updated>2026-03-02T16:36:44.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/fortune  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Financial news and views</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moronic Monday - March 02, 2026 - Your Weekly Questions Thread]]></title>
-        <id>https://www.reddit.com/r/finance/comments/1rikxqi/moronic_monday_march_02_2026_your_weekly/</id>
-        <link href="https://www.reddit.com/r/finance/comments/1rikxqi/moronic_monday_march_02_2026_your_weekly/"/>
-        <updated>2026-03-02T06:01:08.000Z</updated>
-        <summary type="html"><![CDATA[This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.
- Replies are expected to be constructive and civil.
- Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.
-    submitted by    /u/AutoModerator  
  [link]   [comments]]]></summary>
         <author>
             <name>Financial news and views</name>
