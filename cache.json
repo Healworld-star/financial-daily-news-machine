@@ -1249,6 +1249,86 @@
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2026/04/04/business/media/hollywood-writers-contract-deal.html",
+          "author": "Brooks Barnes",
+          "description": "With the global entertainment business reeling during a period of rapid change, there was little enthusiasm on either side for a costly standoff.",
+          "link": "https://www.nytimes.com/2026/04/04/business/media/hollywood-writers-contract-deal.html",
+          "publishedOn": "2026-04-05T03:41:02.000Z",
+          "wordCount": null,
+          "title": "Hollywood Writers Union and Studios Reach Contract Deal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/04/business/student-loans-abroad-default.html",
+          "author": "Laura O’Connor",
+          "description": "A record number of student loan borrowers are in delinquency and default. Some are making the drastic decision to leave the country and abandon their loans.",
+          "link": "https://www.nytimes.com/2026/04/04/business/student-loans-abroad-default.html",
+          "publishedOn": "2026-04-04T17:29:18.000Z",
+          "wordCount": null,
+          "title": "Some Borrowers Are Moving Abroad and Abandoning Their Student Loans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/04/business/media/orion-samuelson-dead.html",
+          "author": "Michael S. Rosenwald",
+          "description": "As a host at WGN in Chicago for 60 years, he shared news that was essential to farmers in a homespun style that appealed to listeners from the city.",
+          "link": "https://www.nytimes.com/2026/04/04/business/media/orion-samuelson-dead.html",
+          "publishedOn": "2026-04-04T14:29:06.000Z",
+          "wordCount": null,
+          "title": "Orion Samuelson, the Elvis Presley of Agricultural Radio, Dies at 91",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html",
+          "author": "Vivienne Walt",
+          "description": "The White House’s attacks on academia and budget cuts for research have provided an opening for other countries to poach leading scientists.",
+          "link": "https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html",
+          "publishedOn": "2026-04-04T13:43:15.000Z",
+          "wordCount": null,
+          "title": "Trump Slashed Science Funding. Now the U.S. Could Face a Costly Brain Drain.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html",
+          "author": "Max Read",
+          "description": "Plus, whether to use A.I. to get ahead at work — if you think the technology is evil.",
+          "link": "https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html",
+          "publishedOn": "2026-04-04T09:01:52.000Z",
+          "wordCount": null,
+          "title": "My Husband Can’t Get a Job. Should I Divorce Him?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/04/business/trump-budget-federal-deficit.html",
+          "author": "Andrew Duehren and Alan Rappeport",
+          "description": "While the federal deficit has started to shrink under President Trump, his plans could make the long-term situation worse.",
+          "link": "https://www.nytimes.com/2026/04/04/business/trump-budget-federal-deficit.html",
+          "publishedOn": "2026-04-04T09:01:49.000Z",
+          "wordCount": null,
+          "title": "Trump Budget Does Little to Address Nation’s Fiscal Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/04/technology/uber-lyft-drivers-gas-prices-relief.html",
+          "author": "Natallie Rocha and Ricardo Nagaoka",
+          "description": "As fuel costs go up, making a living as a gig driver is harder than ever.",
+          "link": "https://www.nytimes.com/2026/04/04/technology/uber-lyft-drivers-gas-prices-relief.html",
+          "publishedOn": "2026-04-04T09:01:00.000Z",
+          "wordCount": null,
+          "title": "Uber and Lyft Offer Gas Price Relief, but Drivers Say It’s Not Enough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html",
+          "author": "Andrew Duehren",
+          "description": "The law Republicans passed last year has so far been largely imperceptible to most Americans. That’s changing as tens of millions file their taxes this spring.",
+          "link": "https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html",
+          "publishedOn": "2026-04-04T09:00:33.000Z",
+          "wordCount": null,
+          "title": "‘I Got Back Every Penny’: Inside Trump’s Supercharged Tax Season",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nytimes.com/2026/04/03/world/asia/philippines-holy-week-oil-fuel-prices.html",
           "author": "Francesca Regalado and Ezra Acayan",
           "description": "Surging gasoline prices in the Philippines have forced some people to cancel or scale back the Visita Iglesia, a Holy Week tradition in which Catholics travel to seven churches.",
@@ -2736,6 +2816,146 @@
       "siteUrl": "https://www.investing.com",
       "articles": [
         {
+          "id": "https://www.investing.com/news/commodities-news/saudi-arabias-nonoil-business-activity-shrinks-in-march-amid-conflict-pmi-shows-4597586",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/saudi-arabias-nonoil-business-activity-shrinks-in-march-amid-conflict-pmi-shows-4597586",
+          "publishedOn": "2026-04-05T05:48:28.000Z",
+          "wordCount": null,
+          "title": "Saudi Arabia’s non-oil business activity shrinks in March amid conflict, PMI shows",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3401H_L.jpg",
+            "length": "53041",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3401H_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economic-indicators/war-weighs-on-egypts-private-sector-as-pmi-hits-near-twoyear-low-in-march-4597585",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economic-indicators/war-weighs-on-egypts-private-sector-as-pmi-hits-near-twoyear-low-in-march-4597585",
+          "publishedOn": "2026-04-05T05:42:23.000Z",
+          "wordCount": null,
+          "title": "War weighs on Egypt’s private sector as PMI hits near two-year low in March",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3401G_L.jpg",
+            "length": "49364",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3401G_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/iran-executes-two-men-involved-in-january-protests-judiciary-news-outlet-says-4597584",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/iran-executes-two-men-involved-in-january-protests-judiciary-news-outlet-says-4597584",
+          "publishedOn": "2026-04-05T05:36:07.000Z",
+          "wordCount": null,
+          "title": "Iran executes two men involved in January protests judiciary news outlet says",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/news_headline_open_108x81.jpg",
+            "length": "11922",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/news_headline_open_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/us-rescues-airman-whose-f15-was-downed-in-iran-us-officials-say-4597580",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/us-rescues-airman-whose-f15-was-downed-in-iran-us-officials-say-4597580",
+          "publishedOn": "2026-04-05T05:12:30.000Z",
+          "wordCount": null,
+          "title": "US rescues airman whose F-15 was downed in Iran, US officials say",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3400T_L.jpg",
+            "length": "17993",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3400T_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-ft-says-4597582",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/britain-woos-expansion-effort-by-anthropic-after-us-defence-clash-ft-says-4597582",
+          "publishedOn": "2026-04-05T05:00:29.000Z",
+          "wordCount": null,
+          "title": "Britain woos Anthropic expansion after US defence clash, FT says",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM34011_L.jpg",
+            "length": "49866",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM34011_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/can-the-energy-price-shock-push-the-uk-into-recession-4597583",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/can-the-energy-price-shock-push-the-uk-into-recession-4597583",
+          "publishedOn": "2026-04-05T04:52:30.000Z",
+          "wordCount": null,
+          "title": "Can the energy price shock push the UK into recession?",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/london_M_1440050619.jpg",
+            "length": "97039",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/london_M_1440050619.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/kuwait-petroleum-headquarters-engulfed-in-flames-following-iranian-drone-strike-4597572",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/kuwait-petroleum-headquarters-engulfed-in-flames-following-iranian-drone-strike-4597572",
+          "publishedOn": "2026-04-05T04:23:34.000Z",
+          "wordCount": null,
+          "title": "2nd-U.S. pilot rescued in Iran, ‘we got him!’ says Trump",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/nexgel-earnings-missed-by-009-revenue-fell-short-of-estimates-4597581",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/nexgel-earnings-missed-by-009-revenue-fell-short-of-estimates-4597581",
+          "publishedOn": "2026-04-05T04:19:39.000Z",
+          "wordCount": null,
+          "title": "Nexgel earnings missed by $0.09, revenue fell short of estimates",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+            "length": "8504",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/trump-claims-dominance-while-iran-strikes-back-downing-two-us-planes-4597579",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/trump-claims-dominance-while-iran-strikes-back-downing-two-us-planes-4597579",
+          "publishedOn": "2026-04-05T04:06:02.000Z",
+          "wordCount": null,
+          "title": "Trump claims \"dominance\" while Iran strikes back, downing two U.S. planes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/striking-jbs-workers-to-return-to-colorado-plant-on-promise-of-talks-4597578",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/striking-jbs-workers-to-return-to-colorado-plant-on-promise-of-talks-4597578",
+          "publishedOn": "2026-04-05T03:12:30.000Z",
+          "wordCount": null,
+          "title": "Striking JBS workers to return to Colorado plant on promise of talks",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3400L_L.jpg",
+            "length": "92508",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3400L_L.jpg"
+        },
+        {
           "id": "https://www.investing.com/news/economy-news/uschina-ties-stabilize-as-rare-fugitive-repatriation-precedes-trumpxi-summit-4597511",
           "author": "Investing.com",
           "description": "",
@@ -4057,6 +4277,156 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1scvoz0/canadian_student_investments/",
+          "author": null,
+          "description": "I (19) am in Canada, looking to invest about $200-500 to start saving to move out after I start working. Give me life advice of what I should start investing in. I am doing some part time work in the summer and gig work here and there and my university tuition is taken care of (by my gig work and some other funds). I appreciate any help!\n    submitted by    /u/GanacheNo2939  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1scvoz0/canadian_student_investments/",
+          "publishedOn": "2026-04-05T05:49:48.000Z",
+          "wordCount": null,
+          "title": "Canadian student investments?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sctlkd/i_have_backtested_my_equity_swing_trading/",
+          "author": null,
+          "description": "Hi All,\n I have read several books and became deeply interested in them. As a software engineer, I coded my own trading strategy and performed backtesting. Please find the summary of my test results.\n I have been learning and refining this strategy for around six years without actively trading. My goal was to make it as solid and robust as possible. I am now planning to start trading after the bear market.\n I would really appreciate your opinion on these results, as I do not have anyone experienced in the stock market to discuss this with. I have also used tools like Claude and ChatGPT to further strengthen the strategy.\n At this stage, I am looking for expert feedback on whether these results are reasonable. I do not have any bias toward this strategy, and the current results are based only on equity trading.\n Do you think these results are decent? I believe the strategy has potential, but I would value your honest opinion.\n Overall:\n  \nSelected entries: 365\n Trades with returns: 364\n Win rate: 96.15%\n Average return: 46.20%\n Median return: 23.77%\n Best trade: 1570.85%\n Worst trade: -13.35%\n  \nYear-wise average return:\n  \n2010: 51.38%\n 2011: 6.79%\n 2012: 58.27%\n 2013: 45.20%\n 2014: 65.41%\n 2015: 37.14%\n 2016: 29.86%\n 2017: 31.74%\n 2018: 11.40%\n 2019: 18.26%\n 2020: 28.38%\n 2021: 134.11%\n 2022: 33.06%\n 2023: 69.41%\n 2024: 31.90%\n 2025: 18.43%\n  \n   submitted by    /u/dineshu07  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sctlkd/i_have_backtested_my_equity_swing_trading/",
+          "publishedOn": "2026-04-05T03:57:29.000Z",
+          "wordCount": null,
+          "title": "I have backtested my equity swing trading strategy and would appreciate your suggestions.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1scrxal/im_20_years_old_dont_know_where_to_invest/",
+          "author": null,
+          "description": "As the titles states in 20 almost 21 never invested in my life but looking to start what should I invest in for the long term that would set me up for a cozy retirement\n Thought about starting a Roth but want sure if there was anything else\n Any advice helps thank you :)\n    submitted by    /u/JustinOnJuice  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1scrxal/im_20_years_old_dont_know_where_to_invest/",
+          "publishedOn": "2026-04-05T02:32:55.000Z",
+          "wordCount": null,
+          "title": "I’m 20 years old don’t know where to invest",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1scocnh/i_asked_gemini_to_predict_market_reaction_to/",
+          "author": null,
+          "description": "Based on the historical pattern of President Trump’s market-moving rhetoric and the specific reactions to the Iran conflict over the last two weeks, here is the prediction for the stock market over the next 48 hours:\n Immediate Market Reaction\n • Futures Gap Down: Expect a \"risk-off\" opening for Sunday night futures. S&P 500 and Dow futures are likely to open 1.0% to 1.5% lower as markets price in the \"hell will rain down\" ultimatum.\n • Oil Price Surge: Crude oil futures (WTI and Brent) will likely spike 5% to 8% immediately, as the threat specifically targets energy infrastructure and the Strait of Hormuz.\n Monday Trading Session (April 6)\n • High Volatility: Expect choppy, defensive trading throughout Monday. The market will likely see a flight to safety, with gold and Treasury yields moving as investors wait for the 8:00 PM ET deadline.\n • The \"Trump Pivot\" Pattern: Historically, these ultimatums (like the ones on March 21 and March 26) are used as maximum-leverage negotiating tactics. If the President posts that \"talks are going very well\" or announces another extension before the deadline, expect a violent \"relief rally\" and a short squeeze that could push indices up 2% to 3% by Tuesday's open.\n Predicted Outcome\n The market is currently conditioned for a \"pivot.\" Unless tactical strikes are confirmed at the 48-hour mark, the most likely scenario is a repeat of the March 31 cycle: initial panic selling followed by a sharp recovery on news of a diplomatic delay or a \"preliminary deal.\" If military action actually commences, a broader market correction of 5% or more is likely.\n    submitted by    /u/SplitYOLO  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1scocnh/i_asked_gemini_to_predict_market_reaction_to/",
+          "publishedOn": "2026-04-04T23:41:43.000Z",
+          "wordCount": null,
+          "title": "I asked Gemini to predict market reaction to Trump’s 48 hours ultimatum to Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sco6fo/dividends_vs_growth_please_explain/",
+          "author": null,
+          "description": "Okay I’m changing my post to be more to the point! \n Talk to me like I know nothing!! \n What are you looking for when investing in growth? \n I’ve been investing purely for dividends and it’s got me nowhere. I’m still in my 20s so I have heaps of time and would like to make bigger bolder moves! \n Thank you! \n Thank you! \n    submitted by    /u/Fickle_Radish2418  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sco6fo/dividends_vs_growth_please_explain/",
+          "publishedOn": "2026-04-04T23:33:40.000Z",
+          "wordCount": null,
+          "title": "Dividends vs growth- please explain!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sco0e0/asking_for_some_encouragement/",
+          "author": null,
+          "description": "Im turning 39 in a month and have about 265k for retirement. about 110k is a pre tax pension. I then have about 100k in Roth contributions to a 457 and the rest is mostly in a Roth IRA with about 3k in a taxable brokerage account. I make roughly 70k a year with about 16 to go. if I continue to put about 30% of my gross does retiring at 55 seem feasible? I'm married and my spouse is a teacher with a pension but she doesn't contribute much to any other retirement vessels. so is 55 do able? anyone with experience retiring at 55 with roughly 1.5 million able to chime in if they're happy or not? should I up my contributions?\n I work in Wisconsin and plan to retire in Wisconsin in a low cost of living area\n    submitted by    /u/Rusty_Catalyst  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sco0e0/asking_for_some_encouragement/",
+          "publishedOn": "2026-04-04T23:26:05.000Z",
+          "wordCount": null,
+          "title": "Asking for some encouragement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1scna6y/financial_advisor_says_to_play_it_safe/",
+          "author": null,
+          "description": "Everything I read online says I should not be playing it safe and be aggressive with my investments. Im new to this but still actively trying to learn. I’m 35yr old. So far have 76k in my portfolio.\n 15% - Vanguard Total Intl Stock Index Admiral\n 15% - Vanguard Small Cap Growth Index Instl\n 40% - BlackRock Equity Index - Collective F\n 30% - MFS Growth R6\n    submitted by    /u/LowReputation89  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1scna6y/financial_advisor_says_to_play_it_safe/",
+          "publishedOn": "2026-04-04T22:54:00.000Z",
+          "wordCount": null,
+          "title": "Financial advisor says to play it safe.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sclyrp/the_20002008_oil_bull_market_comparison_to_today/",
+          "author": null,
+          "description": "Striking similarities to the current day, replace internet with AI and china with india + the rest of the world.\n Replace iraq with iran\n Replace bush \"mission accomplished\" with trump \" the war is mostly over probably i think\"\n How to recognize the peak (2029-2031) : Interestingly, the sentiment toward these oil and gas stocks remained skeptical and bearish for the majority of the bull run (2000-2006), Similar to today. By the final years (2007-2008), yahoo investing forums had people posting pictures of their all in oil and gas portfolios, similar to how people today post their portfolios with the same five stocks.\n I decided I will wait until reddit is posting pictures of their new age portfolios being all in oil and gas before i sell!\n thanks for attending the pep talk and history lesson.\n    submitted by    /u/MeasurementSecure566  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sclyrp/the_20002008_oil_bull_market_comparison_to_today/",
+          "publishedOn": "2026-04-04T21:56:46.000Z",
+          "wordCount": null,
+          "title": "the 2000-2008 Oil Bull Market comparison to today.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1schv9q/exceptional_unique_investment_books/",
+          "author": null,
+          "description": "By reading a lot of investments books I encountered that the majority of books is very repetitive and just about the same topics like buffet value investing, ETF strategy/mindset, etc.\n What were your 3 books which were exceptional and provided a unique new & fresh perspective? And why did you choose them?\n I'll start:\n 1. What i Learned about investing from Darwin\n New perspective of parallels to evolution underscores Investment principles. Insightful chapter about risk.\n 2. Nick and Zak's Adventures in Capitalism: Words of Wisdom from the Nomad Partnership Letters\n Great mental models about business models and investing philosophy.\n 3. Capital Returns: Investing Through the Capital Cycle: A Money Manager’s Reports 2002-15\n Clearest explanation of market investing and competitor dynamics. Very relevant for anticyclical investing.\n (Ofc I read other classics of authors like Howard Marks, Jack Schwager, William Green but these stood out for me)\n    submitted by    /u/Confident-Ad8300  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1schv9q/exceptional_unique_investment_books/",
+          "publishedOn": "2026-04-04T19:11:37.000Z",
+          "wordCount": null,
+          "title": "Exceptional & unique investment books",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1scgmmx/what_is_the_penalty_or_fee_for_selling_gabelli/",
+          "author": null,
+          "description": "Hi Everyone,\n I have a question about 'cashing out' and buying into another product. So.... My mom has shares in Gabelli Healthcare and Wellness RX Trust and wow... it hasn't been performing well so we are both thinking about selling off all the Gabelli Healthcare and Wellness RX Trust mutual funds and purchasing Fidelity's FHLC ETF or Vanguard VHT (both are equivalent to Gabelli Healthcare and Wellness RX Trust because they've been performing better. Will she have to pay any fees? If so, how much? thanks everyone!\n :)\n    submitted by    /u/Creeping_behind_u  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1scgmmx/what_is_the_penalty_or_fee_for_selling_gabelli/",
+          "publishedOn": "2026-04-04T18:22:33.000Z",
+          "wordCount": null,
+          "title": "What is the penalty or fee for selling Gabelli Healthcare and Wellness RX Trust mutual funds and purchasing an ETF of its equivalence in Fidelity or Vangard?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1scgk7a/solo_401k_and_eft_transfers/",
+          "author": null,
+          "description": "We recently opened a Self Employed 401k(Fidelity's name for a Solo 401k) for my wife's LLC and in the process of trying to make the first contribution, we learned that you can't make those from a business bank account. When inquiring at our bank, we were told it has to do with compliance issues, so the contributions need to come from a personal account. We then learned that we couldn't set up to do an EFT from her business account to our personal account. So we went to the bank and were able to fill out a withdrawal/transfer to form and accomplish it, which leads me to these questions.\n  \nThe tax return of a sole proprietor LLC, as a pass through entity, goes on to the individual tax return. So why would transferring funds from her business account, funded with pre-tax 1099 income, to the 401k in the business's name be a compliance issue? I can understand it in the case of a business with more than one owner, but not in a sole proprietorship. You are basically taking your money and putting it with your money in the simplest sense.\n \nWhy would you not be able to do an EFT from the business to personal account, yet go to the branch and fill out the form and accomplish the same? Looking into it, this sounds like it may be something bank specific, but what would the reason be?\n \n    submitted by    /u/Apart_Olive_3539  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1scgk7a/solo_401k_and_eft_transfers/",
+          "publishedOn": "2026-04-04T18:19:53.000Z",
+          "wordCount": null,
+          "title": "Solo 401k and EFT transfers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1scarxg/charles_schwab_to_enter_the_crypto_trading_space/",
+          "author": null,
+          "description": "Source: https://beincrypto.com/charles-schwab-moves-into-crypto-trading/\n Schwab confirmed it's on track to launch spot Bitcoin and Ethereum trading in the first half of 2026 through a new \"Schwab Crypto\" account via Charles Schwab Premier Bank.\n The rollout starts with internal employee testing before a limited customer release, then full expansion to Schwab.com and the Thinkorswim platform. Schwab wants clients managing crypto alongside stocks, bonds, and retirement accounts in one place, removing the need for standalone exchanges. With $11.9 trillion in client assets and 46 million customers, even a small conversion rate represents a massive inflow into crypto markets.\n Morgan Stanley is doing the same through E*TRADE with plans to add BTC, ETH, and SOL. CEO Rick Wurster says roughly one-third of new Schwab retail accounts now come from customers under 28 and that demographic is driving the demand.\n Does this hurt Coinbase and Robinhood, or does it just expand the overall pie?\n    submitted by    /u/DustInside6861  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1scarxg/charles_schwab_to_enter_the_crypto_trading_space/",
+          "publishedOn": "2026-04-04T14:33:16.000Z",
+          "wordCount": null,
+          "title": "Charles Schwab to Enter the Crypto Trading Space By June 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sc7wdq/investing_in_agricultureconstruction/",
+          "author": null,
+          "description": "Why don't more people talk about these stocks. John Deere (DE) and Caterpillar (CAT) have outperformed VOO and VTI in the past 2 decades. \n VTI,VOO,CAT,DE Stock Chart (Dividends Reinvested, Inflation Adjusted) | Total Real Returns\n Even CTVA has had a higher return than VOO and VTI since inception in 2019.\n I believe this is due to the fact that when the world it falling to peices, farmers are not stopping, during the pandemic and the market fall in 2022, farmers did not stop farming, construction workers did not stop working. While the rest of the market was crumbling these companies outperformed everyone else.\n For example during this war going on currently VOO and VTI are down 4%, while DE and CAT are up above 20% YTD.\n I think these individual stocks are going to become part of my portfolio very soon.\n    submitted by    /u/Radiant-Ad-4048  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sc7wdq/investing_in_agricultureconstruction/",
+          "publishedOn": "2026-04-04T12:24:23.000Z",
+          "wordCount": null,
+          "title": "Investing in agriculture/construction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sc6g6c/at_what_point_do_investors_start_reading_past_the/",
+          "author": null,
+          "description": "https://nanonets.com/blog/google-turboquant-ai-memory-crunch/\n Last year Jan when DeepSeek dropped, entire semiconductor market bled and the investor thesis was wrong. Now last month when TurboQuant dropped, market bled again. I am sure the thesis is wrong this time too, because people don't even care to read beyond the headlines and what a new algorithmic development actually means (it's not even that difficult to understand tbh).\n People went gaga over DeepSeek because it's an efficient AI and people assumed demand will fall because now AI can be made cheaply. But when inference got cheaper it expanded who could afford to deploy AI at all. So memory demand drastically rose. That's what happens when something gets cheaper, people use more of it, not less. The sector recovered.\n With TurboQuant it's even simpler. The algorithm only compresses KV cache and has negligible impact on training memory where the actual majority of HBM demand comes from. The $180B hyperscalers are spending on memory this year is mostly training spend. Also it's just a research paper as of now, that too sitting since 2025, even Google hasn't deployed it widely. The memory crunch ends when new fab capacities come online in 2027-28. An algorithm doesn't matter much here.\n It just frustrates me that we're clearly stuck in a loop. News drops, headlines go crazy, people panic sell without reading past the abstract, stocks bleed, thesis turns out to be wrong, stocks recover, and then three months later we do it all over again.\n At some point you'd think the market learns. Apparently not.\n    submitted by    /u/Physical-Parfait9980  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sc6g6c/at_what_point_do_investors_start_reading_past_the/",
+          "publishedOn": "2026-04-04T11:07:20.000Z",
+          "wordCount": null,
+          "title": "At what point do investors start reading past the headline?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sc3e2u/daily_general_discussion_and_advice_thread_april/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sc3e2u/daily_general_discussion_and_advice_thread_april/",
+          "publishedOn": "2026-04-04T08:00:50.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - April 04, 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1sbwb4r/institutional_flow_report_major_rotation_into_10y/",
           "author": null,
