@@ -6,6 +6,86 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.com/news/articles/cly7ngpgz5xo#4",
+          "author": null,
+          "description": "Bosses say a good start to the year has been put at risk, but opportunities have also emerged.",
+          "link": "https://www.bbc.com/news/articles/cly7ngpgz5xo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-06T06:15:20.000Z",
+          "wordCount": 5266,
+          "title": "'Positives' for tourism despite Iran war uncertainty",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8851/live/847b8ff0-2eb3-11f1-a1dd-1bb91a29c2db.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c8dl7g6e59eo#0",
+          "author": null,
+          "description": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire.",
+          "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-06T03:33:35.000Z",
+          "wordCount": 5078,
+          "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fefe/live/5f932e40-314d-11f1-b849-f5bf4267dd5c.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c2ev3p14kvlo#0",
+          "author": null,
+          "description": "Countries around the world, including the US, have already stopped imports over the outbreak.",
+          "link": "https://www.bbc.com/news/articles/c2ev3p14kvlo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-05T23:19:20.000Z",
+          "wordCount": 7250,
+          "title": "Spain's huge pork industry seeks salvation from swine fever threat",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6ebe/live/1497bbc0-2da8-11f1-8469-3bd0a3d7fbf1.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn085pdly86o#0",
+          "author": null,
+          "description": "Families on some benefits with three or more children will get an average rise of £4,100 a year.",
+          "link": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-05T23:00:58.000Z",
+          "wordCount": 6009,
+          "title": "Benefits and pensions rise as two-child cap ends",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de0d/live/4e8fd160-2e9c-11f1-90b9-6ffcd881a7dc.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn085pdly86o#4",
+          "author": null,
+          "description": "Families on some benefits with three or more children will get an average rise of £4,100 a year.",
+          "link": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-05T23:00:58.000Z",
+          "wordCount": 6009,
+          "title": "Benefits and pensions rise as two-child cap ends",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/de0d/live/4e8fd160-2e9c-11f1-90b9-6ffcd881a7dc.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cy41n17e23go#0",
+          "author": null,
+          "description": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs.",
+          "link": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-05T22:07:40.000Z",
+          "wordCount": 7245,
+          "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1892/live/f6ae7000-3139-11f1-819d-c96a4978551d.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cp86942yj97o#0",
+          "author": null,
+          "description": "Sir Keir Starmer says it is \"deeply concerning\" the rapper is set to headline a festival after recent antisemitic comments.",
+          "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-05T19:58:17.000Z",
+          "wordCount": 6388,
+          "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/183b/live/c46ba8f0-30e5-11f1-934f-036468834728.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cql70rlkk27o#4",
+          "author": null,
+          "description": "One elderly couple had to find £1,000 for an oil delivery and suppliers are not giving quotes, a councillor says.",
+          "link": "https://www.bbc.com/news/articles/cql70rlkk27o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-05T06:29:52.000Z",
+          "wordCount": 5299,
+          "title": "'Elderly couple had to find £1k for home heating oil'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b6fa/live/82e6bff0-2e83-11f1-9119-fd03bc447b24.jpg"
+        },
+        {
           "id": "https://www.bbc.com/news/articles/cx2e7e90kneo#0",
           "author": null,
           "description": "The age at which people can start receiving the state pension is going up in stages over the next two years.",
@@ -1248,6 +1328,86 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html",
+          "author": "Alexandra Stevenson and Murphy Zhao",
+          "description": "Long concerned about geopolitical crises, China redoubled efforts to secure energy security when President Trump started raising the stakes in his first term.",
+          "link": "https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html",
+          "publishedOn": "2026-04-06T04:01:09.000Z",
+          "wordCount": null,
+          "title": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/06/business/china-mourned-an-education-influencer-the-grief-was-a-quiet-revolt.html",
+          "author": "Li Yuan",
+          "description": "Zhang Xuefeng helped people navigate the country’s unforgiving higher education system. The public outpouring after his death was a quiet rebuke to the punishing process.",
+          "link": "https://www.nytimes.com/2026/04/06/business/china-mourned-an-education-influencer-the-grief-was-a-quiet-revolt.html",
+          "publishedOn": "2026-04-06T04:01:08.000Z",
+          "wordCount": null,
+          "title": "China Mourned an Education Influencer. The Grief Was a Quiet Revolt.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/05/business/plastic-hockey-rinks-global-warming.html",
+          "author": "Ken Belson and Hiroko Tabuchi",
+          "description": "Some environmentalists question using plastic to address rising temperatures.",
+          "link": "https://www.nytimes.com/2026/04/05/business/plastic-hockey-rinks-global-warming.html",
+          "publishedOn": "2026-04-05T17:04:05.000Z",
+          "wordCount": null,
+          "title": "Hockey Rinks Turn to Plastic Ice as Planet Warms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/05/business/opec-plus-oil-production-iran.html",
+          "author": "Benjamin Mullin and Rebecca F. Elliott",
+          "description": "The group of influential oil exporters also said it was increasing its production quotas, a largely symbolic move.",
+          "link": "https://www.nytimes.com/2026/04/05/business/opec-plus-oil-production-iran.html",
+          "publishedOn": "2026-04-05T16:01:08.000Z",
+          "wordCount": null,
+          "title": "OPEC Plus Warns of Slow Recovery After War in Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/05/business/box-office-super-mario-galaxy-movie.html",
+          "author": "Brooks Barnes",
+          "description": "The animated sequel collected about $373 million worldwide over its first five days in theaters. “Kids love the movie,” a box office analyst said.",
+          "link": "https://www.nytimes.com/2026/04/05/business/box-office-super-mario-galaxy-movie.html",
+          "publishedOn": "2026-04-05T15:37:06.000Z",
+          "wordCount": null,
+          "title": "Despite Poor Reviews, ‘The Super Mario Galaxy Movie’ Is a Megahit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/05/upshot/oil-prices-stocks-trump-iran-war.html",
+          "author": "Amy Fan",
+          "description": "After seesawing between diplomacy and threats, the president may find it harder to knock down prices by suggesting pauses in attacks or progress in talks.",
+          "link": "https://www.nytimes.com/2026/04/05/upshot/oil-prices-stocks-trump-iran-war.html",
+          "publishedOn": "2026-04-05T09:53:48.000Z",
+          "wordCount": null,
+          "title": "Oil Markets Doubt Trump’s Peace Signals as Tensions With Iran Grow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/05/dining/autism-chefs-restaurants.html",
+          "author": "Pete Wells",
+          "description": "Culinary jobs have the potential to be a perfect fit, and a new effort is afoot to help autistic workers land them.",
+          "link": "https://www.nytimes.com/2026/04/05/dining/autism-chefs-restaurants.html",
+          "publishedOn": "2026-04-05T09:01:38.000Z",
+          "wordCount": null,
+          "title": "New Chef Program Helps People With Autism Find Jobs in Fine-Dining Restaurants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/05/business/country-club-plaza-kansas-city-rescue-plan.html",
+          "author": "Joe Gose",
+          "description": "The Country Club Plaza’s sale and turnaround plans come at a consequential economic time for Kansas City, Mo., which will soon lose the Chiefs football team.",
+          "link": "https://www.nytimes.com/2026/04/05/business/country-club-plaza-kansas-city-rescue-plan.html",
+          "publishedOn": "2026-04-05T09:00:31.000Z",
+          "wordCount": null,
+          "title": "New Owner of Shopping Plaza in Kansas City Pitches a $1.5 Billion Rescue Plan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/04/04/business/media/hollywood-writers-contract-deal.html",
           "author": "Brooks Barnes",
@@ -2816,6 +2976,156 @@
       "siteUrl": "https://www.investing.com",
       "articles": [
         {
+          "id": "https://www.investing.com/news/company-news/booking-holdings-stock-hits-52week-low-at-16777-usd-93CH-4597730",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/booking-holdings-stock-hits-52week-low-at-16777-usd-93CH-4597730",
+          "publishedOn": "2026-04-06T06:02:56.000Z",
+          "wordCount": null,
+          "title": "Booking Holdings stock hits 52-week low at 167.77 USD",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+            "length": "10322",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/analyst-ratings/piper-sandler-upgrades-tyson-stock-rating-on-beef-chicken-outlook-93CH-4597729",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/analyst-ratings/piper-sandler-upgrades-tyson-stock-rating-on-beef-chicken-outlook-93CH-4597729",
+          "publishedOn": "2026-04-06T05:47:18.000Z",
+          "wordCount": null,
+          "title": "Piper Sandler upgrades Tyson stock rating on beef, chicken outlook",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg",
+            "length": "11397",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-boot-barn-stock-rating-on-valuation-reset-93CH-4597728",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-boot-barn-stock-rating-on-valuation-reset-93CH-4597728",
+          "publishedOn": "2026-04-06T05:41:28.000Z",
+          "wordCount": null,
+          "title": "Jefferies upgrades Boot Barn stock rating on valuation reset",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg",
+            "length": "11397",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/news_pile_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/north-korea-working-on-carbonfibre-icbm-for-multiwarhead-delivery-seoul-says-4597727",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/north-korea-working-on-carbonfibre-icbm-for-multiwarhead-delivery-seoul-says-4597727",
+          "publishedOn": "2026-04-06T05:30:31.000Z",
+          "wordCount": null,
+          "title": "North Korea working on carbon-fibre ICBM for multi-warhead delivery, Seoul says",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505O_L.jpg",
+            "length": "33373",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505O_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/commodities-news/boj-says-regional-economies-could-worsen-due-to-fallout-of-middle-east-conflict-4597725",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/boj-says-regional-economies-could-worsen-due-to-fallout-of-middle-east-conflict-4597725",
+          "publishedOn": "2026-04-06T05:24:35.000Z",
+          "wordCount": null,
+          "title": "BOJ says regional economies could worsen due to fallout of Middle East conflict",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505J_L.jpg",
+            "length": "133938",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505J_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/indias-services-growth-slows-to-14month-low-as-middle-east-war-hits-demand-pmi-shows-4597724",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/indias-services-growth-slows-to-14month-low-as-middle-east-war-hits-demand-pmi-shows-4597724",
+          "publishedOn": "2026-04-06T05:18:58.000Z",
+          "wordCount": null,
+          "title": "India’s services growth slows to 14-month low as Middle East war hits demand, PMI shows",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504Y_L.jpg",
+            "length": "63584",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504Y_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/india-seen-holding-rates-as-goldilocks-phase-gives-way-to-stress-4597723",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/india-seen-holding-rates-as-goldilocks-phase-gives-way-to-stress-4597723",
+          "publishedOn": "2026-04-06T05:18:26.000Z",
+          "wordCount": null,
+          "title": "India seen holding rates as ’Goldilocks’ phase gives way to stress",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504K_L.jpg",
+            "length": "73481",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504K_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/iran-executes-man-over-attack-on-military-site-during-january-protests-mizan-reports-4597718",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/iran-executes-man-over-attack-on-military-site-during-january-protests-mizan-reports-4597718",
+          "publishedOn": "2026-04-06T05:12:10.000Z",
+          "wordCount": null,
+          "title": "Iran executes man over attack on military site during January protests, Mizan reports",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg",
+            "length": "19866",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-rise-over-1-on-report-of--iran-ceasefire-talks-4597696",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-rise-over-1-on-report-of--iran-ceasefire-talks-4597696",
+          "publishedOn": "2026-04-06T05:08:24.000Z",
+          "wordCount": null,
+          "title": "Asia stocks: Nikkei, KOSPI rise over 1% on report of  Iran ceasefire talks",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEB1H0YB_M.jpg",
+            "length": "27968",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEB1H0YB_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/citigroup-pushes-back-fed-rate-cut-timeline-after-strong-job-numbers-4597689",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/citigroup-pushes-back-fed-rate-cut-timeline-after-strong-job-numbers-4597689",
+          "publishedOn": "2026-04-06T05:00:25.000Z",
+          "wordCount": null,
+          "title": "Citigroup pushes back Fed rate cut timeline after strong job numbers",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM35049_L.jpg",
+            "length": "34970",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM35049_L.jpg"
+        },
+        {
           "id": "https://www.investing.com/news/commodities-news/saudi-arabias-nonoil-business-activity-shrinks-in-march-amid-conflict-pmi-shows-4597586",
           "author": "Reuters",
           "description": "",
@@ -4277,6 +4587,116 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sdqcpu/gold_slips_toward_4600_as_trumps_iran_strait/",
+          "author": null,
+          "description": "Gold fell toward $4,600 on Monday, extending losses after Trump warned Iran of possible strikes if the Strait of Hormuz isn’t reopened. Despite rising geopolitical tensions, gold is down about 12% since the conflict began, pressured by higher inflation expectations, potential rate hikes, and investor liquidations.\n    submitted by    /u/Sanaa_24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sdqcpu/gold_slips_toward_4600_as_trumps_iran_strait/",
+          "publishedOn": "2026-04-06T05:47:42.000Z",
+          "wordCount": null,
+          "title": "Gold Slips Toward $4,600 as Trump’s Iran Strait Ultimatum Drags on Markets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sdlon5/choosing_usd_or_eur_bond_etfs/",
+          "author": null,
+          "description": "Hi,\n I'm trying to build a balanced portfolio composed of 70% equities and 30% bonds+MMF. I'm using T212 and prioritizing UCITS ETF as much as possible, since my deposits and withdrawals are in EUR\n The equities part is actually a combination of ETFs (indices, dividends and a satellite portion of individual stocks), and the bond part is, so far, composed of these 4 ETFs:\n -35%: VDST (US treasury 0-1Y) [USD]\n -15%: CSBGE3 (EUR Gov bonds 1-3Y) [EUR]\n -15%: ERNX (EUR ultrashort Corp bonds) [EUR]\n -35%: XEON (EUR Overnight rate swap)[EUR]. I know this one is an MMF but I'd like to include it here as part of my \"stability portion\".\n I'm mostly concerned of the convenience about keeping VDST, since the FX impact could erase my gains if USD weakens. I tried to find a UCITS EUR-hedged ultra-short US Treasury bond (since I still want exposure to US bonds), and the closest equivalent I've found so far is PR1H, but the fund size is somewhat low compared to VDST, I don't know how important is this to decide replace VDST with this one. ERNX is here just for diversification with EUR Corp bonds, and as a yield-enhanced bond ETF).\n My other doubt is about CSBGE3. I got this one to have exposure to EUR gov bonds and some cushion in case of recession/crash, but given that it's 1-3Y, it's more rate-sensitive and I don't know how good or bad will be the situation given the Iran war, stagflation fears, etc. I'm evaluating if keeping only 3, allocated like this within my stability portion:\n VDST (or PR1H): 40%, XEON: 40%, ERNX: 20%\n Does this sound reasonable? My intention is stability + capital preservation + cash-like. If there is a good reason to keep CSBGE3, drop it, or replace it with another UCITS ETF, just let me know. In all cases I lean towards ETFs with a decent fund size, low TER and capable enough to navigate through the current war mess and its possible long-term consequences. Thanks for any input!\n    submitted by    /u/p-padgett  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sdlon5/choosing_usd_or_eur_bond_etfs/",
+          "publishedOn": "2026-04-06T01:52:25.000Z",
+          "wordCount": null,
+          "title": "Choosing USD or EUR bond ETFs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sdk7p9/japan_south_korea_stocks_open_higher_as_investors/",
+          "author": null,
+          "description": "Key Points\n  \nJapan and South Korean stocks rose, while most Asian markets were closed for holidays.\n Trump set a deadline for Iran to reopen Hormuz, escalating threats.\n Oil jumped as OPEC+ raised output but war continued to disrupt supply.\n  \nHe later posted about a “Tuesday 8 P.M. Eastern Time” deadline without elaborating.\n Eight members of the Organization of the Petroleum Exporting Countries and allies raised their production quotas on Sunday by 206,000 barrels per day for May.\n    submitted by    /u/Guy_PCS  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sdk7p9/japan_south_korea_stocks_open_higher_as_investors/",
+          "publishedOn": "2026-04-06T00:45:49.000Z",
+          "wordCount": null,
+          "title": "Japan, South Korea stocks open higher as investors assess Trump’s Iran war comments, extended deadline.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sdei6i/what_is_the_basic_play_in_a_postzirp_world/",
+          "author": null,
+          "description": "stocks are overpriced - huge inflation, trading way above \"value\" P/E analytical levels\n houses are overpriced in areas where reasonable incomes can be readily had (think coastal cities, etc) - 50-100% inflation in price in the last 5-10 years\n for so long, the play was just buy equities because loans/bonds basically didn't pay off (hence the above)\n what are people supposed to do now? buy debt and watch the principal inflate or barely get back what they put in? buy overpriced equities because there is no alternative? horde some worthless wealth-storage-vessel or cash hoping for a collapse? \n i'm genuinely curious if making any money is cooked over the next 5 years as the economy resets from the 20 before that\n    submitted by    /u/Huge-Naturals-7855  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sdei6i/what_is_the_basic_play_in_a_postzirp_world/",
+          "publishedOn": "2026-04-05T20:42:21.000Z",
+          "wordCount": null,
+          "title": "What is the basic play in a post-ZIRP world?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sdc3yd/are_you_all_seeing_a_reduction_in_consumer/",
+          "author": null,
+          "description": "This is not strictly investing per se but I run a vintage and collectibles item shop out here in Arizona. And I’m seeing a huge drop in sales this past month. It may just be anecdotal, but maybe there is more to it, are you guys seeing reduced consumer discretionary spending in your locations as well?\n    submitted by    /u/Jacket_Leather  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sdc3yd/are_you_all_seeing_a_reduction_in_consumer/",
+          "publishedOn": "2026-04-05T19:07:20.000Z",
+          "wordCount": null,
+          "title": "Are you all seeing a reduction in consumer discretionary shopping as well?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sd8kci/what_am_i_missing_with_semy/",
+          "author": null,
+          "description": "Came across this ETF - $SEMY (GraniteShares YieldBOOST Semiconductor ETF). \n  \nThe GraniteShares YieldBOOSTTM Semiconductor ETF (“SEMY”) is designed to generate income through options1 strategies, primarily by selling put options2 on leveraged ETFs that track the 3x Long ICESEMI Daily ETF\n  \nSo essentially, the ETF makes money by selling options against this semiconductor index. While the underlying continues to go down (-32.5% since Nov 18th, when it started trading), it has paid weekly dividends consistently. \n If I bought one share on its first trading day at $24.49, it would currently be worth $16.51 which is a loss of $7.98.\n But the dividends paid so far total $10.78.\n So a net gain of $2.80/share - or roughly a 10% gain on my one share (not account for taxes).\n This seems to good to be true. What am I missing here?\n    submitted by    /u/redset10  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sd8kci/what_am_i_missing_with_semy/",
+          "publishedOn": "2026-04-05T16:49:52.000Z",
+          "wordCount": null,
+          "title": "What am I missing with $SEMY?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sd83bh/why_is_inovio_board_investing_in_the_co_even_as/",
+          "author": null,
+          "description": "The Board is among the Largest Shareholders- ask why would they gamble on dilutive share sales to bolster capital in a recession in US? Answer: They're sure we're approaching daylight-they have experts, Funds for 3107-3100-5412-Factor VIII rollout: will pay off, they know how it will go. INO's Board are experts in their fields, why would they gamble their life savings on a nearly bankrupt company? Are they dummies or something?Think again- Their long tenures in Ino's scientifically demonstrated DNA enhanced treatments, many of if not all of which have been proven to enhance their target antigens- we always lacked money, but approvals among FDA staff who are money-ball players on low government salaries, always \"follow the money\"- once we get this last final share sale, July 3100 news, September progress of 3107 BLA, 5412 evidence, and D-PROT, partnerships- we will have BP Biotech world courting us. Ask why BP spends-2 billion for a promising company like nothing?\n Because it's what it takes to launch 1 pharma drug-all BPs face lost revenue due to Medicare price controls & patent expirations. So any of those can and will pay for a high probable, quality treatment, ready for approval. The Board can't announce 'news' but they are in the same boat as me& shareholders. I opened my ears- I won't sell until at least Oct. 31, 2026. Remember March 2024 $14-15 pop? Smart Money tells you, History repeats, Buy-Hold. And $14.74 is coming in Winter 2026- because even if we have 100 million shares in Float = $20 per share on a $2 billion buyout. Understand that our cards are still in play, and we are not going bankrupt. Long 350k. Get ready to buy the fire sale prices- my love to shorts! The Board's bull capital-raise investment is a tell to a card player. Who dilutes their #1 holding if a dying Co. - their actions are contrary to the price moves- tell me why that is?\n    submitted by    /u/tomonota  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sd83bh/why_is_inovio_board_investing_in_the_co_even_as/",
+          "publishedOn": "2026-04-05T16:31:04.000Z",
+          "wordCount": null,
+          "title": "Why is Inovio Board investing in the Co. even as shares crash? It's a tell to a card player- A strong future movement is in the cards?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sd7vcw/please_explain_why_the_dollar_is_still_so_strong/",
+          "author": null,
+          "description": "Usually, when a country's lead is communicating clear emotional instability, that has an immediate impact on the trust into the country's economy.\n Why is the dollar so strong right now? It was 15% weaker 5 months ago. \n What happens?\n The course just jumped from 1.16 to 1.15 USD/EUR, but why? Where does the strong signal come from?\n    submitted by    /u/utzutzutzpro  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sd7vcw/please_explain_why_the_dollar_is_still_so_strong/",
+          "publishedOn": "2026-04-05T16:22:20.000Z",
+          "wordCount": null,
+          "title": "Please explain why the Dollar is still so strong despite everything happening?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sd465u/i_tracked_15_investment_themes_against_the_sp_500/",
+          "author": null,
+          "description": "I've been tracking 15 investment themes for a while now and honestly the gap between what people talk about and what's actually performing is pretty wild this year. Pulled equal-weight basket data on all of them against SPY, which is sitting at −4% YTD as of early April 2026 and the results tell a very different story than the headlines.\n The leaderboard (YTD average return, equal-weight)\n  \n Theme YTD Avg % of Stocks Beating SPY \n  \n Oil & Gas +32.9% 100% (28/28) \n  Data Center & AI Infra +19.5% 75% \n  Space & Satellite +19.1% 65% \n  Gold & Precious Metals +14.3% 92% \n  Defense & Military +3.3% 61% \n  Robotics & Automation +1.9% 48% \n  Nuclear Energy −1.7% 61% \n  Biotech & Healthcare −4.9% 35% \n  Renewable Energy −5.8% 48% \n  EV −9.5% 35% \n  Cybersecurity −12.0% 22% \n  Crypto −14.8% 20% \n…",
+          "link": "https://www.reddit.com/r/investing/comments/1sd465u/i_tracked_15_investment_themes_against_the_sp_500/",
+          "publishedOn": "2026-04-05T13:51:44.000Z",
+          "wordCount": null,
+          "title": "I tracked 15 investment themes against the S&P 500- here's who's winning, who's bleeding, and what it actually means for 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sd0x3g/avoid_fast_track_ipos_while_keeping_broad_passive/",
+          "author": null,
+          "description": "There’s been a lot of chatter around indexes changing their rules to allow inclusion of new ipos for Space X (which will ipo around 2T making its s&p representation near 10%) and OpenAI. I don’t have an issue with the weighting or price specifically but the fast tracking without time for market price discovery is problematic for me. In my opinion this is essentially the current owners getting a free pass to time the market at all of our expense. \n Is there a feasible tactic to avoid the ipo period (say 6-12 months) while maintaining broad us equity exposure passively? I’m a passive investor with ~75% in VTI so I don’t want to do anything complex but if there’s a variant which is a similar index without being forced to be a source of liquidity for venture funds at the time of their choosing I would like to consider that option. \n    submitted by    /u/seedorf1010  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sd0x3g/avoid_fast_track_ipos_while_keeping_broad_passive/",
+          "publishedOn": "2026-04-05T11:10:19.000Z",
+          "wordCount": null,
+          "title": "Avoid fast track IPO’s while keeping broad passive strategy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1scxvya/daily_general_discussion_and_advice_thread_april/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1scxvya/daily_general_discussion_and_advice_thread_april/",
+          "publishedOn": "2026-04-05T08:00:50.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - April 05, 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1scvoz0/canadian_student_investments/",
           "author": null,
@@ -6155,6 +6575,46 @@
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/finance/comments/1sdpisg/moronic_monday_april_06_2026_your_weekly/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1sdpisg/moronic_monday_april_06_2026_your_weekly/",
+          "publishedOn": "2026-04-06T05:01:14.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - April 06, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1sdp0es/petro_pensions_trojan_tradfi/",
+          "author": null,
+          "description": "https://www.bloomberg.com/opinion/articles/2026-04-06/the-petrodollar-loop-supporting-the-treasury-market-is-broken\n    submitted by    /u/Connect_Corner_5266  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1sdp0es/petro_pensions_trojan_tradfi/",
+          "publishedOn": "2026-04-06T04:33:06.000Z",
+          "wordCount": null,
+          "title": "Petro, pensions + Trojan Tradfi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1sdlfkc/finally_an_ai_that_knows_your_portfolio_looking/",
+          "author": null,
+          "description": "submitted by    /u/Electrical-Space-398  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1sdlfkc/finally_an_ai_that_knows_your_portfolio_looking/",
+          "publishedOn": "2026-04-06T01:40:57.000Z",
+          "wordCount": null,
+          "title": "Finally, an AI that knows your portfolio — looking for feedback",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1sdgihf/financial_influencer_uses_money_tree_concept_to/",
+          "author": null,
+          "description": "submitted by    /u/cryptoniik  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1sdgihf/financial_influencer_uses_money_tree_concept_to/",
+          "publishedOn": "2026-04-05T22:03:50.000Z",
+          "wordCount": null,
+          "title": "Financial influencer uses 'money tree' concept to explain wealth building",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/finance/comments/1sab12h/scarred_by_wirecard_germany_takes_on_a_global/",
           "author": null,
           "description": "submitted by    /u/bloomberg  \n [link]   [comments]",
@@ -6322,16 +6782,6 @@
           "publishedOn": "2026-03-07T23:07:57.000Z",
           "wordCount": null,
           "title": "BlackRock fund limits withdrawals as redemptions rattle private credit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1rngqna/lloyd_blankfeins_unapologetic_case_for_goldman/",
-          "author": null,
-          "description": "The former CEO’s memoir Streetwise is a love letter to the firm that forged him and a defense of the culture that made it dominant.\n    submitted by    /u/bloomberg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1rngqna/lloyd_blankfeins_unapologetic_case_for_goldman/",
-          "publishedOn": "2026-03-07T18:04:49.000Z",
-          "wordCount": null,
-          "title": "Lloyd Blankfein’s Unapologetic Case for Goldman Sachs",
           "imageUrl": null
         }
       ]
