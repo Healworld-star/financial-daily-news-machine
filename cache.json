@@ -6,6 +6,146 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.com/news/articles/cn788ymy5gno#0",
+          "author": null,
+          "description": "Evergrande was once China's biggest real estate firm, with a stock market valuation of more than $50bn.",
+          "link": "https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-14T05:19:43.000Z",
+          "wordCount": 5003,
+          "title": "Founder of China's Evergrande pleads guilty to fraud",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/358d/live/5d844720-37be-11f1-b977-e9b0bfcbd7b4.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cjr9qrnp821o#0",
+          "author": null,
+          "description": "Crude prices jumped above $100 on Monday after talks failed between the two sides at the weekend.",
+          "link": "https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-14T03:46:04.000Z",
+          "wordCount": 5261,
+          "title": "Oil prices ease on hopes of new US-Iran peace talks",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2d84/live/8bf48930-37a0-11f1-bdff-893e177acf0e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cq597n1pg6lo#0",
+          "author": null,
+          "description": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.",
+          "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-14T01:05:54.000Z",
+          "wordCount": 5738,
+          "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7f1c/live/e70fffc0-379b-11f1-837d-21d2841eb8ab.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cz0egvr94zro#0",
+          "author": null,
+          "description": "Stars like Emma Thompson and Ben Stiller signed an open letter against the deal, which Paramount said will ensure creators \"have more avenues for their work, not fewer\".",
+          "link": "https://www.bbc.com/news/articles/cz0egvr94zro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-14T00:39:03.000Z",
+          "wordCount": 5610,
+          "title": "Hollywood stars unite to oppose Paramount and Warner Bros Discovery merger",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/db73/live/120c3240-3795-11f1-a761-8bbb4440b6ff.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c20q4nv89yzo#0",
+          "author": null,
+          "description": "With some promising computing companies in the field, could Europe be a leader in quantum tech?",
+          "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T23:35:56.000Z",
+          "wordCount": 7406,
+          "title": "Quantum computing: A tech race Europe could win?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4c7a/live/1e242b70-23ac-11f1-b297-95b0a0a8331e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/videos/c1krg1rzpmeo#6",
+          "author": null,
+          "description": "Some of the cheapest fuel in the country can be found on tribal land due to tax exemptions.",
+          "link": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T19:10:28.000Z",
+          "wordCount": 5243,
+          "title": "US drivers head to Native American lands for cheaper gas",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0510/live/8e15d5a0-376b-11f1-879d-1b2f5c3919b8.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cvgk3qgkz41o#4",
+          "author": null,
+          "description": "Drivers in the south of England are feeling the financial strain from the US-Israel war with Iran.",
+          "link": "https://www.bbc.com/news/articles/cvgk3qgkz41o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T16:28:17.000Z",
+          "wordCount": 7174,
+          "title": "Taxis, farmers and the fuel crisis in the south",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/836b/live/01d56110-373d-11f1-b3bd-89f011397f28.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn08ep6d5ndo#0",
+          "author": null,
+          "description": "The number of homes sold in the US hit a nine-month low, with economists warning of the slowdown could worsen.",
+          "link": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T16:25:08.000Z",
+          "wordCount": 4728,
+          "title": "US home buyers 'frozen' as sales slump over Iran war fears",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5d0d/live/14096f30-3750-11f1-8a34-6b2c37f4bef9.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn08ep6d5ndo#4",
+          "author": null,
+          "description": "The number of homes sold in the US hit a nine-month low, with economists warning of the slowdown could worsen.",
+          "link": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T16:25:08.000Z",
+          "wordCount": 4728,
+          "title": "US home buyers 'frozen' as sales slump over Iran war fears",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5d0d/live/14096f30-3750-11f1-8a34-6b2c37f4bef9.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/videos/cx2346nkg6eo#4",
+          "author": null,
+          "description": "Energy costs jump as oil supplies from the Middle East are disrupted by failed US-Iran ceasefire talks.",
+          "link": "https://www.bbc.com/news/videos/cx2346nkg6eo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T16:22:24.000Z",
+          "wordCount": 2454,
+          "title": "Are you worried about rising fuel costs?",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nd5wb2.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cx2dg5g1le7o#1",
+          "author": null,
+          "description": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers.",
+          "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T15:10:38.000Z",
+          "wordCount": 4986,
+          "title": "GTA-maker Rockstar Games hacked again but downplays impact",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3c29/live/fbde8390-3719-11f1-a6bd-75d9eff58887.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c87w5ld0p80o#1",
+          "author": null,
+          "description": "Rolls-Royce has said the project will create 8,000 jobs across Britain.",
+          "link": "https://www.bbc.com/news/articles/c87w5ld0p80o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T14:57:37.000Z",
+          "wordCount": 5967,
+          "title": "Green light to build nuclear power station that promises 8,000 jobs",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2a79/live/01daef10-372c-11f1-879d-1b2f5c3919b8.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cn897e8280do#0",
+          "author": null,
+          "description": "Airlines warn of further disruption due to the introduction of a new EU digital border control system.",
+          "link": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T12:56:34.000Z",
+          "wordCount": 6960,
+          "title": "EasyJet passengers describe EU border 'nightmare'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c1f6/live/509d4660-3728-11f1-872e-dbe4122cf753.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/czxr4455p2vo#4",
+          "author": null,
+          "description": "Fuel costs have soared globally as a result of the US-Israel war with Iran.",
+          "link": "https://www.bbc.com/news/articles/czxr4455p2vo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-13T12:20:03.000Z",
+          "wordCount": 6255,
+          "title": "Farmers ask Stormont for financial help with fuel costs",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/81fc/live/98678790-3727-11f1-872e-dbe4122cf753.jpg"
+        },
+        {
           "id": "https://www.bbc.com/news/articles/c937jkvp3w8o#0",
           "author": null,
           "description": "Sir Keir Starmer is planning a law which will mean that the UK government can adopt EU single market rules, without them being voted on in Parliament.",
@@ -1908,6 +2048,136 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html",
+          "author": "Keith Bradsher",
+          "description": "Multinationals in China are concerned that the regulations could allow authorities to penalize companies and executives for shifting supply chains away from the country.",
+          "link": "https://www.nytimes.com/2026/04/14/business/china-foreign-companies-supply-chain.html",
+          "publishedOn": "2026-04-14T05:43:57.000Z",
+          "wordCount": null,
+          "title": "New Rules Hinder Foreign Firms From Moving Supply Chains From China",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/14/business/media/netflix-sarandos-cinema-owners-cinemacon.html",
+          "author": "Nicole Sperling",
+          "description": "Ted Sarandos attended a major movie theater conference for the first time and met with domestic and international owners, people familiar with the meetings said.",
+          "link": "https://www.nytimes.com/2026/04/14/business/media/netflix-sarandos-cinema-owners-cinemacon.html",
+          "publishedOn": "2026-04-14T04:20:41.000Z",
+          "wordCount": null,
+          "title": "Netflix Leader Makes Rare Overture to Cinema Owners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/goldman-sachs-earnings.html",
+          "author": "Rob Copeland",
+          "description": "It will be a tricky earnings season, as the investment banking giant became the first to show on Monday.",
+          "link": "https://www.nytimes.com/2026/04/13/business/goldman-sachs-earnings.html",
+          "publishedOn": "2026-04-13T19:53:06.000Z",
+          "wordCount": null,
+          "title": "Goldman Sachs Earnings Show Effects of Iran War",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/media/trump-wall-street-journal-lawsuit-dismissed-epstein.html",
+          "author": "Katie Robertson",
+          "description": "The judge said President Trump had not “plausibly alleged” that The Journal published the article with actual malice.",
+          "link": "https://www.nytimes.com/2026/04/13/business/media/trump-wall-street-journal-lawsuit-dismissed-epstein.html",
+          "publishedOn": "2026-04-13T19:23:52.000Z",
+          "wordCount": null,
+          "title": "Judge Dismisses Trump’s Suit Over WSJ Report on Birthday Card to Epstein",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html",
+          "author": "David E. Sanger",
+          "description": "President Trump is trying to choke off the country’s lifeline with a blockade of the Strait of Hormuz. But the Iranians are betting that his tolerance for political pain is limited.",
+          "link": "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html",
+          "publishedOn": "2026-04-13T19:01:33.000Z",
+          "wordCount": null,
+          "title": "Iran Blockade Sets Up a Test of Which Side Can Endure More Pain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/shipping-iran-strait-of-hormuz.html",
+          "author": "Peter Eavis and Jenny Gross",
+          "description": "The United States said it has started to block vessels doing business with Iran from the strait. Details on how that would work are unclear.",
+          "link": "https://www.nytimes.com/2026/04/13/business/shipping-iran-strait-of-hormuz.html",
+          "publishedOn": "2026-04-13T17:38:15.000Z",
+          "wordCount": null,
+          "title": "Shipping Companies Remain Reluctant to Sail Through Strait of Hormuz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/world/middleeast/strait-hormuz-shipping-iran-blockade-trump.html",
+          "author": "Jenny Gross",
+          "description": "The vessels exited the Strait of Hormuz on Monday, hours before a U.S. naval blockade took effect.",
+          "link": "https://www.nytimes.com/2026/04/13/world/middleeast/strait-hormuz-shipping-iran-blockade-trump.html",
+          "publishedOn": "2026-04-13T17:27:37.000Z",
+          "wordCount": null,
+          "title": "Two Iran-linked Ships Passed Through Strait of Hormuz Ahead of U.S. Blockade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/media/hollywood-letter-opposing-paramount-warner-bros-deal.html",
+          "author": "Benjamin Mullin",
+          "description": "The letter warns that the deal will result in fewer jobs for creatives, along with higher costs and less choice for audiences.",
+          "link": "https://www.nytimes.com/2026/04/13/business/media/hollywood-letter-opposing-paramount-warner-bros-deal.html",
+          "publishedOn": "2026-04-13T17:08:33.000Z",
+          "wordCount": null,
+          "title": "Hollywood Heavyweights Sign Letter Opposing Paramount’s Deal for Warner Bros.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/trump-iran-russia-oil-sanctions.html",
+          "author": "Alan Rappeport",
+          "description": "A sanctions waiver aimed at keeping global oil prices down had allowed Moscow to sell oil currently at sea.",
+          "link": "https://www.nytimes.com/2026/04/13/business/trump-iran-russia-oil-sanctions.html",
+          "publishedOn": "2026-04-13T15:32:31.000Z",
+          "wordCount": null,
+          "title": "Trump Administration’s Temporary Reprieve on Russian Oil Expires",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/economy/iran-imports-exports-china.html",
+          "author": "Patricia Cohen and Robert Gebeloff",
+          "description": "As the nation contended with high inflation, high unemployment and unrest before the war, it became more than just an oil exporter.",
+          "link": "https://www.nytimes.com/2026/04/13/business/economy/iran-imports-exports-china.html",
+          "publishedOn": "2026-04-13T15:30:06.000Z",
+          "wordCount": null,
+          "title": "How Iran, Suffering Under Sanctions, Diversified Its Economy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/media/economist-magazine-videos.html",
+          "author": "Benjamin Mullin",
+          "description": "Nameless no more, writers for The Economist are mixing it up on video from its studio in London.",
+          "link": "https://www.nytimes.com/2026/04/13/business/media/economist-magazine-videos.html",
+          "publishedOn": "2026-04-13T12:54:22.000Z",
+          "wordCount": null,
+          "title": "The Economist Is Putting Names (and Faces) to Its Magazine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/dealbook/trump-iran-hormuz-blockade.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe",
+          "description": "President Trump’s plan to bar ships from entering or leaving Iranian ports has put markets on edge and added to global economic uncertainty.",
+          "link": "https://www.nytimes.com/2026/04/13/business/dealbook/trump-iran-hormuz-blockade.html",
+          "publishedOn": "2026-04-13T11:53:59.000Z",
+          "wordCount": null,
+          "title": "Investors Brace for a New Hormuz Blockade Threat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/13/business/mcdonalds-drinks-refreshers-dirty-soda.html",
+          "author": "Julie Creswell",
+          "description": "The fast-food giant will add fruit-flavored drinks to its menus next month as chains like Dunkin’ and Starbucks sell more cold drinks than hot ones.",
+          "link": "https://www.nytimes.com/2026/04/13/business/mcdonalds-drinks-refreshers-dirty-soda.html",
+          "publishedOn": "2026-04-13T09:03:06.000Z",
+          "wordCount": null,
+          "title": "The Battle Over Refreshers Heats Up as McDonald’s Enters the Mix",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/04/12/business/oil-prices-surge-above-100-after-peace-talks-fail-and-trump-threatens-blockade.html",
           "author": "The New York Times",
@@ -4475,6 +4745,146 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/economy-news/factboxfrom-airlines-to-banks-australian-new-zealand-firms-feel-gulf-crisis-heat-4611688",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/factboxfrom-airlines-to-banks-australian-new-zealand-firms-feel-gulf-crisis-heat-4611688",
+          "publishedOn": "2026-04-14T06:07:08.000Z",
+          "wordCount": null,
+          "title": "Factbox-From airlines to banks: Australian, New Zealand firms feel Gulf crisis heat",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D097_L.jpg",
+            "length": "11836",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D097_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/prince-harry-and-meghan-arrive-in-australia-to-a-muted-welcome-4611635",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/prince-harry-and-meghan-arrive-in-australia-to-a-muted-welcome-4611635",
+          "publishedOn": "2026-04-14T06:06:53.000Z",
+          "wordCount": null,
+          "title": "Prince Harry and Meghan arrive in Australia to a muted welcome",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D03I_L.jpg",
+            "length": "47365",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D03I_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/wegovymaker-novo-nordisk-partners-with-openai-to-speed-drug-development-4611687",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/wegovymaker-novo-nordisk-partners-with-openai-to-speed-drug-development-4611687",
+          "publishedOn": "2026-04-14T06:06:36.000Z",
+          "wordCount": null,
+          "title": "Wegovy-maker Novo Nordisk partners with OpenAI to speed drug development",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D094_L.jpg",
+            "length": "51872",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D094_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/harworth-group-publishes-2025-annual-report-sets-may-agm-date-93CH-4611686",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/harworth-group-publishes-2025-annual-report-sets-may-agm-date-93CH-4611686",
+          "publishedOn": "2026-04-14T06:03:55.000Z",
+          "wordCount": null,
+          "title": "Harworth Group publishes 2025 annual report, sets May AGM date",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+            "length": "10322",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/hsbc-chairman-sees-ai-and-asia-growth-offsetting-iran-war-impact-93CH-4611685",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/hsbc-chairman-sees-ai-and-asia-growth-offsetting-iran-war-impact-93CH-4611685",
+          "publishedOn": "2026-04-14T06:01:59.000Z",
+          "wordCount": null,
+          "title": "HSBC chairman sees AI and Asia growth offsetting Iran war impact",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/HSBC_2_M_1440048631.jpg",
+            "length": "92122",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/HSBC_2_M_1440048631.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/politics-news/bessent-says-fed-should-wait-on-rate-cuts-amid-iran-war-93CH-4611684",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/politics-news/bessent-says-fed-should-wait-on-rate-cuts-amid-iran-war-93CH-4611684",
+          "publishedOn": "2026-04-14T06:01:22.000Z",
+          "wordCount": null,
+          "title": "Bessent says Fed should wait on rate cuts amid Iran war",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+            "length": "10322",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-hits-1mth-high-above-74k-tracking-broader-risk-rally-4611683",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-hits-1mth-high-above-74k-tracking-broader-risk-rally-4611683",
+          "publishedOn": "2026-04-14T06:00:53.000Z",
+          "wordCount": null,
+          "title": "Bitcoin price today: hits 1-mth high above $74k tracking broader risk rally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-160-4611680",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-160-4611680",
+          "publishedOn": "2026-04-14T06:00:04.000Z",
+          "wordCount": null,
+          "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.60%",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg",
+            "length": "23207",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/virgin-atlantic-ceo-warns-high-jet-fuel-prices-will-persist-93CH-4611679",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/virgin-atlantic-ceo-warns-high-jet-fuel-prices-will-persist-93CH-4611679",
+          "publishedOn": "2026-04-14T05:58:53.000Z",
+          "wordCount": null,
+          "title": "Virgin Atlantic CEO warns high jet fuel prices will persist",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+            "length": "10322",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/givaudan-beats-q1-sales-forecasts-as-perfume-demand-masks-food-business-dip-4611678",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/givaudan-beats-q1-sales-forecasts-as-perfume-demand-masks-food-business-dip-4611678",
+          "publishedOn": "2026-04-14T05:52:40.000Z",
+          "wordCount": null,
+          "title": "Givaudan beats Q1 sales forecasts as perfume demand masks food business dip",
+          "imageUrl": null
+        },
         {
           "id": "https://www.investing.com/news/company-news/ringkjbing-landbobank-buys-back-13600-shares-in-week-15-93CH-4609276",
           "author": "Investing.com",
@@ -7097,6 +7507,216 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sl044d/how_do_you_stick_to_a_budget_when_small_daily/",
+          "author": null,
+          "description": "Every morning I start with the intention to spend less, but then the day happens. I grab a coffee because I’m tired, stop by the store for a few things, or take a ride because it’s more convenient. Each time it feels like a small, harmless expense.\n But by the end of the month, I realize those small decisions added up way more than I expected, and I’ve gone over budget again. I’m not making big purchases, just repeating daily habits. How did you actually get control over this without feeling too restricted?\n    submitted by    /u/Tanuja_Aggarwal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sl044d/how_do_you_stick_to_a_budget_when_small_daily/",
+          "publishedOn": "2026-04-14T06:00:34.000Z",
+          "wordCount": null,
+          "title": "How do you stick to a budget when small daily expenses keep adding up?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skzv8l/thesis_converging_spot_and_futures_prices/",
+          "author": null,
+          "description": "So I’ve been seeing a lot of speculation and confusion about why oil futures have remained so low despite the historic supply disruption, and why the spread between futures and physical prices is so big. I have a bit of a background in oil, so I’ll try to explain it based on my understanding. Just to be clear, this is something that’s baffled a lot of commodity experts, so I’m not claiming this is the 100% accurate assessment, it’s just my personal thesis at the end of the day.\n Before we jump into the conflict and the situation with Hormuz, we need to first understand what was going on with oil markets leading up to the war:\n  \nThe Cash and Carry Trade\n  \nBefore the onset of the war, a lot of traders were engaged in what is called the “cash and carry trade.” In a healthy, stable oil marke…",
+          "link": "https://www.reddit.com/r/investing/comments/1skzv8l/thesis_converging_spot_and_futures_prices/",
+          "publishedOn": "2026-04-14T05:46:56.000Z",
+          "wordCount": null,
+          "title": "Thesis: Converging Spot and Futures Prices",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skygce/decided_not_to_move_forward_with_the_business/",
+          "author": null,
+          "description": "Hi everyone,\n I wanted to follow up and thank everyone again for all the feedback on my previous post it really helped me think things through more clearly.\n After giving it serious consideration, I’ve decided not to move forward with the business buy-in opportunity.\n The main reason is simple: It would require me to borrow a significant amount from friends, and I’m personally not comfortable with that level of risk especially if I can’t realistically pay them back quickly.\n For me, anything beyond a short timeframe (ideally within a month) starts to feel like too much pressure, and I don’t want to put myself or my relationships in that position.\n Also, as some of you pointed out, it would be putting too many eggs in one basket. I may revisit this opportunity in the future once I’m more di…",
+          "link": "https://www.reddit.com/r/investing/comments/1skygce/decided_not_to_move_forward_with_the_business/",
+          "publishedOn": "2026-04-14T04:31:53.000Z",
+          "wordCount": null,
+          "title": "Decided NOT to move forward with the business buy-in, shifting toward real estate instead",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skwk63/cd_will_expire_soon_need_to_invest_but_cant_trust/",
+          "author": null,
+          "description": "There’s a lot of noise in the market right now, and it feels like short term price action is being driven more by headlines than fundamentals.\n Geopolitical tensions specially involving Iran and the Strait of Hormuz r creating constant volatility. 1 day there are reports of escalation or disruption, the next day those same narratives get walked back or reframed. Markets react hard in both directions.\n At the same time, political messaging particularly from Trump and people around hi. seems to have a noticeable impact on sentiment. Statements about negotiations, conflict, or policy direction can move markets quickly, even when the follow-through or accuracy is unclear.\n You’ll c markets drop on negative developments, then rebound just as fast on renewed “optimism” headlines, only for those to be contradicted later. It creates a cycle where narratives shift faster than underlying conditions\n Overall, the environment feels highly reactive and headline-driven, which makes it harder to distinguish real trends from short-term sentiment swings\n    submitted by    /u/Worried-Share7679  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skwk63/cd_will_expire_soon_need_to_invest_but_cant_trust/",
+          "publishedOn": "2026-04-14T03:00:48.000Z",
+          "wordCount": null,
+          "title": "CD will expire soon need to invest but can't trust trump",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skw1ql/lets_talk_about_safx_guys/",
+          "author": null,
+          "description": "In June production doubles to 38 million. The big dogs jump in when the money goes up. In two years another plant will open. This is a rare confluence of a small company on the verge of \n 1: A big, integrating merger. \n 2: Geopolitics destroying supply.\n 3: Countries mandating near future increases of SAF. \n 4: Soon finished upgrades doubling capacity.\n Am I missing something? The company's size means it can quickly increase multiples. Future production and need means it can increase for a long time. Hold or hold some and swing some. Six weeks to June, everybody. \n    submitted by    /u/happy123z  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skw1ql/lets_talk_about_safx_guys/",
+          "publishedOn": "2026-04-14T02:37:34.000Z",
+          "wordCount": null,
+          "title": "Let's talk about SAFX guys!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sktd6x/leveraged_etfs_and_trading_policies/",
+          "author": null,
+          "description": "Hi all,\n I recently started a position that is subject to a trading policy, whatever is bought must be held for 30 days. \n I forgot about this policy entirely and precleared purchase for a 3x leverage ETF. I’m curious if anyone else has bought a leveraged or higher risk security under a hold policy and if it worked out/were you allowed to sell out of it ? \n    submitted by    /u/Savings_Computer_693  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sktd6x/leveraged_etfs_and_trading_policies/",
+          "publishedOn": "2026-04-14T00:40:09.000Z",
+          "wordCount": null,
+          "title": "Leveraged ETFs and trading policies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sksvse/google_could_make_100_billion_on_the_spacex_ipo/",
+          "author": null,
+          "description": "Google owns around 5% of Spacex and if the IPO goes for 2 Trillion then that means 100 Billion in profit for them. \n https://oortcloudreport.github.io/news/space_article/google.html\n    submitted by    /u/Fickle-Hovercraft-84  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sksvse/google_could_make_100_billion_on_the_spacex_ipo/",
+          "publishedOn": "2026-04-14T00:18:52.000Z",
+          "wordCount": null,
+          "title": "Google could make 100 Billion on the SpaceX IPO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skstoy/thoughts_on_schwab_intelligent_portfolios/",
+          "author": null,
+          "description": "I have about $150k cash to invest, and in the previous 20 years of my adult working life, most of my stock investments have been either stagnant or losing. So clearly I’m not a DIY guy. The fee structure seemed attractive vs a managed portfolio. But still apprehensive about a “robo managed” approach and the relatively high skew toward cash holdings, which suppresses returns of course. \n Thanks in advance for any insights or past experiences! \n    submitted by    /u/OCKingsFan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skstoy/thoughts_on_schwab_intelligent_portfolios/",
+          "publishedOn": "2026-04-14T00:16:16.000Z",
+          "wordCount": null,
+          "title": "Thoughts on Schwab Intelligent Portfolios?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skslvm/purchasing_and_holding_us_stocks_etfs_mutual/",
+          "author": null,
+          "description": "Hello,\n I'm debating whether to invest my money into US stocks and mutual funds through a Singapore vs US brokerage account. I came to the US for college 5 years ago and now work in California. I have a SSN and can easily open a brokerage account here, however, the US has strict capitals gains taxes and withholdings for dividends. My parents live/ work in Singapore under PEP (personalized employment pass) and have lived there for over 15 years so they have brokerage accounts in Singapore (with Tiger I believe). I used to be on a dependent pass under them but have no status in Singapore now. I have recently started full-time work in the US and am looking to invest $5-10k USD yearly instead of opening an IRA account here (not sure whether I will live in the US in the future and while my home…",
+          "link": "https://www.reddit.com/r/investing/comments/1skslvm/purchasing_and_holding_us_stocks_etfs_mutual/",
+          "publishedOn": "2026-04-14T00:06:30.000Z",
+          "wordCount": null,
+          "title": "Purchasing and holding US stocks/ ETFs/ mutual funds through US brokerage account vs Singapore brokerage account",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skpe48/stock_option_valuation_tools/",
+          "author": null,
+          "description": "Hey all,\n I’ve been investing for 25 years, went to school for it, masters too, the whole nine yards. I’ve always done valuations manually on excel and it’s worked out, but crazy time consuming. \n I also think that the corporate giants and hedge funds will always have a leg up over any of us - purely because of data barriers. Because of that, I found a way to get the pro level data (it’s expensive) and incorporated into a tool that simplifies and provides calculations for people like us. I also was able to pull in some things that I think aren’t being covered now. Doesn’t give actual buy / sell / any financial advice, but I’m hoping it equips all of us with the tools we need to succeed.\n I’ll answer whatever questions you guys have. I put brand affiliate here because I put it under an LLC, but I’m not trying to profit off of it, just cover the data costs. \n Www.equity-rank.com \n Seriously let me know if there’s any updates you guys think are needed - I only just launched the site.\n    submitted by    /u/memesiku  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skpe48/stock_option_valuation_tools/",
+          "publishedOn": "2026-04-13T21:55:21.000Z",
+          "wordCount": null,
+          "title": "Stock / option valuation tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skoneq/company_changing_401k_plan_provider_to_empower/",
+          "author": null,
+          "description": "My company is changing 401k plan providers. How bad is Empower 401k administrative fees? I am hearing they charge way higher than Fidelity, additionally it looks like they have higher expense ratio index funds and have outgoing rollover fee. How is your experience with them?\n    submitted by    /u/Ok_Technician_2653  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skoneq/company_changing_401k_plan_provider_to_empower/",
+          "publishedOn": "2026-04-13T21:27:12.000Z",
+          "wordCount": null,
+          "title": "Company changing 401k plan provider to Empower",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skkbwk/maxing_out_retirement_accounts_enough/",
+          "author": null,
+          "description": "25M. Maxing out 401k (24,500) and roth ira (7,500). Have emergency fund and everything else is put into taxable brokerage.\n Thinking about a lifestyle upgrade (better apartment) but would have to dip into the monthly allocation going to taxable brokerage. Would I be ok simply just maxing out my retirement accounts?\n    submitted by    /u/Puzzleheaded-Bus8922  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skkbwk/maxing_out_retirement_accounts_enough/",
+          "publishedOn": "2026-04-13T18:57:42.000Z",
+          "wordCount": null,
+          "title": "Maxing out retirement accounts enough?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skjt9q/is_it_me_or_is_the_market_justignoring_the/",
+          "author": null,
+          "description": "I'm seeing articles about how oil futures are much lower than the actual cost of delivered oil (as in oil futures do not reflect the tru price of oil, which is much higher). Everything I read indicates that even if the war ended right now, damage has been done to production and distribution, there is a massive shortfall in oil, and it will take months/years for production to return to pre-war levels.\n and that is all before we add in the fact that 1) the war is very much NOT over 2) the straight is very much NOT open, and 3) now the US itself is pledging to disrupt the flow of oil and other goods/commodities thru the straight?\n WHY is the market acting like it doesn't know all of the above? there is no way the ongoing oil supply shortage is priced in. there is no way the continuation of th…",
+          "link": "https://www.reddit.com/r/investing/comments/1skjt9q/is_it_me_or_is_the_market_justignoring_the/",
+          "publishedOn": "2026-04-13T18:39:37.000Z",
+          "wordCount": null,
+          "title": "Is it me, or is the market just...ignoring the realities of the oil supply shock?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skjie2/first_time_investor_need_advice/",
+          "author": null,
+          "description": "First time investing need some help.\n I was thinking to start with Fin elo or Robinhood. I already have a Robin hood account I opened last yr but never used. I'm going through a divorce. So tax and income wise. Should I start now or wait until after the divorce?\n I'm looking mainly for extra cash to pay for the mortgage and pay for my kids college. \n Retirement I already know I'll have to work until in my 70s. \n    submitted by    /u/Ok-Highway-6053  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skjie2/first_time_investor_need_advice/",
+          "publishedOn": "2026-04-13T18:29:01.000Z",
+          "wordCount": null,
+          "title": "First time investor need advice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skjckr/yahoo_finance_quotes_problem/",
+          "author": null,
+          "description": "Anyone having an issue with quotes in their Yahoo Finance portfolios? I'm getting a lot of zeros on my desktop portfolio and dashes on my mobile app, as if there were no daily price changes, but there were. if I click on the symbol I can see the daily change and the one day chart, but zippo in my portfolio for many symbols. makes it worthless. Might have to use Morningstar more often. Google Finance doesn't give me what I need, unless I'm doing it wrong.\n    submitted by    /u/Playful-Elk-7274  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skjckr/yahoo_finance_quotes_problem/",
+          "publishedOn": "2026-04-13T18:23:23.000Z",
+          "wordCount": null,
+          "title": "Yahoo Finance quotes problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skiewa/etfs_that_reflect_the_market/",
+          "author": null,
+          "description": "Given the current political situation/global climate, I have compiled a list of ETFs that I think should cover all of one’s bases and reflect the market. Do y’all have any thoughts or additions/omissions to this list? \n VOO: 15%\n VOOG: 25%\n VTI: 10%\n VXUS: 10%\n BNDX: 5%\n BND: 5%\n SCHD: 10%\n VYM: 10%\n VIG: 10%\n    submitted by    /u/EmbarrassedTap8150  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skiewa/etfs_that_reflect_the_market/",
+          "publishedOn": "2026-04-13T17:51:45.000Z",
+          "wordCount": null,
+          "title": "ETFs that reflect the market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skhteg/brokerage_question_buysell_in_bulk/",
+          "author": null,
+          "description": "I would like to buy and sell stock in bulk so that I can reduce getting my personal feeling involved. \n For example, I want to sell 5% of all my non-etfs stocks so that I can take some profit and buy a safer etf with it. This is pretty hard to do from a process and mental standpoint even though it can be a smart strategy. Is there a brokerage that allows me to do something like this? \n Or even having ai features like find stocks that are moving, buy x amount, and sell with y conditions. \n    submitted by    /u/h4ppidais  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skhteg/brokerage_question_buysell_in_bulk/",
+          "publishedOn": "2026-04-13T17:31:24.000Z",
+          "wordCount": null,
+          "title": "Brokerage question: buy/sell in bulk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1skfctk/what_instruments_to_use_for_leverage/",
+          "author": null,
+          "description": "Hey there,\n I’m wondering, what kind of instruments or methods there are to get a leveraged exposure to assets.\n For example I want to leverage the S&P500\n I know of futures and margins to achieve leverage.\n Are there any other instruments/methods?\n What do pros or quants usually use?\n What are the upsides and downsides for every instrument?\n For context: I want to leverage the S&P500 or an global index and go higher leverage (risk on), when in a bull run and deleverage or go cash (risk off) when in a bear market to avoid margin calls and major drawdowns.\n Thank you very much.\n    submitted by    /u/Caluso1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1skfctk/what_instruments_to_use_for_leverage/",
+          "publishedOn": "2026-04-13T16:07:26.000Z",
+          "wordCount": null,
+          "title": "What instruments to use for leverage?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sk9maq/removed_by_reddit/",
+          "author": null,
+          "description": "[ Removed by Reddit on account of violating the content policy. ]\n    submitted by    /u/ShowMeTheIncentives  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sk9maq/removed_by_reddit/",
+          "publishedOn": "2026-04-13T12:39:45.000Z",
+          "wordCount": null,
+          "title": "[ Removed by Reddit ]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sk4b1j/daily_general_discussion_and_advice_thread_april/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sk4b1j/daily_general_discussion_and_advice_thread_april/",
+          "publishedOn": "2026-04-13T08:00:39.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - April 13, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sk3wzg/few_quick_questions_about_robinhood_investing/",
+          "author": null,
+          "description": "I have had a Robinhood account for the last couple of years but never used much of it as my main personal brokerage account is at a different place where I am quite active every week.\n However, I was thinking about playing with my Robinhood account and planning to auto invest $100 every week in the S&P 500. My questions are\n How quick is Robinhood with uploading tax documents? I know 1099-DIV is a standard form, however, does Robinhood do it any differently than other major brokerages?\n Anything else to be aware of or things that RH does differently than other major brokerages like Schwab, Fidelity?\n Thanks\n    submitted by    /u/konjecture  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sk3wzg/few_quick_questions_about_robinhood_investing/",
+          "publishedOn": "2026-04-13T07:36:50.000Z",
+          "wordCount": null,
+          "title": "Few quick questions about Robinhood investing",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1sk05bp/nbis_heavy_institutional_call_accumulation_near/",
           "author": null,
@@ -10124,6 +10744,26 @@
       "feedUrl": "https://www.reddit.com/r/finance/.rss",
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1skd65d/investors_are_writing_off_any_move_from_the_fed/",
+          "author": null,
+          "description": "With President Trump’s focus squarely on Iran at present, Jerome Powell and the U.S. Federal Reserve are getting some respite from the Oval Office’s attention. It’s a couple of weeks until the next Federal Open Market Committee (FOMC) meeting, but investors already appear to be convinced what the group’s next move will be.\n The base interest rate is, at present, between 3.5% and 3.75% and investors are pricing a more than 97% chance that it will stay there the next meeting, on April 28, per CME’s FedWatch monitor.\n Furthermore, it seems that the rate cuts the likes of President Trump and Treasury Secretary Scott Bessent have been requesting are out of the picture entirely at the next meeting, as far as traders are concerned: The remaining 2.6% are pricing in a hike of 25 basis points.\n The odds of a Fed hold firmed up in traders’ minds following Friday’s inflation data, which showed prices rose 3.3% over the past 12 months, with gas prices playing a major part in the increase.\n This rise stems from the Iran conflict: Oil prices have increased because Iran borders the Strait of Hormuz, a narrow waterway in the Persian Gulf through which exports from the UAE, Qatar, Kuwait, and Iraq all flow. Some 20 million barrels of oil typically flowed through the strait every day, about 20% of global supply. Iran has made it clear it controls the strait and said it has littered the area with mines. \n Read more: https://fortune.com/2026/04/13/investors-write-off-fed-rate-cut-iran-inflation/\n    submitted by    /u/fortune  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1skd65d/investors_are_writing_off_any_move_from_the_fed/",
+          "publishedOn": "2026-04-13T14:53:04.000Z",
+          "wordCount": null,
+          "title": "Investors are writing off any move from the Fed this month—collapsing talks in Iran have sealed the deal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1sk736l/uk_could_adopt_eu_single_market_rules_under_new/",
+          "author": null,
+          "description": "submitted by    /u/Kitchen_Zucchini_357  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1sk736l/uk_could_adopt_eu_single_market_rules_under_new/",
+          "publishedOn": "2026-04-13T10:41:51.000Z",
+          "wordCount": null,
+          "title": "UK could adopt EU single market rules under new legislation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/finance/comments/1sk16mo/moronic_monday_april_13_2026_your_weekly/",
           "author": null,
