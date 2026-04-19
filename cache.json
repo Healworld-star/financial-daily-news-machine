@@ -6,6 +6,26 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.com/news/articles/cj60pl5g4z4o#5",
+          "author": null,
+          "description": "Scams have exploded over the last few years. Can countries and companies come together to turn the tables on the scammers?",
+          "link": "https://www.bbc.com/news/articles/cj60pl5g4z4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-18T23:02:48.000Z",
+          "wordCount": 10914,
+          "title": "Scammers are becoming ever more sophisticated - this is what the fightback looks like",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/79f2/live/4c3e0ce0-3a47-11f1-8606-05fe34b06e1b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cx2d1jpl543o#4",
+          "author": null,
+          "description": "The conflict in the Middle East has caused rapid price rises for both petrol and diesel.",
+          "link": "https://www.bbc.com/news/articles/cx2d1jpl543o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-04-18T23:01:08.000Z",
+          "wordCount": 7216,
+          "title": "I'm a carer but I can't afford to go to work because of fuel prices",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0e17/live/c4dc2e70-397f-11f1-8acf-d3bfb6ea953d.jpg"
+        },
+        {
           "id": "https://www.bbc.com/news/articles/c1eq2xvlg9wo#4",
           "author": null,
           "description": "One man says he cancelled his holiday to Spain due to the rising costs and uncertainty.",
@@ -2604,26 +2624,6 @@
           "wordCount": 6869,
           "title": "Home working, long leases and rise of parking apps - what went wrong for NCP",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9f23/live/3ee13540-247b-11f1-9ac5-2fb77b4b4b71.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c4g2kyg4e78o#2",
-          "author": null,
-          "description": "Colombia has become a tech hub for Latin America, but attracting investors is a challenge.",
-          "link": "https://www.bbc.com/news/articles/c4g2kyg4e78o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-03-20T00:09:01.000Z",
-          "wordCount": 6442,
-          "title": "Colombia's budding tech scene needs a cash boost",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0521/live/472e0590-1317-11f1-801d-ed3cff6bf876.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c4gjn1d74jlo#5",
-          "author": null,
-          "description": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?",
-          "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-03-20T00:01:51.000Z",
-          "wordCount": 9887,
-          "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/802e/live/0cf142f0-2444-11f1-934f-036468834728.jpg"
         }
       ]
     },
@@ -2638,6 +2638,86 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/04/18/us/bear-suit-insurance-fraud-california.html",
+          "author": "Hannah Ziegler",
+          "description": "The California residents collected more than $141,000 in insurance payouts after staging bear attacks on their luxury cars, state officials said.",
+          "link": "https://www.nytimes.com/2026/04/18/us/bear-suit-insurance-fraud-california.html",
+          "publishedOn": "2026-04-18T23:03:52.000Z",
+          "wordCount": null,
+          "title": "Humans Who Used a Bear Suit to Defraud Car Insurers Sentenced to Jail",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/18/us/lego-theft-pasta-california.html",
+          "author": "Rylee Kirk",
+          "description": "A California man was charged with grand theft after the police said he reaped about $34,000 in what an official called an “off the charts” pasta-and-switch scheme involving Lego kits.",
+          "link": "https://www.nytimes.com/2026/04/18/us/lego-theft-pasta-california.html",
+          "publishedOn": "2026-04-18T21:31:27.000Z",
+          "wordCount": null,
+          "title": "Man Charged in Lego Theft Scheme of Replacing Pieces With Pasta, Police Say",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/18/business/media/hollywood-talent-agency-casey-wasserman-epstein.html",
+          "author": "Benjamin Mullin and Lauren Hirsch",
+          "description": "Formerly known as Wasserman, the agency that has changed its name to The Team put itself up for sale after its founder’s emails surfaced in the Epstein files.",
+          "link": "https://www.nytimes.com/2026/04/18/business/media/hollywood-talent-agency-casey-wasserman-epstein.html",
+          "publishedOn": "2026-04-18T18:19:16.000Z",
+          "wordCount": null,
+          "title": "Hollywood Talent Giant Draws Suitors Amid Epstein Fallout",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html",
+          "author": "Ben Casselman, Nour Idriss, Sutton Raphael and Stephanie Swart",
+          "description": "Ben Casselman, our chief economics correspondent, explains why wages are not keeping up with inflation and what that means for American workers and the economy.",
+          "link": "https://www.nytimes.com/video/business/100000010843347/why-your-paycheck-feels-smaller.html",
+          "publishedOn": "2026-04-18T14:49:42.000Z",
+          "wordCount": 2518,
+          "title": "Why Your Paycheck Feels Smaller",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/17/arts/00vid-rv-inflation-vs-wages-still/00vid-rv-inflation-vs-wages-still-facebookJumbo.png?video-overlay"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html",
+          "author": "Rebecca F. Elliott",
+          "description": "Analysts said energy and shipping companies would be reluctant to fully restore operations until they were confident that hostilities were over.",
+          "link": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html",
+          "publishedOn": "2026-04-18T13:11:42.000Z",
+          "wordCount": null,
+          "title": "Reopening Strait of Hormuz Would Ease Oil Crisis but Only So Much",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/18/business/dealbook/corporate-profits-record.html",
+          "author": "Peter Coy",
+          "description": "Experts have different theories about what’s driving steep gains. But many agree the window for growth is shrinking.",
+          "link": "https://www.nytimes.com/2026/04/18/business/dealbook/corporate-profits-record.html",
+          "publishedOn": "2026-04-18T12:00:03.000Z",
+          "wordCount": null,
+          "title": "Corporate Profits Are at Record Highs. These 4 Factors Could Sink Them.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/18/business/401k-hardship-withdrawals-retirement.html",
+          "author": "Kailyn Rhone",
+          "description": "More Americans are taking hardship withdrawals from workplace retirement accounts, prompted by rising costs — and looser rules.",
+          "link": "https://www.nytimes.com/2026/04/18/business/401k-hardship-withdrawals-retirement.html",
+          "publishedOn": "2026-04-18T09:00:20.000Z",
+          "wordCount": null,
+          "title": "More Americans Taking 401(k) Hardship Withdrawals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/04/18/business/jaguar-xk-engine-formula-e.html",
+          "author": "Paul Stenquist",
+          "description": "For 42 years, the XK was Jaguar’s secret weapon. It proved its worth on the racetrack and powered generations of cars. The company’s leap into electrics could take a similar path.",
+          "link": "https://www.nytimes.com/2026/04/18/business/jaguar-xk-engine-formula-e.html",
+          "publishedOn": "2026-04-18T09:00:07.000Z",
+          "wordCount": null,
+          "title": "The Mighty Engine That Jaguar Built, and Built Jaguar",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
           "author": "Tiffany Hsu",
@@ -5996,6 +6076,136 @@
       "siteUrl": "https://www.investing.com",
       "articles": [
         {
+          "id": "https://www.investing.com/news/commodities-news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil-4621321",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil-4621321",
+          "publishedOn": "2026-04-19T06:00:55.000Z",
+          "wordCount": null,
+          "title": "How 50 days of the Iran war led to the loss of $50 billion worth of oil",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G13Y_L.jpg",
+            "length": "44688",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G13Y_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/record-stock-market-valuations-mask-reliance-on-temporary-profit-catalysts-4622193",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/record-stock-market-valuations-mask-reliance-on-temporary-profit-catalysts-4622193",
+          "publishedOn": "2026-04-19T05:58:50.000Z",
+          "wordCount": null,
+          "title": "Record stock market valuations mask reliance on temporary profit catalysts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/prediction-markets-are-a-1-trillion-market-by-2030-bernstein-says-4622192",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/prediction-markets-are-a-1-trillion-market-by-2030-bernstein-says-4622192",
+          "publishedOn": "2026-04-19T05:29:48.000Z",
+          "wordCount": null,
+          "title": "Prediction Markets are a $1 trillion market by 2030, Bernstein says",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/former-australian-soldier-speaks-out-against-allegations-of-afghan-war-crimes-4622191",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/former-australian-soldier-speaks-out-against-allegations-of-afghan-war-crimes-4622191",
+          "publishedOn": "2026-04-19T05:00:33.000Z",
+          "wordCount": null,
+          "title": "Former Australian soldier speaks out against allegations of Afghan war crimes",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3I01B_L.jpg",
+            "length": "88793",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3I01B_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/iran-hardliners-undermine-diplomatic-efforts-reclosing-strait-of-hormuz-4622190",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/iran-hardliners-undermine-diplomatic-efforts-reclosing-strait-of-hormuz-4622190",
+          "publishedOn": "2026-04-19T04:46:44.000Z",
+          "wordCount": null,
+          "title": "Iran hard-liners undermine diplomatic efforts, re-closing Strait of Hormuz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/fire-in-malaysias-sabah-destroys-200-homes-hundreds-displaced-4622189",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/fire-in-malaysias-sabah-destroys-200-homes-hundreds-displaced-4622189",
+          "publishedOn": "2026-04-19T04:42:07.000Z",
+          "wordCount": null,
+          "title": "Fire in Malaysia’s Sabah destroys 200 homes, hundreds displaced",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+            "length": "19797",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/victoria-extends-public-transport-subsidies-to-combat-soaring-fuel-costs-4622188",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/victoria-extends-public-transport-subsidies-to-combat-soaring-fuel-costs-4622188",
+          "publishedOn": "2026-04-19T03:22:54.000Z",
+          "wordCount": null,
+          "title": "Victoria extends public transport subsidies to combat soaring fuel costs",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/kangaroo_sign_M_1440050607.jpg",
+            "length": "116053",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/kangaroo_sign_M_1440050607.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/is-nvidia-about-to-change-the-us-pc-oem-landscape-4622187",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/is-nvidia-about-to-change-the-us-pc-oem-landscape-4622187",
+          "publishedOn": "2026-04-19T02:45:18.000Z",
+          "wordCount": null,
+          "title": "Is Nvidia about to change the US PC OEM landscape?",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEE141FU_M.jpg",
+            "length": "35802",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEE141FU_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/robots-beat-human-runners-in-beijing-race-signaling-manufacturing-push-4622186",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/robots-beat-human-runners-in-beijing-race-signaling-manufacturing-push-4622186",
+          "publishedOn": "2026-04-19T02:05:19.000Z",
+          "wordCount": null,
+          "title": "Robots beat human runners in Beijing race, signaling manufacturing push",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/are-higher-oil-prices-really-bullish-for-ev-battery-stocks-4622184",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/are-higher-oil-prices-really-bullish-for-ev-battery-stocks-4622184",
+          "publishedOn": "2026-04-19T01:28:07.000Z",
+          "wordCount": null,
+          "title": "Are higher oil prices really bullish for EV battery stocks?",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEDBA0RZ_M.jpg",
+            "length": "48067",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEDBA0RZ_M.jpg"
+        },
+        {
           "id": "https://www.investing.com/news/world-news/new-zealand-defends-military-patrol-flight-near-china-4622108",
           "author": "Reuters",
           "description": "",
@@ -9332,6 +9542,166 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1spj4vc/building_a_full_portfolio_of_etfs/",
+          "author": null,
+          "description": "I am kinda new to direct investing( started last november) been doing mutual funds for years with financial planners with the bank but my awareness with MERs and the 2% average the bank charges, I can not stomach anymore. I have been researching different etfs for high growth and a side kick of some divident pay and here is what i reached. This is for my seasonal investors who invest in etfs and know what they are doing. Correct me if im wrong, guide me if i need to tweak it a little bit. Considering a split amongst these etfs with the allocations below.let me know what you think and If I should just put the money one time right away or do weekly contributions or go 50% in and then weekly contributions. I am in Canada.\n 50% VFV- s&p 500\n 20% VDY- canadian high divident \n 10%TEC- Global tech\n 10%XEF- international markets\n 5% XEC- emerging markets\n 5% GLDM- Gold\n    submitted by    /u/South-Specific-9897  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1spj4vc/building_a_full_portfolio_of_etfs/",
+          "publishedOn": "2026-04-19T04:37:18.000Z",
+          "wordCount": null,
+          "title": "Building a full portfolio of ETFs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1spif2p/taking_profits_in_long_term_investing/",
+          "author": null,
+          "description": "What is ur opinion or experience? \n Is it ever ok to skim a small % (<5%) from long term ETF holdings when the market is this volatile? In my residence - I will not trigger taxes if I sell. I'd like to lock in some profit, rebalance & keeps some more cash handy for reinvesting. Or will this completely screw up my portfolio, I've never sold anything from my long term ETFs before? I do have some cash on the side for dips & I'm still DCAing monthly, but feel like it's an opportunity to take some profit & redistribute/wait for dip. \n    submitted by    /u/jackieHK1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1spif2p/taking_profits_in_long_term_investing/",
+          "publishedOn": "2026-04-19T04:00:06.000Z",
+          "wordCount": null,
+          "title": "Taking profits in long term investing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sphtcp/cerebras_systems_files_for_ipo_targeting_midmay/",
+          "author": null,
+          "description": "The SEC registration filing was submitted today. Key details:\n Funding: $1.1 billion in Series G (2025) + $1 billion in Series H (February 2026).\n Valuation: $23 billion in Series H (according to the WSJ).\n 2025 Revenue: $510 million.\n 2025 Non-GAAP Net Loss: $75.7 million. \n Key Agreements:\n AWS: Cerebras chips in Amazon data centers.\n OpenAI: Reported computing partnership worth over $10 billion.\n (Inference, not training; this is the story behind the CUDA alternative). \n CEO Andrew Feldman on the OpenAI deal:\n \"Obviously, [Nvidia] didn't want to lose the fast inference business\n at OpenAI, and we took it away from them.\" \n Full analysis: aiuniverse.news/cerebras-systems-files-for-ipo-amidst-fierce-ai-hardware-competition/\n    submitted by    /u/NoMechanic6746  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sphtcp/cerebras_systems_files_for_ipo_targeting_midmay/",
+          "publishedOn": "2026-04-19T03:29:18.000Z",
+          "wordCount": null,
+          "title": "Cerebras Systems Files for IPO, targeting mid-May, $23 Billion Valuation, $510 Million in Projected Revenue for 2025 CEO: \"We took [the fast inference business] away from [Nvidia].\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1spgruz/how_will_rising_food_prices_affect_food_stocks/",
+          "author": null,
+          "description": "Hi, everyone. I have a thesis with no evidence and I’m curious what people think. I’ve watched General Mills (GIS) and Kraft (KHC) plummet for awhile now and they’re both very beaten down from some poor fundamentals but I’m curious if the oil shock and subsequent inflation is going to give them some life? I would think that rising food prices would give them some juice to bounce back in the medium term. Curious about anyone’s takes!\n    submitted by    /u/ToughCurrent8487  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1spgruz/how_will_rising_food_prices_affect_food_stocks/",
+          "publishedOn": "2026-04-19T02:38:35.000Z",
+          "wordCount": null,
+          "title": "How will rising food prices affect food stocks?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1spghd1/roth_ira_traditional_brokerage_question/",
+          "author": null,
+          "description": "Hello all,\n I’ve recently started buying into VTI in my Roth IRA. This obviously caps at $7000 a year and won’t be touchable till I am much older. I’m currently 36. I put 10% of all of my checks into my 401k with my employer matching 5%. I make $90,000 a year.\n I have $25,000 in a HYSA, and $20,000 in a Joint HYSA with my fiancé for expenses on our house if needed. Ofc this includes none of her assets.\n This may be a simple and obvious question, but does it make sense to be putting ~550 in the Roth account buying VTI every month, and also putting say $1000 or so buying VTI in a traditional brokerage account?\n The goal being wealthy retirement. Thanks!\n    submitted by    /u/onichris  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1spghd1/roth_ira_traditional_brokerage_question/",
+          "publishedOn": "2026-04-19T02:24:20.000Z",
+          "wordCount": null,
+          "title": "Roth IRA + Traditional Brokerage Question",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1spg93c/are_the_rolling_stones_infamous_tax_shelters/",
+          "author": null,
+          "description": "It seems that the Stones' financial deals are often in the media. Google shows countless articles in the last 20 years centered specifically around the bands tax aversion tactics. Fortune Magazine even made a cover story of it in 2001. With that, I ask, is what the Stones are doing with Dutch banking really all that unique? Why is it a constant Stones story if anyone with deep pockets can do it? Wouldn't any number of hugely successful actors or music artists (or their business managers) making tens of millions of $$$ each year such as Tom Cruise, Shania Twain, Taylor Swift, etc. also have access to and be thoroughly well versed in these same tax havens? Yet we never see similar articles about their financials at all. Why The Stones ?\n Just one of many examples:\n Stones Rolling in it, Thanks to Dutch Firm, Tax Havens\n https://www.theage.com.au/national/stones-rolling-in-it-thanks-to-dutch-firm-tax-havens-20060802-ge2u5f.html\n    submitted by    /u/SwissMiss915  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1spg93c/are_the_rolling_stones_infamous_tax_shelters/",
+          "publishedOn": "2026-04-19T02:13:00.000Z",
+          "wordCount": null,
+          "title": "Are The Rolling Stones infamous tax shelters really all that savvy ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1spb7cl/microsoft_network_effect_on_office_suite/",
+          "author": null,
+          "description": "Google has been offering doc, slides, sheets FOR FREE for the last 10 years. I'd argue it has all the same if not better functionality. But Microsoft office is all about network effect not the functionality. When your vendor and your customer send you .xlsx and .pptx, and you don't have office license, you end up stuck in 'file conversion limbo' every time.\n Anthropic could likely build a standalone document, excel applications like what they do with design application, yet they released AI Microsoft Office plugins because the majority of global business speaks in .docx, .xlsx and .pptx.\n Edit: This is not a question. need more people to buy MSFT so Im out of this bag holding.\n    submitted by    /u/poomsss0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1spb7cl/microsoft_network_effect_on_office_suite/",
+          "publishedOn": "2026-04-18T22:19:24.000Z",
+          "wordCount": null,
+          "title": "Microsoft network effect on office suite",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sp9m4m/help_me_choose_an_etf_for_the_long_run/",
+          "author": null,
+          "description": "Hello everyone,\n I’m looking for some advice on choosing an ETF that I can buy & hold for the next 20–30 years.\n I need to choose between HIWS and IGDA. (IUSD is also an option, but since it distributes dividends, I think the other two may be better because they are accumulating ETFs.)\n My question is: which one would you recommend and why?\n I’ll also include links to the ETFs below so you can get a better overview.\n Personally, I was thinking about going with 80% HIWS and 20% IGDA.\n All opinions are welcome. Thanks in advance!\n https://www.justetf.com/uk/etf-comparison.html?isin=IE000X9FTI22&isin=IE000UOXRAM8&isin=IE00B27YCN58\n    submitted by    /u/Similar_Stomach8480  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sp9m4m/help_me_choose_an_etf_for_the_long_run/",
+          "publishedOn": "2026-04-18T21:13:08.000Z",
+          "wordCount": null,
+          "title": "Help me choose an ETF for the long run",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sp8xri/17_a%C3%B1os_y_600mes_c%C3%B3mo_completar_mi_cartera_de/",
+          "author": null,
+          "description": "Tengo 17 años, estoy de prácticas y cobro 1200 euros vivo con mi padre y hermano mavor (no cuento con independizarme hasta los 25). Esto me permite invertir 600€ al mes.\n Mi prioridad es tener un fondo de emeraencia de 6 meses. Una vez cubierto. mi núcleo será MSCI World + Vanguard Emerging Markets\n Sin embargo, siento que me falta algo para redondear la cartera y no ser demasiado 'simple'. Mi horizonte es a +25 años y aguanto bien el riesgo. iQué añadiríais para dar un plus? estoy pensando pensando a largo plaza\n    submitted by    /u/Agreeable_Royal_2640  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sp8xri/17_a%C3%B1os_y_600mes_c%C3%B3mo_completar_mi_cartera_de/",
+          "publishedOn": "2026-04-18T20:45:44.000Z",
+          "wordCount": null,
+          "title": "17 años y 600€/mes: ¿Cómo completar mi cartera de MSCI World + Vanguard Emerging?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sp640e/is_zoom_communications_a_buy_after_shifting_to_an/",
+          "author": null,
+          "description": "In its FY26, Zoom collected about $4.8 billion in revenue and $1.9B in GAAP Net Income (+88% YoY) at a 13x P/E and 4.8x P/S - with about $8 billion in cash on the balance sheet. I'm considering starting a position in Zoom Communications after diving into their AI-first strategy.\n I've summarized the opportunity I'm thinking through below, and wanted to ask this community if others are considering Zoom or have thoughts on the company.\n **Opportunity Summary**\n * Zoom is founder-led and has operated in a highly competitive market as a public company for seven years generating $6.4 billion in free cash flow over the past 4 years with $7.8 billion in cash and pursuing an AI-first strategy.\n * In 2025, Zoom decided to become AI-first at the center of flexible work with automated meeting summari…",
+          "link": "https://www.reddit.com/r/investing/comments/1sp640e/is_zoom_communications_a_buy_after_shifting_to_an/",
+          "publishedOn": "2026-04-18T18:55:58.000Z",
+          "wordCount": null,
+          "title": "Is Zoom Communications a buy after shifting to an AI-first strategy with almost $8 billion in cash?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sp41vn/oil_futures_and_market_disconnect/",
+          "author": null,
+          "description": "I posted this on r/oil but wasn't allowed to crosspost. I'd like to hear thoughts on it, though.\n I have never traded futures, so correct me if I'm wrong please.\n WTI settlement is 21/04 (21 april), Brent 30/04.\n I have read the market manipulators will rollover the futures to combat the price spike.\n But won't that require an actual future trade to happen? You have to sell the future to someone, and that someone will end up with a futures expiring and oil not being delivered.\n So how can that combat a price spike? By money printers paying less, and just eating the cost to fake stability?\n But then who is issuing the futures or whatever the term - if refineries are actively losing money selling at lower prices than what they have to pay for physical oil, why would they sell futures for their products at a loss? Can't they price their futures higher?\n And if their products suddenly spike in price, why wouldn't the resources follow suit?\n On a side note, there have been protests in Ireland because fuel is spiking significantly.\n    submitted by    /u/akrylowy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sp41vn/oil_futures_and_market_disconnect/",
+          "publishedOn": "2026-04-18T17:37:46.000Z",
+          "wordCount": null,
+          "title": "Oil futures and market disconnect",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sp39pi/in_year_2026_what_are_some_good_resource_either/",
+          "author": null,
+          "description": "Out of the blue, I've been thinking that there are multiple venues to get the same news which some influencer have it behind pay wall. Plus, the gist of them really is they all talk some past event that has occurred - which has occurred and not true situation on planning ahead and what not.\n Early in my investing career, around five years ago, I learned a lot about terminologies from book `The Wall Street Journal Complete Money and Investing Guidebook`. Since then, it's mostly been reading up online - mostly here on Reddit.\n And now there is Morningstar, SeekingAlpha, and bunch of substack which I came across and later unsubscribed because they are all trying to upsell same old news\n e.g.\n - the market house on substack\n - george noble on substack\n etc. So the list goes on and on.\n With all this said and cut through the noise, what do you guys keep track on or any legitimate journalist/analyst that is worth keeping up with? Tbh, personally, I do find the person on YouTube who goes by `ClearValue Tax` to be legitimate for the least and very authentic. He does have a Patreon but thus far, I don't feed a need to buy into it as of now.\n    submitted by    /u/bad_detectiv3  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sp39pi/in_year_2026_what_are_some_good_resource_either/",
+          "publishedOn": "2026-04-18T17:08:20.000Z",
+          "wordCount": null,
+          "title": "in year 2026, what are some good resource either paid or free to keep track of?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sp0qk8/my_homemade_satellite_etf_for_emerging_frontier/",
+          "author": null,
+          "description": "I’ve been working on a \"satellite\" portfolio to complement my core holding (XEQT style). The goal is to gain targeted exposure to emerging and frontier markets that are either excluded or under-represented in broad market funds.\n I am running this in a registered account (tax-free) to allow for monthly rebalancing without tax friction, which helps harvest volatility from these high-beta countries.\n The Portfolio (100%):\n DGS 15% WisdomTree EM SC Div\n VNM 13% VanEck Vietnam\n ARGT 12% Global X Argentina\n GREK 11% Global X Greece\n EPU 10% iShares Peru\n COLO 9% Global X Colombia\n EPOL 9% iShares Poland\n EWW 8% iShares Mexico\n ASHR 5% Xtrackers CSI 300\n EZA 4% iShares South Africa\n EIS 4% iShares Israel\n Full Watchlist / Universe by Region:\n • EM Broad & Factor: AVEE, DGS, EMXC, EWX, EEMS.\n • Asia: VNM, SMIN, GLIN, ASHR, THD, EIDO, EPHE, ASEA, EWY, EWH, EWJ, EWT.\n • Europe & Frontier: EPOL, GREK, EIS, TUR, EWP, EWO, EWI, EWK, EWD, EWN, EWQ, EWG, EWL, EIRL, EDEN, EFNL, EWU.\n • LATAM: ARGT, EPU, ECH, EWW, COLO, EWZ, BRF.\n • Africa & Middle East: EZA, AFK, KSA, UAE, KWT, QAT.\n • Developed Small Cap: AVDV, ISCF, DFJ.\n Strategy Note: I’m aware that some developed markets are in the watchlist, but the core focus remains on undervalued or high-growth emerging regions. By rebalancing monthly, I plan to trim winners (like Argentina or Greece recently) and buy into laggards mechanically.\n Curious to hear your thoughts on the country weights and if I'm missing any crucial \"frontier\" plays!\n    submitted by    /u/bizaromax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sp0qk8/my_homemade_satellite_etf_for_emerging_frontier/",
+          "publishedOn": "2026-04-18T15:31:10.000Z",
+          "wordCount": null,
+          "title": "My \"Home-Made\" Satellite ETF for Emerging & Frontier Markets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sozwnc/how_do_i_shift_from_growth_to_income_without/",
+          "author": null,
+          "description": "This question might seem fairly stright forward to most of you, and if so, I apologize.\n I've been accumulating wealth via stocks for most of my life. I'm 50 now and want to try to retire around 57. The thing is, my income is quite high and puts me in that 37% bracket. Additionally, I'm in tech and the last few years have been bananas for my RSUs. I know, I know. This is a good problem to have. But taxes have really complicated things for me now.\n I'm wondering how to unwind big investments in growth stocks and shift my portfolio into dividend income so I can live off of it? \n Can anyone point me toward an obvious strategy for this? Or even some resources or advice.\n    submitted by    /u/thailanddaydreamer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sozwnc/how_do_i_shift_from_growth_to_income_without/",
+          "publishedOn": "2026-04-18T14:59:57.000Z",
+          "wordCount": null,
+          "title": "How do I shift from growth to income without getting murdered by uncle sam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sorj0v/is_demographic_change_an_underappreciated_macro/",
+          "author": null,
+          "description": "Hi everyone, my background is in macroeconomics and I’ve always wondered to what extent is demographic change accounted for in investing. When I discuss the topic, I am often get told that the trend per doesn’t really matter because it is slow moving. However, I wanted to know how you think about the topic.\n    submitted by    /u/gaelic_asterix  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sorj0v/is_demographic_change_an_underappreciated_macro/",
+          "publishedOn": "2026-04-18T08:02:16.000Z",
+          "wordCount": null,
+          "title": "Is demographic change an underappreciated macro trend?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1sorhqx/daily_general_discussion_and_advice_thread_april/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1sorhqx/daily_general_discussion_and_advice_thread_april/",
+          "publishedOn": "2026-04-18T08:00:26.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - April 18, 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1soneah/is_ais_real_impact_on_stocks_about_margin/",
           "author": null,
@@ -13259,6 +13629,46 @@
       "feedUrl": "https://www.reddit.com/r/finance/.rss",
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1spc7ij/henry_paulson_has_blunt_message_on_potential/",
+          "author": null,
+          "description": "submitted by    /u/JTBaptistA  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1spc7ij/henry_paulson_has_blunt_message_on_potential/",
+          "publishedOn": "2026-04-18T23:02:57.000Z",
+          "wordCount": null,
+          "title": "Henry Paulson has blunt message on potential Treasury market shock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1spbh9u/middle_east_crisis_live_ships_report_attacks_as/",
+          "author": null,
+          "description": "submitted by    /u/Kitchen_Zucchini_357  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1spbh9u/middle_east_crisis_live_ships_report_attacks_as/",
+          "publishedOn": "2026-04-18T22:31:22.000Z",
+          "wordCount": null,
+          "title": "Middle East crisis live: ships report attacks as Iran closes strait of Hormuz; Trump reportedly convenes Situation Room meeting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1soz47d/traders_place_760_million_bet_on_falling_oil/",
+          "author": null,
+          "description": "submitted by    /u/Working_Yesterday386  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1soz47d/traders_place_760_million_bet_on_falling_oil/",
+          "publishedOn": "2026-04-18T14:28:43.000Z",
+          "wordCount": null,
+          "title": "Traders place $760 million bet on falling oil ahead of Iran’s Hormuz announcement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1soz429/private_credit_is_not_a_financial_crisis_in_the/",
+          "author": null,
+          "description": "Private credit and the AI boom carry risks, but neither has the leverage or fragility that typically trigger a systemic crisis.\n    submitted by    /u/bloomberg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1soz429/private_credit_is_not_a_financial_crisis_in_the/",
+          "publishedOn": "2026-04-18T14:28:34.000Z",
+          "wordCount": null,
+          "title": "Private Credit Is Not a Financial Crisis In The Making",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/finance/comments/1smuk03/the_coffee_trade_is_becoming_more_complex_the/",
           "author": null,
