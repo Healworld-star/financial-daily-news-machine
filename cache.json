@@ -6,6 +6,96 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.com/news/articles/c4g08dlnd0vo#0",
+          "author": null,
+          "description": "The 91-storey luxury hotel on the Gold Coast in Queensland was meant to be Australia's tallest building.",
+          "link": "https://www.bbc.com/news/articles/c4g08dlnd0vo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-13T00:42:23.000Z",
+          "wordCount": 5171,
+          "title": "Plans for Australia's first Trump Tower scrapped due to 'toxic' brand, developer says",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/312b/live/f06872d0-1132-11f1-8ecc-bfb7a4b29407.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c775vvz0kydo#0",
+          "author": null,
+          "description": "Air India faces a leadership vacuum and mounting financial losses as it struggles to recover from the crash.",
+          "link": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-12T22:15:50.000Z",
+          "wordCount": 6606,
+          "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/59ad/live/94b20f80-4db6-11f1-8e66-f56d9b46fa9c.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/czj2k2exdzlo#0",
+          "author": null,
+          "description": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
+          "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-12T18:51:56.000Z",
+          "wordCount": 5221,
+          "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d608/live/c5360200-4e2a-11f1-a6a1-c1a2c5a4cd39.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c202pgxx89lo#0",
+          "author": null,
+          "description": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
+          "link": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-12T18:36:58.000Z",
+          "wordCount": 5498,
+          "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f750/live/8172ffc0-4e00-11f1-aa37-6b8846c2f74e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cqjpqy19npxo#0",
+          "author": null,
+          "description": "The possibility of a change of leadership in the UK has unsettled some investors and sent bond yields higher.",
+          "link": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-12T16:31:00.000Z",
+          "wordCount": 5710,
+          "title": "UK borrowing costs jump as uncertainty over PM's future continues",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ecc5/live/d6326200-4e12-11f1-ac78-2112837ce2aa.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/ckgp5ll3jd4o#1",
+          "author": null,
+          "description": "The online auction giant said it doubted how the video game retailer would finance its offer.",
+          "link": "https://www.bbc.com/news/articles/ckgp5ll3jd4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-12T14:07:18.000Z",
+          "wordCount": 4622,
+          "title": "eBay rejects $55.5bn offer from GameStop",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fe29/live/02e51490-4e00-11f1-aa37-6b8846c2f74e.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/cjeplk1k787o#1",
+          "author": null,
+          "description": "The hack went undetected by the Staffordshire firm for 20 months, regulator says.",
+          "link": "https://www.bbc.com/news/articles/cjeplk1k787o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-12T11:18:10.000Z",
+          "wordCount": 4774,
+          "title": "Water firm fined after customers' details hacked",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/09c4/live/1199cd80-4df3-11f1-ac78-2112837ce2aa.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c072dvv1rmro#1",
+          "author": null,
+          "description": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
+          "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-12T10:01:54.000Z",
+          "wordCount": 5439,
+          "title": "Texas accuses Netflix of spying on users, including children",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/b8a7/live/ae66b720-4de6-11f1-9cc8-93479330ab4b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/news/articles/c78k405j8pdo#0",
+          "author": null,
+          "description": "The effective closure of the Strait of Hormuz has severely disrupted global supplies of energy and petrochemicals.",
+          "link": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-05-12T07:46:47.000Z",
+          "wordCount": 5010,
+          "title": "Snack giant switches to black and white packaging as Iran war hits ink supplies",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a8d6/live/3982e4b0-4dcd-11f1-b9c0-3f2598570d49.jpg"
+        },
+        {
           "id": "https://www.bbc.com/news/articles/ce9pvp210zdo#1",
           "author": null,
           "description": "The pop star's legal team alleges a photograph of her face was used on Samsung television boxes without permission.",
@@ -3204,96 +3294,6 @@
           "wordCount": 5967,
           "title": "Green light to build nuclear power station that promises 8,000 jobs",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2a79/live/01daef10-372c-11f1-879d-1b2f5c3919b8.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cn897e8280do#0",
-          "author": null,
-          "description": "Airlines warn of further disruption due to the introduction of a new EU digital border control system.",
-          "link": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-13T12:56:34.000Z",
-          "wordCount": 6960,
-          "title": "EasyJet passengers describe EU border 'nightmare'",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c1f6/live/509d4660-3728-11f1-872e-dbe4122cf753.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/czxr4455p2vo#4",
-          "author": null,
-          "description": "Fuel costs have soared globally as a result of the US-Israel war with Iran.",
-          "link": "https://www.bbc.com/news/articles/czxr4455p2vo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-13T12:20:03.000Z",
-          "wordCount": 6255,
-          "title": "Farmers ask Stormont for financial help with fuel costs",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/81fc/live/98678790-3727-11f1-872e-dbe4122cf753.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c937jkvp3w8o#0",
-          "author": null,
-          "description": "Sir Keir Starmer is planning a law which will mean that the UK government can adopt EU single market rules, without them being voted on in Parliament.",
-          "link": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-13T06:51:45.000Z",
-          "wordCount": 5639,
-          "title": "UK could adopt EU single market rules under new legislation",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a86d/live/a4898ce0-3708-11f1-9d5c-8ba507d7dbde.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cwyxljjvnj2o#4",
-          "author": null,
-          "description": "A charity in Gloucestershire says it will have to find an extra £20k to cover increased fuel costs.",
-          "link": "https://www.bbc.com/news/articles/cwyxljjvnj2o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-13T05:27:56.000Z",
-          "wordCount": 5806,
-          "title": "Rising fuel costs puts strain on transport charity",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bf26/live/8d82bc00-34bb-11f1-a676-6ff4dfb1e8ec.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cn781z4lgg4o#0",
-          "author": null,
-          "description": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
-          "link": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-13T05:24:51.000Z",
-          "wordCount": 5702,
-          "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/872c/live/2cfeb0f0-36dc-11f1-951e-7783ff0b6757.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cly02z2pe35o#4",
-          "author": null,
-          "description": "Up to 120 pupils go to the free club at Lawley Primary and say it helps get them ready to learn.",
-          "link": "https://www.bbc.com/news/articles/cly02z2pe35o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-13T05:10:54.000Z",
-          "wordCount": 6355,
-          "title": "'School breakfast club has best toast in the world'",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c388/live/a69d0f40-26d0-11f1-81a2-116adc639d06.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cm2k8v027k0o#0",
-          "author": null,
-          "description": "Moerdijk has been earmarked for removal, to make way for a vast electricity substation.",
-          "link": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-12T23:20:52.000Z",
-          "wordCount": 7457,
-          "title": "The Dutch village at risk of being demolished",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/06e8/live/0f638c80-33dc-11f1-8606-05fe34b06e1b.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c5yv6xr6me3o#0",
-          "author": null,
-          "description": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?",
-          "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-12T21:31:29.000Z",
-          "wordCount": 7574,
-          "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c1bb/live/05ad5410-368d-11f1-8c7c-3d26c824719f.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c8x7yj99jrwo#0",
-          "author": null,
-          "description": "A property company owned by the Reform UK deputy leader failed to pay £91,000 in tax on dividends, according to the Sunday Times.",
-          "link": "https://www.bbc.com/news/articles/c8x7yj99jrwo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-04-12T16:34:31.000Z",
-          "wordCount": 5223,
-          "title": "Tice £91,000 tax row is 'minor administrative error', party claims",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/bddc/live/34f595e0-368b-11f1-abe5-5d7d921c70a4.jpg"
         }
       ]
     },
@@ -3308,6 +3308,206 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/trump-suit-irs.html",
+          "author": "Andrew Duehren and Alan Feuer",
+          "description": "One of the settlement terms under review is for the I.R.S. to drop any audits of the president, his family members and businesses.",
+          "link": "https://www.nytimes.com/2026/05/12/business/trump-suit-irs.html",
+          "publishedOn": "2026-05-13T01:02:07.000Z",
+          "wordCount": 5113,
+          "title": "Justice Dept. Officials Consider Settling Trump Suit Against I.R.S.",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/12dc-trump-irs-mpbl/12dc-trump-irs-mpbl-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html",
+          "author": "Christina Jewett",
+          "description": "The agency’s top food official will step in to the role after Dr. Makary privately said he opposed the administration decision to approve flavored vapes.",
+          "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html",
+          "publishedOn": "2026-05-13T00:00:11.000Z",
+          "wordCount": 5192,
+          "title": "Marty Makary, Trump’s F.D.A. Commissioner, Resigns After Weeks of Pressure",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/00dc-makary-hfo-lwcz/00dc-makary-hfo-lwcz-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/media/conan-obrien-oscars-host-2027.html",
+          "author": "John Koblin",
+          "description": "It will be the first time anyone has done the job for three straight years since Billy Crystal in the early 1990s.",
+          "link": "https://www.nytimes.com/2026/05/12/business/media/conan-obrien-oscars-host-2027.html",
+          "publishedOn": "2026-05-12T20:47:09.000Z",
+          "wordCount": 4027,
+          "title": "Conan O’Brien Will Return as Oscars Host",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/12biz-oscars-tjhg/12biz-oscars-tjhg-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html",
+          "author": "The New York Times",
+          "description": "President Trump has declared the cease-fire on “life support,” and investors are taking a cautious approach as the economic effects of the war become more apparent.",
+          "link": "https://www.nytimes.com/2026/05/12/business/oil-prices-rise-us-iran.html",
+          "publishedOn": "2026-05-12T20:20:20.000Z",
+          "wordCount": 4580,
+          "title": "Inflation Jumps as War-Driven Energy Costs Drive Up Prices",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/12biz-oil-stocks-gas1-kcbp/12biz-oil-stocks-gas1-kcbp-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/subscriptions-products-services.html",
+          "author": "Sopan Deb",
+          "description": "As companies look to build cash flow and loyalty, everything from heated car seats to earthworm deliveries can become a recurring charge on your credit card.",
+          "link": "https://www.nytimes.com/2026/05/12/business/subscriptions-products-services.html",
+          "publishedOn": "2026-05-12T19:58:37.000Z",
+          "wordCount": 5579,
+          "title": "Why Your Life Is Now on Subscriptions",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/06/multimedia/00xp-subscriptions-ptvf/00xp-subscriptions-ptvf-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/travel/luxury-hotels-london-chancery-rosewood-raffles-owo.html",
+          "author": "Amy Virshup",
+          "description": "Raffles at the OWO and the Chancery Rosewood recently opened in landmarks once teeming with generals, diplomats and spies. Both promise pampering and a dash of history. Do they deliver?",
+          "link": "https://www.nytimes.com/2026/05/12/travel/luxury-hotels-london-chancery-rosewood-raffles-owo.html",
+          "publishedOn": "2026-05-12T19:04:25.000Z",
+          "wordCount": 6529,
+          "title": "How Do Two London Luxury Hotels Compare? Testing the Chancery Rosewood and Raffles at the OWO.",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/07/multimedia/00trav-london-hotels-01-bjwt/00trav-london-hotels-01-bjwt-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/inflation-tomatoes-prices.html",
+          "author": "Julie Creswell",
+          "description": "Tomato prices surged nearly 40 percent in April, the Consumer Price Index showed.",
+          "link": "https://www.nytimes.com/2026/05/12/business/inflation-tomatoes-prices.html",
+          "publishedOn": "2026-05-12T18:52:12.000Z",
+          "wordCount": null,
+          "title": "Tomato Prices Soar as War, Tariffs and Weather Affect a Popular Crop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/ebay-gamestop-auction-turnaround.html",
+          "author": "Kim Bhasin",
+          "description": "The online marketplace has remade itself by focusing on collectibles and other high-end goods — and attracted an unwelcome takeover bid from GameStop.",
+          "link": "https://www.nytimes.com/2026/05/12/business/ebay-gamestop-auction-turnaround.html",
+          "publishedOn": "2026-05-12T18:08:16.000Z",
+          "wordCount": 4782,
+          "title": "EBay, the Old-School E-Commerce Site, Finds Its Place in Modern Retail",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/11/business/00biz-ebay-comeback/00biz-ebay-comeback-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html",
+          "author": "Li Yuan",
+          "description": "For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.",
+          "link": "https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html",
+          "publishedOn": "2026-05-12T17:00:33.000Z",
+          "wordCount": 5279,
+          "title": "China Increasingly Views Trump’s America as an Empire in Decline",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/14/business/12nw-china-SUB/12nw-china-SUB-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/media/joni-lamb-dead.html",
+          "author": "Alex Traub",
+          "description": "She and her husband, Marcus Lamb, founded Daystar Television Network, which reached more than 200 countries and made the couple into televangelism stars.",
+          "link": "https://www.nytimes.com/2026/05/12/business/media/joni-lamb-dead.html",
+          "publishedOn": "2026-05-12T16:15:50.000Z",
+          "wordCount": 4771,
+          "title": "Joni Lamb, Whose Christian TV Station Went Global, Dies at 65",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/11/multimedia/11Lamb-jkcb/11Lamb-jkcb-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html",
+          "author": "Lauren Hirsch",
+          "description": "The online marketplace called the cash-and-stock proposal “neither credible nor attractive.”",
+          "link": "https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html",
+          "publishedOn": "2026-05-12T15:32:32.000Z",
+          "wordCount": 4542,
+          "title": "EBay Rejects GameStop’s $55 Billion Takeover Bid",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/12biz-ebay-gamestop1-vfpb/12biz-ebay-gamestop1-vfpb-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/dealbook/nadella-microsoft-openai-musk-trial.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Grady McGregor",
+          "description": "The technology giant’s chief executive faced a grilling in court over whether it exerted too much control over what was meant to be an A.I. nonprofit.",
+          "link": "https://www.nytimes.com/2026/05/12/business/dealbook/nadella-microsoft-openai-musk-trial.html",
+          "publishedOn": "2026-05-12T14:59:24.000Z",
+          "wordCount": 6194,
+          "title": "How Much Power Did Microsoft Have Over OpenAI?",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/12db-satya-qpjt/12db-satya-qpjt-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
+          "author": "Lydia DePillis",
+          "description": "The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans.",
+          "link": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
+          "publishedOn": "2026-05-12T14:41:48.000Z",
+          "wordCount": null,
+          "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2026/05/12/business/inflation-report-cpi/what-to-know-about-the-report",
+          "author": "Lydia DePillis",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2026/05/12/business/inflation-report-cpi/what-to-know-about-the-report",
+          "publishedOn": "2026-05-12T14:41:13.000Z",
+          "wordCount": null,
+          "title": "What to know about the report.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
+          "author": "Gina Kolata and Rebecca Robbins",
+          "description": "The new strategy also holds promise for lung and colon tumors. Here’s how scientists discovered it.",
+          "link": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
+          "publishedOn": "2026-05-12T14:34:01.000Z",
+          "wordCount": 5757,
+          "title": "How an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/08/multimedia/00HS-cancer-kras-stillpromo-gzfw/00HS-cancer-kras-stillpromo-gzfw-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/britain-bonds-gilts-keir-starmer.html",
+          "author": "Eshe Nelson",
+          "description": "The yields on British debt pushed higher as the country’s prime minister, Keir Starmer, confronted a rebellion from members of his party.",
+          "link": "https://www.nytimes.com/2026/05/12/business/britain-bonds-gilts-keir-starmer.html",
+          "publishedOn": "2026-05-12T14:18:21.000Z",
+          "wordCount": 4663,
+          "title": "UK Bond Yields Rise With Starmer’s Future as Prime Minister in Doubt",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/12biz-uk-bonds-cljh/12biz-uk-bonds-cljh-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html",
+          "author": "Javier C. Hernández and Kiuko Notoya",
+          "description": "The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.",
+          "link": "https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html",
+          "publishedOn": "2026-05-12T10:48:52.000Z",
+          "wordCount": 4229,
+          "title": "The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/12int-japan-packaging-zkvg/12int-japan-packaging-zkvg-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/media/youtube-creators-advertisers.html",
+          "author": "John Koblin",
+          "description": "The company is trying to help streaming influencers, who are increasingly being wooed by competitors like Netflix and TikTok.",
+          "link": "https://www.nytimes.com/2026/05/12/business/media/youtube-creators-advertisers.html",
+          "publishedOn": "2026-05-12T09:03:35.000Z",
+          "wordCount": 4809,
+          "title": "YouTube Plays Matchmaker for Sponsors and Stars",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/12/multimedia/12biz-youtube-kareem-bwmq/12biz-youtube-kareem-bwmq-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/steel-tariffs-tin-cans-food-prices.html",
+          "author": "Peter Eavis and Ross Mantle",
+          "description": "The cost to put food in cans remains high because manufacturers must still import steel from overseas. U.S. Steel plans to reopen a tin-plate factory.",
+          "link": "https://www.nytimes.com/2026/05/12/business/steel-tariffs-tin-cans-food-prices.html",
+          "publishedOn": "2026-05-12T09:01:29.000Z",
+          "wordCount": null,
+          "title": "Steel Tariffs Are Raising the Price of Canned Foods",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html",
+          "author": "Meaghan Tobin",
+          "description": "Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.",
+          "link": "https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html",
+          "publishedOn": "2026-05-12T05:36:10.000Z",
+          "wordCount": 5429,
+          "title": "China Seeks A.I. Independence, Weakening Trump’s Leverage",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/08/multimedia/00biz-china-chips-fqbm/00biz-china-chips-fqbm-facebookJumbo.jpg"
+        },
         {
           "id": "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html",
           "author": "Michael M. Grynbaum",
@@ -7537,96 +7737,6 @@
           "wordCount": null,
           "title": "How Iran, Suffering Under Sanctions, Diversified Its Economy",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/13/business/media/economist-magazine-videos.html",
-          "author": "Benjamin Mullin",
-          "description": "Nameless no more, writers for The Economist are mixing it up on video from its studio in London.",
-          "link": "https://www.nytimes.com/2026/04/13/business/media/economist-magazine-videos.html",
-          "publishedOn": "2026-04-13T12:54:22.000Z",
-          "wordCount": null,
-          "title": "The Economist Is Putting Names (and Faces) to Its Magazine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/13/business/dealbook/trump-iran-hormuz-blockade.html",
-          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe",
-          "description": "President Trump’s plan to bar ships from entering or leaving Iranian ports has put markets on edge and added to global economic uncertainty.",
-          "link": "https://www.nytimes.com/2026/04/13/business/dealbook/trump-iran-hormuz-blockade.html",
-          "publishedOn": "2026-04-13T11:53:59.000Z",
-          "wordCount": null,
-          "title": "Investors Brace for a New Hormuz Blockade Threat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/13/business/mcdonalds-drinks-refreshers-dirty-soda.html",
-          "author": "Julie Creswell",
-          "description": "The fast-food giant will add fruit-flavored drinks to its menus next month as chains like Dunkin’ and Starbucks sell more cold drinks than hot ones.",
-          "link": "https://www.nytimes.com/2026/04/13/business/mcdonalds-drinks-refreshers-dirty-soda.html",
-          "publishedOn": "2026-04-13T09:03:06.000Z",
-          "wordCount": null,
-          "title": "The Battle Over Refreshers Heats Up as McDonald’s Enters the Mix",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/12/business/oil-prices-surge-above-100-after-peace-talks-fail-and-trump-threatens-blockade.html",
-          "author": "The New York Times",
-          "description": "Oil prices surged as markets reopened following news that U.S. peace talks with Iran had ended without a deal.",
-          "link": "https://www.nytimes.com/2026/04/12/business/oil-prices-surge-above-100-after-peace-talks-fail-and-trump-threatens-blockade.html",
-          "publishedOn": "2026-04-13T04:11:49.000Z",
-          "wordCount": null,
-          "title": "Oil Prices Surge Above $100 After Peace Talks Fail and Trump Threatens Blockade",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html",
-          "author": "Meaghan Tobin and Keith Bradsher",
-          "description": "A cluster of Chinese firms is poised to win big from the energy crisis set off by the war in the Middle East, building on booming investment in artificial intelligence.",
-          "link": "https://www.nytimes.com/2026/04/13/business/energy-environment/china-energy-battery-grid.html",
-          "publishedOn": "2026-04-13T04:01:07.000Z",
-          "wordCount": null,
-          "title": "China’s Electrostate Is Poised to Win From War in the Middle East",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
-          "author": "Ryan Mac",
-          "description": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
-          "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
-          "publishedOn": "2026-04-12T23:43:47.000Z",
-          "wordCount": null,
-          "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
-          "author": "Norimitsu Onishi",
-          "description": "Far behind in the polls, Quebec’s governing party chose Christine Fréchette to succeed François Legault and to lead it in a vote this fall.",
-          "link": "https://www.nytimes.com/2026/04/12/world/americas/canada-quebec-premier-christine-frechette.html",
-          "publishedOn": "2026-04-12T21:58:05.000Z",
-          "wordCount": null,
-          "title": "Christine Fréchette Is Chosen to Lead Coalition Avenir Québec",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
-          "author": "Sheera Frenkel, Paul Mozur and Adam Satariano",
-          "description": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.",
-          "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
-          "publishedOn": "2026-04-12T18:24:26.000Z",
-          "wordCount": null,
-          "title": "The Escalating Global A.I. Arms Race",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/04/12/business/annoyance-economy-costs.html",
-          "author": "Lora Kelley",
-          "description": "A new estimate puts the cost of dealing with robocalls, hidden fees and customer service chatbots that can’t solve most problems at $165 billion.",
-          "link": "https://www.nytimes.com/2026/04/12/business/annoyance-economy-costs.html",
-          "publishedOn": "2026-04-12T14:15:54.000Z",
-          "wordCount": null,
-          "title": "The ‘Annoyance Economy’ Is More Than Just Annoying",
-          "imageUrl": null
         }
       ]
     },
@@ -7635,6 +7745,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/filings/form-13g-dbv-technologies-sa-for-12-may-93CH-4683104",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-13g-dbv-technologies-sa-for-12-may-93CH-4683104",
+          "publishedOn": "2026-05-13T01:45:47.000Z",
+          "wordCount": null,
+          "title": "Form 13G DBV Technologies S.A. For: 12 May",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+            "length": "10322",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/filings/form-13g-bright-minds-biosciences-inc-for-12-may-93CH-4683103",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-13g-bright-minds-biosciences-inc-for-12-may-93CH-4683103",
+          "publishedOn": "2026-05-13T01:45:41.000Z",
+          "wordCount": null,
+          "title": "Form 13G Bright Minds Biosciences Inc. For: 12 May",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+            "length": "10322",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/commodities-news/gold-prices-steady-amid-fading-iran-peace-hopes-trumpxi-talks-ahead-4683102",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/gold-prices-steady-amid-fading-iran-peace-hopes-trumpxi-talks-ahead-4683102",
+          "publishedOn": "2026-05-13T01:44:25.000Z",
+          "wordCount": null,
+          "title": "Gold prices steady amid fading Iran peace hopes; Trump-Xi talks ahead",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPED4U0TY-ORUBS_M.jpg",
+            "length": "17792",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPED4U0TY-ORUBS_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/nvidias-jensen-huang-to-join-trumps-china-visit-sources-say-4683101",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/nvidias-jensen-huang-to-join-trumps-china-visit-sources-say-4683101",
+          "publishedOn": "2026-05-13T01:42:34.000Z",
+          "wordCount": null,
+          "title": "Nvidia’s Jensen Huang to join Trump’s China visit, sources say",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C02G_L.jpg",
+            "length": "44489",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C02G_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/select-water-solutions-evp--coo-skarke-sells-191-million-in-shares-93CH-4683100",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/select-water-solutions-evp--coo-skarke-sells-191-million-in-shares-93CH-4683100",
+          "publishedOn": "2026-05-13T01:40:12.000Z",
+          "wordCount": null,
+          "title": "Select water solutions EVP & COO Skarke sells $1.91 million in shares",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg",
+            "length": "76546",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/agc-q1-fy2026-slides-yen-tailwinds-drive-49-profit-surge-93CH-4683098",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/agc-q1-fy2026-slides-yen-tailwinds-drive-49-profit-surge-93CH-4683098",
+          "publishedOn": "2026-05-13T01:37:59.000Z",
+          "wordCount": null,
+          "title": "AGC Q1 FY2026 slides: yen tailwinds drive 49% profit surge",
+          "enclosure": {
+            "url": "https://csv-storage.forexpros.com/slides/e37935233afabafb5d15c51a332b1cba4fd2c4b62ae88021ae6709851ccca703.png",
+            "length": "182129",
+            "type": "image/png"
+          },
+          "imageUrl": "https://csv-storage.forexpros.com/slides/e37935233afabafb5d15c51a332b1cba4fd2c4b62ae88021ae6709851ccca703.png"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/dollar-near-oneweek-high-as-hot-us-inflation-fans-fed-hike-bets-peace-talks-stall-4683096",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/dollar-near-oneweek-high-as-hot-us-inflation-fans-fed-hike-bets-peace-talks-stall-4683096",
+          "publishedOn": "2026-05-13T01:37:55.000Z",
+          "wordCount": null,
+          "title": "Dollar near one-week high as hot U.S. inflation fans Fed hike bets, peace talks stall",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C02D_L.jpg",
+            "length": "57370",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C02D_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/select-water-solutions-cao-brian-szymanski-sells-340800-in-stock-93CH-4683095",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/select-water-solutions-cao-brian-szymanski-sells-340800-in-stock-93CH-4683095",
+          "publishedOn": "2026-05-13T01:37:31.000Z",
+          "wordCount": null,
+          "title": "Select water solutions CAO Brian Szymanski sells $340,800 in stock",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg",
+            "length": "8506",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/general-news/nbajason-collins-first-openly-gay-active-nba-player-dies-at-47-4683094",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/general-news/nbajason-collins-first-openly-gay-active-nba-player-dies-at-47-4683094",
+          "publishedOn": "2026-05-13T01:37:19.000Z",
+          "wordCount": null,
+          "title": "NBA-Jason Collins, first openly gay active NBA player, dies at 47",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4B1NE_L.jpg",
+            "length": "78932",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4B1NE_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/general-news/nbamemphis-grizzlies-forward-clarke-dies-at-29-4683093",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/general-news/nbamemphis-grizzlies-forward-clarke-dies-at-29-4683093",
+          "publishedOn": "2026-05-13T01:36:58.000Z",
+          "wordCount": null,
+          "title": "NBA-Memphis Grizzlies forward Clarke dies at 29",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4B1ET_L.jpg",
+            "length": "59658",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4B1ET_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/company-news/cliff-bentz-from-oregons-2nd-district-sells-intel-corporation-stock-93CH-4678894",
           "author": "Investing.com",
@@ -11804,151 +12064,6 @@
           "wordCount": null,
           "title": "Givaudan beats Q1 sales forecasts as perfume demand masks food business dip",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/ringkjbing-landbobank-buys-back-13600-shares-in-week-15-93CH-4609276",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/ringkjbing-landbobank-buys-back-13600-shares-in-week-15-93CH-4609276",
-          "publishedOn": "2026-04-13T07:04:43.000Z",
-          "wordCount": null,
-          "title": "Ringkjøbing Landbobank buys back 13,600 shares in week 15",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "10322",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-upgrades-pultegroup-stock-rating-on-higherend-resilience-93CH-4609274",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/analyst-ratings/evercore-isi-upgrades-pultegroup-stock-rating-on-higherend-resilience-93CH-4609274",
-          "publishedOn": "2026-04-13T07:03:33.000Z",
-          "wordCount": null,
-          "title": "Evercore ISI upgrades PulteGroup stock rating on higher-end resilience",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "10322",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/analyst-ratings/evercore-isi-upgrades-toll-brothers-stock-rating-on-luxury-resilience-93CH-4609273",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/analyst-ratings/evercore-isi-upgrades-toll-brothers-stock-rating-on-luxury-resilience-93CH-4609273",
-          "publishedOn": "2026-04-13T07:03:31.000Z",
-          "wordCount": null,
-          "title": "Evercore ISI upgrades Toll Brothers stock rating on luxury resilience",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "10322",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/rbc-cuts-abf-to-underperform-as-primark-weakens-sees-downside-ahead-4609271",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/rbc-cuts-abf-to-underperform-as-primark-weakens-sees-downside-ahead-4609271",
-          "publishedOn": "2026-04-13T07:01:59.000Z",
-          "wordCount": null,
-          "title": "RBC cuts ABF to “underperform” as Primark weakens, sees downside ahead",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/chinas-exports-set-to-lose-momentum-as-iran-war-undercuts-aidriven-boom-reuters-poll-4609203",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/chinas-exports-set-to-lose-momentum-as-iran-war-undercuts-aidriven-boom-reuters-poll-4609203",
-          "publishedOn": "2026-04-13T07:00:50.000Z",
-          "wordCount": null,
-          "title": "China’s exports set to lose momentum as Iran war undercuts AI-driven boom",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C06O_L.jpg",
-            "length": "80847",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C06O_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/chinese-ai-startup-stepfun-to-unwind-offshore-structure-to-pave-way-for-ipo-sources-say-4609269",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/chinese-ai-startup-stepfun-to-unwind-offshore-structure-to-pave-way-for-ipo-sources-say-4609269",
-          "publishedOn": "2026-04-13T07:00:34.000Z",
-          "wordCount": null,
-          "title": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0A6_L.jpg",
-            "length": "47865",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0A6_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-to-71k-as-usiran-talks-fall-through-hormuz-blockade-looms-4609268",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-to-71k-as-usiran-talks-fall-through-hormuz-blockade-looms-4609268",
-          "publishedOn": "2026-04-13T06:59:37.000Z",
-          "wordCount": null,
-          "title": "Bitcoin dips to $71k as US-Iran talks fall through, Hormuz blockade looms",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXMPEE1812S_M.jpg",
-            "length": "51811",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEE1812S_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/roadside-real-estate-grants-share-options-to-directors-93CH-4609267",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/roadside-real-estate-grants-share-options-to-directors-93CH-4609267",
-          "publishedOn": "2026-04-13T06:58:07.000Z",
-          "wordCount": null,
-          "title": "Roadside Real Estate grants share options to directors",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "10322",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/heathrow-absorbs-demand-surge-amid-middle-east-airspace-closures-93CH-4609266",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/heathrow-absorbs-demand-surge-amid-middle-east-airspace-closures-93CH-4609266",
-          "publishedOn": "2026-04-13T06:56:51.000Z",
-          "wordCount": null,
-          "title": "Heathrow absorbs demand surge amid Middle East airspace closures",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "10322",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/world-news/trump-attacks-pope-leo-calling-him-weak-on-crime-and-terrible-4609128",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/world-news/trump-attacks-pope-leo-calling-him-weak-on-crime-and-terrible-4609128",
-          "publishedOn": "2026-04-13T06:55:25.000Z",
-          "wordCount": null,
-          "title": "Trump calls Pope Leo ’terrible’ in unusual, direct attack on Church leader",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C01R_L.jpg",
-            "length": "37416",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C01R_L.jpg"
         }
       ]
     },
@@ -11957,6 +12072,166 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tbihcw/i_am_extremely_pessimistic_regarding_the/",
+          "author": null,
+          "description": "When I look at the current economy, there are two things that concern me.\n - The possibility of an AI/data center bubble. I am worried that a lot of the investment into AI not rational, and does not reflect the current state of the technology. If reality fails to meet the market’s expectations, I can’t see how the result is anything but a disaster.\n - The downstream effects of oil price shock, such as increased transportation costs and food prices with reduced discretionary spending. A lot of the commentary I’m seeing regarding this second point is that the price shocks will be so bad, it will incentivize everyone involved in the closing of Hormuz to the table, and therefore it won’t be too terrible in the mid to long term. I am highly skeptical of this, again because I don’t think the geo…",
+          "link": "https://www.reddit.com/r/investing/comments/1tbihcw/i_am_extremely_pessimistic_regarding_the/",
+          "publishedOn": "2026-05-12T23:32:47.000Z",
+          "wordCount": null,
+          "title": "I am extremely pessimistic regarding the intermediate future. Are these investments resilient enough to handle what I’m afraid will happen?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tbi9jb/rheinmetall_what_is_your_opinion/",
+          "author": null,
+          "description": "Discount of 40% from ATH, huge backlog, going into drones and announced a partnership with Deutsche Telekom. \n Today some bank upgraded it to a \"buy\". Spending on defense increases and even if the war stops then the depleted magazines need to be refilled.\n What do you think?\n    submitted by    /u/Resident-Paint-8318  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tbi9jb/rheinmetall_what_is_your_opinion/",
+          "publishedOn": "2026-05-12T23:23:46.000Z",
+          "wordCount": null,
+          "title": "Rheinmetall, what is your opinion?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tbhx28/wisdom_being_in_the_market_over_time/",
+          "author": null,
+          "description": "When I was younger I would hear the older adults say I lost it all to the stock market. But I didn’t understand enough to ask what was in their portfolio or if a professional was managing it. \n Is anyone willing to share if this happened to them or anything similar and why it happened and what you did to get back to investing and what you learned. \n    submitted by    /u/Longjumping-Mango831  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tbhx28/wisdom_being_in_the_market_over_time/",
+          "publishedOn": "2026-05-12T23:09:24.000Z",
+          "wordCount": null,
+          "title": "Wisdom being in the market over time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tbhmyp/rekor_systems_rekr_turnaround/",
+          "author": null,
+          "description": "$REKR still looks seriously undervalued here going into Q2 after everything discussed on the earnings call.\n People are acting like this company has nothing, but they already have real contracts, statewide DOT deployments, recurring revenue growing through their AI roadway platform, and major government relationships in place. The Oklahoma $16.8M deal alone showed the kind of scale they’re starting to land, and the DaaS side keeps building.\n The part that stands out to me is the direction things are heading. They’ve already talked about EBITDA neutrality around late Q2/early Q3 with a path to positive EBITDA by the end of 2026. Cost reductions are kicking in while contracts are beginning to convert at a better rate.\n Then you’ve got the Rekor Scout rollout coming in Q3. I honestly think the deepfake side of this is being massively overlooked. AI-generated and manipulated video is becoming a serious issue for courts, lawyers, law enforcement, insurers and government agencies. Verification/authentication is going to become a necessity, not a luxury.\n This is supposedly a $30B+ market and Rekor isn’t coming into it as some unknown startup. They already work with government agencies, already operate in regulated environments, and already have the infrastructure and relationships in place. Add in the approved patent and proprietary tech they’ve been building around this and it gives them a much stronger position than most people realise.\n Yet the stock is still trading like the company is on the verge of collapse.\n Meanwhile they’re continuing to execute, build recurring revenue and expand into markets with real long-term demand. If Q2 shows continued growth and improving margins, I think sentiment changes very quickly from here.\n    submitted by    /u/Realistic_Robin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tbhmyp/rekor_systems_rekr_turnaround/",
+          "publishedOn": "2026-05-12T22:57:49.000Z",
+          "wordCount": null,
+          "title": "Rekor Systems 🤖 (REKR) turnaround",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tb96v0/any_bull_case_for_reddit/",
+          "author": null,
+          "description": "The stock has good fundamentals, growth and margins. One thing I'm worried are ads, AI scraping, bots and rddt not being as attractive to most as Instagram or sloppy tiktok. \n Huge upside based on analyst ratings and 30% from ath.\n What do you guys think?\n    submitted by    /u/Resident-Paint-8318  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tb96v0/any_bull_case_for_reddit/",
+          "publishedOn": "2026-05-12T17:52:14.000Z",
+          "wordCount": null,
+          "title": "Any bull case for reddit?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tb8xiu/investing_in_gold_what_are_your_strategies/",
+          "author": null,
+          "description": "I'm curious what ways people invest in gold and why. I've never done it, but it's something I've been curious about. Also how safe are digital gold assets in the event of a catastrophic economy crash? For instance, when you have cash in savings at a bank and all the banks start failing, to the point where the government can't insure your funds?\n (not financial advice, but interest in market mechanics)\n    submitted by    /u/37GreaterThan4547  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tb8xiu/investing_in_gold_what_are_your_strategies/",
+          "publishedOn": "2026-05-12T17:43:30.000Z",
+          "wordCount": null,
+          "title": "Investing in Gold - What are your strategies?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tb8kfp/hypothetical_situation_let_my_child_choose/",
+          "author": null,
+          "description": "So I put $5k in to a portfolio for my daughter on her second birthday. I plan to manage it for her and use it as a tool to teach her financial literacy as she grows up. It is all in my name and I plan on maintaining primary control till she is in her 30s and can be trusted not to squander it.\n My father in law put $18k in to a 529 for her when she was born, so this portfolio was never intended as a college fund. It is to teach her about compounding interest and the difference between money and wealth.\n I recently came across an article describing a college educated child being angry at their parents for helping no college child with Mortgage down payment. DP was similar sum to tuition. Tuition did not cover full expense of college, but DP did not cover full cost of Mortgage.\n Who do u guys think made the better financial decision? Does this seem like the parents were fair to their children? If my daughter did not have the 529, would you suggest I offer her this choice at that time?\n    submitted by    /u/Positive_Wheel_7065  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tb8kfp/hypothetical_situation_let_my_child_choose/",
+          "publishedOn": "2026-05-12T17:30:52.000Z",
+          "wordCount": null,
+          "title": "Hypothetical situation: Let my child choose between mortgage vs student loans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tb30bp/what_are_some_moonshot_stocks_you_believe_in/",
+          "author": null,
+          "description": "What are some stocks you have high conviction on with unique or industry disruptive tech? Some names that come to mind that have already run include both PLTR and RKLB. \n Personally, I think photonics could be an interesting trade/long term investment (ALMU, POET). What do y'all think?\n    submitted by    /u/Square_Reach_8496  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tb30bp/what_are_some_moonshot_stocks_you_believe_in/",
+          "publishedOn": "2026-05-12T14:17:46.000Z",
+          "wordCount": null,
+          "title": "What are some Moonshot stocks you believe in?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tb1tk1/are_you_investing_right_now/",
+          "author": null,
+          "description": "I know I know, never time the market. But should I wait until a red day to throw $1k into VTI?\n Just wondering what you guys are doing currently and a consensus. For Context, I have a decent portfolio already, and am looking to just throw some extra in, but should I wait for a big drop before throwing some money in? I don’t plan on pulling this money out for many years. I’m sure most of the responses will be don’t time the market, guess I just want to know if you guys are doing the same in this current bull run.\n Thanks! I appreciate it. \n    submitted by    /u/Dools92  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tb1tk1/are_you_investing_right_now/",
+          "publishedOn": "2026-05-12T13:34:06.000Z",
+          "wordCount": null,
+          "title": "Are you investing right now?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tb17u8/i_have_a_list_of_energyindustrials_companies_but/",
+          "author": null,
+          "description": "Of course I could invest into Google or Nvidia, but I am open to slightly more risk, and those major firms are already overcrowded + there is a huge rotation of capital into AI/semi/memory. Sure, the market can stay irrational far longer than I can stay solvent but Im buying shares not options, and there isnt only AI industry out there. Here is the list:\n CEG - ran a lot already plus worse performance in bull markets, politically sensitive and a lot of good news is already priced in, beat Q1 massively\n Vistra - huge upside, but margin collapse in 2025 is concerning, more energy mix\n RHM - defence firm with huge upside, free cash flow guidance came in below analyst expectations, missed guidance 3 or 4 times in a row, 42% down from ATH, I perceive as a contrarian move, produces heavy machinery while wars are now based on drones, JPM cut their targets\n CSG - czech defence firm, 52% down from IPO due to a short-seller report, which they know dismissed\n META - 20% from ATH, Rev/margins and other metrics look good, increased CAPEX, P/E low for a\n tech firm, lost money on VR and ads constitute 97% of revenue so not a lot of diversification\n RDDT - 30% from ATH, I think it is perceived as an AI-adjacent firm due to the contracts with OpenAI (which have low value and Im waiting for an update), very strong rev and margins, my problem is that Reddit is not as popular as Facebook/Instagram and its harder to mix ads with the text-based content\n LHX - L3Harris - defence firm, revenue mix (Space & Mission Systems, Communications & Spectrum Dominance, Missile Solutions), low upside?\n    submitted by    /u/Resident-Paint-8318  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tb17u8/i_have_a_list_of_energyindustrials_companies_but/",
+          "publishedOn": "2026-05-12T13:10:59.000Z",
+          "wordCount": null,
+          "title": "I have a list of energy/industrials companies but each one has their flaws.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tavitj/how_to_diversify_as_an_european/",
+          "author": null,
+          "description": "I'm not going to do the \"doomer post\", but indeed the market has been heating up quite a bit. I'd like to diversify and possibly miss on some gains, but lower the risk of loss.\n Right now my portfolio is relatively heavily tech, although mostly ETFs.\n I own:\n  \n10% GOOG\n 25% QQQ\n 23% SPY500\n 22% World\n 20% cash/bonds\n  \nWould you call this tech-heavy?\n What would be your estimate of a downturn from this portfolio, were the \"AI bubble\" to pop?\n I'd say possibly a -30% for GOOG, -25% for QQQ, -20% for SPY500, -10% for World? Or do you think it would be much higher?\n I think that GOOG is the kind of stock which might get hit by the \"AI bubble\" popping, but has solid ground, and would recover most relatively quickly (also why I keep some cash at hand to be able to buy some stocks in case there's a downturn)\n Another question:\n  \nI'm also an European investor, and fear a bit the devaluation of USD, which would also eat on profits.\n \nI think for some reason in my broker, GOOG and SPY500 ETF are in USD currency, and QQQ and World are in EUR (perhaps because of the ETF I bought them with). Does that matter relative to USD/EUR valuation? Should I change my SPY500 ETF to a EUR-based one (if that exists?), or do the \"EUR-based ETFs\" actually simply do a conversion to EUR, and they are equivalent (eg in case of a downturn of USD-to-EUR, they will also go down by the same amount)\n \n Final question: I've never really used/understood bonds? Are there the equivalent of ETFs for bonds? And what typical \"benefits\" (eg 4%/yr ? 6%/yr?) can I get from those? (so I can park my cash on these)\n    submitted by    /u/oulipo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tavitj/how_to_diversify_as_an_european/",
+          "publishedOn": "2026-05-12T08:39:15.000Z",
+          "wordCount": null,
+          "title": "How to diversify (as an European)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tauuey/daily_general_discussion_and_advice_thread_may_12/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tauuey/daily_general_discussion_and_advice_thread_may_12/",
+          "publishedOn": "2026-05-12T08:00:15.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - May 12, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1taulvd/what_do_you_do_for_work_and_what_can_you_see_in/",
+          "author": null,
+          "description": "I'm a software engineer. When ChatGPT first launched in 2022, developers used AI chatbots to help them figure out small issues. We'd copy and paste small code snippets to and from ChatGPT. It was useful but nothing earth shattering. This went on for 3 years until late 2025, when I first tried to code with an AI agent. I was so shocked at what it can do. It was a revelation. Now I no longer write any code. I just instruct an agent.\n Late 2025 was the time when the media and Michael Burry was saying AI is in a huge bubble is going to collapse soon. Meanwhile, I was privately fearing for my job because AI has gotten so good so fast. Everything changed in a matter of months.\n Fast forward to today, Anthropic has gone from $9b ARR on Jan 1 to $44b ARR on April 30. Just 4 months. In stocks, RAM …",
+          "link": "https://www.reddit.com/r/investing/comments/1taulvd/what_do_you_do_for_work_and_what_can_you_see_in/",
+          "publishedOn": "2026-05-12T07:46:49.000Z",
+          "wordCount": null,
+          "title": "What do you do for work and what can you see in investing that other people might not?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tau7sv/the_machine_that_makes_chips_possible_now_has_its/",
+          "author": null,
+          "description": "The export control angle on $EUV doesn't get talked about enough.\n ASML was already restricted from selling advanced EUV machines to China. That makes their technology even more strategically valuable for western-aligned fabs. US, European, and Japanese fab expansions all run through ASML.\n Structural tailwind that isn't going away. Long $EUV.\n    submitted by    /u/Necessary-Two7299  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tau7sv/the_machine_that_makes_chips_possible_now_has_its/",
+          "publishedOn": "2026-05-12T07:24:10.000Z",
+          "wordCount": null,
+          "title": "The machine that makes chips possible now has its own ETF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tarz8w/ive_never_seen_so_much_greed_before_is_it/",
+          "author": null,
+          "description": "Almost everyone ik who was a standard investor is foaming at the mouth over specific stock tickers, options, leverage, etc.\n Feels like not even a few months ago everyone was trying to buy gold/crypto to offset the \"impending crash\".\n back then I was buying as much as I could under the rule \"buy when others are scared,\" but now we're at intense greed, and I'm not really sure how to capitalize on it in a non-risky way.\n    submitted by    /u/ParkingAthlete119  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tarz8w/ive_never_seen_so_much_greed_before_is_it/",
+          "publishedOn": "2026-05-12T05:24:27.000Z",
+          "wordCount": null,
+          "title": "I've never seen so much greed before, is it possible to capitalize on it?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1tanqiu/euv_keeps_quietly_moving_up_does_anyone_follow/",
+          "author": null,
+          "description": "​\n $EUV is one of my core semiconductor holdings and I keep getting asked why I don't just buy ASML directly.\n The ETF gives you ASML plus the broader ecosystem - optics manufacturers, light source tech, metrology firms. That diversification across the value chain is real and meaningful.\n Also easier to hold in retirement accounts. First lithography ETF on the market.\n    submitted by    /u/thenappapanna  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1tanqiu/euv_keeps_quietly_moving_up_does_anyone_follow/",
+          "publishedOn": "2026-05-12T02:02:56.000Z",
+          "wordCount": null,
+          "title": "$EUV keeps quietly moving up - does anyone follow this one?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1tam3hd/hedging_my_portfolio_in_anticipation_of_oil/",
           "author": null,
@@ -17086,136 +17361,6 @@
           "wordCount": null,
           "title": "What instruments to use for leverage?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sk9maq/removed_by_reddit/",
-          "author": null,
-          "description": "[ Removed by Reddit on account of violating the content policy. ]\n    submitted by    /u/ShowMeTheIncentives  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sk9maq/removed_by_reddit/",
-          "publishedOn": "2026-04-13T12:39:45.000Z",
-          "wordCount": null,
-          "title": "[ Removed by Reddit ]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sk4b1j/daily_general_discussion_and_advice_thread_april/",
-          "author": null,
-          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sk4b1j/daily_general_discussion_and_advice_thread_april/",
-          "publishedOn": "2026-04-13T08:00:39.000Z",
-          "wordCount": null,
-          "title": "Daily General Discussion and Advice Thread - April 13, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sk3wzg/few_quick_questions_about_robinhood_investing/",
-          "author": null,
-          "description": "I have had a Robinhood account for the last couple of years but never used much of it as my main personal brokerage account is at a different place where I am quite active every week.\n However, I was thinking about playing with my Robinhood account and planning to auto invest $100 every week in the S&P 500. My questions are\n How quick is Robinhood with uploading tax documents? I know 1099-DIV is a standard form, however, does Robinhood do it any differently than other major brokerages?\n Anything else to be aware of or things that RH does differently than other major brokerages like Schwab, Fidelity?\n Thanks\n    submitted by    /u/konjecture  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sk3wzg/few_quick_questions_about_robinhood_investing/",
-          "publishedOn": "2026-04-13T07:36:50.000Z",
-          "wordCount": null,
-          "title": "Few quick questions about Robinhood investing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sk05bp/nbis_heavy_institutional_call_accumulation_near/",
-          "author": null,
-          "description": "Been tracking institutional options flow on NBIS (Nebius) this week and wanted to share what I'm seeing.\n The flow:\n NBIS got flagged on April 10 with heavy call accumulation at the $140 strike, April 17 expiry. These weren't small retail orders. Large block prints, above-ask purchases, strategic positioning ahead of what turned out to be a massive catalyst week. The institutional read was clear before the move happened.\n Why it matters:\n Nebius just signed a $27B AI infrastructure deal with Meta ($12B in dedicated capacity starting 2027), received a $2B strategic NVIDIA investment, and completed a $4.34B convertible debt raise that fully funds 2026 capex. Smart money was accumulating calls before the full re-rating played out.\n Technical setup:\n Price is at $145.19, pressing against the 5…",
-          "link": "https://www.reddit.com/r/investing/comments/1sk05bp/nbis_heavy_institutional_call_accumulation_near/",
-          "publishedOn": "2026-04-13T04:07:28.000Z",
-          "wordCount": null,
-          "title": "NBIS: Heavy institutional call accumulation near 52-week highs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sk052i/nbis_heavy_institutional_call_accumulation_near/",
-          "author": null,
-          "description": "Been tracking institutional options flow on NBIS (Nebius) this week and wanted to share what I'm seeing.\n The flow:\n NBIS got flagged on April 10 with heavy call accumulation at the $140 strike, April 17 expiry. These weren't small retail orders. Large block prints, above-ask purchases, strategic positioning ahead of what turned out to be a massive catalyst week. The institutional read was clear before the move happened.\n Why it matters:\n Nebius just signed a $27B AI infrastructure deal with Meta ($12B in dedicated capacity starting 2027), received a $2B strategic NVIDIA investment, and completed a $4.34B convertible debt raise that fully funds 2026 capex. Smart money was accumulating calls before the full re-rating played out.\n Technical setup:\n Price is at $145.19, pressing against the 5…",
-          "link": "https://www.reddit.com/r/investing/comments/1sk052i/nbis_heavy_institutional_call_accumulation_near/",
-          "publishedOn": "2026-04-13T04:07:05.000Z",
-          "wordCount": null,
-          "title": "NBIS: Heavy institutional call accumulation near 52-week highs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sjwwr7/31_sharing_investments_need_advice_on_balancing/",
-          "author": null,
-          "description": "Hey everyone,\n I’m a 31-year-old male and wanted to share my investment journey. I feel pretty good about the investments I’ve made so far, which have been growing steadily. However, I’m feeling a bit stressed about my low liquid cash on hand in my WeBull account.\n As I’m planning to propose at the end of this year (October), I also want to throw an engagement party. With that in mind, I’m starting to worry about having enough cash readily available.\n Currently, I have roughly \\*\\*$5,000\\*\\* that I can save each month. \n ROTH IRA: $55,426.77 \n BROKERAGE ACCT 1: $47,424.98\n BROKERAGE ACCT 2: $38,513.17\n 401K :$110,359.25\n HYSA: $26,256.34 \n 401K: $2,412.91 \n I’d really appreciate any advice or thoughts on how to approach this situation. Thank you!\n    submitted by    /u/PersistanceIsKeyy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sjwwr7/31_sharing_investments_need_advice_on_balancing/",
-          "publishedOn": "2026-04-13T01:34:13.000Z",
-          "wordCount": null,
-          "title": "31 Sharing Investments - Need Advice on Balancing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sjss1k/financial_times_article_on_private_credit_being/",
-          "author": null,
-          "description": "https://www.ft.com/content/f61e00bf-ecc4-4e73-a6ab-46d49402a444?syn-25a6b1a6=1\n For those stuck behind the paywall:\n  \nDonald Trump wants average Americans to start investing in private credit. A couple of weeks ago, the president cleared away legal barriers to employers that want to let workers put their 401(k)-retirement money into riskier but potentially higher-yielding assets like private equity, real estate funds and so on. Big institutions and rich people do it, he says, so why shouldn’t everyone else?\n I would argue that the government shouldn’t be encouraging average Americans to go into such alternative investments right now because we are likely entering the very tail-end of a risky credit cycle that could blow up. This isn’t a radical statement. It has become widely understood t…",
-          "link": "https://www.reddit.com/r/investing/comments/1sjss1k/financial_times_article_on_private_credit_being/",
-          "publishedOn": "2026-04-12T22:30:56.000Z",
-          "wordCount": null,
-          "title": "Financial Times' article on private credit being introduced to pensions and 401k's, and the history of the debt boom-bust cycles",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sjs5fr/something_feels_off_in_the_world_of_investing/",
-          "author": null,
-          "description": "I feel with how the world looks right now (Trump and America as a whole, The AI Boom and many other things) investing has became very volatile now and we all can agree. \n In saying this, it seems as though now more than ever, we are being bombarded with advertisements to invest and many different investing platforms are arising. Why do these companies want to try and get so many people investing with how the market looks right now? \n Maybe I’m completely insane lol just wondering if anybody else noticed this.\n    submitted by    /u/66ix99ine_69  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sjs5fr/something_feels_off_in_the_world_of_investing/",
-          "publishedOn": "2026-04-12T22:05:27.000Z",
-          "wordCount": null,
-          "title": "Something feels off in the world of investing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sjqa10/is_there_an_app_that_actually_lets_you_sort/",
-          "author": null,
-          "description": "Is there an app that actually lets you sort symbols by 30-Day SEC Yield? (SGOV, SPAXX, FZCXX, USFR, etc.)\n I’m looking for a mobile app or a specific web interface that allows for quick, one-click sorting by 30-Day SEC Yield.\n I’m trying to compare \"cash-like\" or “savings-like” tickers (SGOV, SPAXX, FZCXX, , USFR, etc) to see which one has the best current yield at any given moment. Most mainstream apps either:\n \\- Don't show the 30-Day SEC Yield at all at the listing.\n \\- Only show the \"Dividend Yield\" or \"Trailing 12-Month Yield,\" which is useless for these funds.\n \\- Don't let you sort a custom watchlist by yield.\n Does anyone know of a tool that handles yields this way?\n    submitted by    /u/testTester123123  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sjqa10/is_there_an_app_that_actually_lets_you_sort/",
-          "publishedOn": "2026-04-12T20:52:58.000Z",
-          "wordCount": null,
-          "title": "Is there an app that actually lets you sort symbols in a list by 30-Day SEC Yield?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sjoh67/i_have_1k_shares_of_spacex_stock_what_do_i_do_for/",
-          "author": null,
-          "description": "I know there's a lot of discussion about the upcoming SpaceX IPO being an insider stock dump, but as a former SpaceX employee who worked there for a couple years, I had a strong sense that the company was genuinely doing quite well and had a level of development that's unmatched in the defense industry. I never saw any real negative signs inside the company, and I always intended to just hang onto my stocks until I retire.\n My main question is what's the big deal of a company being overvalued? I definitely do think SpaceX is overvalued at the moment, but I do believe it'll continue to grow given the culture of relentless work and growth I saw at the company when I was there. My family and I are already relatively wealthy, so I don't really care if there's some moderate stock drop if all that really means is that I just keep my stock for another decade or two until it recovers in price. Is there a compelling reason for me to sell my stock immediately upon IPO?\n    submitted by    /u/jdrls  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sjoh67/i_have_1k_shares_of_spacex_stock_what_do_i_do_for/",
-          "publishedOn": "2026-04-12T19:46:01.000Z",
-          "wordCount": null,
-          "title": "I have ~1k shares of SpaceX stock, what do I do for this IPO?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sjmy3y/if_i_would_have_to_restart_my_investing_journey/",
-          "author": null,
-          "description": "I’m in my early 20s and looking back at just the last couple years, it’s kind of wild how predictable the mistakes are.\n First, I waited way too long because I thought I needed to fully “understand the market.” In reality, I just lost time I could’ve spent investing small amounts consistently. Then when I finally started, I swung too far the other way chasing hype, trying to pick winners, thinking I’d outsmart everyone. Spoiler: I didn’t.\n At the same time, I completely ignored the obvious my income. I spent more time researching stocks than improving skills that could actually increase what I earn. And every raise I got quietly disappeared into a slightly nicer lifestyle. Nothing crazy, just enough to slow me down.\n The biggest realization? It’s not about being perfect. It’s about being consistent, keeping things simple, and not sabotaging yourself. If I could restart, I’d invest regularly, focus on growing my income, keep expenses in check, and just… stay patient.\n    submitted by    /u/kathuriasanjay  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sjmy3y/if_i_would_have_to_restart_my_investing_journey/",
-          "publishedOn": "2026-04-12T18:49:31.000Z",
-          "wordCount": null,
-          "title": "If I would have to restart my investing journey, here’s what I’ve done : By Sanjay Kathuria",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sjl8tv/iran_ceasefire_is_being_priced_as_solved_it/",
-          "author": null,
-          "description": "I’ve been watching the crude tape closely this week and something does not add up at all.\n Trump declared total victory on Iran, the market sold off the war premium in crude, everyone moved on. But Hormuz is not actually fully open. There are still idle tankers, freight costs are not normal, and Iranian barrels aren’t back on the forward curve yet. The physical market and the political narrative are in two completely different places atm.\n The thing that’s bugging me the most is gold. If this was genuine resolution, gold should be selling off too but instead its holding above $3200 while crude falls. Imo that’s not a risk-off unwind, that's institutional money saying ‘we don't fully believe this’ while selling the obvious war premium trade. \n So either crude catches up the golden age narrative and rips, or gold is right and crude has more downside. The tape is pointing at the second one but I've been wrong before. \n Anyone else watching this divergence or am I just overcomplicating it?\n    submitted by    /u/InfinitePressure4793  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sjl8tv/iran_ceasefire_is_being_priced_as_solved_it/",
-          "publishedOn": "2026-04-12T17:46:21.000Z",
-          "wordCount": null,
-          "title": "Iran \"ceasefire\" is being priced as solved. It actually isn't",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1sjelga/hypothetical_question_200k_into_reit_and_collect/",
-          "author": null,
-          "description": "Let’s say you have £200k cash to play with. Would you consider putting it all into REIT - and collect monthly dividend of £2 166?\n Given a 13% dividend yield. That’s your money doubled in 7.7 years. \n Given that the 200k is let’s say 14% of your net worth and the rest of your net worth is a diverse portfolio. \n Yes the stock has limited growth potential, what’s wrong with this as a strategy? \n Not looking for financial advice or anything just curious what people think of this scenario. \n    submitted by    /u/Creative_Fox23  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1sjelga/hypothetical_question_200k_into_reit_and_collect/",
-          "publishedOn": "2026-04-12T13:29:30.000Z",
-          "wordCount": null,
-          "title": "Hypothetical Question: £200k into REIT and collect £2 166 a month?",
-          "imageUrl": null
         }
       ]
     },
@@ -17224,6 +17369,16 @@
       "feedUrl": "https://www.reddit.com/r/finance/.rss",
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1tbc7l5/inflation_is_finally_there_38_which_stocks_will/",
+          "author": null,
+          "description": "submitted by    /u/Adept_Mountain9532  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1tbc7l5/inflation_is_finally_there_38_which_stocks_will/",
+          "publishedOn": "2026-05-12T19:35:34.000Z",
+          "wordCount": null,
+          "title": "Inflation is finally there: +3.8%. Which stocks will be hit the most? and the least?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/finance/comments/1t9tdf2/moronic_monday_may_11_2026_your_weekly_questions/",
           "author": null,
@@ -17622,36 +17777,6 @@
           "publishedOn": "2026-04-13T14:53:04.000Z",
           "wordCount": null,
           "title": "Investors are writing off any move from the Fed this month—collapsing talks in Iran have sealed the deal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1sk736l/uk_could_adopt_eu_single_market_rules_under_new/",
-          "author": null,
-          "description": "submitted by    /u/Kitchen_Zucchini_357  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1sk736l/uk_could_adopt_eu_single_market_rules_under_new/",
-          "publishedOn": "2026-04-13T10:41:51.000Z",
-          "wordCount": null,
-          "title": "UK could adopt EU single market rules under new legislation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1sk4n3k/removed_by_reddit/",
-          "author": null,
-          "description": "[ Removed by Reddit on account of violating the content policy. ]\n    submitted by    /u/ElNacionalcat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1sk4n3k/removed_by_reddit/",
-          "publishedOn": "2026-04-13T08:20:18.000Z",
-          "wordCount": null,
-          "title": "[ Removed by Reddit ]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1sk16mo/moronic_monday_april_13_2026_your_weekly/",
-          "author": null,
-          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1sk16mo/moronic_monday_april_13_2026_your_weekly/",
-          "publishedOn": "2026-04-13T05:01:10.000Z",
-          "wordCount": null,
-          "title": "Moronic Monday - April 13, 2026 - Your Weekly Questions Thread",
           "imageUrl": null
         }
       ]
