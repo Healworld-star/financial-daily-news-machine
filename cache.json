@@ -6,6 +6,76 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo#0",
+          "author": null,
+          "description": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
+          "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-06T00:06:42.000Z",
+          "wordCount": 8717,
+          "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95e1/live/42e75270-76f4-11f1-b976-0b9c15b0ccfc.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o#0",
+          "author": null,
+          "description": "Queues are expected at airports this summer owing to EU's new digital border control system.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-05T23:18:27.000Z",
+          "wordCount": 7684,
+          "title": "Three things you can do to stop EU border checks at the airport costing you",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c218/live/42cb6c30-76d7-11f1-a627-714adb4eed6e.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o#3",
+          "author": null,
+          "description": "Queues are expected at airports this summer owing to EU's new digital border control system.",
+          "link": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-05T23:18:27.000Z",
+          "wordCount": 7684,
+          "title": "Three things you can do to stop EU border checks at the airport costing you",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c218/live/42cb6c30-76d7-11f1-a627-714adb4eed6e.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o#0",
+          "author": null,
+          "description": "The low-cost airline had previously rejected four takeover offers from US investment firm Castlelake.",
+          "link": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-05T17:30:55.000Z",
+          "wordCount": 6570,
+          "title": "EasyJet reaches 'agreement in principle' over potential takeover",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e030/live/4c0dc8e0-7873-11f1-ab53-3dbca6ef5ee1.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c982e3k9zw9o#0",
+          "author": null,
+          "description": "While some firms lean into their heritage, others are modernising in the face of economic pressures.",
+          "link": "https://www.bbc.co.uk/news/articles/c982e3k9zw9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-05T05:57:13.000Z",
+          "wordCount": 11331,
+          "title": "Clay, kilns and the cost of survival for tile makers",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68ba/live/b23d4a20-6fde-11f1-b763-7be8e457290d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c04yx44xq19o#0",
+          "author": null,
+          "description": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
+          "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-04T23:23:51.000Z",
+          "wordCount": 11471,
+          "title": "What Sky buying ITV could mean for your favourite shows",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7d9/live/21b014a0-779b-11f1-a02d-cbd2f4813818.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno#1",
+          "author": null,
+          "description": "Co-habiting couples in England and Wales could be given more protections if they break up under new government proposals.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-04T01:10:13.000Z",
+          "wordCount": 11552,
+          "title": "What could new rights for unmarried couples mean for your money?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f64e/live/be7ea2f0-6bbc-11f1-8e1d-bbbb1017d210.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/c39y3expgk3o#1",
           "author": null,
           "description": "The strikes, involving baggage screening staff, were due begin on Monday with the Unite union warning of \"significant delays\".",
@@ -3194,76 +3264,6 @@
           "wordCount": 4216,
           "title": "Fizzy drink cans recalled as they 'may rupture unexpectedly'",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/63c2/live/3d0d9b00-61b6-11f1-bd2b-bf85d34aede9.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/sounds/play/m002xd2f#5",
-          "author": null,
-          "description": "A new report says that 3 in 4 people are not saving enough for a moderate retirement.",
-          "link": "https://www.bbc.co.uk/sounds/play/m002xd2f?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-06T10:00:00.000Z",
-          "wordCount": 1774,
-          "title": "Consumer Fight Back",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m565dw.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cj3pkkjl4x4o#3",
-          "author": null,
-          "description": "Citizens Advice Guernsey says housing and cost of living pressures have increased demand.",
-          "link": "https://www.bbc.com/news/articles/cj3pkkjl4x4o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-06T06:25:22.000Z",
-          "wordCount": 4725,
-          "title": "Advice service demand rises amid housing crisis",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/01ae/live/56ee04b0-60c1-11f1-8eb8-b52d96f4bfea.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cwy2yq0dj58o#0",
-          "author": null,
-          "description": "The Nasdaq saw its biggest daily fall since early 2025.",
-          "link": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-05T21:38:13.000Z",
-          "wordCount": 4635,
-          "title": "US stocks slump as fears over Big Tech shake Wall Street",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eb5f/live/3a5bfce0-6124-11f1-8b8c-6d33e1d5abb6.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/sounds/play/m002x5t3#5",
-          "author": null,
-          "description": "Can the accumulation of wealth be ethical and what can we learn from Adam Smith's enquiry?",
-          "link": "https://www.bbc.co.uk/sounds/play/m002x5t3?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-05T21:00:00.000Z",
-          "wordCount": 2216,
-          "title": "Free Thinking",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m338vp.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c98r8r7dz5no#0",
-          "author": null,
-          "description": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
-          "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-05T19:36:30.000Z",
-          "wordCount": 5320,
-          "title": "Trump to meet AI leaders to discuss US investment in their companies",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5d3c/live/e9f73f00-610d-11f1-9134-bfd933b9750c.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c0525dm5le3o#1",
-          "author": null,
-          "description": "\"We are so hugely proud of everything this Derbyshire pottery has achieved,\" the company says.",
-          "link": "https://www.bbc.com/news/articles/c0525dm5le3o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-05T16:42:47.000Z",
-          "wordCount": 4393,
-          "title": "Final pieces fired at Denby as production ends",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1e87/live/b11204a0-60f8-11f1-aff4-a3db1dd61875.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cdxpx4gel1yo#0",
-          "author": null,
-          "description": "It is the third month in a row US jobs figures have beaten expectations.",
-          "link": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-05T16:02:17.000Z",
-          "wordCount": 5431,
-          "title": "Hospitality jobs boom as US prepares for World Cup",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d986/live/bdc2db70-60e4-11f1-82ca-1380a42b6773.jpg"
         }
       ]
     },
@@ -3278,6 +3278,66 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/07/05/business/media/minions-box-office-franchise.html",
+          "author": "Nicole Sperling",
+          "description": "The movie generated $36.4 million in ticket sales in North America for the holiday weekend, a 62 percent decline from 2024, the last time a “Minions” movie was in theaters.",
+          "link": "https://www.nytimes.com/2026/07/05/business/media/minions-box-office-franchise.html",
+          "publishedOn": "2026-07-05T17:51:21.000Z",
+          "wordCount": null,
+          "title": "‘Minions’ Opens at No. 1 but Falls Far Short of Earlier Films in the Franchise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html",
+          "author": "Tiffany Hsu",
+          "description": "The internet’s largest stockpile of free knowledge is under threat from MAGA, A.I. and foreign autocrats. A bibliophile ex-ambassador is here to help.",
+          "link": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html",
+          "publishedOn": "2026-07-05T16:28:27.000Z",
+          "wordCount": null,
+          "title": "Wikipedia Is Battling for the Soul of the Internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+          "author": "Benjamin Wallace",
+          "description": "A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now?",
+          "link": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+          "publishedOn": "2026-07-05T13:25:07.000Z",
+          "wordCount": null,
+          "title": "Philosophers Are the Latest Hiring Target for AI Companies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
+          "author": "Lisa Friedman",
+          "description": "The cartel’s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
+          "link": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
+          "publishedOn": "2026-07-05T12:50:45.000Z",
+          "wordCount": null,
+          "title": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html",
+          "author": "Donna Kim and Sarah Lyon",
+          "description": "Some businesses flocked to social media using A.I.-generated content, while others deployed timely digital ads designed to capitalize on the frenzy surrounding this major celebrity event.",
+          "link": "https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html",
+          "publishedOn": "2026-07-05T12:13:29.000Z",
+          "wordCount": null,
+          "title": "Taylor Swift’s Wedding Became a Marketing Moment for Brands Big and Small",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/05/business/how-to-be-underemployed.html",
+          "author": "Max Read",
+          "description": "Plus: When a nurse practitioner in gynecology needs care, should she see one of her own colleagues?",
+          "link": "https://www.nytimes.com/2026/07/05/business/how-to-be-underemployed.html",
+          "publishedOn": "2026-07-05T09:01:55.000Z",
+          "wordCount": null,
+          "title": "I Have a Light Workload and I Simply Can’t Handle It",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html",
           "author": "Eric Lipton and David Yaffe-Bellany",
@@ -6727,126 +6787,6 @@
           "wordCount": null,
           "title": "Screwworm Flies Add to Cattle Ranchers’ Woes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/06/business/media/60-minutes-nick-bilton.html",
-          "author": "Katie Robertson",
-          "description": "The tech journalist and filmmaker was a surprise choice to lead a famously combative newsroom. His first week was chaos.",
-          "link": "https://www.nytimes.com/2026/06/06/business/media/60-minutes-nick-bilton.html",
-          "publishedOn": "2026-06-06T09:02:01.000Z",
-          "wordCount": null,
-          "title": "‘60 Minutes’ Is a ‘Cage Full of Tigers.’ Can Nick Bilton Lead It?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html",
-          "author": "Jeff Sommer",
-          "description": "Executive compensation is accelerating while rank-and-file workers lag, widening the pay gap in corporate America.",
-          "link": "https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html",
-          "publishedOn": "2026-06-05T23:49:22.000Z",
-          "wordCount": null,
-          "title": "Elon Musk Dominates List of Highest Paid C.E.O.s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/05/business/media/he-man-mattel-masters-of-the-universe-barbie.html",
-          "author": "Nicole Sperling",
-          "description": "“Masters of the Universe” will test whether Mattel can cement itself as an entertainment powerhouse with a hypermasculine character from the 1980s.",
-          "link": "https://www.nytimes.com/2026/06/05/business/media/he-man-mattel-masters-of-the-universe-barbie.html",
-          "publishedOn": "2026-06-05T21:14:38.000Z",
-          "wordCount": null,
-          "title": "Can He-Man’s ‘Masters of the Universe’ Generate the Same Movie Magic as Barbie?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html",
-          "author": "Benjamin Mullin and Michael M. Grynbaum",
-          "description": "Lesley Stahl, Bill Whitaker and Jon Wertheim said on Friday in an email to the show’s staff that they had reached the decision after a period of “grieving” and frustration.",
-          "link": "https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html",
-          "publishedOn": "2026-06-05T20:31:05.000Z",
-          "wordCount": 4702,
-          "title": "’60 Minutes’ Stars Will Stay After Pelley’s Firing Because They Don’t Want Show to ‘Die’",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-cbs-mtjc/05biz-cbs-mtjc-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html",
-          "author": "Joe Rennison",
-          "description": "The S&P 500 fell more than 2.6 percent on Friday, its worst one-day drop of the year and ending nine weeks of gains.",
-          "link": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html",
-          "publishedOn": "2026-06-05T20:21:38.000Z",
-          "wordCount": null,
-          "title": "Stocks Slide as Investors See Rates Rising After Strong Jobs Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
-          "author": "Lydia DePillis",
-          "description": "Employers added 172,000 jobs in May, adding to a vigorous pace of hiring in recent months. But wage growth is not keeping up with higher prices and consumers remain pessimistic.",
-          "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
-          "publishedOn": "2026-06-05T19:53:34.000Z",
-          "wordCount": 5163,
-          "title": "U.S. Job Market Pushes Past Shocks and Strains",
-          "imageUrl": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/05/business/college-graduates-job-market.html",
-          "author": "Sydney Ember",
-          "description": "The labor market has improved, but people entering the work force are having a harder time starting careers, a dynamic that has had permanent effects in the past.",
-          "link": "https://www.nytimes.com/2026/06/05/business/college-graduates-job-market.html",
-          "publishedOn": "2026-06-05T19:04:07.000Z",
-          "wordCount": 4875,
-          "title": "A Job Market Leaving Young Graduates Behind Could Scar Them for Years",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/06/business/00grad-scarring/00grad-scarring-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html",
-          "author": "Farah Stockman",
-          "description": "Tech titans and Silicon Valley transplants changed the Columbus area, but not everyone is thrilled about the rapid transformation.",
-          "link": "https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html",
-          "publishedOn": "2026-06-05T18:22:34.000Z",
-          "wordCount": 5520,
-          "title": "Central Ohio Becomes Hub for Tech and Manufacturing",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/05/multimedia/05biz-ohio-manufacturing-promo-tmgv/05biz-ohio-manufacturing-promo-tmgv-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/business/jobs-report-economy/what-to-know-about-the-jobs-report",
-          "author": null,
-          "description": "",
-          "link": "https://www.nytimes.com/live/2026/business/jobs-report-economy/what-to-know-about-the-jobs-report",
-          "publishedOn": "2026-06-05T16:27:19.000Z",
-          "wordCount": null,
-          "title": "What to know about the report.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/video/business/100000010938226/the-lasting-cost-of-graduating-into-a-tough-job-market.html",
-          "author": "Sydney Ember, Nour Idriss and Stephanie Swart",
-          "description": "Sydney Ember, a Times business reporter, has been speaking with recent college graduates struggling to find work. She explains why starting a career in the current economy could leave lasting scars on wages and opportunities.",
-          "link": "https://www.nytimes.com/video/business/100000010938226/the-lasting-cost-of-graduating-into-a-tough-job-market.html",
-          "publishedOn": "2026-06-05T14:15:02.000Z",
-          "wordCount": 2805,
-          "title": "How the Job Market Is Leaving New Graduates Behind",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/01/arts/00vid-rv-new-graduates-still2/00vid-rv-new-graduates-still2-facebookJumbo.png?play-overlay"
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report",
-          "author": "Tony Romm",
-          "description": "The stronger-than-expected report offers President Trump a talking point for the midterms, even as it also reduces the odds that the Federal Reserve may cut rates.",
-          "link": "https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report",
-          "publishedOn": "2026-06-05T14:09:12.000Z",
-          "wordCount": null,
-          "title": "White House rejoices over strong jobs report.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html",
-          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
-          "description": "The artificial intelligence giant said a “brake pedal” was needed to protect humanity from self-improving models. The proposal could have big consequences.",
-          "link": "https://www.nytimes.com/2026/06/05/business/dealbook/anthropic-ai-nonproliferation.html",
-          "publishedOn": "2026-06-05T13:45:15.000Z",
-          "wordCount": null,
-          "title": "Anthropic’s Call for A.I. Nonproliferation",
-          "imageUrl": null
         }
       ]
     },
@@ -6855,6 +6795,146 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/stock-market-news/record-wave-of-ipo-lockup-shares-to-hit-hong-kong-market-4775510",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/record-wave-of-ipo-lockup-shares-to-hit-hong-kong-market-4775510",
+          "publishedOn": "2026-07-06T01:12:35.000Z",
+          "wordCount": null,
+          "title": "Record wave of IPO lock-up shares to hit Hong Kong market",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6500W_L.jpg",
+            "length": "111898",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6500W_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
+          "publishedOn": "2026-07-06T01:06:28.000Z",
+          "wordCount": null,
+          "title": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM640B9_L.jpg",
+            "length": "46827",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM640B9_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509",
+          "publishedOn": "2026-07-06T01:04:08.000Z",
+          "wordCount": null,
+          "title": "Anthropic plans to buy 1.4-GW Australian data centre capacity, AFR reports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/shares-edge-higher-in-asia-as-oil-dips-earnings-loom-4775508",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/shares-edge-higher-in-asia-as-oil-dips-earnings-loom-4775508",
+          "publishedOn": "2026-07-06T01:00:29.000Z",
+          "wordCount": null,
+          "title": "Shares edge higher in Asia as oil dips, earnings loom",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6502A_L.jpg",
+            "length": "87706",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6502A_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-investors-reassess-ai-trade-await-fed-minutes-4775507",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-investors-reassess-ai-trade-await-fed-minutes-4775507",
+          "publishedOn": "2026-07-06T00:54:53.000Z",
+          "wordCount": null,
+          "title": "Wall St futures rise as investors reassess AI trade, await Fed minutes",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEM310T5_M.jpg",
+            "length": "70",
+            "type": "text/html; charset=UTF-8"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/commodities-news/oil-slips-after-opec-agrees-to-raise-output-targets-4775506",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/oil-slips-after-opec-agrees-to-raise-output-targets-4775506",
+          "publishedOn": "2026-07-06T00:42:28.000Z",
+          "wordCount": null,
+          "title": "Oil slips after OPEC+ agrees to raise output targets",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6501N_L.jpg",
+            "length": "57161",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6501N_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/iran-explores-japan-oil-sales-as-buyers-seek-longer-us-waiver--reuters-4775505",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/iran-explores-japan-oil-sales-as-buyers-seek-longer-us-waiver--reuters-4775505",
+          "publishedOn": "2026-07-06T00:38:21.000Z",
+          "wordCount": null,
+          "title": "Iran explores Japan oil sales as buyers seek longer U.S. waiver - Reuters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/south-korea-starts-24hour-trading-of-dollarwon-4775504",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/south-korea-starts-24hour-trading-of-dollarwon-4775504",
+          "publishedOn": "2026-07-06T00:36:31.000Z",
+          "wordCount": null,
+          "title": "South Korea starts 24-hour trading of dollar-won",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6501D_L.jpg",
+            "length": "83439",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6501D_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave-4775503",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave-4775503",
+          "publishedOn": "2026-07-06T00:18:35.000Z",
+          "wordCount": null,
+          "title": "South Korea’s SK Hynix to launch $28 billion US listing to ride global AI wave",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6500J_L.jpg",
+            "length": "26066",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6500J_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/foxconn-q2-revenue-surges-on-ai-boost-warns-on-geopolitics-4775502",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/foxconn-q2-revenue-surges-on-ai-boost-warns-on-geopolitics-4775502",
+          "publishedOn": "2026-07-06T00:09:25.000Z",
+          "wordCount": null,
+          "title": "Foxconn Q2 revenue surges on AI boost; warns on geopolitics",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEDAE0F3_M.jpg",
+            "length": "28579",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEDAE0F3_M.jpg"
+        },
         {
           "id": "https://www.investing.com/news/economy-news/trump-putin-discuss-ukraine-iran-ahead-of-nato-summit-4775391",
           "author": "Investing.com",
@@ -10719,116 +10799,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM550K6_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-pre-14a-soliciting-material-under24014a12-for-5-june-93CH-4729511",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-pre-14a-soliciting-material-under24014a12-for-5-june-93CH-4729511",
-          "publishedOn": "2026-06-06T01:30:45.000Z",
-          "wordCount": null,
-          "title": "Form PRE 14A Soliciting Material under §240.14a-12 For: 5 June",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-144-insmed-inc-for-5-june-93CH-4729510",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-144-insmed-inc-for-5-june-93CH-4729510",
-          "publishedOn": "2026-06-06T01:30:39.000Z",
-          "wordCount": null,
-          "title": "Form 144 INSMED INC For: 5 June",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-144-shopify-inc-for-5-june-93CH-4729509",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-144-shopify-inc-for-5-june-93CH-4729509",
-          "publishedOn": "2026-06-06T01:30:34.000Z",
-          "wordCount": null,
-          "title": "Form 144 Shopify Inc. For: 5 June",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB8K0RO_M.jpg",
-            "length": "19110",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB8K0RO_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-144-nano-nuclear-energy-inc-for-5-june-93CH-4729508",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-144-nano-nuclear-energy-inc-for-5-june-93CH-4729508",
-          "publishedOn": "2026-06-06T01:30:31.000Z",
-          "wordCount": null,
-          "title": "Form 144 NANO NUCLEAR ENERGY INC. For: 5 June",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-s3-unicycive-therapeutics-inc-for-5-june-93CH-4729507",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-s3-unicycive-therapeutics-inc-for-5-june-93CH-4729507",
-          "publishedOn": "2026-06-06T01:30:28.000Z",
-          "wordCount": null,
-          "title": "Form S-3 Unicycive Therapeutics Inc For: 5 June",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-144-butterfly-network-for-5-june-93CH-4729506",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-144-butterfly-network-for-5-june-93CH-4729506",
-          "publishedOn": "2026-06-06T01:30:18.000Z",
-          "wordCount": null,
-          "title": "Form 144 Butterfly Network For: 5 June",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/us-says-iranian-drones-shot-down-near-strait-of-hormuz-as-war-tensions-persist-4729505",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/us-says-iranian-drones-shot-down-near-strait-of-hormuz-as-war-tensions-persist-4729505",
-          "publishedOn": "2026-06-06T01:28:14.000Z",
-          "wordCount": null,
-          "title": "US says Iranian drones shot down near Strait of Hormuz as war tensions persist",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/interprivate-investment-partners-v-closes-20125-million-ipo-432SI-4729504",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/interprivate-investment-partners-v-closes-20125-million-ipo-432SI-4729504",
-          "publishedOn": "2026-06-06T01:25:03.000Z",
-          "wordCount": null,
-          "title": "InterPrivate Investment Partners V closes $201.25 million IPO",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
-            "length": "13839",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-pre-14a-eagle-materials-inc-for-5-june-93CH-4729503",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-pre-14a-eagle-materials-inc-for-5-june-93CH-4729503",
-          "publishedOn": "2026-06-06T01:18:45.000Z",
-          "wordCount": null,
-          "title": "Form PRE 14A EAGLE MATERIALS INC. For: 5 June",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-144-enliven-therapeutics-for-5-june-93CH-4729502",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-144-enliven-therapeutics-for-5-june-93CH-4729502",
-          "publishedOn": "2026-06-06T01:18:40.000Z",
-          "wordCount": null,
-          "title": "Form 144 Enliven Therapeutics For: 5 June",
-          "imageUrl": null
         }
       ]
     },
@@ -15132,36 +15102,6 @@
           "publishedOn": "2026-06-07T07:48:22.000Z",
           "wordCount": null,
           "title": "AI Is Upending One of Finance’s Cushiest Jobs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1txtoq9/spacex_texas_and_the_shareholderrights_tradeoff/",
-          "author": null,
-          "description": "submitted by    /u/sayheykid24  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1txtoq9/spacex_texas_and_the_shareholderrights_tradeoff/",
-          "publishedOn": "2026-06-05T18:45:07.000Z",
-          "wordCount": null,
-          "title": "SpaceX, Texas and the shareholder-rights trade-off",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1tx2bk5/the_ai_boom_is_making_big_tech_behave_like/",
-          "author": null,
-          "description": "submitted by    /u/Ready_Ninja1921  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1tx2bk5/the_ai_boom_is_making_big_tech_behave_like/",
-          "publishedOn": "2026-06-04T22:14:09.000Z",
-          "wordCount": null,
-          "title": "The AI boom is making Big Tech behave like capital-hungry industrial firms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1twzu0b/us_needs_trillions_to_stay_ahead_of_china_in_ai/",
-          "author": null,
-          "description": "submitted by    /u/Hot-Upstairs9603  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1twzu0b/us_needs_trillions_to_stay_ahead_of_china_in_ai/",
-          "publishedOn": "2026-06-04T20:39:17.000Z",
-          "wordCount": null,
-          "title": "US Needs Trillions To Stay Ahead of China in AI Race — Blackrock CEO Points to Pensions and Retirement Savings",
           "imageUrl": null
         }
       ]
