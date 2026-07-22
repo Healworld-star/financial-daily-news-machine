@@ -2,10 +2,417 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://healworld-star.github.io/financial-daily-news-machine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T01:14:19.373Z</updated>
+    <updated>2026-07-22T01:12:55.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://healworld-star.github.io/financial-daily-news-machine/index.html"/>
     <link rel="self" href="https://healworld-star.github.io/financial-daily-news-machine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trump Plans to Impose Tariffs on Generic Drugs]]></title>
+        <id>https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html</id>
+        <link href="https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html"/>
+        <updated>2026-07-22T00:54:44.000Z</updated>
+        <summary type="html"><![CDATA[The administration has repeatedly said it will impose steep pharmaceutical tariffs but has not followed through on them.]]></summary>
+        <author>
+            <name>Rebecca Robbins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phillips 66 EVP Vanessa Sutherland sells $743,522 of common stock]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/phillips-66-evp-vanessa-sutherland-sells-743522-of-common-stock-93CH-4804510</id>
+        <link href="https://www.investing.com/news/insider-trading-news/phillips-66-evp-vanessa-sutherland-sells-743522-of-common-stock-93CH-4804510"/>
+        <updated>2026-07-22T00:46:47.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crowdstrike CEO George Kurtz sells $4.08m in company stock]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-408m-in-company-stock-93CH-4804509</id>
+        <link href="https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-408m-in-company-stock-93CH-4804509"/>
+        <updated>2026-07-22T00:46:25.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StoneX CIO Abigail Perkins sells $628k in shares at $70.43]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/stonex-cio-abigail-perkins-sells-628k-in-shares-at-7043-93CH-4804508</id>
+        <link href="https://www.investing.com/news/insider-trading-news/stonex-cio-abigail-perkins-sells-628k-in-shares-at-7043-93CH-4804508"/>
+        <updated>2026-07-22T00:46:05.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZipRecruiter EVP Amy Garefis sells $31,541 of company stock]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/ziprecruiter-evp-amy-garefis-sells-31541-of-company-stock-93CH-4804507</id>
+        <link href="https://www.investing.com/news/insider-trading-news/ziprecruiter-evp-amy-garefis-sells-31541-of-company-stock-93CH-4804507"/>
+        <updated>2026-07-22T00:46:05.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Form 4 AngioDynamics Inc For: 21 July]]></title>
+        <id>https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-21-july-93CH-4804506</id>
+        <link href="https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-21-july-93CH-4804506"/>
+        <updated>2026-07-22T00:45:25.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Form 4 AngioDynamics Inc For: 21 July]]></title>
+        <id>https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-21-july-93CH-4804505</id>
+        <link href="https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-21-july-93CH-4804505"/>
+        <updated>2026-07-22T00:45:12.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan’s exports jump in June on weak yen, AI-linked demand]]></title>
+        <id>https://www.investing.com/news/economy-news/japans-exports-jump-in-june-on-weak-yen-ailinked-demand-4804504</id>
+        <link href="https://www.investing.com/news/economy-news/japans-exports-jump-in-june-on-weak-yen-ailinked-demand-4804504"/>
+        <updated>2026-07-22T00:37:26.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tankers with Saudi crude turn back as Houthis open new front in US-Iran war]]></title>
+        <id>https://www.investing.com/news/world-news/iranian-forces-target-bahrain-and-kuwait-after-us-hits-irans-south-4802491</id>
+        <link href="https://www.investing.com/news/world-news/iranian-forces-target-bahrain-and-kuwait-after-us-hits-irans-south-4802491"/>
+        <updated>2026-07-22T00:37:12.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil prices rise slightly after US announces new round of strikes on Iran]]></title>
+        <id>https://www.investing.com/news/commodities-news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran-4804503</id>
+        <link href="https://www.investing.com/news/commodities-news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran-4804503"/>
+        <updated>2026-07-22T00:36:57.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major utilities sign Trump pledge on AI electricity costs- WSJ]]></title>
+        <id>https://www.investing.com/news/stock-market-news/major-utilities-sign-trump-pledge-on-ai-electricity-costs-wsj-93CH-4804502</id>
+        <link href="https://www.investing.com/news/stock-market-news/major-utilities-sign-trump-pledge-on-ai-electricity-costs-wsj-93CH-4804502"/>
+        <updated>2026-07-22T00:36:42.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Lifts Ban on Direct Flights to Lebanon]]></title>
+        <id>https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html</id>
+        <link href="https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html"/>
+        <updated>2026-07-22T00:23:11.000Z</updated>
+        <summary type="html"><![CDATA[The prohibition had been in place since 1985, when it was imposed in response to Hezbollah’s hijacking of TWA Flight 847.]]></summary>
+        <author>
+            <name>Karoun Demirjian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['I can't afford to turn the oven on': 7.4m households struggling to buy essentials]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cglj9685nj0o#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/cglj9685nj0o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T23:57:49.000Z</updated>
+        <summary type="html"><![CDATA[As Andy Burnham promises “breathing space” for households, millions are unable to buy items such as clothing, heating and food.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost youth jobs by cutting employers' national insurance, MPs urge]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cy45p77l3zwo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T23:17:58.000Z</updated>
+        <summary type="html"><![CDATA[A select committee says it has heard "overwhelming evidence" that rising employment costs are reducing training and job vacancies.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will AI help you do your job or replace you?]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cn7nllr4vd6o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T23:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['It's frustrating' - Canadians react to new US tariffs]]></title>
+        <id>https://www.bbc.co.uk/news/videos/c4gkl7ede49o#5</id>
+        <link href="https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T20:52:08.000Z</updated>
+        <summary type="html"><![CDATA[President Donald Trump has imposed a 50% tariff on a wide range of Canadian goods in retaliation for what he called "unequal treatment" of US products.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houthis Threaten Red Sea Blockade, Putting Oil Market at Greater Risk]]></title>
+        <id>https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html</id>
+        <link href="https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html"/>
+        <updated>2026-07-21T20:13:21.000Z</updated>
+        <summary type="html"><![CDATA[With the Strait of Hormuz effectively closed, the militant group’s threats in the Red Sea jeopardize Saudi Arabia’s main workaround for oil exports.]]></summary>
+        <author>
+            <name>Jenny Gross, Rebecca F. Elliott and Lisa Friedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review Says Gates Foundation Did Not Participate in Epstein Crimes]]></title>
+        <id>https://www.nytimes.com/2026/07/21/business/gates-foundation-epstein.html</id>
+        <link href="https://www.nytimes.com/2026/07/21/business/gates-foundation-epstein.html"/>
+        <updated>2026-07-21T19:51:48.000Z</updated>
+        <summary type="html"><![CDATA[A review by an outside law firm hired by the Gates Foundation investigated only the philanthropy and not Mr. Gates or his private office.]]></summary>
+        <author>
+            <name>Theodore Schleifer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why States Are Making It Harder to Save Money With Solar Panels]]></title>
+        <id>https://www.nytimes.com/2026/07/21/upshot/solar-panels-prices-batteries.html</id>
+        <link href="https://www.nytimes.com/2026/07/21/upshot/solar-panels-prices-batteries.html"/>
+        <updated>2026-07-21T18:27:48.000Z</updated>
+        <summary type="html"><![CDATA[The changes are costing homeowners money. But they also reflect a changing grid — and the need for home batteries.]]></summary>
+        <author>
+            <name>Francesca Paris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump: 50% tariffs response to Canada's treatment of US farmers]]></title>
+        <id>https://www.bbc.co.uk/news/videos/c3ek302pzdzo#5</id>
+        <link href="https://www.bbc.co.uk/news/videos/c3ek302pzdzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T17:27:47.000Z</updated>
+        <summary type="html"><![CDATA[This new round of duties on Canadian goods is fuelling speculation about a potential announcement of new US tariffs on countries across the world.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Escalates Canada Tariffs as Mark Carney Holds Firm]]></title>
+        <id>https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html</id>
+        <link href="https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html"/>
+        <updated>2026-07-21T17:21:51.000Z</updated>
+        <summary type="html"><![CDATA[The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.]]></summary>
+        <author>
+            <name>Matina Stevis-Gridneff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Union plans rail strikes over train safety concerns]]></title>
+        <id>https://www.bbc.co.uk/news/articles/ce3q2kpkz84o#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/ce3q2kpkz84o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T16:58:53.000Z</updated>
+        <summary type="html"><![CDATA[RMT says it has been in dispute with the rail operator since April, following the rollout of the 810 fleet.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B&M fined £2m over serious food hygiene failings at Birmingham shops]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cvgvxm1n3keo#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cvgvxm1n3keo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T16:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Mouse droppings and gnawed food are found after inspections at three stores in Birmingham.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three reasons why UK electricity prices are so high]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T16:11:14.000Z</updated>
+        <summary type="html"><![CDATA[The government has announced it will cut VAT on domestic electricity to zero but Britons still pay more for power than many other European nations.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lindt's Easter chocolate sales fall after price hike]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c74gxj937mmo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T15:37:58.000Z</updated>
+        <summary type="html"><![CDATA[The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ozempic-maker accuses rival of false advertising]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c3v0rzd2l17o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Novo Nordisk has launched legal action accusing Eli Lilly of creating "misleading" ads, a claim its rival denies.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Tech AI Spree Revives Accounting Devices That Toppled Enron]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1v2ld88/big_tech_ai_spree_revives_accounting_devices_that/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1v2ld88/big_tech_ai_spree_revives_accounting_devices_that/"/>
+        <updated>2026-07-21T15:15:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/bloomberglaw  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the internet broken?]]></title>
+        <id>https://www.bbc.co.uk/videos/c0qv07pzyepo#5</id>
+        <link href="https://www.bbc.co.uk/videos/c0qv07pzyepo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T15:10:43.000Z</updated>
+        <summary type="html"><![CDATA[75% of the world is online, and in many ways it makes all our lives better. But faced with AI slop, misinformation and toxicity, many people are asking: Is there a better way?]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VAT to be cut from household electricity bills in October]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cjwxll8jyz8o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T14:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VAT to be cut from household electricity bills in October]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cjwxll8jyz8o#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T14:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil Buyers Battered by the Iran War Energy Crisis Race to Build Buffers]]></title>
+        <id>https://www.nytimes.com/2026/07/21/business/asia-strategic-oil-reserves.html</id>
+        <link href="https://www.nytimes.com/2026/07/21/business/asia-strategic-oil-reserves.html"/>
+        <updated>2026-07-21T14:01:11.000Z</updated>
+        <summary type="html"><![CDATA[As rising fuel costs clobber their economies, the Philippines and other developing countries in Asia are pushing to build strategic petroleum reserves to cushion against future shocks.]]></summary>
+        <author>
+            <name>River Akira Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK's first sugar factory at risk of closure]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c8dnq6v5pvgo#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/c8dnq6v5pvgo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Over 100 jobs are at risk after British Sugar announced plans to shut one of its four factories.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryanair broken window may have been caused by 'foreign object']]></title>
+        <id>https://www.bbc.co.uk/news/articles/cy9wq82q1pgo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T13:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will the U.S. and China Build Walls Around A.I.?]]></title>
+        <id>https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html</id>
+        <link href="https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html"/>
+        <updated>2026-07-21T12:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Rapid advancements in Chinese artificial intelligence models reportedly have Washington and Beijing considering new ways to protect their technology sectors.]]></summary>
+        <author>
+            <name>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Ian Mount and Lauren Hirsch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK borrows less than expected in June but public finances remain a challenge]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T12:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Public finances for last month were better than expected but the UK is carrying major debt.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Illusion of Alpha: The Only Chart That Matters for the U.S. Equity Market. How the Federal Reserve replaced true price discovery with endless money printing, engineered a historic financial mirage, and guaranteed the silent destruction of your purchasing power.]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1v2gxpd/the_illusion_of_alpha_the_only_chart_that_matters/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1v2gxpd/the_illusion_of_alpha_the_only_chart_that_matters/"/>
+        <updated>2026-07-21T12:24:38.000Z</updated>
+        <summary type="html"><![CDATA[🚨 WALL STREET IS SELLING YOU A LIE. 🚨
+ They want you staring at P/E ratios, earnings calls, and moving averages. But they are hiding the fire that casts the shadows.
+ There is literally only ONE chart that dictates the modern U.S. equity market:
+ The S&P 500 divided by the Federal Reserve’s Balance Sheet.
+ 📉 Pre-2008: A wild roller coaster. True price discovery. Capital rewarded actual innovation and punished failure. 
+ 📈 Post-2008: A perfectly smooth, upward line. Complete and total correlation with the Fed's money printer.
+ Every hedge fund "genius" claiming to have generated Alpha over the last 15 years? They didn’t beat the market. They just rode a $6.5 TRILLION wave of synthetic fiat liquidity.
+ Here is the ultimate reality check: 
+ 💵 Priced in Dollars: The S&P 500 is up 6x since the Great Financial Crisis. 
+ 🥇 Priced in GOLD: The U.S. stock market is actually DOWN 19% over the last 20 years.
+ You aren't getting richer; your measuring stick is just collapsing. The central bank hasn't created prosperity—they’ve engineered the greatest wealth transfer in human history while quietly destroying your purchasing power.
+ When the next crash hits, the playbook is set: they will fire up the printers, save the nominal stock market, and sacrifice the U.S. dollar in the process.
+ Stop falling for the illusion. Wake up and look at the only chart that matters. 👇
+    submitted by    /u/sylsau  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thames Water lenders offer 'golden share' to head off nationalisation]]></title>
+        <id>https://www.bbc.co.uk/news/articles/clyv43x372wo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Czech central bank chief warns against early euro adoption]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1v2e78s/czech_central_bank_chief_warns_against_early_euro/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1v2e78s/czech_central_bank_chief_warns_against_early_euro/"/>
+        <updated>2026-07-21T10:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Czech National Bank Governor Aleš Michl has warned that adopting the euro before the country’s economy is ready could intensify inflation and weaken policymakers’ ability to respond to price pressures.
+    submitted by    /u/Tyranish40k  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minister pressed on electricity bills savings figures]]></title>
+        <id>https://www.bbc.co.uk/news/videos/c9q9709dvq9o#3</id>
+        <link href="https://www.bbc.co.uk/news/videos/c9q9709dvq9o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T08:48:18.000Z</updated>
+        <summary type="html"><![CDATA[The government says a typical home will save about £45 a year when VAT is cut from 5% to 0%.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dad facing difficult summer as food donations plunge]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cn7nl6np8r1o#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/cn7nl6np8r1o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-21T05:12:55.000Z</updated>
+        <summary type="html"><![CDATA[Food banks and community larders are warning of an uncertain future.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why is Telix Pharmaceuticals stock climbing today?]]></title>
         <id>https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-climbing-today-93CH-4801820</id>
@@ -231,6 +638,16 @@ It is reported 30%- 50% of the data centers scheduled for completion this year h
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thousands of websites taken down for illegal World Cup streams]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-20T20:08:56.000Z</updated>
+        <summary type="html"><![CDATA[More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Korea's Chip Crash - The Warning Shot Before Big Tech Earnings Week]]></title>
         <id>https://www.reddit.com/r/investing/comments/1v1vyme/koreas_chip_crash_the_warning_shot_before_big/</id>
         <link href="https://www.reddit.com/r/investing/comments/1v1vyme/koreas_chip_crash_the_warning_shot_before_big/"/>
@@ -241,6 +658,16 @@ It is reported 30%- 50% of the data centers scheduled for completion this year h
  [link]   [comments]]]></summary>
         <author>
             <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paramount and Warner Bros mega merger paused by judge]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c5ywxy41vg6o#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-07-20T19:48:13.000Z</updated>
+        <summary type="html"><![CDATA[US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.]]></summary>
+        <author>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
@@ -543,6 +970,17 @@ My current view leans bullish. It feels like one of those businesses where the m
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A brief history of Swiss banking oversight and its scandals]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1v1fe2h/a_brief_history_of_swiss_banking_oversight_and/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1v1fe2h/a_brief_history_of_swiss_banking_oversight_and/"/>
+        <updated>2026-07-20T08:16:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sudden-Ad-4281  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Daily General Discussion and Advice Thread - July 20, 2026]]></title>
         <id>https://www.reddit.com/r/investing/comments/1v1f3jq/daily_general_discussion_and_advice_thread_july/</id>
         <link href="https://www.reddit.com/r/investing/comments/1v1f3jq/daily_general_discussion_and_advice_thread_july/"/>
@@ -641,6 +1079,20 @@ Check the resources in the sidebar.
         <summary type="html"><![CDATA[Razwan Amin set up his barbers after leaving Erdington Academy and wants to help people with the cost of living.]]></summary>
         <author>
             <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moronic Monday - July 20, 2026 - Your Weekly Questions Thread]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1v1bybk/moronic_monday_july_20_2026_your_weekly_questions/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1v1bybk/moronic_monday_july_20_2026_your_weekly_questions/"/>
+        <updated>2026-07-20T05:01:12.000Z</updated>
+        <summary type="html"><![CDATA[This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.
+ Replies are expected to be constructive and civil.
+ Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
         </author>
     </entry>
     <entry>
@@ -2729,6 +3181,17 @@ I am particularly interested in hearing from people who have reviewed MRVL’s v
  [link]   [comments]]]></summary>
         <author>
             <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Fund Giants Have a New Profit Engine: Their Smaller Rivals]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1uy0dr8/hedge_fund_giants_have_a_new_profit_engine_their/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1uy0dr8/hedge_fund_giants_have_a_new_profit_engine_their/"/>
+        <updated>2026-07-16T11:40:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/bloomberg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
         </author>
     </entry>
     <entry>
@@ -14617,66 +15080,6 @@ Not suggesting news is coming.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alan Greenspan, architect of the modern American economy, dies aged 100]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cjer7x7yl12o#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/cjer7x7yl12o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-22T11:55:36.000Z</updated>
-        <summary type="html"><![CDATA[As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alan Greenspan, architect of the modern American economy, dies aged 100]]></title>
-        <id>https://www.bbc.com/news/articles/cjer7x7yl12o#0</id>
-        <link href="https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-22T11:55:36.000Z</updated>
-        <summary type="html"><![CDATA[As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South East Water announces new chief executive]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cr5jrr1n7ddo#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/cr5jrr1n7ddo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-22T11:25:06.000Z</updated>
-        <summary type="html"><![CDATA[John Halsall has previously worked for Thames Water, South West Water and Network Rail.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South East Water announces new chief executive]]></title>
-        <id>https://www.bbc.com/news/articles/cr5jrr1n7ddo#0</id>
-        <link href="https://www.bbc.com/news/articles/cr5jrr1n7ddo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-22T11:25:06.000Z</updated>
-        <summary type="html"><![CDATA[John Halsall has previously worked for Thames Water, South West Water and Network Rail.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c30yz76834yo#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/c30yz76834yo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-22T10:29:11.000Z</updated>
-        <summary type="html"><![CDATA[The airline describes the latest bid approach from Castlelake as "highly opportunistic".]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer]]></title>
-        <id>https://www.bbc.com/news/articles/c30yz76834yo#0</id>
-        <link href="https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-22T10:29:11.000Z</updated>
-        <summary type="html"><![CDATA[The airline describes the latest bid approach from Castlelake as "highly opportunistic".]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Daily General Discussion and Advice Thread - June 22, 2026]]></title>
         <id>https://www.reddit.com/r/investing/comments/1uced9u/daily_general_discussion_and_advice_thread_june/</id>
         <link href="https://www.reddit.com/r/investing/comments/1uced9u/daily_general_discussion_and_advice_thread_june/"/>
@@ -14720,20 +15123,6 @@ Check the resources in the sidebar.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moronic Monday - June 22, 2026 - Your Weekly Questions Thread]]></title>
-        <id>https://www.reddit.com/r/finance/comments/1ucbav8/moronic_monday_june_22_2026_your_weekly_questions/</id>
-        <link href="https://www.reddit.com/r/finance/comments/1ucbav8/moronic_monday_june_22_2026_your_weekly_questions/"/>
-        <updated>2026-06-22T05:01:22.000Z</updated>
-        <summary type="html"><![CDATA[This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.
- Replies are expected to be constructive and civil.
- Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.
-    submitted by    /u/AutoModerator  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Financial news and views</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HSA Investing Limits Clarification]]></title>
         <id>https://www.reddit.com/r/investing/comments/1uca530/hsa_investing_limits_clarification/</id>
         <link href="https://www.reddit.com/r/investing/comments/1uca530/hsa_investing_limits_clarification/"/>
@@ -14757,26 +15146,6 @@ Check the resources in the sidebar.
  [link]   [comments]]]></summary>
         <author>
             <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toy Story 5 scores record opening weekend for franchise]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cx2kqg958v1o#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/cx2kqg958v1o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-22T03:13:05.000Z</updated>
-        <summary type="html"><![CDATA[The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toy Story 5 scores record opening weekend for franchise]]></title>
-        <id>https://www.bbc.com/news/articles/cx2kqg958v1o#0</id>
-        <link href="https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-22T03:13:05.000Z</updated>
-        <summary type="html"><![CDATA[The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.]]></summary>
-        <author>
-            <name>BBC News</name>
         </author>
     </entry>
     <entry>
@@ -14821,116 +15190,6 @@ Check the resources in the sidebar.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US and Iran conclude high-level talks in Switzerland, mediators say]]></title>
-        <id>https://www.investing.com/news/world-news/usiran-talks-go-into-day-2-after-trump-threats-hormuz-closure-4751698</id>
-        <link href="https://www.investing.com/news/world-news/usiran-talks-go-into-day-2-after-trump-threats-hormuz-closure-4751698"/>
-        <updated>2026-06-22T01:54:26.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taiwan to stage five days of combat readiness drills]]></title>
-        <id>https://www.investing.com/news/world-news/taiwan-to-stage-five-days-of-combat-readiness-drills-4751660</id>
-        <link href="https://www.investing.com/news/world-news/taiwan-to-stage-five-days-of-combat-readiness-drills-4751660"/>
-        <updated>2026-06-22T01:48:47.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stocks rally in Asia as Iran cites progress in talks]]></title>
-        <id>https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702</id>
-        <link href="https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702"/>
-        <updated>2026-06-22T01:44:47.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping slows after Iran says it has again shut the Strait of Hormuz]]></title>
-        <id>https://www.investing.com/news/commodities-news/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz-4751688</id>
-        <link href="https://www.investing.com/news/commodities-news/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz-4751688"/>
-        <updated>2026-06-22T01:31:15.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dollar firms as cracks emerge in peace deal, pound dips on Starmer uncertainty]]></title>
-        <id>https://www.investing.com/news/economy-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty-4751707</id>
-        <link href="https://www.investing.com/news/economy-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty-4751707"/>
-        <updated>2026-06-22T01:30:57.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oil rises after Iran shuts Hormuz again, Trump threatens new attacks]]></title>
-        <id>https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687</id>
-        <link href="https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687"/>
-        <updated>2026-06-22T01:25:08.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China keeps lending benchmark LPRs unchanged for 13th month in June]]></title>
-        <id>https://www.investing.com/news/economy-news/china-keeps-lending-benchmark-lprs-unchanged-for-13th--month-in-june-4751706</id>
-        <link href="https://www.investing.com/news/economy-news/china-keeps-lending-benchmark-lprs-unchanged-for-13th--month-in-june-4751706"/>
-        <updated>2026-06-22T01:24:54.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China keeps loan prime rate unchanged for 13th straight month in June]]></title>
-        <id>https://www.investing.com/news/economic-indicators/china-keeps-loan-prime-rate-unchanged-for-13th-straight-month-in-june-4751709</id>
-        <link href="https://www.investing.com/news/economic-indicators/china-keeps-loan-prime-rate-unchanged-for-13th-straight-month-in-june-4751709"/>
-        <updated>2026-06-22T01:20:07.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic]]></title>
-        <id>https://www.investing.com/news/stock-market-news/woman-killed-1700-evacuated-in-beach-hotel-fire-in-dominican-republic-4751708</id>
-        <link href="https://www.investing.com/news/stock-market-news/woman-killed-1700-evacuated-in-beach-hotel-fire-in-dominican-republic-4751708"/>
-        <updated>2026-06-22T01:19:09.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After the fracture: how Britain’s financial industry recovered from Brexit]]></title>
-        <id>https://www.investing.com/news/economy-news/after-the-fracture-how-britains-financial-industry-recovered-from-brexit-4751657</id>
-        <link href="https://www.investing.com/news/economy-news/after-the-fracture-how-britains-financial-industry-recovered-from-brexit-4751657"/>
-        <updated>2026-06-22T01:12:29.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Germany looking again at coal-powered electricity?]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cy04ykxrj5eo#2</id>
-        <link href="https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T23:27:11.000Z</updated>
-        <summary type="html"><![CDATA[It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Germany looking again at coal-powered electricity?]]></title>
-        <id>https://www.bbc.com/news/articles/cy04ykxrj5eo#0</id>
-        <link href="https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T23:27:11.000Z</updated>
-        <summary type="html"><![CDATA[It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How does this portfolio look?]]></title>
         <id>https://www.reddit.com/r/investing/comments/1uc491l/how_does_this_portfolio_look/</id>
         <link href="https://www.reddit.com/r/investing/comments/1uc491l/how_does_this_portfolio_look/"/>
@@ -14951,66 +15210,6 @@ Check the resources in the sidebar.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fake romance to missed deliveries: How to protect yourself from three common scams]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cx2xq1vngvdo#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/cx2xq1vngvdo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T23:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Romance and investment fraud is at record levels but what can you do to prevent being caught out.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake romance to missed deliveries: How to protect yourself from three common scams]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cx2xq1vngvdo#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/cx2xq1vngvdo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T23:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Romance and investment fraud is at record levels but what can you do to prevent being caught out.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake romance to missed deliveries: How to protect yourself from three common scams]]></title>
-        <id>https://www.bbc.com/news/articles/cx2xq1vngvdo#0</id>
-        <link href="https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T23:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Romance and investment fraud is at record levels but what can you do to prevent being caught out.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake romance to missed deliveries: How to protect yourself from three common scams]]></title>
-        <id>https://www.bbc.com/news/articles/cx2xq1vngvdo#3</id>
-        <link href="https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T23:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Romance and investment fraud is at record levels but what can you do to prevent being caught out.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I couldn't sleep when I heard the last bank would close']]></title>
-        <id>https://www.bbc.co.uk/news/articles/c1ey6qy18jlo#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/c1ey6qy18jlo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T23:03:07.000Z</updated>
-        <summary type="html"><![CDATA[When 84-year-old Maggie Dodd discovered that the last remaining bank in Lochgilphead was closing, she began to panic.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I couldn't sleep when I heard the last bank would close']]></title>
-        <id>https://www.bbc.com/news/articles/c1ey6qy18jlo#1</id>
-        <link href="https://www.bbc.com/news/articles/c1ey6qy18jlo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T23:03:07.000Z</updated>
-        <summary type="html"><![CDATA[When 84-year-old Maggie Dodd discovered that the last remaining bank in Lochgilphead was closing, she began to panic.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hot Take: Gold may underperform in the next few months but is poised to up in the next few years.]]></title>
         <id>https://www.reddit.com/r/investing/comments/1uc35jp/hot_take_gold_may_underperform_in_the_next_few/</id>
         <link href="https://www.reddit.com/r/investing/comments/1uc35jp/hot_take_gold_may_underperform_in_the_next_few/"/>
@@ -15020,16 +15219,6 @@ Check the resources in the sidebar.
  Talking of reserve assets in my assesment in addition to being over bought the reason for sluggish gold performance is also that central banks simply don’t have extra money to buy reserves right now. Biggest buyers of gold, Chin…]]></summary>
         <author>
             <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oil Rises Amid Uncertainty Over Strait of Hormuz]]></title>
-        <id>https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html</id>
-        <link href="https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html"/>
-        <updated>2026-06-21T22:12:06.000Z</updated>
-        <summary type="html"><![CDATA[Modest reactions in the oil and financial markets as Iran and the U.S. met in Switzerland for a first round of talks aimed at making a temporary cease-fire permanent.]]></summary>
-        <author>
-            <name>The New York Times</name>
         </author>
     </entry>
     <entry>
@@ -15101,36 +15290,6 @@ A long-term investment horizon
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say]]></title>
-        <id>https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html</id>
-        <link href="https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html"/>
-        <updated>2026-06-21T19:49:15.000Z</updated>
-        <summary type="html"><![CDATA[The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.]]></summary>
-        <author>
-            <name>Johnny Diaz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wowcher sorry for 'unacceptable' crocodile attack email]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c17ynlek5djo#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/c17ynlek5djo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T19:12:32.000Z</updated>
-        <summary type="html"><![CDATA[The firm's marketing email appeared to reference an incident involving a toddler at a zoo.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wowcher sorry for 'unacceptable' crocodile attack email]]></title>
-        <id>https://www.bbc.com/news/articles/c17ynlek5djo#1</id>
-        <link href="https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-06-21T19:12:32.000Z</updated>
-        <summary type="html"><![CDATA[The firm's marketing email appeared to reference an incident involving a toddler at a zoo.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thesis tracking is so painful with Google Docs!]]></title>
         <id>https://www.reddit.com/r/investing/comments/1ubyga9/thesis_tracking_is_so_painful_with_google_docs/</id>
         <link href="https://www.reddit.com/r/investing/comments/1ubyga9/thesis_tracking_is_so_painful_with_google_docs/"/>
@@ -15187,16 +15346,6 @@ A long-term investment horizon
  [link]   [comments]]]></summary>
         <author>
             <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Toy Story 5’ Fuels Hollywood’s Hottest Summer Since 2019]]></title>
-        <id>https://www.nytimes.com/2026/06/21/business/media/toy-story-5-box-office-hollywood-summer.html</id>
-        <link href="https://www.nytimes.com/2026/06/21/business/media/toy-story-5-box-office-hollywood-summer.html"/>
-        <updated>2026-06-21T17:17:10.000Z</updated>
-        <summary type="html"><![CDATA[The Disney-Pixar sequel was expected to make $160 million in North America over the weekend, lifting the summer box office to $1.85 billion to date.]]></summary>
-        <author>
-            <name>Brooks Barnes</name>
         </author>
     </entry>
     <entry>
@@ -15259,16 +15408,6 @@ A long-term investment horizon
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Remote Work Has Helped a Generation of Working Parents]]></title>
-        <id>https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html</id>
-        <link href="https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html"/>
-        <updated>2026-06-21T13:50:03.000Z</updated>
-        <summary type="html"><![CDATA[Post-pandemic, a new openness to accommodating family needs has made it possible for more mothers and fathers to balance work and parenting — particularly mothers of young children.]]></summary>
-        <author>
-            <name>Claire Cain Miller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GE is sailing but I never hear about it.]]></title>
         <id>https://www.reddit.com/r/investing/comments/1ubq599/ge_is_sailing_but_i_never_hear_about_it/</id>
         <link href="https://www.reddit.com/r/investing/comments/1ubq599/ge_is_sailing_but_i_never_hear_about_it/"/>
@@ -15292,40 +15431,6 @@ A long-term investment horizon
  [link]   [comments]]]></summary>
         <author>
             <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bain Capital CLO tranche defaults in post-2008 first for Europe]]></title>
-        <id>https://www.reddit.com/r/finance/comments/1ub70h9/bain_capital_clo_tranche_defaults_in_post2008/</id>
-        <link href="https://www.reddit.com/r/finance/comments/1ub70h9/bain_capital_clo_tranche_defaults_in_post2008/"/>
-        <updated>2026-06-20T20:43:43.000Z</updated>
-        <summary type="html"><![CDATA[And so it begins...
-    submitted by    /u/KakaakoKid  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Financial news and views</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank of England holds interest rates at 3.75%]]></title>
-        <id>https://www.reddit.com/r/finance/comments/1u937y2/bank_of_england_holds_interest_rates_at_375/</id>
-        <link href="https://www.reddit.com/r/finance/comments/1u937y2/bank_of_england_holds_interest_rates_at_375/"/>
-        <updated>2026-06-18T11:03:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Alarming-Safety3200  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Financial news and views</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kevin Warsh just led his first FOMC meeting - How did he do?]]></title>
-        <id>https://www.reddit.com/r/finance/comments/1u8ixkn/kevin_warsh_just_led_his_first_fomc_meeting_how/</id>
-        <link href="https://www.reddit.com/r/finance/comments/1u8ixkn/kevin_warsh_just_led_his_first_fomc_meeting_how/"/>
-        <updated>2026-06-17T18:49:59.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/TacoTrades  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Financial news and views</name>
         </author>
     </entry>
 </feed>

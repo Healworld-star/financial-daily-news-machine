@@ -6,6 +6,196 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cglj9685nj0o#3",
+          "author": null,
+          "description": "As Andy Burnham promises “breathing space” for households, millions are unable to buy items such as clothing, heating and food.",
+          "link": "https://www.bbc.co.uk/news/articles/cglj9685nj0o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T23:57:49.000Z",
+          "wordCount": 8619,
+          "title": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a42d/live/6ae98c00-8529-11f1-8e99-5b188ca4e1b3.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo#0",
+          "author": null,
+          "description": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.",
+          "link": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T23:17:58.000Z",
+          "wordCount": 7905,
+          "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58b5/live/4a93adc0-8531-11f1-8767-6996ba4bb968.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o#0",
+          "author": null,
+          "description": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+          "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T23:04:42.000Z",
+          "wordCount": 4959,
+          "title": "Will AI help you do your job or replace you?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/280a/live/5a31cec0-8062-11f1-926f-c90d1bcfbc84.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o#5",
+          "author": null,
+          "description": "President Donald Trump has imposed a 50% tariff on a wide range of Canadian goods in retaliation for what he called \"unequal treatment\" of US products.",
+          "link": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T20:52:08.000Z",
+          "wordCount": 8833,
+          "title": "'It's frustrating' - Canadians react to new US tariffs",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f392/live/63532620-8544-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c3ek302pzdzo#5",
+          "author": null,
+          "description": "This new round of duties on Canadian goods is fuelling speculation about a potential announcement of new US tariffs on countries across the world.",
+          "link": "https://www.bbc.co.uk/news/videos/c3ek302pzdzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T17:27:47.000Z",
+          "wordCount": 8758,
+          "title": "Trump: 50% tariffs response to Canada's treatment of US farmers",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/eb9a/live/f55229c0-854b-11f1-97e0-ef2c0092e63e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ce3q2kpkz84o#1",
+          "author": null,
+          "description": "RMT says it has been in dispute with the rail operator since April, following the rollout of the 810 fleet.",
+          "link": "https://www.bbc.co.uk/news/articles/ce3q2kpkz84o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T16:58:53.000Z",
+          "wordCount": 8345,
+          "title": "Union plans rail strikes over train safety concerns",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea14/live/d39b7310-805d-11f1-a10f-077d9cf2208e.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvgvxm1n3keo#1",
+          "author": null,
+          "description": "Mouse droppings and gnawed food are found after inspections at three stores in Birmingham.",
+          "link": "https://www.bbc.co.uk/news/articles/cvgvxm1n3keo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T16:55:20.000Z",
+          "wordCount": 8687,
+          "title": "B&M fined £2m over serious food hygiene failings at Birmingham shops",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5738/live/f6a633c0-8519-11f1-bf4e-6b2bb6027b0a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo#1",
+          "author": null,
+          "description": "The government has announced it will cut VAT on domestic electricity to zero but Britons still pay more for power than many other European nations.",
+          "link": "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T16:11:14.000Z",
+          "wordCount": 7634,
+          "title": "Three reasons why UK electricity prices are so high",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aba1/live/b7c93710-8519-11f1-926f-c90d1bcfbc84.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c74gxj937mmo#0",
+          "author": null,
+          "description": "The Swiss chocolate maker adjusts its strategy in response to weaker demand after its price rises.",
+          "link": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T15:37:58.000Z",
+          "wordCount": 6751,
+          "title": "Lindt's Easter chocolate sales fall after price hike",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d419/live/28162270-8516-11f1-a08a-6d526d664753.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o#0",
+          "author": null,
+          "description": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies.",
+          "link": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T15:20:10.000Z",
+          "wordCount": 6261,
+          "title": "Ozempic-maker accuses rival of false advertising",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c4c/live/b65dcff0-8508-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/videos/c0qv07pzyepo#5",
+          "author": null,
+          "description": "75% of the world is online, and in many ways it makes all our lives better. But faced with AI slop, misinformation and toxicity, many people are asking: Is there a better way?",
+          "link": "https://www.bbc.co.uk/videos/c0qv07pzyepo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T15:10:43.000Z",
+          "wordCount": 1967,
+          "title": "Is the internet broken?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/65c9/live/a398c870-8521-11f1-b976-0b9c15b0ccfc.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o#0",
+          "author": null,
+          "description": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T14:25:22.000Z",
+          "wordCount": 9495,
+          "title": "VAT to be cut from household electricity bills in October",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c71b/live/5cd10c80-8509-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o#3",
+          "author": null,
+          "description": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+          "link": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T14:25:22.000Z",
+          "wordCount": 9495,
+          "title": "VAT to be cut from household electricity bills in October",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c71b/live/5cd10c80-8509-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c8dnq6v5pvgo#1",
+          "author": null,
+          "description": "Over 100 jobs are at risk after British Sugar announced plans to shut one of its four factories.",
+          "link": "https://www.bbc.co.uk/news/articles/c8dnq6v5pvgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T13:57:21.000Z",
+          "wordCount": 8608,
+          "title": "UK's first sugar factory at risk of closure",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0748/live/766430f0-850e-11f1-9ebc-53bc1d9d88bb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo#0",
+          "author": null,
+          "description": "Passenger Ljubisa Karović was partially sucked out of a cabin window on the Boeing aircraft.",
+          "link": "https://www.bbc.co.uk/news/articles/cy9wq82q1pgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T13:10:49.000Z",
+          "wordCount": 6043,
+          "title": "Ryanair broken window may have been caused by 'foreign object'",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cbb/live/a414ae00-8507-11f1-8b9b-a724b687bb3b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o#1",
+          "author": null,
+          "description": "Public finances for last month were better than expected but the UK is carrying major debt.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T12:36:29.000Z",
+          "wordCount": 7766,
+          "title": "UK borrows less than expected in June but public finances remain a challenge",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4658/live/758afce0-84eb-11f1-993e-3dec65835866.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/clyv43x372wo#0",
+          "author": null,
+          "description": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
+          "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T10:30:45.000Z",
+          "wordCount": 7346,
+          "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdfa/live/1dd4c4a0-84e0-11f1-8a1f-271692b35cb6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c9q9709dvq9o#3",
+          "author": null,
+          "description": "The government says a typical home will save about £45 a year when VAT is cut from 5% to 0%.",
+          "link": "https://www.bbc.co.uk/news/videos/c9q9709dvq9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T08:48:18.000Z",
+          "wordCount": 7605,
+          "title": "Minister pressed on electricity bills savings figures",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1ab0/live/b0551c50-84de-11f1-bee8-53ce494e1abc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cn7nl6np8r1o#3",
+          "author": null,
+          "description": "Food banks and community larders are warning of an uncertain future.",
+          "link": "https://www.bbc.co.uk/news/articles/cn7nl6np8r1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-21T05:12:55.000Z",
+          "wordCount": 8584,
+          "title": "Dad facing difficult summer as food donations plunge",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/749c/live/e5f112e0-8134-11f1-b525-63787292c170.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o#0",
           "author": null,
           "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
@@ -84,6 +274,26 @@
           "wordCount": 8602,
           "title": "Burnham has big ideas - but what will they cost?",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77c9/live/dd3a3380-845d-11f1-b976-0b9c15b0ccfc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o#1",
+          "author": null,
+          "description": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-20T20:08:56.000Z",
+          "wordCount": 6732,
+          "title": "Thousands of websites taken down for illegal World Cup streams",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b77/live/d269b8a0-8475-11f1-ac57-abae38e66d9e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o#1",
+          "author": null,
+          "description": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
+          "link": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-07-20T19:48:13.000Z",
+          "wordCount": 6251,
+          "title": "Paramount and Warner Bros mega merger paused by judge",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6662/live/88431510-846f-11f1-b286-f1d324aa6c22.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/ce85y9lm81no#0",
@@ -3244,186 +3454,6 @@
           "wordCount": 5841,
           "title": "Tesla crash that killed a woman under US federal investigation",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f011/live/bacfac70-6e74-11f1-af12-adba0638fbd4.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cjer7x7yl12o#1",
-          "author": null,
-          "description": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
-          "link": "https://www.bbc.co.uk/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-22T11:55:36.000Z",
-          "wordCount": 8450,
-          "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6171/live/0cbb2930-3d38-11ef-b4a6-3b1b50d91225.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cjer7x7yl12o#0",
-          "author": null,
-          "description": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
-          "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-22T11:55:36.000Z",
-          "wordCount": 8608,
-          "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6171/live/0cbb2930-3d38-11ef-b4a6-3b1b50d91225.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr5jrr1n7ddo#1",
-          "author": null,
-          "description": "John Halsall has previously worked for Thames Water, South West Water and Network Rail.",
-          "link": "https://www.bbc.co.uk/news/articles/cr5jrr1n7ddo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-22T11:25:06.000Z",
-          "wordCount": 6256,
-          "title": "South East Water announces new chief executive",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5d7/live/6d23e820-6e1e-11f1-806d-d1ff7e093f07.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cr5jrr1n7ddo#0",
-          "author": null,
-          "description": "John Halsall has previously worked for Thames Water, South West Water and Network Rail.",
-          "link": "https://www.bbc.com/news/articles/cr5jrr1n7ddo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-22T11:25:06.000Z",
-          "wordCount": 4275,
-          "title": "South East Water announces new chief executive",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e5d7/live/6d23e820-6e1e-11f1-806d-d1ff7e093f07.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c30yz76834yo#1",
-          "author": null,
-          "description": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\".",
-          "link": "https://www.bbc.co.uk/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-22T10:29:11.000Z",
-          "wordCount": 6224,
-          "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9343/live/682565d0-6e26-11f1-9fdc-51e252bb92b4.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c30yz76834yo#0",
-          "author": null,
-          "description": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\".",
-          "link": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-22T10:29:11.000Z",
-          "wordCount": 5006,
-          "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9343/live/682565d0-6e26-11f1-9fdc-51e252bb92b4.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx2kqg958v1o#1",
-          "author": null,
-          "description": "The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-22T03:13:05.000Z",
-          "wordCount": 6376,
-          "title": "Toy Story 5 scores record opening weekend for franchise",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee2c/live/b9eb0fb0-6dee-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cx2kqg958v1o#0",
-          "author": null,
-          "description": "The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.",
-          "link": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-22T03:13:05.000Z",
-          "wordCount": 5123,
-          "title": "Toy Story 5 scores record opening weekend for franchise",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ee2c/live/b9eb0fb0-6dee-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo#2",
-          "author": null,
-          "description": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
-          "link": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T23:27:11.000Z",
-          "wordCount": 8166,
-          "title": "Is Germany looking again at coal-powered electricity?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/356e/live/61e1cb60-6a33-11f1-9b8b-e9d622652531.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cy04ykxrj5eo#0",
-          "author": null,
-          "description": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
-          "link": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T23:27:11.000Z",
-          "wordCount": 6844,
-          "title": "Is Germany looking again at coal-powered electricity?",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/356e/live/61e1cb60-6a33-11f1-9b8b-e9d622652531.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx2xq1vngvdo#1",
-          "author": null,
-          "description": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T23:10:16.000Z",
-          "wordCount": 7030,
-          "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cx2xq1vngvdo#3",
-          "author": null,
-          "description": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
-          "link": "https://www.bbc.co.uk/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T23:10:16.000Z",
-          "wordCount": 7030,
-          "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cx2xq1vngvdo#0",
-          "author": null,
-          "description": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
-          "link": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T23:10:16.000Z",
-          "wordCount": 5978,
-          "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/cx2xq1vngvdo#3",
-          "author": null,
-          "description": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
-          "link": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T23:10:16.000Z",
-          "wordCount": 5978,
-          "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/48af/live/9ee49dd0-6bc8-11f1-9e68-a372ce4118b0.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c1ey6qy18jlo#1",
-          "author": null,
-          "description": "When 84-year-old Maggie Dodd discovered that the last remaining bank in Lochgilphead was closing, she began to panic.",
-          "link": "https://www.bbc.co.uk/news/articles/c1ey6qy18jlo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T23:03:07.000Z",
-          "wordCount": 9440,
-          "title": "'I couldn't sleep when I heard the last bank would close'",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebf5/live/52770160-6bcb-11f1-8546-8f19e4fe30f4.png"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c1ey6qy18jlo#1",
-          "author": null,
-          "description": "When 84-year-old Maggie Dodd discovered that the last remaining bank in Lochgilphead was closing, she began to panic.",
-          "link": "https://www.bbc.com/news/articles/c1ey6qy18jlo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T23:03:07.000Z",
-          "wordCount": 6591,
-          "title": "'I couldn't sleep when I heard the last bank would close'",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ebf5/live/52770160-6bcb-11f1-8546-8f19e4fe30f4.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c17ynlek5djo#1",
-          "author": null,
-          "description": "The firm's marketing email appeared to reference an incident involving a toddler at a zoo.",
-          "link": "https://www.bbc.co.uk/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T19:12:32.000Z",
-          "wordCount": 6953,
-          "title": "Wowcher sorry for 'unacceptable' crocodile attack email",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/278d/live/3e437660-6e00-11f1-8546-8f19e4fe30f4.jpg"
-        },
-        {
-          "id": "https://www.bbc.com/news/articles/c17ynlek5djo#1",
-          "author": null,
-          "description": "The firm's marketing email appeared to reference an incident involving a toddler at a zoo.",
-          "link": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-06-21T19:12:32.000Z",
-          "wordCount": 5667,
-          "title": "Wowcher sorry for 'unacceptable' crocodile attack email",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/278d/live/3e437660-6e00-11f1-8546-8f19e4fe30f4.jpg"
         }
       ]
     },
@@ -3438,6 +3468,86 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html",
+          "author": "Rebecca Robbins",
+          "description": "The administration has repeatedly said it will impose steep pharmaceutical tariffs but has not followed through on them.",
+          "link": "https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html",
+          "publishedOn": "2026-07-22T00:54:44.000Z",
+          "wordCount": null,
+          "title": "Trump Plans to Impose Tariffs on Generic Drugs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html",
+          "author": "Karoun Demirjian",
+          "description": "The prohibition had been in place since 1985, when it was imposed in response to Hezbollah’s hijacking of TWA Flight 847.",
+          "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html",
+          "publishedOn": "2026-07-22T00:23:11.000Z",
+          "wordCount": null,
+          "title": "Trump Lifts Ban on Direct Flights to Lebanon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html",
+          "author": "Jenny Gross, Rebecca F. Elliott and Lisa Friedman",
+          "description": "With the Strait of Hormuz effectively closed, the militant group’s threats in the Red Sea jeopardize Saudi Arabia’s main workaround for oil exports.",
+          "link": "https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html",
+          "publishedOn": "2026-07-21T20:13:21.000Z",
+          "wordCount": null,
+          "title": "Houthis Threaten Red Sea Blockade, Putting Oil Market at Greater Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/21/business/gates-foundation-epstein.html",
+          "author": "Theodore Schleifer",
+          "description": "A review by an outside law firm hired by the Gates Foundation investigated only the philanthropy and not Mr. Gates or his private office.",
+          "link": "https://www.nytimes.com/2026/07/21/business/gates-foundation-epstein.html",
+          "publishedOn": "2026-07-21T19:51:48.000Z",
+          "wordCount": null,
+          "title": "Review Says Gates Foundation Did Not Participate in Epstein Crimes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/21/upshot/solar-panels-prices-batteries.html",
+          "author": "Francesca Paris",
+          "description": "The changes are costing homeowners money. But they also reflect a changing grid — and the need for home batteries.",
+          "link": "https://www.nytimes.com/2026/07/21/upshot/solar-panels-prices-batteries.html",
+          "publishedOn": "2026-07-21T18:27:48.000Z",
+          "wordCount": null,
+          "title": "Why States Are Making It Harder to Save Money With Solar Panels",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+          "author": "Matina Stevis-Gridneff",
+          "description": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.",
+          "link": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+          "publishedOn": "2026-07-21T17:21:51.000Z",
+          "wordCount": null,
+          "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/21/business/asia-strategic-oil-reserves.html",
+          "author": "River Akira Davis",
+          "description": "As rising fuel costs clobber their economies, the Philippines and other developing countries in Asia are pushing to build strategic petroleum reserves to cushion against future shocks.",
+          "link": "https://www.nytimes.com/2026/07/21/business/asia-strategic-oil-reserves.html",
+          "publishedOn": "2026-07-21T14:01:11.000Z",
+          "wordCount": null,
+          "title": "Oil Buyers Battered by the Iran War Energy Crisis Race to Build Buffers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Ian Mount and Lauren Hirsch",
+          "description": "Rapid advancements in Chinese artificial intelligence models reportedly have Washington and Beijing considering new ways to protect their technology sectors.",
+          "link": "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html",
+          "publishedOn": "2026-07-21T12:55:39.000Z",
+          "wordCount": null,
+          "title": "Will the U.S. and China Build Walls Around A.I.?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
           "author": "Ana Swanson and Ian Austen",
@@ -6757,46 +6867,6 @@
           "wordCount": null,
           "title": "China Tightens Rare-Earth Grip on U.S. Firms, Threatening Trade Clash",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html",
-          "author": "The New York Times",
-          "description": "Modest reactions in the oil and financial markets as Iran and the U.S. met in Switzerland for a first round of talks aimed at making a temporary cease-fire permanent.",
-          "link": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html",
-          "publishedOn": "2026-06-21T22:12:06.000Z",
-          "wordCount": null,
-          "title": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
-          "author": "Johnny Diaz",
-          "description": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
-          "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
-          "publishedOn": "2026-06-21T19:49:15.000Z",
-          "wordCount": null,
-          "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/21/business/media/toy-story-5-box-office-hollywood-summer.html",
-          "author": "Brooks Barnes",
-          "description": "The Disney-Pixar sequel was expected to make $160 million in North America over the weekend, lifting the summer box office to $1.85 billion to date.",
-          "link": "https://www.nytimes.com/2026/06/21/business/media/toy-story-5-box-office-hollywood-summer.html",
-          "publishedOn": "2026-06-21T17:17:10.000Z",
-          "wordCount": null,
-          "title": "‘Toy Story 5’ Fuels Hollywood’s Hottest Summer Since 2019",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html",
-          "author": "Claire Cain Miller",
-          "description": "Post-pandemic, a new openness to accommodating family needs has made it possible for more mothers and fathers to balance work and parenting — particularly mothers of young children.",
-          "link": "https://www.nytimes.com/2026/06/21/upshot/remote-work-parents-mothers.html",
-          "publishedOn": "2026-06-21T13:50:03.000Z",
-          "wordCount": null,
-          "title": "How Remote Work Has Helped a Generation of Working Parents",
-          "imageUrl": null
         }
       ]
     },
@@ -6805,6 +6875,126 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/phillips-66-evp-vanessa-sutherland-sells-743522-of-common-stock-93CH-4804510",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/phillips-66-evp-vanessa-sutherland-sells-743522-of-common-stock-93CH-4804510",
+          "publishedOn": "2026-07-22T00:46:47.000Z",
+          "wordCount": null,
+          "title": "Phillips 66 EVP Vanessa Sutherland sells $743,522 of common stock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-408m-in-company-stock-93CH-4804509",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-408m-in-company-stock-93CH-4804509",
+          "publishedOn": "2026-07-22T00:46:25.000Z",
+          "wordCount": null,
+          "title": "Crowdstrike CEO George Kurtz sells $4.08m in company stock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/stonex-cio-abigail-perkins-sells-628k-in-shares-at-7043-93CH-4804508",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/stonex-cio-abigail-perkins-sells-628k-in-shares-at-7043-93CH-4804508",
+          "publishedOn": "2026-07-22T00:46:05.000Z",
+          "wordCount": null,
+          "title": "StoneX CIO Abigail Perkins sells $628k in shares at $70.43",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/ziprecruiter-evp-amy-garefis-sells-31541-of-company-stock-93CH-4804507",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/ziprecruiter-evp-amy-garefis-sells-31541-of-company-stock-93CH-4804507",
+          "publishedOn": "2026-07-22T00:46:05.000Z",
+          "wordCount": null,
+          "title": "ZipRecruiter EVP Amy Garefis sells $31,541 of company stock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-21-july-93CH-4804506",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-21-july-93CH-4804506",
+          "publishedOn": "2026-07-22T00:45:25.000Z",
+          "wordCount": null,
+          "title": "Form 4 AngioDynamics Inc For: 21 July",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-21-july-93CH-4804505",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-21-july-93CH-4804505",
+          "publishedOn": "2026-07-22T00:45:12.000Z",
+          "wordCount": null,
+          "title": "Form 4 AngioDynamics Inc For: 21 July",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/japans-exports-jump-in-june-on-weak-yen-ailinked-demand-4804504",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/japans-exports-jump-in-june-on-weak-yen-ailinked-demand-4804504",
+          "publishedOn": "2026-07-22T00:37:26.000Z",
+          "wordCount": null,
+          "title": "Japan’s exports jump in June on weak yen, AI-linked demand",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/JapaneseYen_M_1440047753.jpg",
+            "length": "31044",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/JapaneseYen_M_1440047753.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/world-news/iranian-forces-target-bahrain-and-kuwait-after-us-hits-irans-south-4802491",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/world-news/iranian-forces-target-bahrain-and-kuwait-after-us-hits-irans-south-4802491",
+          "publishedOn": "2026-07-22T00:37:12.000Z",
+          "wordCount": null,
+          "title": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+            "length": "23068",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/commodities-news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran-4804503",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran-4804503",
+          "publishedOn": "2026-07-22T00:36:57.000Z",
+          "wordCount": null,
+          "title": "Oil prices rise slightly after US announces new round of strikes on Iran",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB66009_M.jpg",
+            "length": "14975",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB66009_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/major-utilities-sign-trump-pledge-on-ai-electricity-costs-wsj-93CH-4804502",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/major-utilities-sign-trump-pledge-on-ai-electricity-costs-wsj-93CH-4804502",
+          "publishedOn": "2026-07-22T00:36:42.000Z",
+          "wordCount": null,
+          "title": "Major utilities sign Trump pledge on AI electricity costs- WSJ",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+            "length": "13839",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+        },
         {
           "id": "https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-climbing-today-93CH-4801820",
           "author": "Investing.com",
@@ -10864,156 +11054,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/world-news/usiran-talks-go-into-day-2-after-trump-threats-hormuz-closure-4751698",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/world-news/usiran-talks-go-into-day-2-after-trump-threats-hormuz-closure-4751698",
-          "publishedOn": "2026-06-22T01:54:26.000Z",
-          "wordCount": null,
-          "title": "US and Iran conclude high-level talks in Switzerland, mediators say",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5L00W_L.jpg",
-            "length": "33623",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5L00W_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/world-news/taiwan-to-stage-five-days-of-combat-readiness-drills-4751660",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/world-news/taiwan-to-stage-five-days-of-combat-readiness-drills-4751660",
-          "publishedOn": "2026-06-22T01:48:47.000Z",
-          "wordCount": null,
-          "title": "Taiwan to stage five days of combat readiness drills",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5K0AN_L.jpg",
-            "length": "58219",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5K0AN_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/stocks-slip-in-asia-oil-up-on-peace-doubts-4751702",
-          "publishedOn": "2026-06-22T01:44:47.000Z",
-          "wordCount": null,
-          "title": "Stocks rally in Asia as Iran cites progress in talks",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5L01X_L.jpg",
-            "length": "111548",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5L01X_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz-4751688",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/shipping-slows-after-iran-says-it-has-again-shut-the-strait-of-hormuz-4751688",
-          "publishedOn": "2026-06-22T01:31:15.000Z",
-          "wordCount": null,
-          "title": "Shipping slows after Iran says it has again shut the Strait of Hormuz",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5K0Q0_L.jpg",
-            "length": "38918",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5K0Q0_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty-4751707",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/dollar-firms-as-cracks-emerge-in-peace-deal-pound-dips-on-starmer-uncertainty-4751707",
-          "publishedOn": "2026-06-22T01:30:57.000Z",
-          "wordCount": null,
-          "title": "Dollar firms as cracks emerge in peace deal, pound dips on Starmer uncertainty",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5L03N_L.jpg",
-            "length": "59291",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5L03N_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/brent-oil-rises-more-than-1bbl-after-bumpy-start-to-usiran-peace-talks-4751687",
-          "publishedOn": "2026-06-22T01:25:08.000Z",
-          "wordCount": null,
-          "title": "Oil rises after Iran shuts Hormuz again, Trump threatens new attacks",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5K0N4_L.jpg",
-            "length": "77559",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5K0N4_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/china-keeps-lending-benchmark-lprs-unchanged-for-13th--month-in-june-4751706",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/china-keeps-lending-benchmark-lprs-unchanged-for-13th--month-in-june-4751706",
-          "publishedOn": "2026-06-22T01:24:54.000Z",
-          "wordCount": null,
-          "title": "China keeps lending benchmark LPRs unchanged for 13th month in June",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5L03D_L.jpg",
-            "length": "124751",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5L03D_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economic-indicators/china-keeps-loan-prime-rate-unchanged-for-13th-straight-month-in-june-4751709",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economic-indicators/china-keeps-loan-prime-rate-unchanged-for-13th-straight-month-in-june-4751709",
-          "publishedOn": "2026-06-22T01:20:07.000Z",
-          "wordCount": null,
-          "title": "China keeps loan prime rate unchanged for 13th straight month in June",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB7O0H7_M.jpg",
-            "length": "22091",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB7O0H7_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/woman-killed-1700-evacuated-in-beach-hotel-fire-in-dominican-republic-4751708",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/woman-killed-1700-evacuated-in-beach-hotel-fire-in-dominican-republic-4751708",
-          "publishedOn": "2026-06-22T01:19:09.000Z",
-          "wordCount": null,
-          "title": "Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5J02P_L.jpg",
-            "length": "71439",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5J02P_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/after-the-fracture-how-britains-financial-industry-recovered-from-brexit-4751657",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/after-the-fracture-how-britains-financial-industry-recovered-from-brexit-4751657",
-          "publishedOn": "2026-06-22T01:12:29.000Z",
-          "wordCount": null,
-          "title": "After the fracture: how Britain’s financial industry recovered from Brexit",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5K097_L.jpg",
-            "length": "47738",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5K097_L.jpg"
         }
       ]
     },
@@ -14390,6 +14430,66 @@
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/finance/comments/1v2ld88/big_tech_ai_spree_revives_accounting_devices_that/",
+          "author": null,
+          "description": "submitted by    /u/bloomberglaw  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1v2ld88/big_tech_ai_spree_revives_accounting_devices_that/",
+          "publishedOn": "2026-07-21T15:15:40.000Z",
+          "wordCount": null,
+          "title": "Big Tech AI Spree Revives Accounting Devices That Toppled Enron",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1v2gxpd/the_illusion_of_alpha_the_only_chart_that_matters/",
+          "author": null,
+          "description": "🚨 WALL STREET IS SELLING YOU A LIE. 🚨\n They want you staring at P/E ratios, earnings calls, and moving averages. But they are hiding the fire that casts the shadows.\n There is literally only ONE chart that dictates the modern U.S. equity market:\n The S&P 500 divided by the Federal Reserve’s Balance Sheet.\n 📉 Pre-2008: A wild roller coaster. True price discovery. Capital rewarded actual innovation and punished failure. \n 📈 Post-2008: A perfectly smooth, upward line. Complete and total correlation with the Fed's money printer.\n Every hedge fund \"genius\" claiming to have generated Alpha over the last 15 years? They didn’t beat the market. They just rode a $6.5 TRILLION wave of synthetic fiat liquidity.\n Here is the ultimate reality check: \n 💵 Priced in Dollars: The S&P 500 is up 6x since the Great Financial Crisis. \n 🥇 Priced in GOLD: The U.S. stock market is actually DOWN 19% over the last 20 years.\n You aren't getting richer; your measuring stick is just collapsing. The central bank hasn't created prosperity—they’ve engineered the greatest wealth transfer in human history while quietly destroying your purchasing power.\n When the next crash hits, the playbook is set: they will fire up the printers, save the nominal stock market, and sacrifice the U.S. dollar in the process.\n Stop falling for the illusion. Wake up and look at the only chart that matters. 👇\n    submitted by    /u/sylsau  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1v2gxpd/the_illusion_of_alpha_the_only_chart_that_matters/",
+          "publishedOn": "2026-07-21T12:24:38.000Z",
+          "wordCount": null,
+          "title": "The Illusion of Alpha: The Only Chart That Matters for the U.S. Equity Market. How the Federal Reserve replaced true price discovery with endless money printing, engineered a historic financial mirage, and guaranteed the silent destruction of your purchasing power.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1v2e78s/czech_central_bank_chief_warns_against_early_euro/",
+          "author": null,
+          "description": "Czech National Bank Governor Aleš Michl has warned that adopting the euro before the country’s economy is ready could intensify inflation and weaken policymakers’ ability to respond to price pressures.\n    submitted by    /u/Tyranish40k  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1v2e78s/czech_central_bank_chief_warns_against_early_euro/",
+          "publishedOn": "2026-07-21T10:10:52.000Z",
+          "wordCount": null,
+          "title": "Czech central bank chief warns against early euro adoption",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1v1fe2h/a_brief_history_of_swiss_banking_oversight_and/",
+          "author": null,
+          "description": "submitted by    /u/Sudden-Ad-4281  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1v1fe2h/a_brief_history_of_swiss_banking_oversight_and/",
+          "publishedOn": "2026-07-20T08:16:56.000Z",
+          "wordCount": null,
+          "title": "A brief history of Swiss banking oversight and its scandals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1v1bybk/moronic_monday_july_20_2026_your_weekly_questions/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1v1bybk/moronic_monday_july_20_2026_your_weekly_questions/",
+          "publishedOn": "2026-07-20T05:01:12.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - July 20, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1uy0dr8/hedge_fund_giants_have_a_new_profit_engine_their/",
+          "author": null,
+          "description": "submitted by    /u/bloomberg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1uy0dr8/hedge_fund_giants_have_a_new_profit_engine_their/",
+          "publishedOn": "2026-07-16T11:40:12.000Z",
+          "wordCount": null,
+          "title": "Hedge Fund Giants Have a New Profit Engine: Their Smaller Rivals",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/finance/comments/1uxbnm9/an_sec_email_address_mixup_is_causing_confusion/",
           "author": null,
           "description": "The lost art of proofreading could see a missing “s” disrupt the federal government’s controversial effort to reduce reporting requirements for public companies.\n In May, the Securities and Exchange Commission proposed a new rule that would let publicly listed companies report their financial results twice a year instead of every quarter, as is currently required. The agency asked the public to weigh in and send its feedback to rule-comment@sec.gov. But the comment inbox that the SEC lists on its own instructions page—and has printed in almost every rule proposal it has issued since at least 2019—is rule-comments@sec.gov. With an “s.” \n The comment (or…comments) period on the semiannual reporting rule closed on July 6, but the email address confusion cropped up on Monday in a letter to the commission from nonprofit investor advocate Better Markets. The letter, addressed to SEC Chairman Paul Atkins and Commissioners Hester Peirce and Mark Uyeda, said the posted email address was “incorrect,” and said the error “undoubtedly deprived some members of the public of the opportunity to express their views on an extensive, far-reaching and dramatic change to corporate reporting that upends half a century of practice.”\n How many public comments were sent to the rule-comment email, instead of the rule-comments address, is not clear. But Better Markets cited several examples of people who claimed feedback they sent to the “rule-comment” address have not appeared on the SEC website where public comments are published.\n Read more [paywall removed for Redditors]: https://fortune.com/2026/07/14/dispute-over-sec-comments-fuels-new-controversy-over-rule-to-scrap-quarterly-earnings/?utm_source=reddit/\n    submitted by    /u/fortune  \n [link]   [comments]",
@@ -14517,46 +14617,6 @@
           "publishedOn": "2026-06-29T05:01:22.000Z",
           "wordCount": null,
           "title": "Moronic Monday - June 29, 2026 - Your Weekly Questions Thread",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1ucbav8/moronic_monday_june_22_2026_your_weekly_questions/",
-          "author": null,
-          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1ucbav8/moronic_monday_june_22_2026_your_weekly_questions/",
-          "publishedOn": "2026-06-22T05:01:22.000Z",
-          "wordCount": null,
-          "title": "Moronic Monday - June 22, 2026 - Your Weekly Questions Thread",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1ub70h9/bain_capital_clo_tranche_defaults_in_post2008/",
-          "author": null,
-          "description": "And so it begins...\n    submitted by    /u/KakaakoKid  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1ub70h9/bain_capital_clo_tranche_defaults_in_post2008/",
-          "publishedOn": "2026-06-20T20:43:43.000Z",
-          "wordCount": null,
-          "title": "Bain Capital CLO tranche defaults in post-2008 first for Europe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1u937y2/bank_of_england_holds_interest_rates_at_375/",
-          "author": null,
-          "description": "submitted by    /u/Alarming-Safety3200  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1u937y2/bank_of_england_holds_interest_rates_at_375/",
-          "publishedOn": "2026-06-18T11:03:46.000Z",
-          "wordCount": null,
-          "title": "Bank of England holds interest rates at 3.75%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1u8ixkn/kevin_warsh_just_led_his_first_fomc_meeting_how/",
-          "author": null,
-          "description": "submitted by    /u/TacoTrades  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1u8ixkn/kevin_warsh_just_led_his_first_fomc_meeting_how/",
-          "publishedOn": "2026-06-17T18:49:59.000Z",
-          "wordCount": null,
-          "title": "Kevin Warsh just led his first FOMC meeting - How did he do?",
           "imageUrl": null
         }
       ]
