@@ -6,6 +6,106 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o#0",
+          "author": null,
+          "description": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
+          "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T00:17:48.000Z",
+          "wordCount": 7947,
+          "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1d80/live/478d5910-8f99-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o#0",
+          "author": null,
+          "description": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+          "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T23:34:13.000Z",
+          "wordCount": 6730,
+          "title": "Half price rail travel extended to 18-year-olds",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6b7/live/f96ea650-8f50-11f1-99e6-95543b07d23d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c872r52x7jgo#0",
+          "author": null,
+          "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+          "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T23:21:10.000Z",
+          "wordCount": 7917,
+          "title": "Tokenomics: Why making AI pay is tricky",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo#0",
+          "author": null,
+          "description": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
+          "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T23:20:15.000Z",
+          "wordCount": 9661,
+          "title": "What heatwaves mean for summer weddings – and how to plan for one",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e18d/live/f9161720-8f31-11f1-ac89-5b80aa0a0820.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o#0",
+          "author": null,
+          "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+          "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T15:57:27.000Z",
+          "wordCount": 7977,
+          "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cwympl4021lo#5",
+          "author": null,
+          "description": "The former department store closed in 2016.",
+          "link": "https://www.bbc.co.uk/news/videos/cwympl4021lo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T15:15:48.000Z",
+          "wordCount": 6395,
+          "title": "Derelict former BHS site a 'continuing nightmare'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/62e7/live/8151e370-8f4c-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo#0",
+          "author": null,
+          "description": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T11:49:41.000Z",
+          "wordCount": 8852,
+          "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42db/live/1194f890-8e8b-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o#1",
+          "author": null,
+          "description": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T11:18:10.000Z",
+          "wordCount": 6652,
+          "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77a2/live/784485e0-8f23-11f1-b5a8-c9ccaae98ebb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo#1",
+          "author": null,
+          "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T07:30:52.000Z",
+          "wordCount": 6843,
+          "title": "US and Japan take action to prop up yen in rare joint move",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3w052le2elo#1",
+          "author": null,
+          "description": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+          "link": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-03T04:10:16.000Z",
+          "wordCount": 6428,
+          "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcb2/live/d2005950-8f06-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo#0",
           "author": null,
           "description": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
@@ -3454,26 +3554,6 @@
           "wordCount": 6570,
           "title": "EasyJet reaches 'agreement in principle' over potential takeover",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e030/live/4c0dc8e0-7873-11f1-ab53-3dbca6ef5ee1.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c982e3k9zw9o#0",
-          "author": null,
-          "description": "While some firms lean into their heritage, others are modernising in the face of economic pressures.",
-          "link": "https://www.bbc.co.uk/news/articles/c982e3k9zw9o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-05T05:57:13.000Z",
-          "wordCount": 11331,
-          "title": "Clay, kilns and the cost of survival for tile makers",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68ba/live/b23d4a20-6fde-11f1-b763-7be8e457290d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c04yx44xq19o#0",
-          "author": null,
-          "description": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels.",
-          "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-04T23:23:51.000Z",
-          "wordCount": 11471,
-          "title": "What Sky buying ITV could mean for your favourite shows",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7d9/live/21b014a0-779b-11f1-a02d-cbd2f4813818.png"
         }
       ]
     },
@@ -3488,6 +3568,86 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
+          "author": "Andrew Duehren",
+          "description": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S.",
+          "link": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
+          "publishedOn": "2026-08-03T23:02:29.000Z",
+          "wordCount": null,
+          "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/03/business/student-loans-borrower-defense.html",
+          "author": "Stacy Cowley",
+          "description": "The sprawling case, centered on students defrauded by for-profit schools, has now become the largest class-action settlement in American history.",
+          "link": "https://www.nytimes.com/2026/08/03/business/student-loans-borrower-defense.html",
+          "publishedOn": "2026-08-03T21:24:03.000Z",
+          "wordCount": 7052,
+          "title": "Education Dept. to Wipe Out Student Loans of 170,000 More Defrauded Borrowers",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/03/business/03biz-student-loans/03biz-student-loans-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+          "author": "Lydia DePillis",
+          "description": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
+          "link": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+          "publishedOn": "2026-08-03T18:56:22.000Z",
+          "wordCount": 7699,
+          "title": "What Are Companies Getting for All That A.I. Spending?",
+          "imageUrl": "https://static01.nyt.com/images/2026/07/30/business/00token-economics/00token-economics-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/03/business/boeing-737-max.html",
+          "author": "Niraj Chokshi",
+          "description": "After years of delays, the Federal Aviation Administration has certified the Boeing 737 Max 7, the smallest version of the company’s best-selling plane.",
+          "link": "https://www.nytimes.com/2026/08/03/business/boeing-737-max.html",
+          "publishedOn": "2026-08-03T18:05:26.000Z",
+          "wordCount": 6411,
+          "title": "Boeing’s Smallest 737 Jet Wins F.A.A. Approval",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/03/multimedia/biz-boeing-faa-pmhq/biz-boeing-faa-pmhq-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+          "author": "Eshe Nelson",
+          "description": "The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.",
+          "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+          "publishedOn": "2026-08-03T15:42:08.000Z",
+          "wordCount": 7312,
+          "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/03/multimedia/2026-biz-august-promos-index/2026-biz-august-promos-index-facebookJumbo.png"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+          "author": "Ryan Mac",
+          "description": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
+          "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+          "publishedOn": "2026-08-03T15:10:56.000Z",
+          "wordCount": 7312,
+          "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/04/business/00spacex-lockup/00spacex-lockup-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/03/business/media/sharyn-alfonsi-scott-pelley-columbia-journalism-school.html",
+          "author": "Benjamin Mullin",
+          "description": "Sharyn Alfonsi and Scott Pelley, who exited the show after clashing with executives at CBS News, will teach reporting skills.",
+          "link": "https://www.nytimes.com/2026/08/03/business/media/sharyn-alfonsi-scott-pelley-columbia-journalism-school.html",
+          "publishedOn": "2026-08-03T15:07:38.000Z",
+          "wordCount": 6456,
+          "title": "Former ’60 Minutes’ Correspondents Sharyn Alfonsi, Scott Pelley Will Teach At Columbia",
+          "imageUrl": "https://static01.nyt.com/images/2025/08/03/business/03biz-alfonsi-grid/00biz-alfonsi-grid-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+          "description": "Bullish investors are out in force on Monday despite more mixed messages about potential U.S.-Iran peace talks.",
+          "link": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
+          "publishedOn": "2026-08-03T12:27:00.000Z",
+          "wordCount": 8270,
+          "title": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/03/multimedia/03db-trump-vcgz/03db-trump-vcgz-facebookJumbo.jpg"
+        },
         {
           "id": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
           "author": "Joe Rennison and Kiuko Notoya",
@@ -7007,36 +7167,6 @@
           "wordCount": null,
           "title": "Philosophers Are the Latest Hiring Target for AI Companies",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
-          "author": "Lisa Friedman",
-          "description": "The cartel’s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
-          "link": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
-          "publishedOn": "2026-07-05T12:50:45.000Z",
-          "wordCount": null,
-          "title": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html",
-          "author": "Donna Kim and Sarah Lyon",
-          "description": "Some businesses flocked to social media using A.I.-generated content, while others deployed timely digital ads designed to capitalize on the frenzy surrounding this major celebrity event.",
-          "link": "https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html",
-          "publishedOn": "2026-07-05T12:13:29.000Z",
-          "wordCount": null,
-          "title": "Taylor Swift’s Wedding Became a Marketing Moment for Brands Big and Small",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/05/business/how-to-be-underemployed.html",
-          "author": "Max Read",
-          "description": "Plus: When a nurse practitioner in gynecology needs care, should she see one of her own colleagues?",
-          "link": "https://www.nytimes.com/2026/07/05/business/how-to-be-underemployed.html",
-          "publishedOn": "2026-07-05T09:01:55.000Z",
-          "wordCount": null,
-          "title": "I Have a Light Workload and I Simply Can’t Handle It",
-          "imageUrl": null
         }
       ]
     },
@@ -7045,6 +7175,116 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-sells-692k-in-shares-93CH-4832670",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-sells-692k-in-shares-93CH-4832670",
+          "publishedOn": "2026-08-04T01:01:35.000Z",
+          "wordCount": null,
+          "title": "Kestra Medical Technologies CEO sells $692k in shares",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/cactus-chairman--ceo-scott-bender-sells-499m-in-shares-93CH-4832669",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/cactus-chairman--ceo-scott-bender-sells-499m-in-shares-93CH-4832669",
+          "publishedOn": "2026-08-04T01:01:05.000Z",
+          "wordCount": null,
+          "title": "Cactus chairman & CEO Scott Bender sells $4.99m in shares",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/cactus-inc-president-joel-bender-sells-499m-in-stock-93CH-4832668",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/cactus-inc-president-joel-bender-sells-499m-in-stock-93CH-4832668",
+          "publishedOn": "2026-08-04T01:01:02.000Z",
+          "wordCount": null,
+          "title": "Cactus Inc. president Joel Bender sells $4.99m in stock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/grab-q2-2026-slides-ebitda-surges-54-as-profitability-accelerates-93CH-4832667",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/grab-q2-2026-slides-ebitda-surges-54-as-profitability-accelerates-93CH-4832667",
+          "publishedOn": "2026-08-04T01:00:51.000Z",
+          "wordCount": null,
+          "title": "Grab Q2 2026 slides: EBITDA surges 54% as profitability accelerates",
+          "enclosure": {
+            "url": "https://csv-storage.forexpros.com/slides/dec6a6b14d39dcc8dc3155afa8ce4a65ebe83ce13235cd35df8ef31fe7a41f94.png",
+            "length": "327584",
+            "type": "image/png"
+          },
+          "imageUrl": "https://csv-storage.forexpros.com/slides/dec6a6b14d39dcc8dc3155afa8ce4a65ebe83ce13235cd35df8ef31fe7a41f94.png"
+        },
+        {
+          "id": "https://www.investing.com/news/filings/form-4-lb-pharmaceuticals-inc-for-3-august-93CH-4832666",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-4-lb-pharmaceuticals-inc-for-3-august-93CH-4832666",
+          "publishedOn": "2026-08-04T01:00:39.000Z",
+          "wordCount": null,
+          "title": "Form 4 LB Pharmaceuticals Inc For: 3 August",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/filings/form-4-clear-secure-inc-for-3-august-93CH-4832665",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-4-clear-secure-inc-for-3-august-93CH-4832665",
+          "publishedOn": "2026-08-04T01:00:30.000Z",
+          "wordCount": null,
+          "title": "Form 4 Clear Secure Inc For: 3 August",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/filings/form-4-constellium-se-for-3-august-93CH-4832664",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-4-constellium-se-for-3-august-93CH-4832664",
+          "publishedOn": "2026-08-04T01:00:29.000Z",
+          "wordCount": null,
+          "title": "Form 4 CONSTELLIUM SE For: 3 August",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/filings/form-4-clear-secure-inc-for-3-august-93CH-4832663",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-4-clear-secure-inc-for-3-august-93CH-4832663",
+          "publishedOn": "2026-08-04T01:00:17.000Z",
+          "wordCount": null,
+          "title": "Form 4 Clear Secure Inc For: 3 August",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/filings/form-4-cavco-industries-inc-for-3-august-93CH-4832662",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/filings/form-4-cavco-industries-inc-for-3-august-93CH-4832662",
+          "publishedOn": "2026-08-04T01:00:10.000Z",
+          "wordCount": null,
+          "title": "Form 4 Cavco Industries Inc For: 3 August",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/cqe-fy-2026-slides-portfolio-pivot-drives-13-earnings-growth-93CH-4832660",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/cqe-fy-2026-slides-portfolio-pivot-drives-13-earnings-growth-93CH-4832660",
+          "publishedOn": "2026-08-04T00:59:04.000Z",
+          "wordCount": null,
+          "title": "CQE FY 2026 slides: portfolio pivot drives 13% earnings growth",
+          "enclosure": {
+            "url": "https://csv-storage.forexpros.com/slides/867e782a8997455eb4c4a4475314e6f5a9f9c35eaf6de4443ed5172078e2f5d8.png",
+            "length": "184421",
+            "type": "image/png"
+          },
+          "imageUrl": "https://csv-storage.forexpros.com/slides/867e782a8997455eb4c4a4475314e6f5a9f9c35eaf6de4443ed5172078e2f5d8.png"
+        },
         {
           "id": "https://www.investing.com/news/forex-news/yen-leaps-after-intervention-leaving-the-dollar-bruised-4829737",
           "author": "Reuters",
@@ -10974,141 +11214,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEDAE0F3_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/trump-putin-discuss-ukraine-iran-ahead-of-nato-summit-4775391",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/trump-putin-discuss-ukraine-iran-ahead-of-nato-summit-4775391",
-          "publishedOn": "2026-07-05T01:08:04.000Z",
-          "wordCount": null,
-          "title": "Trump, Putin discuss Ukraine, Iran ahead of NATO summit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/politics-news/trump-to-mark-us-250th-anniversary-with-campaignstyle-rally-on-national-mall-4775359",
-          "publishedOn": "2026-07-05T00:42:24.000Z",
-          "wordCount": null,
-          "title": "Storms threaten Trump rally to mark U.S. 250th anniversary in Washington",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6309C_L.jpg",
-            "length": "79709",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6309C_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/north-koreas-kim-oversees-cruise-missile-launch-from-new-naval-destroyer-4775390",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/north-koreas-kim-oversees-cruise-missile-launch-from-new-naval-destroyer-4775390",
-          "publishedOn": "2026-07-05T00:28:06.000Z",
-          "wordCount": null,
-          "title": "North Korea’s Kim oversees cruise missile launch from new naval destroyer",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXMPED3N0FO_M.jpg",
-            "length": "38977",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPED3N0FO_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/vance-says-britain-needs-political-change-pledges-support-for-next-pm-4775389",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/vance-says-britain-needs-political-change-pledges-support-for-next-pm-4775389",
-          "publishedOn": "2026-07-04T23:45:23.000Z",
-          "wordCount": null,
-          "title": "Vance says Britain needs political change, pledges support for next PM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/world-news/death-toll-from-venezuela-quakes-rises-to-2954-4775382",
-          "publishedOn": "2026-07-04T23:42:28.000Z",
-          "wordCount": null,
-          "title": "As Venezuela death toll rises, survivor recounts days beneath the rubble",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM630N2_L.jpg",
-            "length": "123521",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM630N2_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/trump-administration-proposes-702-regulatory-rollbacks-in-deregulatory-push-4775388",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/trump-administration-proposes-702-regulatory-rollbacks-in-deregulatory-push-4775388",
-          "publishedOn": "2026-07-04T23:01:40.000Z",
-          "wordCount": null,
-          "title": "Trump administration proposes 702 regulatory rollbacks in deregulatory push",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/world-news/trump-offered-over-phone-to-help-putin-find-deal-with-ukraine-kremlin-aide-says-4775387",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/world-news/trump-offered-over-phone-to-help-putin-find-deal-with-ukraine-kremlin-aide-says-4775387",
-          "publishedOn": "2026-07-04T22:54:51.000Z",
-          "wordCount": null,
-          "title": "Trump offered over phone to help Putin find deal with Ukraine, Kremlin aide says",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM630Q1_L.jpg",
-            "length": "44151",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM630Q1_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/world-news/paul-pelosi-faces-hitandrun-charge-after-striking-parked-vehicle-in-california-media-reports-say-4775385",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/world-news/paul-pelosi-faces-hitandrun-charge-after-striking-parked-vehicle-in-california-media-reports-say-4775385",
-          "publishedOn": "2026-07-04T22:54:28.000Z",
-          "wordCount": null,
-          "title": "Paul Pelosi faces hit-and-run charge after striking parked vehicle in California, law enforcement says",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM630OO_L.jpg",
-            "length": "39420",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM630OO_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/world-news/north-koreas-kim-observed-naval-destroyer-cruise-missile-launch-weapons-tests-state-media-says-4775386",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/world-news/north-koreas-kim-observed-naval-destroyer-cruise-missile-launch-weapons-tests-state-media-says-4775386",
-          "publishedOn": "2026-07-04T22:06:26.000Z",
-          "wordCount": null,
-          "title": "North Korea’s Kim observed naval destroyer cruise missile launch, weapons tests, state media says",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM630PA_L.jpg",
-            "length": "62256",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM630PA_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4775384",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4775384",
-          "publishedOn": "2026-07-04T21:20:03.000Z",
-          "wordCount": null,
-          "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXNPEC602WR_M.jpg",
-            "length": "14168",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEC602WR_M.jpg"
         }
       ]
     },
@@ -14164,6 +14269,36 @@
       "feedUrl": "https://www.reddit.com/r/finance/.rss",
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1veume4/capital_one_closed_trump_bank_accounts/",
+          "author": null,
+          "description": "submitted by    /u/Livid_Independent135  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1veume4/capital_one_closed_trump_bank_accounts/",
+          "publishedOn": "2026-08-04T00:14:12.000Z",
+          "wordCount": null,
+          "title": "Capital One closed Trump bank accounts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1ve3ver/moronic_monday_august_03_2026_your_weekly/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1ve3ver/moronic_monday_august_03_2026_your_weekly/",
+          "publishedOn": "2026-08-03T05:01:31.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - August 03, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1vdufa9/college_degree_yields_910_over_a_persons_lifetime/",
+          "author": null,
+          "description": "submitted by    /u/Helpful-Door-8721  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1vdufa9/college_degree_yields_910_over_a_persons_lifetime/",
+          "publishedOn": "2026-08-02T21:40:08.000Z",
+          "wordCount": null,
+          "title": "College Degree Yields 9-10% Over a Person's Lifetime. The S&P 500 Yields the Same.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/finance/comments/1vc7tor/reddit_q2_2026_incredible_earnings_but_one_issue/",
           "author": null,
