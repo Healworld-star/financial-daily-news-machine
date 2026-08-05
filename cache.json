@@ -6,6 +6,196 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo#0",
+          "author": null,
+          "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-05T01:05:21.000Z",
+          "wordCount": 7854,
+          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e55/live/0e092f10-9012-11f1-aabc-c3c7aa714117.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go#0",
+          "author": null,
+          "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-05T00:02:18.000Z",
+          "wordCount": 6637,
+          "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c62enveg1dpo#0",
+          "author": null,
+          "description": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+          "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T23:21:47.000Z",
+          "wordCount": 8343,
+          "title": "Could tech replace firefighters in the battle against wildfires?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f7b/live/9039ecc0-8f10-11f1-a7ab-8b30adf0800a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo#0",
+          "author": null,
+          "description": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+          "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T23:21:08.000Z",
+          "wordCount": 9304,
+          "title": "The cost of being single – and how friends are teaming up to beat it",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfc3/live/a1894040-7ad7-11f1-81e2-67653cf46e84.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo#3",
+          "author": null,
+          "description": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+          "link": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T23:21:08.000Z",
+          "wordCount": 9304,
+          "title": "The cost of being single – and how friends are teaming up to beat it",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfc3/live/a1894040-7ad7-11f1-81e2-67653cf46e84.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cly843vd3jmo#0",
+          "author": null,
+          "description": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
+          "link": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T23:20:12.000Z",
+          "wordCount": 6726,
+          "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/542f/live/f6658220-905a-11f1-a14e-21a96dfbd328.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjejyl34345o#0",
+          "author": null,
+          "description": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+          "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T23:09:44.000Z",
+          "wordCount": 8799,
+          "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cgr7nxve05go#0",
+          "author": null,
+          "description": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+          "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T22:10:00.000Z",
+          "wordCount": 8867,
+          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d916/live/b72ddec0-8648-11f1-a268-d919c0699520.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx2dn0p5zlyo#3",
+          "author": null,
+          "description": "Sirius Academy West in Hull is giving parents the chance to make sure uniforms conform in advance.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2dn0p5zlyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T16:57:28.000Z",
+          "wordCount": 7822,
+          "title": "Green means go for uniform ahead of new school year",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c84/live/f9a79d50-9024-11f1-b783-f784376ffc11.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cre4x0qdr3jo#5",
+          "author": null,
+          "description": "Tomos Morgan visits farm in Vale of Glamorgan to explain how the hot and dry spell affects crops.",
+          "link": "https://www.bbc.co.uk/news/videos/cre4x0qdr3jo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T14:12:08.000Z",
+          "wordCount": 6608,
+          "title": "How the dry weather affects your supermarket shop",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4017/live/64895620-900e-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo#1",
+          "author": null,
+          "description": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T13:53:41.000Z",
+          "wordCount": 8206,
+          "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8b7/live/86169830-8fe0-11f1-bb3b-43bf44dc94d9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o#1",
+          "author": null,
+          "description": "An application to stop the two-runway operation is rejected, with judges calling it \"unarguable\".",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T12:25:34.000Z",
+          "wordCount": 6984,
+          "title": "Campaigners denied appeal over Gatwick expansion",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb50/live/cdbdae10-8fec-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo#1",
+          "author": null,
+          "description": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
+          "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T10:22:40.000Z",
+          "wordCount": 7404,
+          "title": "Apple issues new challenge against UK order for access to private user data",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d2c/live/4e052df0-8fde-11f1-a999-eb18d79411a9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o#1",
+          "author": null,
+          "description": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
+          "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T10:07:05.000Z",
+          "wordCount": 6800,
+          "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d288/live/6e9f5aa0-8ff6-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo#1",
+          "author": null,
+          "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T09:08:40.000Z",
+          "wordCount": 7350,
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5d5/live/ea554540-8fb7-11f1-a7ab-8b30adf0800a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cp879d2n3yno#1",
+          "author": null,
+          "description": "As temperatures rise, the chillers might not be the only thing supermarkets are adjusting.",
+          "link": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T05:46:25.000Z",
+          "wordCount": 9041,
+          "title": "Could heatwaves make your food shop more expensive?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d489/live/d8a062c0-8f63-11f1-8659-31d8ca04a20f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cp879d2n3yno#3",
+          "author": null,
+          "description": "As temperatures rise, the chillers might not be the only thing supermarkets are adjusting.",
+          "link": "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T05:46:25.000Z",
+          "wordCount": 9041,
+          "title": "Could heatwaves make your food shop more expensive?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d489/live/d8a062c0-8f63-11f1-8659-31d8ca04a20f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c0l57w8ne92o#3",
+          "author": null,
+          "description": "A drop in customers caused by the recent heatwave has increased financial pressures for the owner.",
+          "link": "https://www.bbc.co.uk/news/articles/c0l57w8ne92o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T05:14:34.000Z",
+          "wordCount": 7672,
+          "title": "Horror bookshop in fight to stay open amid cost rises",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4037/live/2c27bf30-8f3f-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sounds/play/w3ct8h1h#5",
+          "author": null,
+          "description": "How amid the tents and the rubble Gaza is developing once again as an unlikely tech hub",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8h1h?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-04T02:00:00.000Z",
+          "wordCount": 7601,
+          "title": "Assignment",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p182ft.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o#0",
           "author": null,
           "description": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
@@ -3484,76 +3674,6 @@
           "wordCount": 7992,
           "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/519d/live/2e5fcf80-7933-11f1-a627-714adb4eed6e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/videos/c872254pj4vo#5",
-          "author": null,
-          "description": "Shoppers hit by hidden fees",
-          "link": "https://www.bbc.co.uk/videos/c872254pj4vo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-06T10:30:54.000Z",
-          "wordCount": 1551,
-          "title": "Shoppers hit by hidden fees",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/108b/live/2ac8f580-7925-11f1-a627-714adb4eed6e.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c4gy4g2npk4o#3",
-          "author": null,
-          "description": "Rubis and ATF Fuels both say they expect to see prices fall further in time.",
-          "link": "https://www.bbc.co.uk/news/articles/c4gy4g2npk4o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-06T05:09:19.000Z",
-          "wordCount": 6678,
-          "title": "Fuel providers hopeful of more price reductions",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08dd/live/ea9de8a0-76ed-11f1-a691-bbfab7f76614.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwykk095yzzo#1",
-          "author": null,
-          "description": "A court in China ruled that Molly Tea had infringed on the luxury brand's four-petal flower design.",
-          "link": "https://www.bbc.co.uk/news/articles/cwykk095yzzo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-06T02:19:25.000Z",
-          "wordCount": 6666,
-          "title": "Backlash after China bubble tea firm ordered to pay Louis Vuitton $1.5m",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/178e/live/55854630-78d9-11f1-973f-bf9fc4805cda.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo#0",
-          "author": null,
-          "description": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
-          "link": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-06T00:06:42.000Z",
-          "wordCount": 8717,
-          "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95e1/live/42e75270-76f4-11f1-b976-0b9c15b0ccfc.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o#0",
-          "author": null,
-          "description": "Queues are expected at airports this summer owing to EU's new digital border control system.",
-          "link": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-05T23:18:27.000Z",
-          "wordCount": 7684,
-          "title": "Three things you can do to stop EU border checks at the airport costing you",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c218/live/42cb6c30-76d7-11f1-a627-714adb4eed6e.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o#3",
-          "author": null,
-          "description": "Queues are expected at airports this summer owing to EU's new digital border control system.",
-          "link": "https://www.bbc.co.uk/news/articles/cg4w39gvdw1o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-05T23:18:27.000Z",
-          "wordCount": 7684,
-          "title": "Three things you can do to stop EU border checks at the airport costing you",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c218/live/42cb6c30-76d7-11f1-a627-714adb4eed6e.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o#0",
-          "author": null,
-          "description": "The low-cost airline had previously rejected four takeover offers from US investment firm Castlelake.",
-          "link": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-05T17:30:55.000Z",
-          "wordCount": 6570,
-          "title": "EasyJet reaches 'agreement in principle' over potential takeover",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e030/live/4c0dc8e0-7873-11f1-ab53-3dbca6ef5ee1.jpg"
         }
       ]
     },
@@ -3568,6 +3688,226 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/08/04/us/chipotle-salmonella-outbreak-jalapenos-minnesota.html",
+          "author": "Alena Cerro",
+          "description": "The Minnesota Department of Health said it had identified 110 salmonella cases in this outbreak, and the F.D.A. is also investigating.",
+          "link": "https://www.nytimes.com/2026/08/04/us/chipotle-salmonella-outbreak-jalapenos-minnesota.html",
+          "publishedOn": "2026-08-05T00:02:23.000Z",
+          "wordCount": null,
+          "title": "Chipotle Removes Jalapeños Linked to Salmonella Outbreak From Its Restaurants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+          "author": "Ryan Mac",
+          "description": "Elon Musk’s rocket company said its capital expenditures jumped nearly seven times from a year ago. Revenue also rose.",
+          "link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+          "publishedOn": "2026-08-04T22:52:45.000Z",
+          "wordCount": null,
+          "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
+          "author": "Joe Rennison and Aruni Soni",
+          "description": "The S&P 500 rose 1.8 percent, pushing past its previous peak at the start of June and capping a big turnaround from a recent sell off in technology stocks.",
+          "link": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
+          "publishedOn": "2026-08-04T22:05:37.000Z",
+          "wordCount": null,
+          "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html",
+          "author": "Claire Brown",
+          "description": "The funds have been frozen since early in President Trump’s second term.",
+          "link": "https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html",
+          "publishedOn": "2026-08-04T20:58:30.000Z",
+          "wordCount": null,
+          "title": "Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/media/paramount-warner-bros-trial-march.html",
+          "author": "Benjamin Mullin",
+          "description": "Paramount, which struck a $111 billion deal to acquire Warner Bros., had requested a November trial for an antitrust lawsuit brought by state attorneys general.",
+          "link": "https://www.nytimes.com/2026/08/04/business/media/paramount-warner-bros-trial-march.html",
+          "publishedOn": "2026-08-04T20:47:59.000Z",
+          "wordCount": null,
+          "title": "Judge Sets Paramount-Warner Bros. Merger Trial for March",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/health/autism-therapy-medicaid.html",
+          "author": "Sarah Kliff",
+          "description": "The program’s spending on the therapy has quintupled since 2021, far outstripping the growth in diagnoses and raising concerns about overprescribing and fraud.",
+          "link": "https://www.nytimes.com/2026/08/04/health/autism-therapy-medicaid.html",
+          "publishedOn": "2026-08-04T20:31:15.000Z",
+          "wordCount": null,
+          "title": "Medicaid Urges States to Increase Autism Therapy Oversight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
+          "author": "Jenny Gross and Peter Eavis",
+          "description": "Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months.",
+          "link": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
+          "publishedOn": "2026-08-04T20:28:52.000Z",
+          "wordCount": null,
+          "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/health/skin-substitutes-medicare-fraud.html",
+          "author": "Sarah Kliff",
+          "description": "Dr. Stephen Dubin, a wound care doctor in Nevada, is accused of applying unneeded, expensive wound coverings to seniors. He used the profits to buy yachts, the department said.",
+          "link": "https://www.nytimes.com/2026/08/04/health/skin-substitutes-medicare-fraud.html",
+          "publishedOn": "2026-08-04T20:10:14.000Z",
+          "wordCount": null,
+          "title": "Justice Dept. Charges Doctor in $95 Million Skin Substitute Fraud Scheme",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html",
+          "author": "Colby Smith",
+          "description": "After his latest appearance set off a bout of volatility, Kevin M. Warsh, the chairman of the Federal Reserve, is under pressure to clear up mixed signals about his commitment to getting inflation down.",
+          "link": "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html",
+          "publishedOn": "2026-08-04T20:08:07.000Z",
+          "wordCount": null,
+          "title": "Warsh Wanted ‘Regime Change.’ A Reset Might Need to Come First.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html",
+          "author": "The New York Times",
+          "description": "The price of oil fell sharply on hopes that talks were progressing on reopening the Strait of Hormuz.",
+          "link": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html",
+          "publishedOn": "2026-08-04T20:07:53.000Z",
+          "wordCount": null,
+          "title": "Stocks Rally as Investors Grow Hopeful About a Hormuz Deal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html",
+          "author": "Kim Bhasin and Shawn Hubler",
+          "description": "Rick Caruso, the billionaire real estate developer and former Los Angeles mayoral candidate, is reviving a property still surrounded by burned-out lots.",
+          "link": "https://www.nytimes.com/2026/08/04/business/palisades-mall-wildfires.html",
+          "publishedOn": "2026-08-04T19:46:03.000Z",
+          "wordCount": null,
+          "title": "Pacific Palisades Shopping Center Set to Reopen Following Palisades Fire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
+          "author": "Victor Mather",
+          "description": "Nathan Owen called the police, saying he was trapped in a runaway car. A judge determined it was a lie and sentenced him to more than four years in prison.",
+          "link": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
+          "publishedOn": "2026-08-04T17:12:58.000Z",
+          "wordCount": null,
+          "title": "Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/travel/tsa-security-airport-wait-time.html",
+          "author": "Christine Chung",
+          "description": "U.S. airlines and airports are experimenting with initiatives that screen passengers and their bags more efficiently in an effort to slash wait times.",
+          "link": "https://www.nytimes.com/2026/08/04/travel/tsa-security-airport-wait-time.html",
+          "publishedOn": "2026-08-04T16:45:44.000Z",
+          "wordCount": null,
+          "title": "These New Travel Initiatives Could Slash Airport Wait Times",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/mcdonalds-earnings-consumers-inflation.html",
+          "author": "Julie Creswell",
+          "description": "The fast-food giant replaced its president of U.S. operations, aiming to bring “focus and urgency” to a revamp of its outlets.",
+          "link": "https://www.nytimes.com/2026/08/04/business/mcdonalds-earnings-consumers-inflation.html",
+          "publishedOn": "2026-08-04T15:56:40.000Z",
+          "wordCount": null,
+          "title": "McDonald’s U.S. Sales Slow as Diners Spend More Cautiously",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html",
+          "author": "Ana Swanson",
+          "description": "Imports and exports both declined, retreating from a busy month in May, data from the Commerce Department showed.",
+          "link": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html",
+          "publishedOn": "2026-08-04T15:49:32.000Z",
+          "wordCount": null,
+          "title": "U.S. Trade Deficit Dips in June Along With ‘World Cup Effect’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+          "description": "Booming corporate profits are driving the S&P 500 near another record, dampening concerns about the war, inflation and more.",
+          "link": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html",
+          "publishedOn": "2026-08-04T15:19:56.000Z",
+          "wordCount": null,
+          "title": "Why Wall Street Is Feeling So Bullish",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+          "author": "Kenneth Chang",
+          "description": "The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.",
+          "link": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+          "publishedOn": "2026-08-04T14:44:08.000Z",
+          "wordCount": null,
+          "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html",
+          "author": "Emily Steel",
+          "description": "The ride-hailing giant promised to handle legal claims “in a way that is best for the survivor.” Its lawyers are pursuing a far more aggressive strategy.",
+          "link": "https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html",
+          "publishedOn": "2026-08-04T14:34:48.000Z",
+          "wordCount": null,
+          "title": "Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html",
+          "author": "Alan Rappeport",
+          "description": "Coordinated intervention allowed Japan to support its currency without selling off its U.S. debt holdings.",
+          "link": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html",
+          "publishedOn": "2026-08-04T13:55:25.000Z",
+          "wordCount": null,
+          "title": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/world/asia/mohegan-south-korea-casino-bain.html",
+          "author": "John Yoon and Jun Michael Park",
+          "description": "Inspire Entertainment Resort — an alternative to Macau, the world’s gambling capital — was supposed to be a “transformational” project for the Native American tribe.",
+          "link": "https://www.nytimes.com/2026/08/04/world/asia/mohegan-south-korea-casino-bain.html",
+          "publishedOn": "2026-08-04T11:17:51.000Z",
+          "wordCount": null,
+          "title": "How the Mohegan Tribe Lost a Billion-Dollar Casino in South Korea",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html",
+          "author": "Lisa Friedman",
+          "description": "Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.",
+          "link": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html",
+          "publishedOn": "2026-08-04T10:18:51.000Z",
+          "wordCount": null,
+          "title": "Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/video/business/100000011021856/uber-sexual-assault-lawsuits.html",
+          "author": "Emily Steel, Christina Shaman, June Kim, James Surdam and Lauren Pruitt",
+          "description": "Our investigative reporter Emily Steel reviewed about a dozen lawsuits against Uber by riders who say they were sexually assaulted or harassed during their rides. They reveal the aggressive tactics Uber’s lawyers are taking as part of their defense strategy.",
+          "link": "https://www.nytimes.com/video/business/100000011021856/uber-sexual-assault-lawsuits.html",
+          "publishedOn": "2026-08-04T10:17:29.000Z",
+          "wordCount": null,
+          "title": "Inside Uber’s Legal Strategy to Fight Sexual Assault Lawsuits",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
           "author": "Andrew Duehren",
@@ -7117,56 +7457,6 @@
           "wordCount": 5764,
           "title": "Comcast Adds Heft With Sky’s Deal for British Broadcaster ITV",
           "imageUrl": "https://static01.nyt.com/images/2026/07/06/multimedia/06biz-uk-media1-qjmt/06biz-uk-media1-qjmt-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/06/business/zyn-nicotine-pouches-tobacco.html",
-          "author": "Murray Carpenter",
-          "description": "The makers of nicotine pouches are building new plants and expanding to meet demand. While influencers claim health benefits, experts warn the products can be highly addictive.",
-          "link": "https://www.nytimes.com/2026/07/06/business/zyn-nicotine-pouches-tobacco.html",
-          "publishedOn": "2026-07-06T09:01:34.000Z",
-          "wordCount": 7506,
-          "title": "Zyn’s Popularity Has Tobacco Companies Racing to Cash In",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/03/multimedia/00ZYN-FACTORIES-1-zqjk/00ZYN-FACTORIES-1-zqjk-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/06/business/china-europe-nuctech.html",
-          "author": "Alexandra Stevenson and Murphy Zhao",
-          "description": "Nuctech’s rise from a Chinese state-backed start-up to a global border-security supplier has made it a lightning rod in trade and subsidy disputes.",
-          "link": "https://www.nytimes.com/2026/07/06/business/china-europe-nuctech.html",
-          "publishedOn": "2026-07-06T09:00:42.000Z",
-          "wordCount": 7186,
-          "title": "The Chinese Company That Could Start a Trade War With Europe",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/01/multimedia/Biz-China-EU-Showdown-01-bqkt/Biz-China-EU-Showdown-01-bqkt-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/05/business/media/minions-box-office-franchise.html",
-          "author": "Nicole Sperling",
-          "description": "The movie generated $36.4 million in ticket sales in North America for the holiday weekend, a 62 percent decline from 2024, the last time a “Minions” movie was in theaters.",
-          "link": "https://www.nytimes.com/2026/07/05/business/media/minions-box-office-franchise.html",
-          "publishedOn": "2026-07-05T17:51:21.000Z",
-          "wordCount": null,
-          "title": "‘Minions’ Opens at No. 1 but Falls Far Short of Earlier Films in the Franchise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html",
-          "author": "Tiffany Hsu",
-          "description": "The internet’s largest stockpile of free knowledge is under threat from MAGA, A.I. and foreign autocrats. A bibliophile ex-ambassador is here to help.",
-          "link": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html",
-          "publishedOn": "2026-07-05T16:28:27.000Z",
-          "wordCount": null,
-          "title": "Wikipedia Is Battling for the Soul of the Internet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
-          "author": "Benjamin Wallace",
-          "description": "A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now?",
-          "link": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
-          "publishedOn": "2026-07-05T13:25:07.000Z",
-          "wordCount": null,
-          "title": "Philosophers Are the Latest Hiring Target for AI Companies",
-          "imageUrl": null
         }
       ]
     },
@@ -7175,6 +7465,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/stock-market-news/spacexs-mobile-ambitions-jolt-us-telecom-market-analysts-debate-threat-4836311",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/spacexs-mobile-ambitions-jolt-us-telecom-market-analysts-debate-threat-4836311",
+          "publishedOn": "2026-08-05T00:54:33.000Z",
+          "wordCount": null,
+          "title": "SpaceX’s mobile ambitions jolt US telecom market, analysts debate threat",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEA6S0OV_M.jpg",
+            "length": "21003",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEA6S0OV_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/bessent-says-he-is-sure-boj-chief-ueda-will-do-what-is-best-nhk-reports-4836144",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/bessent-says-he-is-sure-boj-chief-ueda-will-do-what-is-best-nhk-reports-4836144",
+          "publishedOn": "2026-08-05T00:49:10.000Z",
+          "wordCount": null,
+          "title": "Bessent says he is sure BOJ chief Ueda will ’do what is best’, NHK reports",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/JapaneseYen_M_1440047753.jpg",
+            "length": "31044",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/JapaneseYen_M_1440047753.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/openai-anthropic-ai-agents-implicated-in-new-security-breaches-4836308",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/openai-anthropic-ai-agents-implicated-in-new-security-breaches-4836308",
+          "publishedOn": "2026-08-05T00:48:27.000Z",
+          "wordCount": null,
+          "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEM3Q0RF_1200_L.jpg",
+            "length": "192776",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEM3Q0RF_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economic-indicators/japans-services-growth-slows-amid-cost-pressures-pmi-shows-4836307",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economic-indicators/japans-services-growth-slows-amid-cost-pressures-pmi-shows-4836307",
+          "publishedOn": "2026-08-05T00:42:47.000Z",
+          "wordCount": null,
+          "title": "Japan’s services growth slows amid cost pressures, PMI shows",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg",
+            "length": "32019",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/exclusivesysco-has-stopped-buying-iceberg-lettuce-from-taylor-farms-and-mexico-amid-us-cyclosporiasis-outbreak-ceo-says-4835925",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/exclusivesysco-has-stopped-buying-iceberg-lettuce-from-taylor-farms-and-mexico-amid-us-cyclosporiasis-outbreak-ceo-says-4835925",
+          "publishedOn": "2026-08-05T00:42:25.000Z",
+          "wordCount": null,
+          "title": "Exclusive-Sysco has stopped buying iceberg lettuce from Mexico amid US cyclosporiasis outbreak, CEO says",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+            "length": "17251",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business-4835745",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business-4835745",
+          "publishedOn": "2026-08-05T00:36:46.000Z",
+          "wordCount": null,
+          "title": "SpaceX revenue jumps in debut results as satellite, AI businesses surge",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/tesla_x_M_1440050319.jpg",
+            "length": "23727",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/tesla_x_M_1440050319.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/light--wonder-q2-2026-slides-margins-expand-as-recurring-revenue-hits-70-93CH-4836305",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/light--wonder-q2-2026-slides-margins-expand-as-recurring-revenue-hits-70-93CH-4836305",
+          "publishedOn": "2026-08-05T00:35:32.000Z",
+          "wordCount": null,
+          "title": "Light & Wonder Q2 2026 slides: margins expand as recurring revenue hits 70%",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEM451IK_1200_L.jpg",
+            "length": "80999",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEM451IK_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/prudential-financial-earnings-beat-by-069-revenue-topped-estimates-4836303",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/prudential-financial-earnings-beat-by-069-revenue-topped-estimates-4836303",
+          "publishedOn": "2026-08-05T00:29:26.000Z",
+          "wordCount": null,
+          "title": "Prudential Financial earnings beat by $0.69, revenue topped estimates",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+            "length": "150078",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/palomar-earnings-beat-by-016-revenue-topped-estimates-4836302",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/palomar-earnings-beat-by-016-revenue-topped-estimates-4836302",
+          "publishedOn": "2026-08-05T00:29:25.000Z",
+          "wordCount": null,
+          "title": "Palomar earnings beat by $0.16, revenue topped estimates",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg",
+            "length": "19139",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/voya-financial-inc-earnings-missed-by-046-revenue-fell-short-of-estimates-4836301",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/voya-financial-inc-earnings-missed-by-046-revenue-fell-short-of-estimates-4836301",
+          "publishedOn": "2026-08-05T00:29:17.000Z",
+          "wordCount": null,
+          "title": "Voya Financial Inc earnings missed by $0.46, revenue fell short of estimates",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg",
+            "length": "14821",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg"
+        },
         {
           "id": "https://www.investing.com/news/insider-trading-news/kestra-medical-technologies-ceo-sells-692k-in-shares-93CH-4832670",
           "author": "Investing.com",
@@ -11074,146 +11514,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/record-wave-of-ipo-lockup-shares-to-hit-hong-kong-market-4775510",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/record-wave-of-ipo-lockup-shares-to-hit-hong-kong-market-4775510",
-          "publishedOn": "2026-07-06T01:12:35.000Z",
-          "wordCount": null,
-          "title": "Record wave of IPO lock-up shares to hit Hong Kong market",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6500W_L.jpg",
-            "length": "111898",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6500W_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/general-news/soccerus-striker-balogun-available-for-belgium-clash-despite-red-card-4775485",
-          "publishedOn": "2026-07-06T01:06:28.000Z",
-          "wordCount": null,
-          "title": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM640B9_L.jpg",
-            "length": "46827",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM640B9_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-buy-14gw-australian-data-centre-capacity-afr-reports-4775509",
-          "publishedOn": "2026-07-06T01:04:08.000Z",
-          "wordCount": null,
-          "title": "Anthropic plans to buy 1.4-GW Australian data centre capacity, AFR reports",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/shares-edge-higher-in-asia-as-oil-dips-earnings-loom-4775508",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/shares-edge-higher-in-asia-as-oil-dips-earnings-loom-4775508",
-          "publishedOn": "2026-07-06T01:00:29.000Z",
-          "wordCount": null,
-          "title": "Shares edge higher in Asia as oil dips, earnings loom",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6502A_L.jpg",
-            "length": "87706",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6502A_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-investors-reassess-ai-trade-await-fed-minutes-4775507",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-investors-reassess-ai-trade-await-fed-minutes-4775507",
-          "publishedOn": "2026-07-06T00:54:53.000Z",
-          "wordCount": null,
-          "title": "Wall St futures rise as investors reassess AI trade, await Fed minutes",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXMPEM310T5_M.jpg",
-            "length": "70",
-            "type": "text/html; charset=UTF-8"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/oil-slips-after-opec-agrees-to-raise-output-targets-4775506",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/oil-slips-after-opec-agrees-to-raise-output-targets-4775506",
-          "publishedOn": "2026-07-06T00:42:28.000Z",
-          "wordCount": null,
-          "title": "Oil slips after OPEC+ agrees to raise output targets",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6501N_L.jpg",
-            "length": "57161",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6501N_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/world-news/iran-explores-japan-oil-sales-as-buyers-seek-longer-us-waiver--reuters-4775505",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/world-news/iran-explores-japan-oil-sales-as-buyers-seek-longer-us-waiver--reuters-4775505",
-          "publishedOn": "2026-07-06T00:38:21.000Z",
-          "wordCount": null,
-          "title": "Iran explores Japan oil sales as buyers seek longer U.S. waiver - Reuters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/south-korea-starts-24hour-trading-of-dollarwon-4775504",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/south-korea-starts-24hour-trading-of-dollarwon-4775504",
-          "publishedOn": "2026-07-06T00:36:31.000Z",
-          "wordCount": null,
-          "title": "South Korea starts 24-hour trading of dollar-won",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6501D_L.jpg",
-            "length": "83439",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6501D_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave-4775503",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/south-koreas-sk-hynix-to-launch-28-billion-us-listing-to-ride-global-ai-wave-4775503",
-          "publishedOn": "2026-07-06T00:18:35.000Z",
-          "wordCount": null,
-          "title": "South Korea’s SK Hynix to launch $28 billion US listing to ride global AI wave",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6500J_L.jpg",
-            "length": "26066",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6500J_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/foxconn-q2-revenue-surges-on-ai-boost-warns-on-geopolitics-4775502",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/foxconn-q2-revenue-surges-on-ai-boost-warns-on-geopolitics-4775502",
-          "publishedOn": "2026-07-06T00:09:25.000Z",
-          "wordCount": null,
-          "title": "Foxconn Q2 revenue surges on AI boost; warns on geopolitics",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXMPEDAE0F3_M.jpg",
-            "length": "28579",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEDAE0F3_M.jpg"
         }
       ]
     },
@@ -14270,6 +14570,36 @@
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/finance/comments/1vfnz01/raise_rates_warshs_conundrums/",
+          "author": null,
+          "description": "submitted by    /u/HooverInstitution  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1vfnz01/raise_rates_warshs_conundrums/",
+          "publishedOn": "2026-08-04T21:42:13.000Z",
+          "wordCount": null,
+          "title": "Raise rates? Warsh's conundrums",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1vfmcn5/kevin_warsh_told_wall_street_hed_be_sharing/",
+          "author": null,
+          "description": "Fed Chairman Kevin Warsh has been clear: The central bank has gotten too comfortable sharing its expectations for the path of monetary policy, and believes its policy decisions have been hamstrung as a result. Wall Street is now blasting its response: Dialing back communications will be tolerated, a perceived void of information will not be.\n The boomerang Fed policymaker (Warsh served on the Board of Governors from 2006 to 2011 under his mentor, chairman Ben Bernanke) has been consistent in his criticism of forward guidance—the practice of publicly sharing expectations of where short-term interest rates will go.\n During a press conference following the meeting of the Federal Open Market Committee (FOMC) last week, Warsh built on his thinking. In reducing forward guidance, he said, market prices can respond to economic data “in the direction and magnitude they see fit.” This ultimately benefits the Fed, he suggested: “The central bank need not always and everywhere be the center of attention … For our part, we need to observe market reaction to developments, direct and unfiltered.” \n If reaction is welcome, markets delivered: Long-dated bonds spiked after Warsh’s statement and remain elevated, while two-year Treasuries slumped, reflecting expectations that the Fed would not be tightening financial conditions. The response from investors wasn’t necessarily in reaction to what Warsh did or didn’t say, J.P. Morgan’s Alex Wolf told Fortune, it was a reflection of newfound uncertainty. \n Read more [paywall removed for Redditors]: https://fortune.com/2026/08/04/kevin-warsh-forward-guidance-goldman-sachs-wall-street-framework-inflation/?utm_source=reddit/\n    submitted by    /u/fortune  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1vfmcn5/kevin_warsh_told_wall_street_hed_be_sharing/",
+          "publishedOn": "2026-08-04T20:40:46.000Z",
+          "wordCount": null,
+          "title": "Kevin Warsh told Wall Street he’d be sharing less—Goldman Sachs fears a void of Fed facts will only amplify misinformation and instability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1vfk5wg/senate_democrats_say_banks_turned_blind_eye_to/",
+          "author": null,
+          "description": "submitted by    /u/Atlantee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1vfk5wg/senate_democrats_say_banks_turned_blind_eye_to/",
+          "publishedOn": "2026-08-04T19:21:08.000Z",
+          "wordCount": null,
+          "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein | A report from Senate Democrats says big U.S. banks had concerns for years about money moves made by Jeffrey Epstein — but largely kept those worries to themselves until after Epstein was arrested on sex-trafficking",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/finance/comments/1veume4/capital_one_closed_trump_bank_accounts/",
           "author": null,
           "description": "submitted by    /u/Livid_Independent135  \n [link]   [comments]",
@@ -14547,26 +14877,6 @@
           "publishedOn": "2026-07-06T15:51:36.000Z",
           "wordCount": null,
           "title": "After a nearly 800% explosion, this AI stock's U.S. debut could signal if the market can still boom—or is headed for a bust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1uosgpj/the_us_is_relearning_an_old_lesson_about_dollar/",
-          "author": null,
-          "description": "submitted by    /u/wreckingcru  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1uosgpj/the_us_is_relearning_an_old_lesson_about_dollar/",
-          "publishedOn": "2026-07-06T09:32:47.000Z",
-          "wordCount": null,
-          "title": "The US Is Relearning an Old Lesson About Dollar Dominance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1uonrwp/moronic_monday_july_06_2026_your_weekly_questions/",
-          "author": null,
-          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1uonrwp/moronic_monday_july_06_2026_your_weekly_questions/",
-          "publishedOn": "2026-07-06T05:01:21.000Z",
-          "wordCount": null,
-          "title": "Moronic Monday - July 06, 2026 - Your Weekly Questions Thread",
           "imageUrl": null
         }
       ]
