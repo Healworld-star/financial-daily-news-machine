@@ -6,6 +6,186 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cdrvn686dljo#0",
+          "author": null,
+          "description": "The move aims to counter Chinese producers, which hold a monopoly in the global polysilicon production.",
+          "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-07T01:03:35.000Z",
+          "wordCount": 6566,
+          "title": "Trump imposes 15% tariff on key chip material to counter China",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo#0",
+          "author": null,
+          "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-07T00:54:03.000Z",
+          "wordCount": 7653,
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo#0",
+          "author": null,
+          "description": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T23:04:40.000Z",
+          "wordCount": 7430,
+          "title": "Why airlines are warning over lithium-ion batteries",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o#0",
+          "author": null,
+          "description": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+          "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T23:03:48.000Z",
+          "wordCount": 7288,
+          "title": "Argos is getting a makeover - but can it attract new shoppers?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b55/live/2f63f710-91b3-11f1-af4d-5164294a85c7.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo#0",
+          "author": null,
+          "description": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out.",
+          "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T16:35:32.000Z",
+          "wordCount": 6905,
+          "title": "EasyJet agrees to £5.7bn takeover by US firm",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ef0/live/b3519660-91b6-11f1-a7ab-8b30adf0800a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cp30989ee1wo#0",
+          "author": null,
+          "description": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
+          "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T15:59:34.000Z",
+          "wordCount": 8689,
+          "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19c4/live/1e741d30-91aa-11f1-9c12-47c0acd34ba6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o#0",
+          "author": null,
+          "description": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T14:50:54.000Z",
+          "wordCount": 7479,
+          "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1c4/live/1885b310-91a6-11f1-b8ee-9b3c26ad07bb.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx2dp10gpndo#3",
+          "author": null,
+          "description": "The cost of parking at Medway Maritime Hospital has increased while shift wages have reduced by 20%.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2dp10gpndo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T14:19:25.000Z",
+          "wordCount": 6565,
+          "title": "Hospital staff work in pubs to balance cost pressure",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f7ed/live/2b53e9b0-918a-11f1-8e84-2d20095c7a4b.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo#1",
+          "author": null,
+          "description": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+          "link": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T12:34:42.000Z",
+          "wordCount": 7193,
+          "title": "Owner of bike maker Raleigh files for insolvency",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afa1/live/08c11160-915e-11f1-a8f1-774cbc5e1a9f.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cj639rx147eo#1",
+          "author": null,
+          "description": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
+          "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T11:06:26.000Z",
+          "wordCount": 9248,
+          "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2dba/live/96af7fb0-916e-11f1-b8ee-9b3c26ad07bb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cyvl8y141e4o#1",
+          "author": null,
+          "description": "Are AI recruitment tools disadvantaging women who are seeking to return to the workplace?",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl8y141e4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T09:42:17.000Z",
+          "wordCount": 11302,
+          "title": "'I've had to Botox my CV': Are AI recruitment tools affecting women's careers?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06f4/live/02ae7840-916c-11f1-8d49-afb9c19de776.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c1d1z376k4ko#1",
+          "author": null,
+          "description": "People aged between 18 and 23 may have thousands in unclaimed government accounts.",
+          "link": "https://www.bbc.co.uk/news/articles/c1d1z376k4ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T09:10:03.000Z",
+          "wordCount": 7217,
+          "title": "Thousands of young people missing out on money they don't know about",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/021e/live/2b9ca290-9176-11f1-b59e-3d7a9337129d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o#1",
+          "author": null,
+          "description": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges.",
+          "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T08:18:02.000Z",
+          "wordCount": 6560,
+          "title": "Air India's new CEO faces financial and safety turbulence",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95f6/live/d3e4e5b0-9154-11f1-a649-9747aa0331f7.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po#1",
+          "author": null,
+          "description": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T05:53:58.000Z",
+          "wordCount": 6573,
+          "title": "Meta becomes latest firm to say its AI hacked another company",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c141vjlyjgko#1",
+          "author": null,
+          "description": "Growers in the West of England search for new crops to grow in a changing climate.",
+          "link": "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T05:19:40.000Z",
+          "wordCount": 9170,
+          "title": "Winemakers prosper but veg farms wilt in the drought",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81de/live/87127c20-90d7-11f1-a5b9-331adf7bef90.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5yzd45jl50o#3",
+          "author": null,
+          "description": "Growing numbers of people are swapping mortgages for moorings amid the cost of living crisis.",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzd45jl50o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T05:09:04.000Z",
+          "wordCount": 9573,
+          "title": "The homeowners selling up for a life on the water",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b61/live/f4e45560-90d3-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c70g98jge40o#3",
+          "author": null,
+          "description": "The Community Cupboard offers used school uniform in West Kingsdown and Swanley, Kent.",
+          "link": "https://www.bbc.co.uk/news/articles/c70g98jge40o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T04:53:07.000Z",
+          "wordCount": 7802,
+          "title": "Uniform bank now helping working families",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d35a/live/c727fe30-90ea-11f1-9d9d-b9b73beaa905.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cgewxjez8dyo#3",
+          "author": null,
+          "description": "The authority will consider who should deliver the holiday activity and meal scheme going forward.",
+          "link": "https://www.bbc.co.uk/news/articles/cgewxjez8dyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-06T04:16:00.000Z",
+          "wordCount": 7674,
+          "title": "Bid to extend holiday food and activities programme",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5efd/live/fca41aa0-9701-11f0-a296-7d79931be7e0.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo#0",
           "author": null,
           "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
@@ -3494,176 +3674,6 @@
           "wordCount": 8236,
           "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fecf/live/40016180-7ace-11f1-a130-2b898c796aa9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/videos/ckg8dx51er4o#5",
-          "author": null,
-          "description": "How to find lost bank accounts",
-          "link": "https://www.bbc.co.uk/videos/ckg8dx51er4o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T13:13:37.000Z",
-          "wordCount": 1567,
-          "title": "How to find lost bank accounts",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a728/live/a61a0210-7ace-11f1-bee8-53ce494e1abc.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/czj8l83zzgxo#1",
-          "author": null,
-          "description": "The water firm took \"genuine accountability\" after breaching wastewater obligations, Ofwat says.",
-          "link": "https://www.bbc.co.uk/news/articles/czj8l83zzgxo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T13:10:33.000Z",
-          "wordCount": 8896,
-          "title": "Severn Trent avoids fine for wastewater failures",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5ba/live/517624d0-7ac1-11f1-b541-536d253827b8.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o#1",
-          "author": null,
-          "description": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
-          "link": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T12:59:00.000Z",
-          "wordCount": 7671,
-          "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87a6/live/7dc56660-7ac9-11f1-b541-536d253827b8.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo#1",
-          "author": null,
-          "description": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
-          "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T12:28:03.000Z",
-          "wordCount": 7399,
-          "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fa5/live/3d76fa30-7adb-11f1-bee8-53ce494e1abc.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o#0",
-          "author": null,
-          "description": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
-          "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T11:24:05.000Z",
-          "wordCount": 9331,
-          "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fac/live/fce6af60-7ab2-11f1-9510-1546718f668b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo#1",
-          "author": null,
-          "description": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
-          "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T07:53:37.000Z",
-          "wordCount": 6254,
-          "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f43d/live/8e1bb6a0-7a96-11f1-932b-1f29e7985956.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cd95wendvdeo#1",
-          "author": null,
-          "description": "A union says workers are \"in the crosshairs\" of automation as AI is being tested across ports.",
-          "link": "https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T06:06:12.000Z",
-          "wordCount": 6405,
-          "title": "Australia dock workers call for 28-hour week in AI talks",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03ee/live/e53155d0-7a64-11f1-8afe-8b17e9163080.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6211ng49zwo#1",
-          "author": null,
-          "description": "Nearly 6,000 social homes are thought to be illegally listed on short-term rental platforms.",
-          "link": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T05:03:28.000Z",
-          "wordCount": 10135,
-          "title": "Airbnb data identifies illegal social home sublets",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbdf/live/5e13f6d0-7a13-11f1-9a04-4dc3c0eb4aeb.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o#0",
-          "author": null,
-          "description": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
-          "link": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-08T01:04:44.000Z",
-          "wordCount": 6422,
-          "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b4e/live/7543c880-7a68-11f1-b3a0-9d60633dee75.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo#0",
-          "author": null,
-          "description": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
-          "link": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T23:47:33.000Z",
-          "wordCount": 6663,
-          "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1dd9/live/d28bdfb0-7a3a-11f1-ab76-d75965dea4d1.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c17y81vnje5o#0",
-          "author": null,
-          "description": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
-          "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T23:34:45.000Z",
-          "wordCount": 8005,
-          "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b635/live/a03a6a70-7a19-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c17y81vnje5o#3",
-          "author": null,
-          "description": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings.",
-          "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T23:34:45.000Z",
-          "wordCount": 8005,
-          "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b635/live/a03a6a70-7a19-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo#0",
-          "author": null,
-          "description": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
-          "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T23:11:48.000Z",
-          "wordCount": 5195,
-          "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6272/live/5288e910-7a2c-11f1-9510-1546718f668b.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ceqder3dydxo#3",
-          "author": null,
-          "description": "Susan Lilley, a single mother of two, said the weekly shop has become one of her biggest financial worries.",
-          "link": "https://www.bbc.co.uk/news/articles/ceqder3dydxo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T23:08:39.000Z",
-          "wordCount": 7804,
-          "title": "'You have to say no': Families struggling with holiday food costs",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3526/live/7073aad0-7a10-11f1-b151-87c0badc88c3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#0",
-          "author": null,
-          "description": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
-          "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T15:18:00.000Z",
-          "wordCount": 10277,
-          "title": "One million more UK homeowners set  to face higher mortgages",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73f9/live/588d34b0-79fa-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o#3",
-          "author": null,
-          "description": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
-          "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T15:18:00.000Z",
-          "wordCount": 10277,
-          "title": "One million more UK homeowners set  to face higher mortgages",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73f9/live/588d34b0-79fa-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno#0",
-          "author": null,
-          "description": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.",
-          "link": "https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-07T14:18:25.000Z",
-          "wordCount": 8224,
-          "title": "Online gamblers betting more than £1,000 to face new checks",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce95/live/96ae89e0-79f7-11f1-bb84-55f328ecb8d7.jpg"
         }
       ]
     },
@@ -3678,6 +3688,96 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+          "author": "J. D. Biersdorfer",
+          "description": "Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.",
+          "link": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+          "publishedOn": "2026-08-07T00:01:36.000Z",
+          "wordCount": null,
+          "title": "Follow the Markets and Track Stocks With These Free Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html",
+          "author": "Tariq Panja",
+          "description": "The day before the World Cup final, key FIFA figures faced a stunning demand to sign off on a multibillion-dollar privatization project.",
+          "link": "https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html",
+          "publishedOn": "2026-08-06T21:51:46.000Z",
+          "wordCount": null,
+          "title": "FIFA Executives Were Given Ultimatum to Approve World Cup Privatization Plan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/06/business/dealbook/hassabis-google-ai.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+          "description": "A new role for Demis Hassabis, the head of Google’s artificial intelligence unit, reflects reality at the tech giant. Investors remain worried.",
+          "link": "https://www.nytimes.com/2026/08/06/business/dealbook/hassabis-google-ai.html",
+          "publishedOn": "2026-08-06T16:58:02.000Z",
+          "wordCount": null,
+          "title": "What’s Behind the A.I. Shake-Up at Google",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/06/business/cyclospora-lettuce-local-produce.html",
+          "author": "Julie Creswell",
+          "description": "Small produce stands and farmers’ markets are seeing a surge in demand for leafy greens as sales of lettuce and salad kits from grocery chains and big retailers drop.",
+          "link": "https://www.nytimes.com/2026/08/06/business/cyclospora-lettuce-local-produce.html",
+          "publishedOn": "2026-08-06T16:47:11.000Z",
+          "wordCount": null,
+          "title": "Amid Cyclospora Outbreak, Demand for Locally Grown Lettuce Surges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html",
+          "author": "Christopher F. Schuetze, Patricia Cohen and Patrick Junker",
+          "description": "The Rhine conveys vessels and cargo that power European industry. Record low water levels are disrupting supply chains, adding costs and presenting fresh risks to growth.",
+          "link": "https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html",
+          "publishedOn": "2026-08-06T16:32:53.000Z",
+          "wordCount": null,
+          "title": "Drought Threatens a Vital Economic Artery in the Heart of Europe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
+          "author": "Steve Lohr and Xinyun Wu",
+          "description": "Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.",
+          "link": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
+          "publishedOn": "2026-08-06T14:51:22.000Z",
+          "wordCount": 7466,
+          "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/06/multimedia/Biz-China-Robot-IPO-video-still-cftp/Biz-China-Robot-IPO-video-still-cftp-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html",
+          "author": "Vjosa Isai",
+          "description": "After the actor Hudson Williams was photographed carrying a plaid reusable shopping bag, priced under $2, the tote has become a viral fashion accessory.",
+          "link": "https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html",
+          "publishedOn": "2026-08-06T13:09:56.000Z",
+          "wordCount": 6935,
+          "title": "The ‘Heated Rivalry’ Star Hudson Williams Uplifts a Canadian Tire Bag",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-canada-williams-tote-jkgf/06int-canada-williams-tote-jkgf-facebookJumbo-v2.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/06/business/ceos-chief-of-staff.html",
+          "author": "Jordyn Holman",
+          "description": "The position as a trusted sounding board is in high demand as business gets more complex — and everyone wants to get in on the latest bureaucratic fad.",
+          "link": "https://www.nytimes.com/2026/08/06/business/ceos-chief-of-staff.html",
+          "publishedOn": "2026-08-06T09:01:04.000Z",
+          "wordCount": null,
+          "title": "Why So Many C.E.O.s Are Getting a Chief of Staff",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html",
+          "author": "Christina Jewett",
+          "description": "The agency had initially refused to even review the application but reversed course after a public outcry.",
+          "link": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html",
+          "publishedOn": "2026-08-06T02:24:28.000Z",
+          "wordCount": null,
+          "title": "F.D.A. Approves Moderna’s mRNA Flu Vaccine",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
           "author": "Emmett Lindner",
@@ -7377,106 +7477,6 @@
           "wordCount": null,
           "title": "Global Economic Output Looks Slower for 2026, IMF Says",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html",
-          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount",
-          "description": "The rocket company founded by Jeff Bezos is set to take on external investors for the first time, at a $130 billion valuation.",
-          "link": "https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html",
-          "publishedOn": "2026-07-08T12:07:36.000Z",
-          "wordCount": null,
-          "title": "Jeff Bezos’s Blue Origin Nears a Big Fund-Raising Round",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
-          "author": "Jenny Gross",
-          "description": "The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.",
-          "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
-          "publishedOn": "2026-07-07T22:01:00.000Z",
-          "wordCount": null,
-          "title": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/07/world/americas/world-cup-argentina-maradona-trademark.html",
-          "author": "Tariq Panja and Lucía Cholakian Herrera",
-          "description": "A multimillion-dollar battle for a soccer god’s brand is being waged across continents, burning investors and tearing his family apart.",
-          "link": "https://www.nytimes.com/2026/07/07/world/americas/world-cup-argentina-maradona-trademark.html",
-          "publishedOn": "2026-07-07T21:12:05.000Z",
-          "wordCount": null,
-          "title": "As Messi Dominates the World Cup, a War Is Waged Over Maradona’s Image",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html",
-          "author": "Benjamin Mullin and Jim Rutenberg",
-          "description": "In a new filing, ABC said that the F.C.C. had ruled in 2002 that “The View” was a “bona fide news program.”",
-          "link": "https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html",
-          "publishedOn": "2026-07-07T18:45:32.000Z",
-          "wordCount": 6525,
-          "title": "Is ‘The View’ a News Show? ABC Says That’s Already Settled.",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/07/multimedia/ABC-FCC-VIEW-Vance-ljvp/ABC-FCC-VIEW-Vance-ljvp-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html",
-          "author": "Ana Swanson",
-          "description": "Imports of foreign goods, including pharmaceuticals and equipment for data centers, hit a record high, pushing the monthly trade deficit to its highest level in over a year.",
-          "link": "https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html",
-          "publishedOn": "2026-07-07T18:11:47.000Z",
-          "wordCount": null,
-          "title": "U.S. Trade Deficit Widens in May on Record Goods Imports",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html",
-          "author": "Daisuke Wakabayashi and Jason Karaian",
-          "description": "The A.I. boom has propelled the South Korean tech giant’s earnings, but its shares sank as investors had even loftier expectations.",
-          "link": "https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html",
-          "publishedOn": "2026-07-07T17:57:42.000Z",
-          "wordCount": null,
-          "title": "Samsung Made More Profit Last Quarter Than the Last Two Years Combined",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/07/business/media/mariska-hargitay-emmys-host.html",
-          "author": "John Koblin",
-          "description": "The “Law & Order: SVU” star is a departure from the comedians and sitcom actors who have typically hosted the annual awards show.",
-          "link": "https://www.nytimes.com/2026/07/07/business/media/mariska-hargitay-emmys-host.html",
-          "publishedOn": "2026-07-07T17:50:46.000Z",
-          "wordCount": 5893,
-          "title": "Mariska Hargitay to Host the Emmys",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/07/multimedia/07biz-emmy-host-Mariska-Hargitay2-lzfv/07biz-emmy-host-Mariska-Hargitay2-lzfv-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/07/travel/four-seasons-luxury-cruise-mediterranean.html",
-          "author": "Ceylan Yeğinsu and Camille McOuat",
-          "description": "Luxury hotel brands are getting into the cruise business. A Mediterranean itinerary offered a taste of what at times seemed like a mega-yacht experience.",
-          "link": "https://www.nytimes.com/2026/07/07/travel/four-seasons-luxury-cruise-mediterranean.html",
-          "publishedOn": "2026-07-07T17:25:28.000Z",
-          "wordCount": null,
-          "title": "Four Seasons Sets Sail, Offering Luxury and Curated Cruise Experiences",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html",
-          "author": "Julia Moskin",
-          "description": "The California giant has helped turn a local, seasonal treat into a worldwide refrigerator staple and marketing juggernaut.",
-          "link": "https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html",
-          "publishedOn": "2026-07-07T15:20:33.000Z",
-          "wordCount": null,
-          "title": "Why Are Berries Everywhere, in Every Season? Driscoll’s.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html",
-          "author": "Lydia DePillis and Ana Swanson",
-          "description": "The threat of tariffs may have helped push more capital into the United States, but other factors are pushing it away.",
-          "link": "https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html",
-          "publishedOn": "2026-07-07T13:23:42.000Z",
-          "wordCount": 7802,
-          "title": "Trump Promised a Foreign Investment Boom. It’s Getting Harder to Deliver.",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/07/multimedia/07biz-foreign-investment-01-zvjf/07biz-foreign-investment-01-zvjf-facebookJumbo.jpg"
         }
       ]
     },
@@ -7485,6 +7485,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/stock-market-news/fujifilm-shares-slide-18-on-weak-q1-earnings-considers-partial-spinoff-4845014",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/fujifilm-shares-slide-18-on-weak-q1-earnings-considers-partial-spinoff-4845014",
+          "publishedOn": "2026-08-07T01:34:01.000Z",
+          "wordCount": null,
+          "title": "Fujifilm shares slide 18% on weak Q1 earnings; considers partial spinoff",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEI1806K_L.jpg",
+            "length": "37543",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEI1806K_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/naver-q2-2026-slides-revenue-climbs-16-as-ai-investments-pressure-margins-93CH-4845013",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/naver-q2-2026-slides-revenue-climbs-16-as-ai-investments-pressure-margins-93CH-4845013",
+          "publishedOn": "2026-08-07T01:31:26.000Z",
+          "wordCount": null,
+          "title": "NAVER Q2 2026 slides: revenue climbs 16% as AI investments pressure margins",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_M.jpg",
+            "length": "11773",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/eagle-point-credit-management-sells-acres-commercial-preferred-stock-for-2136-93CH-4845010",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/eagle-point-credit-management-sells-acres-commercial-preferred-stock-for-2136-93CH-4845010",
+          "publishedOn": "2026-08-07T01:31:11.000Z",
+          "wordCount": null,
+          "title": "Eagle Point Credit Management sells Acres Commercial preferred stock for $2,136",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+            "length": "150078",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/hf-sinclair-svp-dale-kunneman-sells-755851-in-stock-93CH-4845011",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/hf-sinclair-svp-dale-kunneman-sells-755851-in-stock-93CH-4845011",
+          "publishedOn": "2026-08-07T01:31:11.000Z",
+          "wordCount": null,
+          "title": "Hf Sinclair SVP Dale Kunneman sells $755,851 in stock",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+            "length": "135320",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/paymentus-svp-and-cfo-kalra-sells-115-million-in-shares-93CH-4845012",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/paymentus-svp-and-cfo-kalra-sells-115-million-in-shares-93CH-4845012",
+          "publishedOn": "2026-08-07T01:31:11.000Z",
+          "wordCount": null,
+          "title": "Paymentus SVP and CFO Kalra sells $1.15 million in shares",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+            "length": "150078",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/trump-weighs-executive-order-on-vaccines-autism-research-bloomberg-reports-4845008",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/trump-weighs-executive-order-on-vaccines-autism-research-bloomberg-reports-4845008",
+          "publishedOn": "2026-08-07T01:24:29.000Z",
+          "wordCount": null,
+          "title": "Trump weighs executive order on vaccines, autism research, Bloomberg reports",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM6U19A_L.jpg",
+            "length": "34896",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM6U19A_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-naver-q2-2026-revenue-beats-forecast-as-stock-slips-93CH-4845007",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-naver-q2-2026-revenue-beats-forecast-as-stock-slips-93CH-4845007",
+          "publishedOn": "2026-08-07T01:20:22.000Z",
+          "wordCount": null,
+          "title": "Earnings call transcript: NAVER Q2 2026 revenue beats forecast as stock slips",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg",
+            "length": "32019",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/why-is-the-trade-desk-stock-cratering-today-93CH-4845006",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/why-is-the-trade-desk-stock-cratering-today-93CH-4845006",
+          "publishedOn": "2026-08-07T01:17:42.000Z",
+          "wordCount": null,
+          "title": "Why is The Trade Desk stock cratering today?",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+            "length": "17251",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/why-is-fujifilm-stock-crashing-today-93CH-4845005",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/why-is-fujifilm-stock-crashing-today-93CH-4845005",
+          "publishedOn": "2026-08-07T01:17:38.000Z",
+          "wordCount": null,
+          "title": "Why is Fujifilm stock crashing today?",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg",
+            "length": "28908",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/antero-midstream-director-klimley-sells-106350-in-shares-93CH-4845004",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/antero-midstream-director-klimley-sells-106350-in-shares-93CH-4845004",
+          "publishedOn": "2026-08-07T01:17:36.000Z",
+          "wordCount": null,
+          "title": "Antero Midstream director Klimley sells $106,350 in shares",
+          "enclosure": {
+            "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+            "length": "99672",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/stock-market-news/metas-ai-model-hacked-another-company-during-testing-the-information-reports-4839714",
           "author": "Reuters",
@@ -11384,156 +11534,6 @@
             "type": "text/html; charset=UTF-8"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/japan-considering-tweaking-blueprint-language-on-boj-nikkei-reports-4780609",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/japan-considering-tweaking-blueprint-language-on-boj-nikkei-reports-4780609",
-          "publishedOn": "2026-07-08T00:37:18.000Z",
-          "wordCount": null,
-          "title": "Japan considering tweaking blueprint language on BOJ, Nikkei reports",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6701B_L.jpg",
-            "length": "83788",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6701B_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/south-korea-to-closely-watch-risks-around-stock-market-volatility-4780605",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/south-korea-to-closely-watch-risks-around-stock-market-volatility-4780605",
-          "publishedOn": "2026-07-08T00:36:54.000Z",
-          "wordCount": null,
-          "title": "South Korea to closely watch risks around stock market volatility",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6700W_L.jpg",
-            "length": "63532",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6700W_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/amazon-aims-to-raise-25-billion-from-bond-sale-bloomberg-news-reports-4779326",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/amazon-aims-to-raise-25-billion-from-bond-sale-bloomberg-news-reports-4779326",
-          "publishedOn": "2026-07-08T00:36:35.000Z",
-          "wordCount": null,
-          "title": "Amazon aims to raise $25 billion from bond sale",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM660P3_L.jpg",
-            "length": "49449",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM660P3_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-sui-group-holdings-ltd-for-7-july-93CH-4780608",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-sui-group-holdings-ltd-for-7-july-93CH-4780608",
-          "publishedOn": "2026-07-08T00:33:07.000Z",
-          "wordCount": null,
-          "title": "Form 4 SUI Group Holdings Ltd For: 7 July",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "2938",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/south-korean-chip-stocks-slide-after-overnight-us-selloff-on-ai-boom-concerns-4780607",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/south-korean-chip-stocks-slide-after-overnight-us-selloff-on-ai-boom-concerns-4780607",
-          "publishedOn": "2026-07-08T00:30:48.000Z",
-          "wordCount": null,
-          "title": "South Korean chip stocks slide after overnight US selloff on AI boom concerns",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM67010_L.jpg",
-            "length": "45651",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM67010_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-spacex-and-xenergy-93CH-4780606",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/cathie-woods-ark-sells-amd-stock-buys-spacex-and-xenergy-93CH-4780606",
-          "publishedOn": "2026-07-08T00:26:10.000Z",
-          "wordCount": null,
-          "title": "Cathie Wood’s ARK sells AMD stock, buys SpaceX and X-Energy",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "2938",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-crowdstrike-holdings-inc-for-7-july-93CH-4780604",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-crowdstrike-holdings-inc-for-7-july-93CH-4780604",
-          "publishedOn": "2026-07-08T00:22:09.000Z",
-          "wordCount": null,
-          "title": "Form 4 CrowdStrike Holdings Inc For: 7 July",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "2938",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-398m-in-company-stock-93CH-4780603",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/crowdstrike-ceo-george-kurtz-sells-398m-in-company-stock-93CH-4780603",
-          "publishedOn": "2026-07-08T00:18:50.000Z",
-          "wordCount": null,
-          "title": "Crowdstrike CEO George Kurtz sells $3.98m in company stock",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "2938",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/dollar-at-weekhigh-after-us-resumes-attacks-on-iran-4780602",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/dollar-at-weekhigh-after-us-resumes-attacks-on-iran-4780602",
-          "publishedOn": "2026-07-08T00:18:31.000Z",
-          "wordCount": null,
-          "title": "Dollar at week-high after US resumes attacks on Iran",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6700F_L.jpg",
-            "length": "54768",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM6700F_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-palantir-technologiesinc-for-7-july-93CH-4780601",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-palantir-technologiesinc-for-7-july-93CH-4780601",
-          "publishedOn": "2026-07-08T00:13:05.000Z",
-          "wordCount": null,
-          "title": "Form 4 Palantir Technologies Inc For: 7 July",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "2938",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
         }
       ]
     },
@@ -11542,6 +11542,146 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vhjz0i/for_those_who_studied_nicholas_darvas_and_the_box/",
+          "author": null,
+          "description": "How do you deal with the volume requirement on breakout day? The breakout must be on big volume. How do you by the breakout if the bigger volume may not be until the end of the day or the price may be way to extended from the box top. Thanks in advance. \n    submitted by    /u/Gooberfish24  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vhjz0i/for_those_who_studied_nicholas_darvas_and_the_box/",
+          "publishedOn": "2026-08-06T23:17:49.000Z",
+          "wordCount": null,
+          "title": "For those who studied Nicholas Darvas and the box theory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vhfvhb/t_rowe_price_has_really_changed_its_tune/",
+          "author": null,
+          "description": "TLDR\n Probably because of fee revenue, T. Rowe Price has reversed its “slow and steady wins the race” to fast and “outperforming” ETF’s. \n The latest T. Rowe Price commercial shows that they’ve done a 180 in the last 25 years or so.\n In college, I remember a commercial that shows a jogger and a sprinter running the same path. The sprinter speeds past the jogger in the beginning, but later on in the journey, the jogger passes the sprinter, who is panting, with his hands on his knees. To me, the takeaway was that T. Rowe’s funds didn’t pursue the “hot stock” or quarterly earnings; rather, they purchased stocks that were fundamentally strong, and potentially undervalued. That was the way to have relatively slow but stable returns over the long term.\n Recently, T. Rowe has come out with “active” ETF’s. The longstanding research has shown that “passive” ETF’s, those that simply track an index and don’t attempt to outperform them, outperform their active counterparts upwards of 90% of the time.\n Their recent high-octane commercial shows an expensive sports car, out maneuvering the slower cars. The voiceover explains that T. Rowe’s active ETF’s are “designed” to outperform the index. Again, something that happens approximately 10% of the time.\n Interesting how the fees T. Rowe can earn from the booming ETF business has reversed their thinking on investing.\n    submitted by    /u/OkKitchen7114  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vhfvhb/t_rowe_price_has_really_changed_its_tune/",
+          "publishedOn": "2026-08-06T20:32:28.000Z",
+          "wordCount": null,
+          "title": "T. Rowe Price has really changed its tune",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vhfgjj/what_happens_when_index_funds_stop_being/",
+          "author": null,
+          "description": "\"Normal people\" have always been told to just invest in the indices--they're sufficiently diversified, winners naturally cycle in and losers naturally cycle out. It's been sold as the low-risk, low-reward way to invest in equities.\n What happens when diversification stops being intrinsic? We're approaching (if not already there) historic sector tilt in the broad market funds, with commensurately historic concentration in top N companies.\n The returns have been great, my last 12 months look if anything too good for a basic Bogle-type index fund portfolio. But I know the concentration risk in my portfolio grows daily. When index funds go from low-risk/low-reward to higher-risk/higher-reward what becomes the new \"normal people\" vehicles?\n    submitted by    /u/Seref15  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vhfgjj/what_happens_when_index_funds_stop_being/",
+          "publishedOn": "2026-08-06T20:17:05.000Z",
+          "wordCount": null,
+          "title": "What happens when index funds stop being diversified?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vh8x56/does_anyone_else_feel_like_investing_has_made/",
+          "author": null,
+          "description": "I started investing because I wanted to build a better future. But over time, I noticed something unexpected.\n Now, whenever I spend money on something that's not essential, a small voice in my head says, That money could have been invested instead.\n I'm not saying it's a bad thing, but sometimes I wonder if I'm becoming too focused on growing my portfolio and forgetting to enjoy the present.\n Has investing changed the way you think about spending, or do you still find a good balance between saving, investing, and enjoying life?\n    submitted by    /u/Main_Collection8443  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vh8x56/does_anyone_else_feel_like_investing_has_made/",
+          "publishedOn": "2026-08-06T16:20:32.000Z",
+          "wordCount": null,
+          "title": "Does anyone else feel like investing has made them overthink every purchase?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vh8ets/softbank_vision_fund_has_not_generated_even_1/",
+          "author": null,
+          "description": "In the last 10 years Softbank Vision Fund investment has looked like this: \n Total money invested: ~US$191.6 billion \n Total cumulative gross gain: ~US$45 billion \n OpenAI paper gain: ~US$45 billion\n So, on the latest reported figures, OpenAl accounts for almost all of the cumulative net gain. Without it, the combined portfolio would be around break-even or slightly negative, depending on the exact reporting date, valuation marks, and accounting adjustments.\n    submitted by    /u/AlfonsoOsnofla  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vh8ets/softbank_vision_fund_has_not_generated_even_1/",
+          "publishedOn": "2026-08-06T16:02:30.000Z",
+          "wordCount": null,
+          "title": "Softbank Vision Fund has not generated even 1% return in last 10 years. If OpenAl gains are not considered.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vh3i9g/spacex_beat_earnings_and_fell_12_and_disney_beat/",
+          "author": null,
+          "description": "spacex reported its first earnings as a public company ,beats estimates and still crashed around 11-12% (like their rocket crashed)the reason could be investors focusing on ai capex jumping sixfold to $18.4 billion + a lockup expiry about to release roughly 900 million shares\n And then the most hated company disney beat and rose a couple percent .S&P and dow both hit fresh record highs in that same session.\n so market is at all time highs where good earnings are getting rewarded and punished depending entirely on which stock we r looking at. (not a simple sell the news environment)\n spacex makes sense tho as the lockup releasing hundred millions of shares is a supply event which will overwhelms whatever the earnings said so theres like a lot of new stock about to hit and not enough buyers lined up at this price to absorb it cleanly.\n amd's the more interesting one coz it feels less like a nvidia thing and more like the stock got way ahead of itself, up 21% over five sessions and like 140% on the yr , so a clean beat across the board still landed as a letdown against what was priced in. separately musk did say on the call that nvidia will be the exclusive chip supplier for spacex's ai needs and its own signal even if its not the main reason amd dropped.\n And now disney's lower expectations, a newer ceos first statement to the market and beat on parks and streaming both, stock rewarded pretty quickly. when the bar's low enough that clearing it still counts as a surprise, the upside skews asymmetric.\n is the market getting better at separating business quality from stock supply dynamics?\n    submitted by    /u/poda-pottan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vh3i9g/spacex_beat_earnings_and_fell_12_and_disney_beat/",
+          "publishedOn": "2026-08-06T12:56:52.000Z",
+          "wordCount": null,
+          "title": "spacex beat earnings and fell 12% and disney beat earnings and rose. Both companies did same thing and got treated completely differently",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vh300o/oklos_groves_reactor_achieves_first_criticality/",
+          "author": null,
+          "description": "Oklo announced that its Groves Isotope Test Reactor has achieved first criticality after achieving a controlled, self-sustaining nuclear chain reaction at low power. The milestone comes less than a year after groundbreaking and follows U.S. Department of Energy (DOE) authorization through the DOE Reactor Pilot Program (RPP).\n “Reaching criticality in less than a year is an incredible milestone for our team,” said Oklo co-founder and CEO Jacob DeWitte. “Oklo developed Groves from a greenfield site on private land, completed full-scale civil excavation and construction, manufactured or commercially procured all components, including fuel, and developed its operating programs in-house. Taken together, we believe these accomplishments establish a new benchmark for the Reactor Pilot Program and…",
+          "link": "https://www.reddit.com/r/investing/comments/1vh300o/oklos_groves_reactor_achieves_first_criticality/",
+          "publishedOn": "2026-08-06T12:34:51.000Z",
+          "wordCount": null,
+          "title": "Oklo's Groves Reactor Achieves First Criticality in Under a Year",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vh26bg/where_should_i_invest_my_savings_for_my_first/",
+          "author": null,
+          "description": "My wife and I are both 22 and are just getting started with our investing journey. We’re both pretty frugal and have agreed on a budget that will allow us to save $400k in the span of 5 years to use a down payment on our first house. \n We’re currently maxing out both of our Roth IRAs, matching our companies 401k, and have an emergency savings account already in place.\n As we save this money for our first mortgage, would it be best to put this money in a generic brokerage account invested in the S&P, an HYSA, or somewhere else?\n Any help or guidance would be greatly appreciated.\n    submitted by    /u/AttentionUnique5826  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vh26bg/where_should_i_invest_my_savings_for_my_first/",
+          "publishedOn": "2026-08-06T11:58:18.000Z",
+          "wordCount": null,
+          "title": "Where should I invest my savings for my first house?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vh1gqr/onequarter_of_men_aged_1829_said_they_trade/",
+          "author": null,
+          "description": "Trading stocks, like gambling, has low barriers to entry, offers promises of riches, but usually results in financial losses. Is it any wonder that it damages self-esteem? \n Corporations promote this type of damaging behavior. According to Bloomberg, Robinhood and Interactive Brokers Group offer gambling and stock trading on the same site. Should this be illegal? What constructive can be done to persuade people to develop the disciplined financial behavior instead of day trading and gambling? What do you think?\n Here's the article.\n    submitted by    /u/davida_usa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vh1gqr/onequarter_of_men_aged_1829_said_they_trade/",
+          "publishedOn": "2026-08-06T11:23:11.000Z",
+          "wordCount": null,
+          "title": "\"One-quarter of men aged 18-29 said they trade stocks daily, and almost two-thirds of them (64%) report feeling like failures...\" -Bloomberg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vh0kyy/disregarding_etrade_does_morgan_stanley_offer/",
+          "author": null,
+          "description": "I’m potentially interested in opening up a Morgan Stanley CashPlus Account and a Morgan Stanley brokerage account. To open a CashPlus account, you need to already be a Morgan Stanley client.\n How does one become a client, and what accounts are offered? Are self directed accounts offered at all at Morgan Stanley? Their website seems very confusing or at least very secret on things. It’s like you have to contact an advisor for everything, and you don’t even know what’s offered.\n    submitted by    /u/AttorneyHappy216  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vh0kyy/disregarding_etrade_does_morgan_stanley_offer/",
+          "publishedOn": "2026-08-06T10:37:32.000Z",
+          "wordCount": null,
+          "title": "Disregarding E-Trade, Does Morgan Stanley offer self directed investing accounts?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vh02yi/ghhf_during_economic_downturns/",
+          "author": null,
+          "description": "Isn’t GHHF not good in economic downturns ? For example in the 2008 GFC, GHHF would have gone down 1.5 times lower if it had existed back then. That means a 60% fall. Plus It takes a lot longer for the moderately geared ETF to bounce back up ? Wouldnt DHHF outperform GHHF if there are many economic downturns ?\n Am I missing something here? \n    submitted by    /u/bluewater-junkie  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vh02yi/ghhf_during_economic_downturns/",
+          "publishedOn": "2026-08-06T10:10:24.000Z",
+          "wordCount": null,
+          "title": "GHHF during economic downturns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vgzb54/the_sp_500_hit_a_record_while_its_forward_pe_fell/",
+          "author": null,
+          "description": "The S&P 500 is back at a record, but the valuation story looks a little different this time.\n Forward P/E is around 20.4, while Q2 earnings are tracking roughly 31% above last year. Tech earnings are up around 72%.\n I’ve been pretty skeptical of this rally because 20x earnings with the 10-year near 4.6% still isn’t cheap. But it’s also hard to call this pure multiple expansion when profits are rising this quickly.\n The bear case seems to be that these earnings comparisons fade and today’s valuation starts looking expensive again.\n Are people calling this a bubble because of the price level, or because they expect earnings to roll over?\n    submitted by    /u/FailOk1528  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vgzb54/the_sp_500_hit_a_record_while_its_forward_pe_fell/",
+          "publishedOn": "2026-08-06T09:25:37.000Z",
+          "wordCount": null,
+          "title": "The S&P 500 hit a record while its forward P/E fell. Are earnings finally catching up?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vgxvjo/daily_general_discussion_and_advice_thread_august/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vgxvjo/daily_general_discussion_and_advice_thread_august/",
+          "publishedOn": "2026-08-06T08:00:33.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - August 06, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1vgutnw/applovins_16_dip_is_an_opportunity/",
+          "author": null,
+          "description": "Thoughts on AppLovin $APP q2 results\n I don’t think this was some thesis-breaking quarter.\n The numbers were a little light by AppLovin’s standards, but revenue still grew 53% and EBITDA margins were 84%. Management basically said their ad model didn’t improve as much as usual during Q2, then they pushed a bigger update right after the quarter ended and growth picked back up.\n The problem is the moat still isn’t perfect. Don’t attack me for saying that, but it’s true. $APP depends on Apple and Google’s ecosystems, and advertisers will only stick around as long as the platform keeps delivering good results, so it’s not my highest-conviction play.\n Still, there wasn’t any sign that customers were leaving or anything like that. For now, the numbers are solid.\n At $349, it trades at around 16.5x estimated 2027 earnings, (estimates per Seeking Alpha). That’s pretty cheap for a business growing this fast with margins this high.\n Q3 matters a lot now because management says the slowdown was temporary, but unless that turns out to be wrong, I think the selloff is overdone\n What do you guys think?\n    submitted by    /u/investorscompass  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1vgutnw/applovins_16_dip_is_an_opportunity/",
+          "publishedOn": "2026-08-06T05:07:25.000Z",
+          "wordCount": null,
+          "title": "Applovin’s 16% Dip Is An Opportunity",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1vgoa9j/problem_with_rolling_over_all_my_roth_401k_from/",
           "author": null,
@@ -14530,126 +14670,6 @@
           "publishedOn": "2026-07-08T15:40:20.000Z",
           "wordCount": null,
           "title": "Holding a 90%+ loser for 6 years: when do you finally move on?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uqpyo9/regarding_the_waiting_for_a_big_dip_to_get_back/",
-          "author": null,
-          "description": "Is it possible that, because this market has been booming for so many years in a row now, there’s a huge backlog of dry powder just ready to pounce?\n In other words, any would-be crash will be muted and almost immediately bought up by the trillions of dollars just sitting on the sidelines.\n I remember reading that there’s “$17T sitting on the sidelines” a year ago, but it’s not a figure that’s talked about a lot.\n    submitted by    /u/pseudonominom  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uqpyo9/regarding_the_waiting_for_a_big_dip_to_get_back/",
-          "publishedOn": "2026-07-08T11:30:27.000Z",
-          "wordCount": null,
-          "title": "Regarding the “waiting for a big dip to get back into the market” folks:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uqfs88/texas_stock_exchange_live_in_dallas_yall_street/",
-          "author": null,
-          "description": "https://finance.yahoo.com/markets/stocks/articles/texas-stock-exchange-live-dallas-163127390.html\n Five tickers to be traded. I guess it’s a start. Anyone know any histories of other exchanges that opened recently (not necessarily US) and how they started and if they only opened with 5 tickers? Is this normal?\n    submitted by    /u/warrends  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uqfs88/texas_stock_exchange_live_in_dallas_yall_street/",
-          "publishedOn": "2026-07-08T02:25:40.000Z",
-          "wordCount": null,
-          "title": "Texas Stock Exchange live in Dallas. Y'all Street takes on Wall Street",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uqd7kk/i_think_the_bubble_is_going_to_pop/",
-          "author": null,
-          "description": "Im a typical investor sitting heavily in VOO, SMH, Mag 7 and I think the bubble is going to pop, but looking at the typical hedges, none of them feel like a safe bet right now:\n -cash - gets eaten by inflation and the dollar decline\n -small mid caps - dump harder in a actual crash\n -btc - just moves like a high-beta stock anyway doesnt actually hedge\n -taiwan/korea - will tank if us tech does they supply the picks and shovels\n -physical gold is annoying to store and paper gold has counterparty risk\n -terrific ten - a general lack of faith in structural institutions makes me hesitant to go too heavy here\n honestly the only things that seem halfway decent is japan? but I don't know much about it and might be missing something\n In general what is a good hedge against the tech bubble?\n what do you think about a mix of VOO, japan, terrific ten, paper gold, and cash. Is this solid strategy or am I missing something? and how should I allocate these?\n ---\n Edit: I dont know the future and I'm not looking to short snp get magic cards either, I'm just very heavy into USA and tech stocks and want to diversify but none of the other diversification looks really good after briefly looking into it, so unsure of what to do and looking for some conversations here since I don't know anyone irl that invests.\n    submitted by    /u/timo9036  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uqd7kk/i_think_the_bubble_is_going_to_pop/",
-          "publishedOn": "2026-07-08T00:28:49.000Z",
-          "wordCount": null,
-          "title": "i think the bubble is going to pop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uq6yvm/not_sure_if_soxq_was_the_right_choice/",
-          "author": null,
-          "description": "I don’t think AI is gonna slow down anytime soon, but man, invested in SOXQ a couple of weeks ago and I am down almost 13% all-time. I’m trying to wait it out to see if it turns around. Not to mention, I don’t want to sell at loss. It has been tough to witness though. \n    submitted by    /u/Clear_Preparation_85  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uq6yvm/not_sure_if_soxq_was_the_right_choice/",
-          "publishedOn": "2026-07-07T20:25:49.000Z",
-          "wordCount": null,
-          "title": "Not sure if SOXQ was the right choice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uq5s8r/ai_bubble_cracking_as_big_tech_renting_out_ai/",
-          "author": null,
-          "description": "With not just SpaceX but now also Meta and others renting out their AI data center capacity, it is becoming pretty obvious those companies have all massively overspent on AI capex.\n I wish those tech companies would go back to innovating again instead of all jumping on the same AI train.\n Them renting out their AI infrastructure is not some kinda smart business move but more an act of desperation to pump their balance sheets. None of this creates real profits from AI. These are all circular deals leading nowhere.\n It will be interesting to see what kinda excuses those companies will use on their next earnings call trying to justify their massive AI capex.\n    submitted by    /u/ThinkBigger01  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uq5s8r/ai_bubble_cracking_as_big_tech_renting_out_ai/",
-          "publishedOn": "2026-07-07T19:44:29.000Z",
-          "wordCount": null,
-          "title": "AI bubble cracking as big tech renting out AI infrastructure proves they overspent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uq4t1v/to_everyone_who_thinks_right_now_is_the_worst/",
-          "author": null,
-          "description": "2008: \"We're heading into a Great Depression.\" If you kept buying, the S&P returned 400%+ over the next 13 years.\n 2011: \"The US credit rating just got downgraded for the first time in history.\" Market was up 30%+ within two years.\n 2015: \"China is crashing and taking everything down with it.\" S&P hit net highs within months.\n 2016: \"Brexit will destroy global markets.\" Then few months later: \"Trump winning tank everything.\" Markets hit all-time highs after both.\n 2020: \"COVID is going to end the economy as we know it.\" Fastest recovery in market history. If you sold in March 2020, you locked in losses. If you kept buying, 2021 was one of the best years on record.\n 2022: \"Inflation is out of control and the Fed is going to kill growth.\" Rough year. Then 2023 and 2024 were two of the strongest years in decades.\n I'm not saying nothing bad ever happens. I'm saying \"this time is different\" has been said at every single one of these moments. The lesson I'm trying to take from it is that long-term investing and event opinions are different things. My index money should keep going in whether the headline is inflation, tariffs or whatever else people are panicking about. But I still do have views on those events. I just don't want those views to turn into vague portfolio moves.\n The scary moment is almost always the moment people most want to stop buying. Not because it feels comfortable, but because that's usually when the discipline matters most.\n    submitted by    /u/SpaceFamous28  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uq4t1v/to_everyone_who_thinks_right_now_is_the_worst/",
-          "publishedOn": "2026-07-07T19:10:38.000Z",
-          "wordCount": null,
-          "title": "To everyone who thinks right now is the worst possible time to invest",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uq3wez/best_audio_news_source/",
-          "author": null,
-          "description": "Basically title. I want something I can put in my headphones and listen to while I’m working to keep up with market news, sentiment, etc. \n Is just CNBC my best bet? What are some other good sources of info?\n Any good podcasters or similar that provide good information?\n    submitted by    /u/Swred1100  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uq3wez/best_audio_news_source/",
-          "publishedOn": "2026-07-07T18:40:16.000Z",
-          "wordCount": null,
-          "title": "Best “audio” news source?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uq0j0c/huge_dividend_and_huge_losses/",
-          "author": null,
-          "description": "What's going on when a company pays ridiculous dividends yet the stock is plummeting. Case in point, gmex. Shows over 3000% dividend yet the stock is $2.32 from a high around $295,000\n Another less crazy example is icahn. 27.5% dividend but its down 87% over 5 years. \n These stocks looks like the company is going belly up but the dividend looks like there's money to be made. Ive been watching icahn for a couple years and its always paid a great dividend. \n    submitted by    /u/MrT_LV  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uq0j0c/huge_dividend_and_huge_losses/",
-          "publishedOn": "2026-07-07T16:42:22.000Z",
-          "wordCount": null,
-          "title": "Huge dividend and huge losses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1uq061l/would_you_use_a_structured_company_evaluation/",
-          "author": null,
-          "description": "I've been thinking about how many investors rely on different metrics, opinions, and headlines when evaluating companies.\n What if there was a simple framework where you enter a company's financial and qualitative data yourself, and it produces a transparent score based on a consistent methodology?\n The goal wouldn't be to generate buy or sell signals, but to help investors stay consistent and organize their own research.\n Do you think a tool like this would be useful?\n If not, what would be missing?\n    submitted by    /u/emilian200846  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1uq061l/would_you_use_a_structured_company_evaluation/",
-          "publishedOn": "2026-07-07T16:29:25.000Z",
-          "wordCount": null,
-          "title": "Would you use a structured company evaluation framework?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1upzr88/vanguard_is_looking_for_a_head_of_digital_assets/",
-          "author": null,
-          "description": "https://www.vanguardjobs.com/job/23565418/head-of-digital-assets-personal-wealth-dallas-tx/?source=Google_Jobs\n Head of Digital Assets, Personal Wealth\n The Head of Digital Assets will lead Vanguard Personal Wealth's digital assets strategy, roadmap, and enterprise execution. Defines how Vanguard will evaluate, prioritize, develop, and implement digital asset capabilities, products, and operating models in a way that advances Vanguard's mission, serves clients, and strengthens our long-term competitive position. Serves as Vanguard's senior subject matter expert for digital assets across Personal Wealth, partnering across product, technology, operations, client segments, risk, legal, and compliance to shape and deliver a scalable end-to-end strategy. Represents Vanguard externally with industry participants, regulators, and clients, and helps influence thought leadership and market standards in the evolving digital asset ecosystem.\n Responsibilities:\n  \nDefines and leads Personal Wealth's digital assets vision and strategy.Establishes Vanguard's point of view and strategic roadmap for digital assets across Personal Wealth, including where and how Vanguard should participate, what capabilities to build, partner for, or defer, and how to align innovation to Vanguard's mission and client-first principles.\n Deep knowledge of digital assets and related infrastructure, including tokenization, stablecoins, wallets/custody models, settlement, blockchain-enabled operating models, and the broader digital asset ecosystem.\n  \n   submitted by    /u/OceanRawks  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1upzr88/vanguard_is_looking_for_a_head_of_digital_assets/",
-          "publishedOn": "2026-07-07T16:14:21.000Z",
-          "wordCount": null,
-          "title": "Vanguard is looking for a head of digital assets for first time. Successful candidate will \"develop the multi-year digital assets roadmap\" for the $10+ Trillion asset manager.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1upx1hf/unitrees_73day_ipo_approval_and_lingbotvision/",
-          "author": null,
-          "description": "I spent the last couple weeks tracking the China robotics pipeline and two events in basically the same fortnight have been bouncing off each other in my head. On July 3, Unitree got final CSRC registration for its STAR Market IPO at roughly $618 million, filed March 20, cleared in a record 73 days. That clears it to become China's first listed pure-play humanoid company. The hardware side has been accelerating hard. AgiBot hit its 10,000th mass-produced robot on March 30, going from 5,000 to 10,000 in about three months per Xinhua. Stanford's 2026 AI Index, citing IFR, has China installing nearly nine times as many industrial robots as the US in 2024. Unitree shipped over 5,500 humanoids last year with humanoids already more than half its revenue through the first nine months of 2025, per…",
-          "link": "https://www.reddit.com/r/investing/comments/1upx1hf/unitrees_73day_ipo_approval_and_lingbotvision/",
-          "publishedOn": "2026-07-07T14:39:19.000Z",
-          "wordCount": null,
-          "title": "Unitree's 73-day IPO approval and LingBot-Vision going Apache-2.0 in the same fortnight: two numbers I can't square",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1upwzpi/38_m_uk_300k_to_invest_update/",
-          "author": null,
-          "description": "38 m uk - 300k to invest update\n Hi there, bought 30k yesterday in vwrp. Seen markets down today, do i buy another 30k today? Is this a good time to put more in to capitalize on dip? I thohgt of putting 30k monthly but don't want to miss good chance today if it is one\n    submitted by    /u/tanyddraig1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1upwzpi/38_m_uk_300k_to_invest_update/",
-          "publishedOn": "2026-07-07T14:37:30.000Z",
-          "wordCount": null,
-          "title": "38 m uk - 300k to invest update",
           "imageUrl": null
         }
       ]
