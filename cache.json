@@ -6,6 +6,86 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o#0",
+          "author": null,
+          "description": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+          "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-23T23:26:15.000Z",
+          "wordCount": 6735,
+          "title": "Review launched into how pub and hotel business rates calculated",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f38/live/0b0cedf0-9ed7-11f1-9253-c70a43a5293b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c05q318501yo#0",
+          "author": null,
+          "description": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
+          "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-23T23:25:44.000Z",
+          "wordCount": 7475,
+          "title": "'I didn't speak the Queen's English': Why people worry about their accents",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81f3/live/e2c54a10-9d9e-11f1-b160-9b29341ab62f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cz647wlvg1do#0",
+          "author": null,
+          "description": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+          "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-23T23:23:55.000Z",
+          "wordCount": 6709,
+          "title": "Why students are being paid £2,000 to play computer games",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
+          "author": null,
+          "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-23T19:11:30.000Z",
+          "wordCount": 7849,
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go#0",
+          "author": null,
+          "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-23T14:05:16.000Z",
+          "wordCount": 8592,
+          "title": "CrossCountry cancels 'almost all' UK services after power cut",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8766/live/9b0d2440-9ef2-11f1-aed4-af6fe65bfcd6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o#1",
+          "author": null,
+          "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+          "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-23T10:02:23.000Z",
+          "wordCount": 7280,
+          "title": "Mayors to get powers to overrule local councils on planning decisions",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7205/live/1fb3cdf0-9d83-11f1-adf5-2dc21c9cc109.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o#1",
+          "author": null,
+          "description": "Scammers set up a monthly subscription of £60 from Les Howard's account after he downloaded an app.",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-23T06:23:54.000Z",
+          "wordCount": 9816,
+          "title": "Les used a QR code to download a parking app - but it was a scam",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/580f/live/a3bddc80-9ca2-11f1-a5a0-114ca9d4a1bc.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ce9793g34yvo#0",
+          "author": null,
+          "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+          "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-23T02:48:41.000Z",
+          "wordCount": 5700,
+          "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f5a/live/8ba750f0-9e95-11f1-b485-57ec149f4199.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko#3",
           "author": null,
           "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
@@ -34,6 +114,16 @@
           "wordCount": 7900,
           "title": "Not 'poor enough': Do people use London's pay-it-forward schemes?",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d520/live/0a33aea0-9d5b-11f1-b109-879e35c24276.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c70gy180e8lo#1",
+          "author": null,
+          "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+          "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-21T23:01:58.000Z",
+          "wordCount": 9579,
+          "title": "More students planning to live at home for university over 'insane' living costs",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/f132db30-97db-11f1-bb4c-d758974ed97b.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/czjlr0evy0do#0",
@@ -3154,106 +3244,6 @@
           "wordCount": 7393,
           "title": "Money Box",
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p0hn8s.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go#0",
-          "author": null,
-          "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-          "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-25T10:14:41.000Z",
-          "wordCount": 8266,
-          "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/czekpx8yzj0o#3",
-          "author": null,
-          "description": "BBC South has been hearing from people about new PM Andy Burnham's first week in the top job.",
-          "link": "https://www.bbc.co.uk/news/articles/czekpx8yzj0o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-25T06:18:53.000Z",
-          "wordCount": 8358,
-          "title": "What does the South make of the King of the North?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8ba/live/db696e10-8771-11f1-b063-4faedc5b4188.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo#3",
-          "author": null,
-          "description": "Parents say childcare costs, unpaid leave and SEND support gaps make summer holidays harder",
-          "link": "https://www.bbc.co.uk/news/articles/c7vg3gnzn6mo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-25T06:16:46.000Z",
-          "wordCount": 10013,
-          "title": "'We feel the pressure juggling holiday logistics'",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1eac/live/25e2b480-85c2-11f1-a407-4750df4c0797.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cn8n9lzj136o#3",
-          "author": null,
-          "description": "Four newly graduated students tell us how they kept the cost of their dresses and suits down.",
-          "link": "https://www.bbc.co.uk/news/articles/cn8n9lzj136o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-24T23:33:23.000Z",
-          "wordCount": 8547,
-          "title": "Students tell us how to keep graduation outfit costs down",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6be/live/5ca111c0-874c-11f1-a7ab-8b30adf0800a.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o#0",
-          "author": null,
-          "description": "The government wants to relax wedding laws so couples can get married almost anywhere.",
-          "link": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-24T23:31:11.000Z",
-          "wordCount": 9554,
-          "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77ee/live/cd7c6030-82c3-11f1-b976-0b9c15b0ccfc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c70gq125xweo#0",
-          "author": null,
-          "description": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-          "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-24T23:23:53.000Z",
-          "wordCount": 10913,
-          "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e35e/live/f25d0fd0-8773-11f1-b8ee-9b3c26ad07bb.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8en74yz5e7o#1",
-          "author": null,
-          "description": "Until a judge reaches a final verdict – or until 1 June 2027 – the Hollywood studios will remain completely separate, competing operations.",
-          "link": "https://www.bbc.co.uk/news/articles/c8en74yz5e7o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-24T21:49:25.000Z",
-          "wordCount": 6020,
-          "title": "Paramount and Warner Bros pause $110bn merger amid legal challenge",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d86/live/eb4a5a10-87a8-11f1-b4f4-2f10373ed74c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvgjenp4680o#0",
-          "author": null,
-          "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-24T20:23:58.000Z",
-          "wordCount": 7158,
-          "title": "Trump vows to investigate EU over fining of US tech companies",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo#0",
-          "author": null,
-          "description": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
-          "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-24T14:02:26.000Z",
-          "wordCount": 7109,
-          "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cj637z28xnyo#3",
-          "author": null,
-          "description": "They face 4.7% inflation - driven by steep rises in fuel and household service costs, report finds.",
-          "link": "https://www.bbc.co.uk/news/articles/cj637z28xnyo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-07-24T12:30:06.000Z",
-          "wordCount": 6492,
-          "title": "New figures show costs rising for pensioners",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e236/live/96e8cab0-8753-11f1-95ec-a30de4e448c4.jpg"
         }
       ]
     },
@@ -3268,6 +3258,56 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/08/23/health/clear-eyes-eye-drops-fda-recall.html",
+          "author": "Johnny Diaz",
+          "description": "Federal safety regulators said the maker of Clear Eyes Maximum Itchy Eye Relief voluntarily recalled the drops because of a “lack of assurance of sterility.”",
+          "link": "https://www.nytimes.com/2026/08/23/health/clear-eyes-eye-drops-fda-recall.html",
+          "publishedOn": "2026-08-23T18:12:53.000Z",
+          "wordCount": null,
+          "title": "Maker of Clear Eyes Recalls Nearly 40,000 Bottles Over Contamination Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html",
+          "author": "Jordyn Holman",
+          "description": "The hit-making duo turned tech moguls also have thoughts about why corporate America isn’t collaborative enough.",
+          "link": "https://www.nytimes.com/2026/08/23/business/jimmy-iovine-dr-dre-beats-usc.html",
+          "publishedOn": "2026-08-23T15:23:52.000Z",
+          "wordCount": null,
+          "title": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+          "author": "Natasha Singer",
+          "description": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
+          "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+          "publishedOn": "2026-08-23T11:13:40.000Z",
+          "wordCount": null,
+          "title": "How Big Tech Captured American Schools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+          "author": "Andrew Higgins",
+          "description": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
+          "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+          "publishedOn": "2026-08-23T09:16:36.000Z",
+          "wordCount": null,
+          "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+          "author": "Farah Stockman and Ismaeel Naar",
+          "description": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
+          "link": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+          "publishedOn": "2026-08-23T09:00:19.000Z",
+          "wordCount": null,
+          "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
           "author": "Ana Swanson",
@@ -6607,226 +6647,6 @@
           "wordCount": null,
           "title": "How the Prius Traces Its Lineage to a 1900 Car From Ferdinand Porsche",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html",
-          "author": "David Gelles",
-          "description": "After his sole heir died, Eddie Smith, the owner of Grady-White Boats, looked for a way to pass on his legacy. He was inspired by Patagonia to pledge future profits to charity.",
-          "link": "https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html",
-          "publishedOn": "2026-07-25T12:00:10.000Z",
-          "wordCount": null,
-          "title": "Sell the Company for $400 Million? He’s Giving It Away Instead.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html",
-          "author": "Ian Frisch",
-          "description": "As start-ups like Anthropic and OpenAI prepare to go public, nonprofits are hoping for a secondary giving windfall from the new tech ultrawealthy.",
-          "link": "https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html",
-          "publishedOn": "2026-07-25T12:00:03.000Z",
-          "wordCount": null,
-          "title": "Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
-          "author": "Leanne Abraham and Jenny Gross",
-          "description": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.",
-          "link": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
-          "publishedOn": "2026-07-25T09:02:10.000Z",
-          "wordCount": null,
-          "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
-          "author": "Patricia Cohen",
-          "description": "Tariffs are back, but this time there is a war in the Persian Gulf and oil has hit $100 a barrel.",
-          "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
-          "publishedOn": "2026-07-25T04:00:07.000Z",
-          "wordCount": null,
-          "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/egg-recall-salmonella-texas.html",
-          "author": "Alena Cerro",
-          "description": "The voluntary recall included eggs produced in Texas and sold under several brand names in six states, the Food and Drug Administration said.",
-          "link": "https://www.nytimes.com/2026/07/24/business/egg-recall-salmonella-texas.html",
-          "publishedOn": "2026-07-24T23:47:27.000Z",
-          "wordCount": null,
-          "title": "1.6 Million Egg Cartons Are Recalled Over Salmonella Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/media/white-house-correspondents-dinner.html",
-          "author": "Michael M. Grynbaum",
-          "description": "President Trump remains the evening’s keynote speaker, as relations between his administration and the press continue to deteriorate.",
-          "link": "https://www.nytimes.com/2026/07/24/business/media/white-house-correspondents-dinner.html",
-          "publishedOn": "2026-07-24T23:34:10.000Z",
-          "wordCount": null,
-          "title": "Trump to Speak as White House Correspondents Dinner Returns With More Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html",
-          "author": "Benjamin Mullin, David McCabe and Lauren Hirsch",
-          "description": "The company agreed to a proposed freeze until June 2027, unless a judge issues a ruling before then on a lawsuit blocking the deal.",
-          "link": "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html",
-          "publishedOn": "2026-07-24T23:02:23.000Z",
-          "wordCount": 6834,
-          "title": "Paramount Agrees to Delay Warner Bros. Merger for Months",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/24/multimedia/00biz-paramount-fgpq/00biz-paramount-fgpq-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html",
-          "author": "Christina Jewett and Dana G. Smith",
-          "description": "The committee endorsed broader use of the peptides in lightly regulated compounding pharmacies that have grown into a multibillion-dollar business.",
-          "link": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html",
-          "publishedOn": "2026-07-24T21:15:21.000Z",
-          "wordCount": 7647,
-          "title": "F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-peptides-FDA-fkjz/24dc-peptides-FDA-fkjz-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html",
-          "author": "Tony Romm and Brad Plumer",
-          "description": "Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.",
-          "link": "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html",
-          "publishedOn": "2026-07-24T21:10:49.000Z",
-          "wordCount": 7545,
-          "title": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-trump-budget-01-wqlv/24dc-trump-budget-01-wqlv-facebookJumbo-v2.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/china-europe-rare-earths.html",
-          "author": "Keith Bradsher",
-          "description": "Beijing banned shipments of important supplies to 14 companies on the cutting edge of chemicals processing, electric motors and defense.",
-          "link": "https://www.nytimes.com/2026/07/24/business/china-europe-rare-earths.html",
-          "publishedOn": "2026-07-24T20:37:16.000Z",
-          "wordCount": null,
-          "title": "China Wields Its Rare Earth Leverage Over Europe With New Export Controls",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/media/cecilia-vega-60-minutes.html",
-          "author": "Benjamin Mullin",
-          "description": "Cecilia Vega described what she said was pressure from executives to insert bias into several segments that aired this year.",
-          "link": "https://www.nytimes.com/2026/07/24/business/media/cecilia-vega-60-minutes.html",
-          "publishedOn": "2026-07-24T20:33:38.000Z",
-          "wordCount": 6674,
-          "title": "Former ‘60 Minutes’ Reporter Cecilia Vega Details Claims of Meddling",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/23/multimedia/Cecilia-Vega-vkzt/Cecilia-Vega-vkzt-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/trump-tariffs-small-businesses-lawsuit.html",
-          "author": "Tony Romm and Ana Swanson",
-          "description": "The businesses are represented by the Liberty Justice Center, a legal group that has successfully challenged President Trump’s past duties.",
-          "link": "https://www.nytimes.com/2026/07/24/business/trump-tariffs-small-businesses-lawsuit.html",
-          "publishedOn": "2026-07-24T20:25:56.000Z",
-          "wordCount": null,
-          "title": "Small Businesses Sue Trump Administration Over Latest Tariffs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html",
-          "author": "Jenny Gross and Laura Stevens",
-          "description": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
-          "link": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html",
-          "publishedOn": "2026-07-24T20:03:03.000Z",
-          "wordCount": null,
-          "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/investing-stocks-trump-politics.html",
-          "author": "Jeff Sommer",
-          "description": "Despite the blurring of lines between big business and the Trump administration, investing in broad index funds instead of stocks with political ties looks like a better bet.",
-          "link": "https://www.nytimes.com/2026/07/24/business/investing-stocks-trump-politics.html",
-          "publishedOn": "2026-07-24T19:22:03.000Z",
-          "wordCount": 8018,
-          "title": "Why It’s Best to Keep Politics Out of Your Investment Strategy",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/26/business/24biz-strategies-trump-ILLO/24biz-strategies-trump-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html",
-          "author": "Tony Romm",
-          "description": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
-          "link": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html",
-          "publishedOn": "2026-07-24T17:29:55.000Z",
-          "wordCount": null,
-          "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/dining/coca-cola-marlboro.html",
-          "author": "Remy Tumin",
-          "description": "After the soda company introduced a new brand design, some fans spotted similarities to the typeface used by the cigarette brand. Enter the font nerds.",
-          "link": "https://www.nytimes.com/2026/07/24/dining/coca-cola-marlboro.html",
-          "publishedOn": "2026-07-24T15:34:35.000Z",
-          "wordCount": 7281,
-          "title": "Coca-Cola’s New Branding Reminds People of Marlboro",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/23/multimedia/23FD-COKE-MARLBORO3-lcpw/23FD-COKE-MARLBORO3-lcpw-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/russian-lng-european-union.html",
-          "author": "Lisa Friedman",
-          "description": "Europeans say they fear a rising dependence on American energy even with a Jan. 1 deadline to end liquefied natural gas imports from Russia.",
-          "link": "https://www.nytimes.com/2026/07/24/business/russian-lng-european-union.html",
-          "publishedOn": "2026-07-24T14:27:06.000Z",
-          "wordCount": null,
-          "title": "Clock Ticks Down to Europe’s Ban on Russian Gas Tankers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
-          "author": "Alexandra Stevenson",
-          "description": "Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada.",
-          "link": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
-          "publishedOn": "2026-07-24T14:20:13.000Z",
-          "wordCount": null,
-          "title": "China Has Come Through Trump’s Trade War in a Good Position",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html",
-          "author": "Joe Rennison and Gregory Schmidt",
-          "description": "The yield on the 10-year Treasury bond has risen steadily this year, as the Iran war rages, government spending worries intensify and artificial intelligence spending boosts growth.",
-          "link": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html",
-          "publishedOn": "2026-07-24T14:14:04.000Z",
-          "wordCount": 7118,
-          "title": "Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/24/multimedia/24biz-rates-fvjb/24biz-rates-fvjb-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
-          "author": "Ben Sisario",
-          "description": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.",
-          "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
-          "publishedOn": "2026-07-24T14:08:05.000Z",
-          "wordCount": 8239,
-          "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/20/arts/faq-music-static/faq-music-static-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/article/trump-tariffs-trade.html",
-          "author": "Tony Romm, Edison Wu and Lazaro Gamio",
-          "description": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
-          "link": "https://www.nytimes.com/article/trump-tariffs-trade.html",
-          "publishedOn": "2026-07-24T13:57:42.000Z",
-          "wordCount": 8306,
-          "title": "Trump’s Section 301 Tariffs: Map of Countries Targeted With New Rates",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/24/multimedia/2026-tariff-tracker-embeds-index/2026-tariff-tracker-embeds-index-facebookJumbo-v4.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/07/24/business/credit-card-debt-collection-lawsuits.html",
-          "author": "Ann Carrns",
-          "description": "Consumers are being taken to court in droves for delinquent credit card and other bills. New legal protections and even A.I. could be a lifeline.",
-          "link": "https://www.nytimes.com/2026/07/24/business/credit-card-debt-collection-lawsuits.html",
-          "publishedOn": "2026-07-24T13:00:09.000Z",
-          "wordCount": null,
-          "title": "Debt Collection Suits Have Risen Sharply. There’s Help for Consumers Being Sued.",
-          "imageUrl": null
         }
       ]
     },
@@ -6835,6 +6655,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/company-news/lindsay-australia-fy26-slides-revenue-tops-1bn-eyes-secondary-growth-93CH-4872494",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/lindsay-australia-fy26-slides-revenue-tops-1bn-eyes-secondary-growth-93CH-4872494",
+          "publishedOn": "2026-08-23T23:54:34.000Z",
+          "wordCount": null,
+          "title": "Lindsay Australia FY26 slides: revenue tops $1bn, eyes secondary growth",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEM0J0ZC_1200_L.jpg",
+            "length": "138403",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM0J0ZC_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/california-expected-to-seek-tv-channel-sales-from-paramountwarner-wsj-reports-4872493",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/california-expected-to-seek-tv-channel-sales-from-paramountwarner-wsj-reports-4872493",
+          "publishedOn": "2026-08-23T23:54:29.000Z",
+          "wordCount": null,
+          "title": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0HO_L.jpg",
+            "length": "93667",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0HO_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/ampol-swings-to-interim-profit-as-iran-war-boosts-refining-margins-93CH-4872492",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/ampol-swings-to-interim-profit-as-iran-war-boosts-refining-margins-93CH-4872492",
+          "publishedOn": "2026-08-23T23:50:47.000Z",
+          "wordCount": null,
+          "title": "Ampol swings to interim profit as Iran war boosts refining margins",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM2N017_1200_L.jpg",
+            "length": "53787",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM2N017_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/bendigo-bank-swings-to-fy-profit-93CH-4872491",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/bendigo-bank-swings-to-fy-profit-93CH-4872491",
+          "publishedOn": "2026-08-23T23:50:44.000Z",
+          "wordCount": null,
+          "title": "Bendigo Bank swings to FY profit",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+            "length": "25035",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-lindsay-australia-posts-record-h2-2026-results-93CH-4872490",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-lindsay-australia-posts-record-h2-2026-results-93CH-4872490",
+          "publishedOn": "2026-08-23T23:40:38.000Z",
+          "wordCount": null,
+          "title": "Earnings call transcript: Lindsay Australia posts record H2 2026 results",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+            "length": "32039",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/australias-ampol-logs-record-halfyear-profit-with-more-than-fourfold-rise-4872482",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/australias-ampol-logs-record-halfyear-profit-with-more-than-fourfold-rise-4872482",
+          "publishedOn": "2026-08-23T23:36:25.000Z",
+          "wordCount": null,
+          "title": "Ampol posts near five-fold surge in profit as Iran war boosts refining margin",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0GB_L.jpg",
+            "length": "59203",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0GB_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
+          "publishedOn": "2026-08-23T23:24:49.000Z",
+          "wordCount": null,
+          "title": "Oil falls 1% ahead of US announcement to impose further sanctions on Iran",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0H2_L.jpg",
+            "length": "42369",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0H2_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/chorus-fy26-slides-fibre-uptake-reaches-759-profit-jumps-to-37m-93CH-4872488",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/chorus-fy26-slides-fibre-uptake-reaches-759-profit-jumps-to-37m-93CH-4872488",
+          "publishedOn": "2026-08-23T23:14:26.000Z",
+          "wordCount": null,
+          "title": "Chorus FY26 slides: fibre uptake reaches 75.9%, profit jumps to $37m",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEM0J1E6_1200_L.jpg",
+            "length": "41453",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM0J1E6_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479",
+          "publishedOn": "2026-08-23T23:13:39.000Z",
+          "wordCount": null,
+          "title": "Fast fashion giant Shein valued at up to $27 billion in Hong Kong IPO",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0FP_L.jpg",
+            "length": "60683",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0FP_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/analysischinas-property-crisis-grinds-on-after-evergrande-sentencing-4872486",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/analysischinas-property-crisis-grinds-on-after-evergrande-sentencing-4872486",
+          "publishedOn": "2026-08-23T23:12:55.000Z",
+          "wordCount": null,
+          "title": "Analysis-China’s property crisis grinds on after Evergrande sentencing",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0GQ_L.jpg",
+            "length": "64862",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0GQ_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/economic-indicators/germanys-merz-to-press-cabinet-for-faster-progrowth-reforms-4872393",
           "author": "Reuters",
@@ -10929,121 +10899,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/politics-news/trump-returns-to-white-house-correspondents-dinner-after-april-attack-halted-gala-4810947",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/politics-news/trump-returns-to-white-house-correspondents-dinner-after-april-attack-halted-gala-4810947",
-          "publishedOn": "2026-07-25T01:00:30.000Z",
-          "wordCount": null,
-          "title": "Trump to deliver ’unifying yet vicious’ speech at dinner celebrating press freedom",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXNPEC980EA_M.jpg",
-            "length": "15019",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXNPEC980EA_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-144-radcom-ltd-for-24-july-93CH-4812676",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-144-radcom-ltd-for-24-july-93CH-4812676",
-          "publishedOn": "2026-07-25T01:00:18.000Z",
-          "wordCount": null,
-          "title": "Form 144 RADCOM LTD For: 24 July",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-airbnbinc-for-24-july-93CH-4812675",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-airbnbinc-for-24-july-93CH-4812675",
-          "publishedOn": "2026-07-25T01:00:15.000Z",
-          "wordCount": null,
-          "title": "Form 4 Airbnb Inc For: 24 July",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/LYNXMPEB310IW_M.jpg",
-            "length": "17345",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/LYNXMPEB310IW_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-24-july-93CH-4812674",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-24-july-93CH-4812674",
-          "publishedOn": "2026-07-25T01:00:12.000Z",
-          "wordCount": null,
-          "title": "Form 4 AngioDynamics Inc For: 24 July",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-144-northrop-grumman-corp-for-24-july-93CH-4812672",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-144-northrop-grumman-corp-for-24-july-93CH-4812672",
-          "publishedOn": "2026-07-25T01:00:11.000Z",
-          "wordCount": null,
-          "title": "Form 144 Northrop Grumman Corp For: 24 July",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-venu-holding-for-24-july-93CH-4812671",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-venu-holding-for-24-july-93CH-4812671",
-          "publishedOn": "2026-07-25T01:00:10.000Z",
-          "wordCount": null,
-          "title": "Form 4 Venu Holding For: 24 July",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-24-july-93CH-4812670",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-angiodynamics-inc-for-24-july-93CH-4812670",
-          "publishedOn": "2026-07-25T00:45:16.000Z",
-          "wordCount": null,
-          "title": "Form 4 AngioDynamics Inc For: 24 July",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-eaglerock-land-for-24-july-93CH-4812669",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-eaglerock-land-for-24-july-93CH-4812669",
-          "publishedOn": "2026-07-25T00:45:15.000Z",
-          "wordCount": null,
-          "title": "Form 4 EagleRock Land For: 24 July",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-13da-global-net-lease-for-24-july-93CH-4812668",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-13da-global-net-lease-for-24-july-93CH-4812668",
-          "publishedOn": "2026-07-25T00:45:14.000Z",
-          "wordCount": null,
-          "title": "Form 13D/A Global Net Lease For: 24 July",
-          "enclosure": {
-            "url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-            "length": "2938",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/filings/form-4-hilltop-holdings-inc-for-24-july-93CH-4812667",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/filings/form-4-hilltop-holdings-inc-for-24-july-93CH-4812667",
-          "publishedOn": "2026-07-25T00:45:10.000Z",
-          "wordCount": null,
-          "title": "Form 4 Hilltop Holdings Inc For: 24 July",
-          "imageUrl": null
         }
       ]
     },
