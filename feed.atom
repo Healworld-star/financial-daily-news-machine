@@ -2,10 +2,260 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://healworld-star.github.io/financial-daily-news-machine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T01:23:32.992Z</updated>
+    <updated>2026-09-07T01:22:04.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://healworld-star.github.io/financial-daily-news-machine/index.html"/>
     <link rel="self" href="https://healworld-star.github.io/financial-daily-news-machine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Five dead after Amazon cargo plane crashes at Miami airport]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-07T00:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Five people are dead and five seriously injured after a Boeing 767-300 cargo plane "overran" the runway and caught fire, officials say.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gold holds near $4,400 as strong payrolls, Iran tensions lift Fed hike bets]]></title>
+        <id>https://www.investing.com/news/commodities-news/gold-holds-near-4400-as-strong-payrolls-iran-tensions-lift-fed-hike-bets-4890334</id>
+        <link href="https://www.investing.com/news/commodities-news/gold-holds-near-4400-as-strong-payrolls-iran-tensions-lift-fed-hike-bets-4890334"/>
+        <updated>2026-09-07T00:57:35.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Takaichi’s reflationist aide projects Bank of Japan rate hike in September]]></title>
+        <id>https://www.investing.com/news/economy-news/takaichis-reflationist-aide-projects-bank-of-japan-rate-hike-in-september-4890331</id>
+        <link href="https://www.investing.com/news/economy-news/takaichis-reflationist-aide-projects-bank-of-japan-rate-hike-in-september-4890331"/>
+        <updated>2026-09-07T00:54:40.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia’s Ingenia rejects $1.4 bln Warburg Pincus buyout bid; shares surge]]></title>
+        <id>https://www.investing.com/news/stock-market-news/australias-ingenia-rejects-14-bln-warburg-pincus-buyout-bid-4890325</id>
+        <link href="https://www.investing.com/news/stock-market-news/australias-ingenia-rejects-14-bln-warburg-pincus-buyout-bid-4890325"/>
+        <updated>2026-09-07T00:43:57.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At least 5 killed in Amazon Prime Air cargo plane crash in Miami]]></title>
+        <id>https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317</id>
+        <link href="https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317"/>
+        <updated>2026-09-07T00:42:26.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan’s August foreign reserves post largest-ever drop after record intervention]]></title>
+        <id>https://www.investing.com/news/economic-indicators/japans-august-foreign-reserves-post-largestever-drop-after-record-intervention-4890332</id>
+        <link href="https://www.investing.com/news/economic-indicators/japans-august-foreign-reserves-post-largestever-drop-after-record-intervention-4890332"/>
+        <updated>2026-09-07T00:31:00.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil extends gains after US and Iran strike ships]]></title>
+        <id>https://www.investing.com/news/commodities-news/oil-extends-gains-after-us-and-iran-strike-ships-4890330</id>
+        <link href="https://www.investing.com/news/commodities-news/oil-extends-gains-after-us-and-iran-strike-ships-4890330"/>
+        <updated>2026-09-07T00:18:30.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch]]></title>
+        <id>https://www.investing.com/news/stock-market-news/nvidias-huang-says-agi-has-arrived-after-openais-gpt6-astra-launch-4890329</id>
+        <link href="https://www.investing.com/news/stock-market-news/nvidias-huang-says-agi-has-arrived-after-openais-gpt6-astra-launch-4890329"/>
+        <updated>2026-09-07T00:16:58.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon cargo plane crash at Miami airport kills five]]></title>
+        <id>https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316</id>
+        <link href="https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316"/>
+        <updated>2026-09-07T00:00:29.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foxconn says third quarter to outperform market expectations on AI strength]]></title>
+        <id>https://www.investing.com/news/stock-market-news/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-4890327</id>
+        <link href="https://www.investing.com/news/stock-market-news/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength-4890327"/>
+        <updated>2026-09-06T23:54:27.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chancellor to unveil growth plan with £150m fund for northern firms]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cgjqg450w28o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-06T23:34:18.000Z</updated>
+        <summary type="html"><![CDATA[John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The £70 refund letter that isn't a scam]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c23x0kd8eleo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-06T23:16:05.000Z</updated>
+        <summary type="html"><![CDATA[About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The £70 refund letter that isn't a scam]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c23x0kd8eleo#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-06T23:16:05.000Z</updated>
+        <summary type="html"><![CDATA[About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK recruiters see first rise in permanent role hiring since 2022]]></title>
+        <id>https://www.investing.com/news/forex-news/uk-recruiters-see-first-rise-in-permanent-role-hiring-since-2022-4890324</id>
+        <link href="https://www.investing.com/news/forex-news/uk-recruiters-see-first-rise-in-permanent-role-hiring-since-2022-4890324"/>
+        <updated>2026-09-06T23:12:25.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cargo Plane Crashes at Miami Airport, Striking Vehicles]]></title>
+        <id>https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html"/>
+        <updated>2026-09-06T23:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Officials said 5 others were injured. Flights were halted for hours at Miami International Airport after the Boeing 767-300 cargo plane overran its landing.]]></summary>
+        <author>
+            <name>Johnny Diaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil Prices Rise Slightly After U.S. and Iran Trade Strikes]]></title>
+        <id>https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html"/>
+        <updated>2026-09-06T22:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Brent crude, the global benchmark for oil, was up about 1 percent as trading resumed on Sunday, while the national average price of gas was nearly $4.15 a gallon.]]></summary>
+        <author>
+            <name>Stacy Cowley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume]]></title>
+        <id>https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html"/>
+        <updated>2026-09-06T17:24:41.000Z</updated>
+        <summary type="html"><![CDATA[The decision on Sunday by the cartel of oil-producing nations and some of its allies came after the resumption of U.S. and Iranian military strikes in the Persian Gulf.]]></summary>
+        <author>
+            <name>Lisa Friedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minister to meet Jaguar Land Rover boss as thousands of job cuts expected]]></title>
+        <id>https://www.bbc.co.uk/news/articles/crer948xq00o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-06T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Speaking to the BBC, Business Secretary Jonathan Reynolds ruled out a bailout for the company.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate]]></title>
+        <id>https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html"/>
+        <updated>2026-09-06T13:28:53.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. military is helping oil get out of the Persian Gulf on tankers, but Iran is still attacking the ships and scaring operators away.]]></summary>
+        <author>
+            <name>Peter Eavis and Jenny Gross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuel duty proposal withdrawn after discussions]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cy8znkkn5rvo#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/cy8znkkn5rvo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-06T12:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Deputy Lucy Stephenson had wanted to cut the tax by 10p a litre for three months.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Victoria’s Secret Is Reviving Its Pink Brand]]></title>
+        <id>https://www.nytimes.com/2026/09/06/business/victorias-secret-pink.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/business/victorias-secret-pink.html"/>
+        <updated>2026-09-06T10:53:58.000Z</updated>
+        <summary type="html"><![CDATA[After Pink’s sales slipped in recent years, Victoria Secret’s new chief executive is focused on making women feel bold and flirty.]]></summary>
+        <author>
+            <name>Kim Bhasin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CCRCs Are Expanding Retirement Home Care to Seniors’ Own Homes]]></title>
+        <id>https://www.nytimes.com/2026/09/06/business/retirement-long-term-care.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/business/retirement-long-term-care.html"/>
+        <updated>2026-09-06T10:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Continuing care retirement communities are widening their scope to help retirees age in place, with measured supports and a way to cap the soaring costs of aging.]]></summary>
+        <author>
+            <name>Joanne Cleaver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Go Get Your Kicks’: The Europeans Obsessed With a U.S. Highway]]></title>
+        <id>https://www.nytimes.com/2026/09/06/business/route-66-highway-centennial.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/business/route-66-highway-centennial.html"/>
+        <updated>2026-09-06T10:47:57.000Z</updated>
+        <summary type="html"><![CDATA[As Route 66 turns 100, tourists in search of Americana try to keep war, inflation and politics in the rearview.]]></summary>
+        <author>
+            <name>Ken Belson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips]]></title>
+        <id>https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html"/>
+        <updated>2026-09-06T10:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.]]></summary>
+        <author>
+            <name>Ana Swanson, Paul Mozur, Tripp Mickle and Keith Bradsher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The C.E.O. Teaching Future Generations About 9/11]]></title>
+        <id>https://www.nytimes.com/2026/09/06/business/9-11-museum-elizabeth-hillman.html</id>
+        <link href="https://www.nytimes.com/2026/09/06/business/9-11-museum-elizabeth-hillman.html"/>
+        <updated>2026-09-06T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Elizabeth Hillman, chief of the 9/11 Memorial & Museum since 2022, says the stories of that day “remain compelling, and they’re still unfolding.”]]></summary>
+        <author>
+            <name>Jordyn Holman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why a famous Montreal sandwich shop has been forced to swap its soda]]></title>
+        <id>https://www.bbc.co.uk/news/videos/c99dpd083v9o#5</id>
+        <link href="https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-06T06:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why some investors say Volkswagen is simply "not fixable"]]></title>
         <id>https://www.investing.com/news/stock-market-news/why-some-investors-say-volkswagen-is-simply-not-fixable-4890247</id>
@@ -229,6 +479,28 @@ The idea is to maintain high equity exposure, while adding the leveraged bonds t
         <summary type="html"><![CDATA[The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.]]></summary>
         <author>
             <name>Jim Rutenberg, Erik Wemple and Benjamin Mullin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaguar Land Rover confirms planned job cuts]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-09-05T13:22:17.000Z</updated>
+        <summary type="html"><![CDATA[The firm says it needs to save about £1.7bn over the next two years.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reinvention of Apollo Is Bigger Than Its Scandals]]></title>
+        <id>https://www.reddit.com/r/finance/comments/1w808vs/the_reinvention_of_apollo_is_bigger_than_its/</id>
+        <link href="https://www.reddit.com/r/finance/comments/1w808vs/the_reinvention_of_apollo_is_bigger_than_its/"/>
+        <updated>2026-09-05T13:04:45.000Z</updated>
+        <summary type="html"><![CDATA[William Cohan chronicles the private equity giant’s colorful past. But its push into the savings of the upper middle class makes its future more consequential.
+    submitted by    /u/bloomberg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Financial news and views</name>
         </author>
     </entry>
     <entry>
@@ -12993,16 +13265,6 @@ Check the resources in the sidebar.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Medicare Advantage’s Perks Are Getting Scrutiny]]></title>
-        <id>https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html</id>
-        <link href="https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html"/>
-        <updated>2026-08-08T09:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Officials said no to health plans that wanted to expand extra benefits to cover medical marijuana, streaming services and shopping clubs. More changes are coming in 2027.]]></summary>
-        <author>
-            <name>Susan Jaffe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The U.S. lost jobs in July. The S&P 500 hit another record anyway.]]></title>
         <id>https://www.reddit.com/r/investing/comments/1viqdul/the_us_lost_jobs_in_july_the_sp_500_hit_another/</id>
         <link href="https://www.reddit.com/r/investing/comments/1viqdul/the_us_lost_jobs_in_july_the_sp_500_hit_another/"/>
@@ -13048,16 +13310,6 @@ Check the resources in the sidebar.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shop selling second-hand school uniforms for £5]]></title>
-        <id>https://www.bbc.co.uk/news/articles/czxe31e3enqo#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/czxe31e3enqo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-08T07:19:34.000Z</updated>
-        <summary type="html"><![CDATA[A charity for families facing poverty runs the swap shop for uniforms to help with the cost of living.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Something has seriously gone wonky with my T Rowe Price 401k account. Anyone else?]]></title>
         <id>https://www.reddit.com/r/investing/comments/1viij76/something_has_seriously_gone_wonky_with_my_t_rowe/</id>
         <link href="https://www.reddit.com/r/investing/comments/1viij76/something_has_seriously_gone_wonky_with_my_t_rowe/"/>
@@ -13069,96 +13321,6 @@ Check the resources in the sidebar.
  [link]   [comments]]]></summary>
         <author>
             <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earnings call transcript: AIxCrypto posts narrower q2 loss as stock sinks 11%]]></title>
-        <id>https://www.investing.com/news/transcripts/earnings-call-transcript-aixcrypto-posts-narrower-q2-loss-as-stock-sinks-11-93CH-4847557</id>
-        <link href="https://www.investing.com/news/transcripts/earnings-call-transcript-aixcrypto-posts-narrower-q2-loss-as-stock-sinks-11-93CH-4847557"/>
-        <updated>2026-08-08T00:23:56.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box COO Olivia Nottebohm sells $188,508 in class A common stock]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/box-coo-olivia-nottebohm-sells-188508-in-class-a-common-stock-93CH-4847556</id>
-        <link href="https://www.investing.com/news/insider-trading-news/box-coo-olivia-nottebohm-sells-188508-in-class-a-common-stock-93CH-4847556"/>
-        <updated>2026-08-08T00:16:03.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump administration to invest $3 billion into minerals projects to boost US defense supply chains]]></title>
-        <id>https://www.investing.com/news/stock-market-news/trump-to-host-mining-ceos-as-administration-seeks-minerals-for-defense-supply-chains-4845588</id>
-        <link href="https://www.investing.com/news/stock-market-news/trump-to-host-mining-ceos-as-administration-seeks-minerals-for-defense-supply-chains-4845588"/>
-        <updated>2026-08-08T00:12:29.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US to partially restart activities in Mexico’s avocado hub]]></title>
-        <id>https://www.investing.com/news/commodities-news/us-to-partially-restart-activities-in-mexicos-avocado-hub-4847555</id>
-        <link href="https://www.investing.com/news/commodities-news/us-to-partially-restart-activities-in-mexicos-avocado-hub-4847555"/>
-        <updated>2026-08-08T00:06:30.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roku president Gilbert Fuchsberg sells $1.6m in ROKU stock]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/roku-president-gilbert-fuchsberg-sells-16m-in-roku-stock-93CH-4847554</id>
-        <link href="https://www.investing.com/news/insider-trading-news/roku-president-gilbert-fuchsberg-sells-16m-in-roku-stock-93CH-4847554"/>
-        <updated>2026-08-08T00:05:36.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morningstar executive chairman Joseph Mansueto sells $1.9m in shares]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-joseph-mansueto-sells-19m-in-shares-93CH-4847553</id>
-        <link href="https://www.investing.com/news/insider-trading-news/morningstar-executive-chairman-joseph-mansueto-sells-19m-in-shares-93CH-4847553"/>
-        <updated>2026-08-08T00:01:21.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SentinelOne president & COO Barry Padgett sells $196k in stock]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/sentinelone-president--coo-barry-padgett-sells-196k-in-stock-93CH-4847552</id>
-        <link href="https://www.investing.com/news/insider-trading-news/sentinelone-president--coo-barry-padgett-sells-196k-in-stock-93CH-4847552"/>
-        <updated>2026-08-08T00:01:08.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SentinelOne president Ana Pinczuk sells $125k in shares]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/sentinelone-president-ana-pinczuk-sells-125k-in-shares-93CH-4847551</id>
-        <link href="https://www.investing.com/news/insider-trading-news/sentinelone-president-ana-pinczuk-sells-125k-in-shares-93CH-4847551"/>
-        <updated>2026-08-08T00:01:03.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SentinelOne chief legal officer sells $529,589 in shares]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/sentinelone-chief-legal-officer-sells-529589-in-shares-93CH-4847550</id>
-        <link href="https://www.investing.com/news/insider-trading-news/sentinelone-chief-legal-officer-sells-529589-in-shares-93CH-4847550"/>
-        <updated>2026-08-08T00:00:59.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is the bearish yen sentiment still strong?]]></title>
-        <id>https://www.investing.com/news/forex-news/why-is-the-bearish-yen-sentiment-still-strong-4847548</id>
-        <link href="https://www.investing.com/news/forex-news/why-is-the-bearish-yen-sentiment-still-strong-4847548"/>
-        <updated>2026-08-07T23:58:39.000Z</updated>
-        <author>
-            <name>Investing.com</name>
         </author>
     </entry>
     <entry>
@@ -13279,26 +13441,6 @@ Market pumps pre November as the shorts and puts buy shares to hedge their bet, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook]]></title>
-        <id>https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html</id>
-        <link href="https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html"/>
-        <updated>2026-08-07T18:54:45.000Z</updated>
-        <summary type="html"><![CDATA[The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.]]></summary>
-        <author>
-            <name>Colby Smith and Maggie Haberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Labor Market Shifts Into Reverse as Employers Balk at Hiring]]></title>
-        <id>https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html</id>
-        <link href="https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html"/>
-        <updated>2026-08-07T18:35:32.000Z</updated>
-        <summary type="html"><![CDATA[A spring surge rapidly faded as the summer brought higher prices and more uncertainty for businesses, even as they avoided layoffs.]]></summary>
-        <author>
-            <name>Lydia DePillis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Airbnb earned interest on $12.2 billion last Q ...]]></title>
         <id>https://www.reddit.com/r/investing/comments/1vi8ilo/airbnb_earned_interest_on_122_billion_last_q/</id>
         <link href="https://www.reddit.com/r/investing/comments/1vi8ilo/airbnb_earned_interest_on_122_billion_last_q/"/>
@@ -13329,46 +13471,6 @@ Market pumps pre November as the shorts and puts buy shares to hedge their bet, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jeweller 'priced out' of Christmas market stall this year]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c0qv4g4k4zpo#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/c0qv4g4k4zpo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-07T17:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Alex says a change in operator and rise in costs means this is the first winter she will not be renting a stall.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bond Market Is Signaling Rising Risks. Investors Should Listen.]]></title>
-        <id>https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html</id>
-        <link href="https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html"/>
-        <updated>2026-08-07T16:58:58.000Z</updated>
-        <summary type="html"><![CDATA[While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.]]></summary>
-        <author>
-            <name>Jeff Sommer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a 90-second power outage sparked chaos for rail commuters]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c3ekd5784k5o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-07T16:11:32.000Z</updated>
-        <summary type="html"><![CDATA[The incident raised questions about how a disrupted power supply can have such a widespread impact.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodwin considers selling part of defence business]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c20dgpl0z4jo#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-07T15:22:51.000Z</updated>
-        <summary type="html"><![CDATA[The firm is a key supplier of components to UK and US frigate and submarine programmes.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Bond Market Is Signaling Rising Risks. Investors Should Listen.]]></title>
         <id>https://www.reddit.com/r/investing/comments/1vi2hf7/the_bond_market_is_signaling_rising_risks/</id>
         <link href="https://www.reddit.com/r/investing/comments/1vi2hf7/the_bond_market_is_signaling_rising_risks/"/>
@@ -13379,57 +13481,6 @@ Market pumps pre November as the shorts and puts buy shares to hedge their bet, 
  [link]   [comments]]]></summary>
         <author>
             <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise]]></title>
-        <id>https://www.nytimes.com/2026/08/07/business/economy/jobs-report-interest-rates-fed.html</id>
-        <link href="https://www.nytimes.com/2026/08/07/business/economy/jobs-report-interest-rates-fed.html"/>
-        <updated>2026-08-07T14:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Officials at the Federal Reserve are chiefly focused on the trajectory of inflation after five years of overshooting the central bank’s 2 percent target.]]></summary>
-        <author>
-            <name>Colby Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surprise fall in US jobs last month as slow summer continues]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c20j5rle717o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-07T14:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump administration to pay German firm $1.2bn to halt US wind projects]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-07T13:32:41.000Z</updated>
-        <summary type="html"><![CDATA[The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mums hope school uniform swap will help families]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c5yrqr8npe9o#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/c5yrqr8npe9o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-08-07T13:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Items were donated to the pair for a swap event held in Tavistock Library.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ratings Firm Accused of Grade Inflation Vouched for $40 Billion of Insurer Debt]]></title>
-        <id>https://www.reddit.com/r/finance/comments/1vhty1n/ratings_firm_accused_of_grade_inflation_vouched/</id>
-        <link href="https://www.reddit.com/r/finance/comments/1vhty1n/ratings_firm_accused_of_grade_inflation_vouched/"/>
-        <updated>2026-08-07T07:35:31.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ambuj1tripathi  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Financial news and views</name>
         </author>
     </entry>
 </feed>
