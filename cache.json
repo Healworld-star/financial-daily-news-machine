@@ -6,6 +6,146 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#0",
+          "author": null,
+          "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-16T00:59:20.000Z",
+          "wordCount": 8039,
+          "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o#0",
+          "author": null,
+          "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T23:50:55.000Z",
+          "wordCount": 6378,
+          "title": "UK in talks about joining global defence bank led by Canada",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96d0/live/1ab4a860-b160-11f1-84df-a1b833410ec4.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cv986j48l66ko#0",
+          "author": null,
+          "description": "The global AI race is being hit by very localised political and environmental concerns",
+          "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T23:39:55.000Z",
+          "wordCount": 9592,
+          "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o#0",
+          "author": null,
+          "description": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T23:27:17.000Z",
+          "wordCount": 5751,
+          "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a00/live/07f248b0-b168-11f1-a1e1-ab09ccd44496.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo#0",
+          "author": null,
+          "description": "Few companies have the technology to make aircraft windows which are getting harder to make.",
+          "link": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T23:19:38.000Z",
+          "wordCount": 7938,
+          "title": "The extreme engineering of aircraft windows",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a08/live/b975d4a0-ac34-11f1-b1d1-571ed4d7ff2c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm2qn163053o#0",
+          "author": null,
+          "description": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T23:14:26.000Z",
+          "wordCount": 7692,
+          "title": "We are all new job starters - here's how we got through the first few days",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f76/live/ed4dd290-b126-11f1-b1d1-571ed4d7ff2c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro#0",
+          "author": null,
+          "description": "Many complaints were about affordability, after customers saw steep hikes to bills.",
+          "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T23:14:08.000Z",
+          "wordCount": 6706,
+          "title": "Complaints to watchdog about water firms jump 84%",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/082a/live/80a19f50-b103-11f1-a451-6b1ff10ed362.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw804154z90ko#1",
+          "author": null,
+          "description": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+          "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T19:35:10.000Z",
+          "wordCount": 6253,
+          "title": "US borrowing costs hit highest level since 2007",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0838/live/ae2bcee0-b12c-11f1-b199-f1c9bc04a179.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo#1",
+          "author": null,
+          "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+          "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T11:05:42.000Z",
+          "wordCount": 8599,
+          "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo#3",
+          "author": null,
+          "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+          "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T11:05:42.000Z",
+          "wordCount": 8599,
+          "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1",
+          "author": null,
+          "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T08:49:31.000Z",
+          "wordCount": 8937,
+          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7fc/live/b2c645c0-b104-11f1-a540-61c3f7fc4e6c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo#3",
+          "author": null,
+          "description": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
+          "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T07:20:55.000Z",
+          "wordCount": 8324,
+          "title": "What is the triple lock and how much is the state pension worth?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/829c/live/70bf2ad0-5bff-11f0-960d-e9f1088a89fe.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po#3",
+          "author": null,
+          "description": "Jersey charities say leaving donations in wills can be \"transformational\", regardless of how much.",
+          "link": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T05:03:47.000Z",
+          "wordCount": 7059,
+          "title": "Charities praise will gifts despite cost of living",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b98/live/ff9723d0-b030-11f1-9ae0-e316eeb4632d.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck20989806e9o#1",
+          "author": null,
+          "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+          "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-15T02:50:36.000Z",
+          "wordCount": 9371,
+          "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc0/live/aa535ba0-b0a8-11f1-bc1f-3f186ca4140c.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o#0",
           "author": null,
           "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
@@ -3554,106 +3694,6 @@
           "wordCount": 6678,
           "title": "Film commission backs Amazon MGM expansion of studios",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67d7/live/29b71560-9a58-11f1-ba0a-a16da249d30e.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o#0",
-          "author": null,
-          "description": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
-          "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-17T12:46:25.000Z",
-          "wordCount": 6633,
-          "title": "Virgin takes step towards running Channel Tunnel rail services",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d0e/live/a809a810-9a12-11f1-a05c-fdd5e0ed226e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo#1",
-          "author": null,
-          "description": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
-          "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-17T12:43:09.000Z",
-          "wordCount": 7196,
-          "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4739/live/2c857fd0-9a25-11f1-bf12-b5882ef8968b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o#3",
-          "author": null,
-          "description": "Parents have told BBC Panorama the agency tasked with helping to secure financial support for children after separation or divorce is driving them to breaking point.",
-          "link": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-17T12:27:55.000Z",
-          "wordCount": 6757,
-          "title": "'I used food banks while my ex owed thousands in child maintenance'",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f14/live/a59f82e0-9a33-11f1-b792-a710e56a11dc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o#5",
-          "author": null,
-          "description": "Parents have told BBC Panorama the agency tasked with helping to secure financial support for children after separation or divorce is driving them to breaking point.",
-          "link": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-17T12:27:55.000Z",
-          "wordCount": 6757,
-          "title": "'I used food banks while my ex owed thousands in child maintenance'",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f14/live/a59f82e0-9a33-11f1-b792-a710e56a11dc.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o#1",
-          "author": null,
-          "description": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-          "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-17T05:00:25.000Z",
-          "wordCount": 7776,
-          "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo#1",
-          "author": null,
-          "description": "Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter.",
-          "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-17T04:57:21.000Z",
-          "wordCount": 9016,
-          "title": "Sainsbury's branch halts AI use as shopper ejected",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf39/live/0e2e29b0-9809-11f1-82c8-334b551e2d55.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do#0",
-          "author": null,
-          "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-          "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-17T02:22:04.000Z",
-          "wordCount": 6397,
-          "title": "Ferrari's first ever electric car sold for record $40m",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o#1",
-          "author": null,
-          "description": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
-          "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-16T23:26:30.000Z",
-          "wordCount": 9600,
-          "title": "India built the world's biggest digital payments miracle. Now comes the bill",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/250b/live/07d59750-96ed-11f1-bdf3-57bf9a99cb46.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o#3",
-          "author": null,
-          "description": "New research suggests staying put is costing British savers billions in missed interest every year.",
-          "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-16T23:14:47.000Z",
-          "wordCount": 6599,
-          "title": "How switching your bank account could earn you up to £220",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a01/live/cc8b5e60-9628-11f1-adec-3f90c109009f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo#0",
-          "author": null,
-          "description": "The rules will come into force on Monday along with other changes to planning policy.",
-          "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-08-16T15:04:13.000Z",
-          "wordCount": 6827,
-          "title": "Changing pubs into homes to be made harder under new rules",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff85/live/bb0fc5c0-9981-11f1-a4eb-59b79ff5ff4f.jpg"
         }
       ]
     },
@@ -3668,6 +3708,166 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+          "author": "Jeremy W. Peters, Cecilia Kang and Tierney L. Cross For The New York Times",
+          "description": "At an event in Washington, partisanship took a back seat as elected officials, religious leaders, parents and artists called for reining in artificial intelligence.",
+          "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+          "publishedOn": "2026-09-15T22:17:56.000Z",
+          "wordCount": null,
+          "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/nyregion/data-center-diesel-fuel-spill-new-jersey.html",
+          "author": "Remy Tumin and Hilary Howard",
+          "description": "The fuel poured from a storage tank at a large data center in Secaucus, N.J., into a tributary of the Hackensack River.",
+          "link": "https://www.nytimes.com/2026/09/15/nyregion/data-center-diesel-fuel-spill-new-jersey.html",
+          "publishedOn": "2026-09-15T21:40:13.000Z",
+          "wordCount": null,
+          "title": "Data Center’s Spill of 5,000 Gallons of Diesel Forces N.J. River Cleanup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/economy/scott-bessent-congress.html",
+          "author": "Alan Rappeport",
+          "description": "Testifying before Congress, the Treasury secretary said that he supported giving Americans $5,000 dividends if Republicans win in November.",
+          "link": "https://www.nytimes.com/2026/09/15/business/economy/scott-bessent-congress.html",
+          "publishedOn": "2026-09-15T21:19:21.000Z",
+          "wordCount": null,
+          "title": "Bessent Defends Faltering Bond Market Intervention",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/media/60-minutes-bari-weiss-ratings.html",
+          "author": "Michael M. Grynbaum",
+          "description": "Just under 8 million people watched Sunday’s season premiere, down 21 percent from last year. Viewership for the N.F.L. lead-in fell by about the same.",
+          "link": "https://www.nytimes.com/2026/09/15/business/media/60-minutes-bari-weiss-ratings.html",
+          "publishedOn": "2026-09-15T20:55:11.000Z",
+          "wordCount": null,
+          "title": "‘60 Minutes’ Season Premiere Sees Dip in Ratings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/economy/poverty-rate-trump-safety-net.html",
+          "author": "Sydney Ember and Margot Sanger-Katz",
+          "description": "Median household income rose to a record $87,460 in 2025, according to annual Census Bureau data on the financial well-being of Americans.",
+          "link": "https://www.nytimes.com/2026/09/15/business/economy/poverty-rate-trump-safety-net.html",
+          "publishedOn": "2026-09-15T20:50:19.000Z",
+          "wordCount": null,
+          "title": "Poverty Rate Was Stable Before Trump’s Safety Net Cuts Gained Force",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/dealbook/ai-regulation-khan-sacks.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+          "description": "David Sacks and Lina Khan? Bernie Sanders and Steve Bannon? The debate on artificial intelligence limits is creating unlikely alliances.",
+          "link": "https://www.nytimes.com/2026/09/15/business/dealbook/ai-regulation-khan-sacks.html",
+          "publishedOn": "2026-09-15T20:10:17.000Z",
+          "wordCount": null,
+          "title": "The Unlikely Political Bedfellows on A.I. Regulation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+          "author": "David Yaffe-Bellany",
+          "description": "The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.",
+          "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+          "publishedOn": "2026-09-15T20:06:21.000Z",
+          "wordCount": null,
+          "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html",
+          "author": "Jason Karaian",
+          "description": "The 10-year Treasury yield breached levels last seen in 2007, with intensifying worries about energy-driven inflation contributing to bond investors’ angst.",
+          "link": "https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html",
+          "publishedOn": "2026-09-15T20:00:47.000Z",
+          "wordCount": null,
+          "title": "Key U.S. Borrowing Rate Rises to Highest Level Since 2007",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/dining/nyc-restaurant-news.html",
+          "author": "Florence Fabricant",
+          "description": "The NoHo Hospitality Group reimagines the dining room at the Public Theater, Lana Lagomarsini serves up tasting menus at Creola and more food news.",
+          "link": "https://www.nytimes.com/2026/09/15/dining/nyc-restaurant-news.html",
+          "publishedOn": "2026-09-15T19:02:59.000Z",
+          "wordCount": null,
+          "title": "The New Restaurant at the Public Theater Revives the Astor Family Name",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+          "author": "Ian Austen",
+          "description": "Prime Minister Mark Carney brought together in Toronto about 100 money managers overseeing much of the world’s wealth to promote Canada as an ideal place to invest.",
+          "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+          "publishedOn": "2026-09-15T18:42:07.000Z",
+          "wordCount": null,
+          "title": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/media/apple-emmys-widows-bay.html",
+          "author": "John Koblin",
+          "description": "The tech giant took home the most trophies this year, breaking the chokehold HBO and Netflix have had on the awards for more than two decades.",
+          "link": "https://www.nytimes.com/2026/09/15/business/media/apple-emmys-widows-bay.html",
+          "publishedOn": "2026-09-15T18:26:30.000Z",
+          "wordCount": 7577,
+          "title": "With Emmys Haul, Apple Joins the Big Leagues of TV",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/15/multimedia/15biz-emmys-apple-mfwk/15biz-emmys-apple-mfwk-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html",
+          "author": "David Yaffe-Bellany and Michael Forsythe",
+          "description": "Federal prosecutors said proceeds from the sale of Iranian oil flowed through Binance, the world’s largest crypto exchange, to finance terrorism.",
+          "link": "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html",
+          "publishedOn": "2026-09-15T17:29:37.000Z",
+          "wordCount": null,
+          "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html",
+          "author": "Tony Romm, Dustin Volz and Michael Gold",
+          "description": "For years, Democrats and Republicans have proposed bills to address the greatest threats posed by artificial intelligence. Many remain stymied by political disputes.",
+          "link": "https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html",
+          "publishedOn": "2026-09-15T15:25:20.000Z",
+          "wordCount": null,
+          "title": "Congress Has Proposed Many Bills for A.I. Regulation. Lawmakers Have Enacted Few.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
+          "author": "Colby Smith",
+          "description": "The Federal Reserve is expected to raise interest rates on Wednesday, putting Kevin M. Warsh, the chairman, at odds with the administration just before the midterms.",
+          "link": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
+          "publishedOn": "2026-09-15T09:04:03.000Z",
+          "wordCount": null,
+          "title": "Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/media/poll-watching-midterm-election.html",
+          "author": "Tiffany Hsu",
+          "description": "Groups are preparing thousands of observers for midterm elections in November. Some volunteers are being conditioned to expect bad behavior.",
+          "link": "https://www.nytimes.com/2026/09/15/business/media/poll-watching-midterm-election.html",
+          "publishedOn": "2026-09-15T09:02:06.000Z",
+          "wordCount": null,
+          "title": "It’s Poll Watcher Training Season. Distrust Is on the Lesson Plan.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html",
+          "author": "River Akira Davis and Hisako Ueno",
+          "description": "As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening.",
+          "link": "https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html",
+          "publishedOn": "2026-09-15T04:00:08.000Z",
+          "wordCount": null,
+          "title": "Architects of Japan’s Easy-Money Policies Are Changing Their Minds",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html",
           "author": "Alan Rappeport",
@@ -7017,16 +7217,6 @@
           "wordCount": 7490,
           "title": "‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent",
           "imageUrl": "https://static01.nyt.com/images/2026/08/17/multimedia/17Biz-Pay-Later-bhfj/17Biz-Pay-Later-bhfj-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/08/17/business/dealbook/cuban-founders-california-wealth-tax.html",
-          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
-          "description": "Some entrepreneurs, including Mark Cuban, are publicly worried about the potential fallout from California’s proposal to impose a special billionaire tax.",
-          "link": "https://www.nytimes.com/2026/08/17/business/dealbook/cuban-founders-california-wealth-tax.html",
-          "publishedOn": "2026-08-17T12:31:33.000Z",
-          "wordCount": null,
-          "title": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
-          "imageUrl": null
         }
       ]
     },
@@ -7035,6 +7225,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/stock-market-news/american-savings-bank-prices-ipo-at-16-per-share-on-nyse-432SI-4902820",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/american-savings-bank-prices-ipo-at-16-per-share-on-nyse-432SI-4902820",
+          "publishedOn": "2026-09-16T01:34:01.000Z",
+          "wordCount": null,
+          "title": "American Savings Bank prices IPO at $16 per share on NYSE",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+            "length": "16958",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/solidion-technology-ceo-jaymes-winters-buys-6996-in-company-stock-93CH-4902826",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/solidion-technology-ceo-jaymes-winters-buys-6996-in-company-stock-93CH-4902826",
+          "publishedOn": "2026-09-16T01:31:01.000Z",
+          "wordCount": null,
+          "title": "Solidion Technology CEO Jaymes Winters buys $6,996 in company stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+            "length": "114383",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/clover-health-ceo-medicare-advantage-jamie-reynoso-sells-44324-in-clov-shares-93CH-4902825",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/clover-health-ceo-medicare-advantage-jamie-reynoso-sells-44324-in-clov-shares-93CH-4902825",
+          "publishedOn": "2026-09-16T01:30:49.000Z",
+          "wordCount": null,
+          "title": "Clover Health CEO, Medicare advantage, Jamie Reynoso sells $44,324 in CLOV shares",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+            "length": "135320",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/asian-markets-make-nervous-start-ahead-of-fed-decision-4902821",
+          "publishedOn": "2026-09-16T01:30:25.000Z",
+          "wordCount": null,
+          "title": "Asian markets make nervous start ahead of Fed decision",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8F02Y_L.jpg",
+            "length": "61252",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8F02Y_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/american-savings-bank-prices-ipo-at-16-per-share-93CH-4902823",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/american-savings-bank-prices-ipo-at-16-per-share-93CH-4902823",
+          "publishedOn": "2026-09-16T01:28:28.000Z",
+          "wordCount": null,
+          "title": "American Savings Bank prices IPO at $16 per share",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
+            "length": "108681",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/australias-reliance-worldwide-agrees-to-brookfields-29-billion-buyout-bid-4902822",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/australias-reliance-worldwide-agrees-to-brookfields-29-billion-buyout-bid-4902822",
+          "publishedOn": "2026-09-16T01:24:52.000Z",
+          "wordCount": null,
+          "title": "Australia’s Reliance Worldwide agrees to Brookfield’s $2.9 billion buyout bid",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8F007_L.jpg",
+            "length": "51411",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8F007_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/neonc-cfo-keithly-garnett-buys-1000-in-company-stock-93CH-4902819",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/neonc-cfo-keithly-garnett-buys-1000-in-company-stock-93CH-4902819",
+          "publishedOn": "2026-09-16T01:15:55.000Z",
+          "wordCount": null,
+          "title": "Neonc CFO Keithly Garnett buys $1,000 in company stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+            "length": "114383",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-alexander-sells-7345-in-shares-93CH-4902817",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/landmark-bancorp-director-alexander-sells-7345-in-shares-93CH-4902817",
+          "publishedOn": "2026-09-16T01:15:48.000Z",
+          "wordCount": null,
+          "title": "Landmark Bancorp director Alexander sells $7,345 in shares",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+            "length": "178658",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/ultragenyx-svp-sells-17410-in-common-stock-93CH-4902818",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/ultragenyx-svp-sells-17410-in-common-stock-93CH-4902818",
+          "publishedOn": "2026-09-16T01:15:48.000Z",
+          "wordCount": null,
+          "title": "Ultragenyx SVP sells $17,410 in common stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+            "length": "162121",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/dollar-girded-by-bets-on-a-us-hiking-cycle-4902809",
+          "publishedOn": "2026-09-16T01:06:27.000Z",
+          "wordCount": null,
+          "title": "Dollar girded by bets on a US hiking cycle",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8F021_L.jpg",
+            "length": "58709",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8F021_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/stock-market-news/jean-smart-makes-emmy-history-with-fifth-win-for-hacks-4900688",
           "author": "Reuters",
@@ -11204,156 +11544,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7G1IR_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/shipping-slows-through-strait-of-hormuz-after-tanker-attacks-data-shows-4862024",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/shipping-slows-through-strait-of-hormuz-after-tanker-attacks-data-shows-4862024",
-          "publishedOn": "2026-08-17T00:00:46.000Z",
-          "wordCount": null,
-          "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM7F0H2_L.jpg",
-            "length": "32552",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7F0H2_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economic-indicators/japans-economy-expands-annualised-11-in-apriljune-4862023",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economic-indicators/japans-economy-expands-annualised-11-in-apriljune-4862023",
-          "publishedOn": "2026-08-17T00:00:28.000Z",
-          "wordCount": null,
-          "title": "Japan’s economy expands annualised 1.1% in April-June",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM7F0HN_L.jpg",
-            "length": "95613",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7F0HN_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/freightways-fy26-slides-strong-growth-clouded-by-q4-softening-93CH-4862021",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/freightways-fy26-slides-strong-growth-clouded-by-q4-softening-93CH-4862021",
-          "publishedOn": "2026-08-16T23:51:42.000Z",
-          "wordCount": null,
-          "title": "Freightways FY26 slides: strong growth clouded by Q4 softening",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEM350U8_1200_L.jpg",
-            "length": "135783",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM350U8_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/why-is-a2-milk-stock-tumbling-today-93CH-4862020",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-a2-milk-stock-tumbling-today-93CH-4862020",
-          "publishedOn": "2026-08-16T23:50:17.000Z",
-          "wordCount": null,
-          "title": "Why is A2 Milk stock tumbling today?",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-            "length": "13197",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/a2-milk-fy-profit-slumps-44-on-china-supply-disruptions-93CH-4862019",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/a2-milk-fy-profit-slumps-44-on-china-supply-disruptions-93CH-4862019",
-          "publishedOn": "2026-08-16T23:50:07.000Z",
-          "wordCount": null,
-          "title": "a2 Milk FY profit slumps 44% on China supply disruptions",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-            "length": "16958",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/trump-asks-pentagon-to-slash-military-drills-with-south-korea-4862018",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/trump-asks-pentagon-to-slash-military-drills-with-south-korea-4862018",
-          "publishedOn": "2026-08-16T23:45:03.000Z",
-          "wordCount": null,
-          "title": "Trump asks Pentagon to slash military drills with South Korea",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM6M18C_1200_L.jpg",
-            "length": "204264",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM6M18C_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-freightways-posts-strong-h2-2026-results-as-fuel-costs-bite-93CH-4862017",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-freightways-posts-strong-h2-2026-results-as-fuel-costs-bite-93CH-4862017",
-          "publishedOn": "2026-08-16T23:03:31.000Z",
-          "wordCount": null,
-          "title": "Earnings call transcript: Freightways posts strong H2 2026 results as fuel costs bite",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-            "length": "13197",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
-          "publishedOn": "2026-08-16T22:20:48.000Z",
-          "wordCount": null,
-          "title": "Bitcoin hovers around $63k as Strategy’s Saylor calls it ‘digital monetary energy’",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXNPEL5112O_L.jpg",
-            "length": "146303",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXNPEL5112O_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/new-ai-financing-backstops-allows-compute-buyers-more-control-over-business-models-4862016",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/new-ai-financing-backstops-allows-compute-buyers-more-control-over-business-models-4862016",
-          "publishedOn": "2026-08-16T22:10:04.000Z",
-          "wordCount": null,
-          "title": "New AI financing backstops allows compute buyers more control over business models",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM5A0N4_L.jpg",
-            "length": "67543",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM5A0N4_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/new-zealands-a2-milk-posts-44-fall-in-fullyear-profit-4862012",
-          "publishedOn": "2026-08-16T21:48:22.000Z",
-          "wordCount": null,
-          "title": "New Zealand’s a2 Milk full-year profit falls 44% on weaker China-label IMF sales",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM7F0EU_L.jpg",
-            "length": "52626",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM7F0EU_L.jpg"
         }
       ]
     },
@@ -11362,6 +11552,166 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1whevuu/i_need_your_feedback_on_my_new_ai_stock/",
+          "author": null,
+          "description": "Guys, I am sincerely hoping that the mods will not take this down.\n So I built a site / tool -> stockmoves.ai - that uses past technical results to forecast stock moves in the near term future from 1 day to 1 year. Depending what timeframe you are looking at, it pulls the corresponding data set, analyzes and of course not always correct, but with really good odds. \n PLEASE: Do not flag it as an advertising, it’s 100% free, there is no credit card needed to access the site.\n Why am I here? O need your HONEST option what do you think of the site and what would you recommend to improve.\n I spent over a year building this and I really need smart community like this one to criticize, advice, question, recommend and whatever you want to say about stockmoves.ai\n THANK YOU all and I will read each message and will try to reply as soon as I read it.\n    submitted by    /u/chicago1313  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1whevuu/i_need_your_feedback_on_my_new_ai_stock/",
+          "publishedOn": "2026-09-15T22:23:28.000Z",
+          "wordCount": null,
+          "title": "I need your feedback on my new AI Stock Forecasting Took",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1whb2ux/questions_about_my_roth_ira_fee_structure_returns/",
+          "author": null,
+          "description": "After reading about saving for retirement, this year I started a roth IRA (I have had a 403b for a while and will get a pension + social security too). I've been putting in $200 per month since April. When consulting with the company before opening it, they told me their fee structure, but said that even with the fee, the funds are getting 7 - 10% returns each year. I checked my roth balance for the first time today, and see I am DOWN almost 11% since I have been contributing. Looking into it, there is a 5.75% fee on every deposit to the account on top of the expense ratio. The ROTH is managed by Capital Group and is invested 100% in the American Growth Fund. It is a \"managed fund\" if that makes a difference. \n Does this seem terrible? Part of my investment strategy is VOO and chill with a personal brokerage account / Robinhood, but I know they do IRAs as well. Is there any reason to continue with this ROTH? I think I can just open a ROTH on robinhood and also get a small match and with fee on deposits into the account and a .03% expense ratio.\n Thoughts?\n    submitted by    /u/PuppiesAndPixels  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1whb2ux/questions_about_my_roth_ira_fee_structure_returns/",
+          "publishedOn": "2026-09-15T19:58:11.000Z",
+          "wordCount": null,
+          "title": "Questions about my ROTH IRA fee structure / returns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wh3lt0/is_ibm_a_good_investment_for_the_next_5_years/",
+          "author": null,
+          "description": "They don't seem to offer much or any meaningful product into the market, why are they priced at 200$+ a share? Isn't that super high or was it simply part of the AI boom? \n Their quantum card is not unique, google had much more progress along with other companies like IONQ or QNT\n    submitted by    /u/sweetbutterfacepoop  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wh3lt0/is_ibm_a_good_investment_for_the_next_5_years/",
+          "publishedOn": "2026-09-15T15:30:37.000Z",
+          "wordCount": null,
+          "title": "Is IBM a good investment for the next 5 years?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wh3hzw/is_spmo_about_to_get_hit_hard_by_bond_yields/",
+          "author": null,
+          "description": "Seeing some concern about bond yields and wondering how it could affect spmo. Worried that bond yields will cause large cap to significantly decline after spmo sticks with them at the end of September causing us to see 6 months of straight red. Which is of course not the end of the world, I’m just trying to see what I should be expecting. My portfolio is 50/30/20 fzrox/fzilx/spmo incase anyone is wondering\n    submitted by    /u/Armadillo_Dear  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wh3hzw/is_spmo_about_to_get_hit_hard_by_bond_yields/",
+          "publishedOn": "2026-09-15T15:26:36.000Z",
+          "wordCount": null,
+          "title": "Is spmo about to get hit hard by bond yields right after it rebalances at the end of September?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wh2a6j/battery_manufacturer_catl_cyaty_is_super_cheap_at/",
+          "author": null,
+          "description": "For a company with growth stock amounts of revenue and earnings growth - the current P/E ratio TTM is 16.88 and Forward P/E is 13.5.\n CATL is the dominant leading player in sodium battery chemistry for energy storage; which when Ford announced it thought it should do energy storage, it's stock jumped more in a single day than it ever had. There's whole swaths of solar panel factories coming online in 2028 and going forward, solar will be paired with battery storage. Battery storage is already destroying gas peaker plants on price and instantaneous response.\n The other note is China has basically removed all subsidies to the green sector. Lithium batteries are now taxed instead of subsidized, solar panels are no longer subsidized, EVs are no longer subsidized. All that has been priced in already.\n Assuming the price of fossil fuels doesn't crater by 2028 - which seems unlikely with how much capacity has been destroyed and reserves drawn down, there's no way there's not a lot of revenue growth at value prices\n    submitted by    /u/Tiny-Pomegranate7662  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wh2a6j/battery_manufacturer_catl_cyaty_is_super_cheap_at/",
+          "publishedOn": "2026-09-15T14:40:58.000Z",
+          "wordCount": null,
+          "title": "Battery Manufacturer CATL (CYATY) is super cheap at the moment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wgu0bb/daily_general_discussion_and_advice_thread/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wgu0bb/daily_general_discussion_and_advice_thread/",
+          "publishedOn": "2026-09-15T08:00:30.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - September 15, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wgmjm5/i_see_a_lot_of_speculation_that_warsh_will/",
+          "author": null,
+          "description": "A combination of hot inflation and hot jobs reports has pushed the odds of a Fed rate hike to over 90%. But I'm seeing plenty of speculation that Warsh will continue to 'let the market figure it out'. I understand the skepticism - a lot of people believe he's the president's puppet and think he will delay the rate hike as long as possible. \n But can he actually hold rates with the market almost fully expecting a hike?\n Consider the consequences of defying extremely high market expectations and holding rates while inflation is blatantly surging. The market would understand the Fed is not serious about fighting inflation and Fed credibility would instantly collapse. Long term treasury yields would take off, which would be horrendous for the national debt.\n Even if Warsh is actually there to appease the president and the stock market, are these consequences he's willing to accept?\n    submitted by    /u/BGID_to_the_moon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wgmjm5/i_see_a_lot_of_speculation_that_warsh_will/",
+          "publishedOn": "2026-09-15T01:35:36.000Z",
+          "wordCount": null,
+          "title": "I see a lot of speculation that Warsh will continue to hold rates at FOMC despite 90% odds of a hike. Is holding actually an option for him?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wgmbe8/is_iron_mountain_undervalued/",
+          "author": null,
+          "description": "Hi all,\n IRM seems to be doing well as they transition from a paper records storage company to an information infrastructure platform and a digital data center. Has a good dividend they increased last year and wouldn’t be surprised if they increased it again based on them increasing guidance and beating earnings easily.\n What are your thoughts?\n    submitted by    /u/Apprehensive-Size150  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wgmbe8/is_iron_mountain_undervalued/",
+          "publishedOn": "2026-09-15T01:24:42.000Z",
+          "wordCount": null,
+          "title": "Is Iron Mountain Undervalued?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wgmb57/utilizing_leverage_to_diversify_across_time/",
+          "author": null,
+          "description": "M21, still in school but have an offer signed with a trading firm for next year after I graduate, for around 800k. With the goal of trying to retire early, I’d of course be putting most of my earnings into investments.\n Recently I saw this paper that was interesting, it was about how individuals can achieve better diversification across their lives by having more notional invested early through the use of leverage, since people tend to have more money later than earlier. Paper here: [https://papers.ssrn.com/sol3/papers.cfm?abstract\\\\\\_id=1149340](https://papers.ssrn.com/sol3/papers.cfm?abstract%5C_id=1149340)) (Life-Cycle Investing and Leverage: Buying Stock on Margin Can Reduce Retirement Risk)\n Was wondering what you guys think about this idea. Should we be investing in high leverage products early in life to adjust for the fact that we simply have less money now than later? This could help even out the exposure to investments we have throughout time, though I’m not sure it’s worth it with the extra fees and risks that come with leverage.\n    submitted by    /u/nategraffiti  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wgmb57/utilizing_leverage_to_diversify_across_time/",
+          "publishedOn": "2026-09-15T01:24:21.000Z",
+          "wordCount": null,
+          "title": "Utilizing leverage to diversify across time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wghn2r/what_percentage_of_your_portfolio_or_net_worth_is/",
+          "author": null,
+          "description": "I know the general advice is to not overly invest in high risk stocks, that is not what this post is about. Instead I am wondering how much of either your net worth or your stock portfolio if you are heavily invested in the market is in stocks that you feel may balloon in value in the coming months or years, either emerging technology, or other long shot high reward stocks or etfs.\n In my case I have about 25% of my brokerage account is in such high reward stocks, but the vast majority of my net worth is tied up in non publicly traded stocks and real estate, making my entire brokerage account a bit of a playground so this currently accounts for less than 2% of my net worth.\n I will leave it up to you to define what you consider high risk.\n    submitted by    /u/Penguin_Life_Now  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wghn2r/what_percentage_of_your_portfolio_or_net_worth_is/",
+          "publishedOn": "2026-09-14T22:03:57.000Z",
+          "wordCount": null,
+          "title": "What percentage of your portfolio or net worth is high risk high reward stocks.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wga1f6/options_for_symbolic_gift_stocks/",
+          "author": null,
+          "description": "Hey, i'm looking to get someone a share of a company as a symbolic surprise gift. \n i already looked into giveashare.com and uniquestockgifts.com, but the former has insane shipping prices for where i live and the latter doesn't let me choose my country even with the digital certificate option. are there any alternatives i can try? i don't need a physical certificate, or even any certificate at all\n    submitted by    /u/edjak53  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wga1f6/options_for_symbolic_gift_stocks/",
+          "publishedOn": "2026-09-14T17:31:07.000Z",
+          "wordCount": null,
+          "title": "options for symbolic gift stocks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wg9mvt/why_the_market_looks_like_it_cant_possible_go/",
+          "author": null,
+          "description": "If even days like these with so many bad news the S&P is still a few % points from ATH, what will make the market go down?\n I remember previous years when just a fraction of the news we had these months appeared, the market tanked, now it's not moving at all.\n Is it euphory of AI? Is it because there's so much cash and every dip is bought? or what's happening? Is it something pumping the market artificially?\n I feel that's not normal and there will be soon a reversal of this sentiment.\n LE: for those that say earnings, 2021 had great earnings, including FE, you know what happened in 2022\n    submitted by    /u/clintron_abc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wg9mvt/why_the_market_looks_like_it_cant_possible_go/",
+          "publishedOn": "2026-09-14T17:17:07.000Z",
+          "wordCount": null,
+          "title": "Why the market looks like it can't possible go down? What's keeping it up?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wfzlt6/my_struggles_etfs_or_stocks/",
+          "author": null,
+          "description": "​\n Honestly love concept of etfs but id like the 1 time option of of the weight distribution!\n Honestly thinking of selling all my etfs going in just stocks !\n Maybe just keep the Humn!\n Honestly comes to stock \n Mstr\n Crcl\n Iren\n Wulf\n Nvts \n Keel\n SMR \n ANY BANGERS IM MISSING!???\n    submitted by    /u/Mysterious-Sir3071  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wfzlt6/my_struggles_etfs_or_stocks/",
+          "publishedOn": "2026-09-14T10:26:23.000Z",
+          "wordCount": null,
+          "title": "My struggles ETF's or Stocks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wfy1w1/longterm_opportunity_cost_emergency_fund_before/",
+          "author": null,
+          "description": "For a young investor with no debt, no kids, no wife, how do you generally think about prioritizing an emergency fund versus continuing to invest?\n For example, suppose someone needs around 9–12 months to build a 3-month emergency fund if they temporarily reduce investing substantially. Alternatively, they could split their savings between investments and cash, but the emergency fund would take considerably longer to complete.\n Over a 35-year investment horizon, is the opportunity cost of temporarily reducing investments for ~1 year generally significant?\n I’m particularly interested in the trade-off between:\n building the emergency fund as quickly as possible while investing only a small amount, and\n continuing substantial monthly investing while building the emergency fund more slowly.\n I understand this depends on individual circumstances; I’m mainly interested in the general portfolio/risk-management reasoning behind the two approaches.\n    submitted by    /u/Less_Protection_3578  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wfy1w1/longterm_opportunity_cost_emergency_fund_before/",
+          "publishedOn": "2026-09-14T08:54:14.000Z",
+          "wordCount": null,
+          "title": "Long-term opportunity cost - emergency fund before starting investing vs. combination of investing and saving simultaneously",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wfx6n6/daily_general_discussion_and_advice_thread/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wfx6n6/daily_general_discussion_and_advice_thread/",
+          "publishedOn": "2026-09-14T08:00:33.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - September 14, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1wfqai7/own_an_individual_stock_that_is_also_part_of_an/",
+          "author": null,
+          "description": "I’ve had some wild growth the past year and I am working on rebalancing my $235k portfolio. I currently own a stock that has had great growth and I also own an ETF where the stock makes up 10% of the ETF’s holdings. What are your thoughts on owning an individual stock and an ETF where a substantial percentage of the ETF is the individual stock you already own?\n    submitted by    /u/Apprehensive-Size150  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1wfqai7/own_an_individual_stock_that_is_also_part_of_an/",
+          "publishedOn": "2026-09-14T01:56:07.000Z",
+          "wordCount": null,
+          "title": "Own an individual stock that is also part of an ETF?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1wfpkmg/should_i_invest_in_something_else/",
           "author": null,
@@ -13160,196 +13510,6 @@
           "publishedOn": "2026-08-17T16:37:10.000Z",
           "wordCount": null,
           "title": "Nvidia to invest up to 105 billion for open ai data center",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vqp02r/looking_for_different_perspectives_sell_or_reduce/",
-          "author": null,
-          "description": "A few years ago I put 3-4K in AMD and have been very fortunate with the returns. With the huge run up from AI, I have completely pulled out my principal and still have 11k invested. \n I’m wondering whether I should trim the position more? I’m interested in having a more diverse brokerage account with different holdings instead it all being in AMD. On the flip side because I’ve gotten my principal out, I can take more risk and I wonder if I should leave it in to continue riding the AI craze. \n    submitted by    /u/hardunikichudesq  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vqp02r/looking_for_different_perspectives_sell_or_reduce/",
-          "publishedOn": "2026-08-17T10:54:48.000Z",
-          "wordCount": null,
-          "title": "Looking for different perspectives, sell or reduce my position in AMD.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vqcub6/is_the_04_drop_in_the_retail_control_group_a/",
-          "author": null,
-          "description": "The latest July retail sales report showing a 0.6% headline drop has sparked a lot of debate about consumer health entering Q3. While a wider pullback was expected, looking closely at the GDP-linked retail control group, which fell 0.4%, suggests that real consumer spending might be losing momentum faster than previously anticipated.\n However, there are two distinct ways to look at this data before shifting investment strategies:\n On one hand, a significant chunk of the decline is driven by highly cyclical or volatile categories. Motor vehicles dropped 1.8% and online shopping fell 2.2%. The non-store retail drop is particularly interesting because Amazon shifted its Prime Day event into late June this year, which naturally pulled forward a massive amount of consumer demand that would typically register in July.\n On the other hand, the core control group decline, combined with downward revisions to previous months, points to a softer consumer cushion. If corporate earnings from major retailers this week confirm a company-level slowdown in demand, it could put pressure on cyclical stocks and strengthen the case for a more defensive portfolio rotation.\n Are you treating this retail slump as a temporary calendar quirk due to auto incentives and Prime Day shifts, or are you starting to price in a broader consumer slowdown for retail and discretionary holdings? Would love to hear how you guys are positioning your portfolios ahead of the big retail earnings wall this week.\n    submitted by    /u/270Social  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vqcub6/is_the_04_drop_in_the_retail_control_group_a/",
-          "publishedOn": "2026-08-17T00:07:13.000Z",
-          "wordCount": null,
-          "title": "Is the 0.4% drop in the retail control group a clean signal of cooling consumer momentum, or just noise from an earlier Amazon Prime Day?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vq8pov/the_capital_allocation_dilemma_for_fortress_fbio/",
-          "author": null,
-          "description": "Hey All,\n This is a follow up to my earlier post 6 months ago titled \"The High-Yield Waiting Game: Why I’m Continuing to Bet on FBIOP Over FBIO Right Now\", where I had proposed the arguments on why I considered the preferred FBIOP to be a better investment than the Common FBIO\n https://www.reddit.com/r/investing_discussion/comments/1qw7i91/the_highyield_waiting_game_why_im_continuing_to/\n So far those arguments have been on point as the Preferred - FBIOP has significantly out-performed the Common - FBIO\n I’ve been digging into Fortress Biotech’s capital allocation options regarding their Series A Preferred shares ($FBIOP) from where we are now.\n The board is facing a major strategic fork, and the two paths benefit very different groups of investors.\n I’d love to get the community's perspec…",
-          "link": "https://www.reddit.com/r/investing/comments/1vq8pov/the_capital_allocation_dilemma_for_fortress_fbio/",
-          "publishedOn": "2026-08-16T21:08:35.000Z",
-          "wordCount": null,
-          "title": "The Capital Allocation Dilemma for Fortress ($FBIO / $FBIOP): Pure Math vs. Governance & Reputation. What do you think management does here?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vq8n3g/the_capital_allocation_dilemma_for_fortress_fbio/",
-          "author": null,
-          "description": "Hey All,\n This is a follow up to my earlier post 6 months ago titled \"The High-Yield Waiting Game: Why I’m Continuing to Bet on FBIOP Over FBIO Right Now\", where I had proposed the arguments on why I considered the preferred FBIOP to be a better investment than the Common FBIO\n https://www.reddit.com/r/investing_discussion/comments/1qw7i91/the_highyield_waiting_game_why_im_continuing_to/\n So far those arguments have been on point as the Preferred - FBIOP has significantly out-performed the Common - FBIO\n I’ve been digging into Fortress Biotech’s capital allocation options regarding their Series A Preferred shares ($FBIOP) from where we are now.\n The board is facing a major strategic fork, and the two paths benefit very different groups of investors.\n I’d love to get the community's perspec…",
-          "link": "https://www.reddit.com/r/investing/comments/1vq8n3g/the_capital_allocation_dilemma_for_fortress_fbio/",
-          "publishedOn": "2026-08-16T21:05:41.000Z",
-          "wordCount": null,
-          "title": "The Capital Allocation Dilemma for Fortress ($FBIO / $FBIOP): Pure Math vs. Governance & Reputation. What do you think management does here?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vq4e7c/i_hold_13_positions_and_i_keep_finding_out_about/",
-          "author": null,
-          "description": "when AMPX reported and I found out when I saw the stock up 10 % in pre market. Aecom reported 6 days ago and I only just checked, turns out there was a 337m charge on a construction project and guidance came down, while backlog hit a record. Bout of those matter to why I own it and I would have no idea if I hadn't gone looking.\n The part that actually annoys me isn't me missing the dates, it's that heheh I do catch up I can't remember what I'd said would make me wrong, I've got a number written down somewhere for TSM overseas fav margins and I had to go dig it out to check whether last quarter hit it.\n So essentially, I forgot about the date, the thesis and then a decision I made I whatever mood I'm in when I finally notice.\n How are people handling this across a full portfolio?\n    submitted by    /u/Andrei_on_NQ  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vq4e7c/i_hold_13_positions_and_i_keep_finding_out_about/",
-          "publishedOn": "2026-08-16T18:19:27.000Z",
-          "wordCount": null,
-          "title": "I hold 13 positions and I keep finding out about earnings days late.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vq39dg/20_m_looking_for_advice/",
-          "author": null,
-          "description": "20M – Looking for Investment Advice\n Hey everyone!\n I’m 20 years old and currently live with my parents in Upstate NY. We don’t come from a lot financially, so I sometimes help parents with expenses if needed . For the most part, though, I’m able to save and invest what I make.\n Right now I have about $10,000 invested and another $2,000 in the bank. My portfolio is currently split roughly evenly between VOO, NVDA, and MSFT.\n I make around $3,000/month at my job while also taking college classes online. I can currently save/invest around $1,800/month.\n I have about two years of college left, I don’t pay because of financial aid and I have good grades so scholarship. I plan to live with my parents until I graduate. After that, I’ll move out and start paying more of my own expenses.\n Time horizon: I don’t need the investment money anytime soon. However, I’m planning on taking a solo trip or two next year, which could cost around $5,000 total. I really want to travel while I’m young, so I’m trying to balance investing with actually enjoying life.\n Risk tolerance: I’d say low to medium. I don’t want to take on a ton of unnecessary risk.\n I also have no major debt or car loans. I have an older car that I bought for about $3,000 two years ago and it’s still running fine.\n Given my situation, what would you guys prioritize? Should I keep building up my cash savings before investing more, or continue investing aggressively while I have relatively low expenses? And how would you structure the portfolio?\n Any advice is appreciated.\n    submitted by    /u/MaximumBother7157  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vq39dg/20_m_looking_for_advice/",
-          "publishedOn": "2026-08-16T17:36:49.000Z",
-          "wordCount": null,
-          "title": "20 M - Looking for advice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpypno/morningstar_portfolio_xray_alternative/",
-          "author": null,
-          "description": "Was trying to help my dad, who’s near retirement, take a look at his overall portfolio, including IRA and brokerage accounts. He has a Morningstar subscription and I linked his Schwab accounts to the portfolio function. However, it won’t let me use the XRay analytics because he has more than 150 holdings combined (driven by a lot of individual stocks). I can see underlying individual holding exposures but that’s it. \n Complexity aside, are there any other tools\n I could use to evaluate his overall exposures for such a large portfolio?\n    submitted by    /u/vuwildcat07  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vpypno/morningstar_portfolio_xray_alternative/",
-          "publishedOn": "2026-08-16T14:37:47.000Z",
-          "wordCount": null,
-          "title": "Morningstar Portfolio XRay Alternative?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpw0vo/anyone_else_shocked_by_the_amount_of_people_that/",
-          "author": null,
-          "description": "41M\n At my job I have a 401k and will hopefully have a pension by the time I retire. I was always having 5% taken out since Ive been here and in the last two years upped it to 7% and now 9% pre tax and now 2% Roth. I maxed out my Roth IRA this year for the first time and am sitting at $140,000 in my retirement accounts combined.\n I didnt it investing or retirement seriously for YEARS but now am doing what I can so I dont starve to death when I retire. \n Is anyone else shocked by the number of people that work their whole lives and dont have shit saved up? $100 a month in a growth fund for twenty years would at least be something to help with expenses later in life but people would rather have $1200 car note while making $3800 after taxes a month or go to fucking Disney World every year.\n When I say investing I mean safer bets like mutual funds, ETFs, and index funds not a meme stock or crypto. I didnt know if it was just me thats been noticing this and became the old guy at work telling these young kids to start saving and investing now.\n    submitted by    /u/Old-Challenge2809  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vpw0vo/anyone_else_shocked_by_the_amount_of_people_that/",
-          "publishedOn": "2026-08-16T12:40:09.000Z",
-          "wordCount": null,
-          "title": "Anyone else shocked by the amount of people that have the means but dont invest or have retirement?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpvy0y/advice_on_deleveraging_to_about_125x/",
-          "author": null,
-          "description": "M19 looking for some advice on deleveraging sensibly. This allocation has been treating me well for the past year, but its gotten to a point where i dont feel the need to take so much risk anymore.\n I honestly got really lucky and took too much risk lol, now I want to invest safely. \n My current allocation: https://ibb.co/6c6vyPwW\n I was thinking about 50/50 VT QQQ or 70/20/10 SPY QLD AVUV or 75/25 VT QLD. Thoughts?\n Effective leverage should be max. around 1.25, definitely on the lower end of the range.\n    submitted by    /u/ffffgggggggggfg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vpvy0y/advice_on_deleveraging_to_about_125x/",
-          "publishedOn": "2026-08-16T12:36:20.000Z",
-          "wordCount": null,
-          "title": "Advice on deleveraging to about 1.25x",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vps4jt/bonds_vs_managed_futures_tail_hedge/",
-          "author": null,
-          "description": "I've been working on a policy manual for a DIY hedge fund concept. As part of the process, I wrote a position paper on ballast. It's my way to make sure I'm not being sloppy in my reasoning. Thought I'd share, maybe this helps some of you review your own thinking about this.\n TL;DR:\n  \nManaged futures make a strong case as a more robust form of ballast than government bonds for a long-term diversified portfolio.\n Across the backtests presented here, portfolios using managed futures produced higher real returns and better risk-adjusted results than comparable portfolios using bonds. \n The outperformance came outside of crises, while during crises, managed futures performed about the same as bonds.\n Adding an options-based tail hedge such as CAOS is a more experimental proposition. Its crisi…",
-          "link": "https://www.reddit.com/r/investing/comments/1vps4jt/bonds_vs_managed_futures_tail_hedge/",
-          "publishedOn": "2026-08-16T09:01:09.000Z",
-          "wordCount": null,
-          "title": "Bonds vs Managed Futures + Tail Hedge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpr4kc/daily_general_discussion_and_advice_thread_august/",
-          "author": null,
-          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vpr4kc/daily_general_discussion_and_advice_thread_august/",
-          "publishedOn": "2026-08-16T08:00:42.000Z",
-          "wordCount": null,
-          "title": "Daily General Discussion and Advice Thread - August 16, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpn9jt/aaoi_is_a_great_business_trading_at_a_price_that/",
-          "author": null,
-          "description": "AAOI has been a standout name in the AI optics trade, let's start with the good. Q2 was excellent, record revenue of $191m, up 86% yoy and 27% sequentially, back to non GAAP profitability at $0.06 vs a $0.01 consensus, fifth straight record quarter. The Q3 guide is $255-290m, roughly 130% yoy and a 42% sequential jump and management says growth is capped by production capacity, not demand. As a US based, high volume transceiver supplier into hyperscaler buildouts, the demand signal doesn't get any cleaner.\n Results are great but the problem is entirely the price, a few things to note,\n Stock is up 900% over the past year and only barely GAAP profitable, on 30% gross margins. You're paying a hyperscale winner multiple for a thin margin hardware business. The growth is being funded with dilu…",
-          "link": "https://www.reddit.com/r/investing/comments/1vpn9jt/aaoi_is_a_great_business_trading_at_a_price_that/",
-          "publishedOn": "2026-08-16T04:23:23.000Z",
-          "wordCount": null,
-          "title": "AAOI is a great business, trading at a price that is beyond reality. Waiting for a short but not just yet.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpltyy/pension_plan_changing_investment_options/",
-          "author": null,
-          "description": "30M Living in a VHCOL Area\n I was informed last week that my pension plan at work is changing and I will no longer have control on how the money I get from my employer gets invested. My pension will now be controlled by my employer who is investing the money into the the 30 year treasury yield. We've been promised at least a 3.5% in annual returns, or the actual annual % from the 30 year treasury yield - whatever is higher.\n I've been accounting to have this money as part of my FIRE portfolio but now it seems like the potential value is very minimal based on historical recent data.\n A couple of questions for the community:\n  \nDoes anyone have a similar pension plan? If so, how did you incorporate your pension into your FIRE calculations?\n Does it make sense to be more aggressive with my personal investment accounts (i.e. 403(b), Roth IRA, brokerage account) given that I technically have an account being invested in 100% bonds that could damper some higher risk investments?\n Any other advise/feedback from folks who are/were in a similar situation would be greatly appreciated.\n  \nThanks in advance!\n    submitted by    /u/MiguelCoto7  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vpltyy/pension_plan_changing_investment_options/",
-          "publishedOn": "2026-08-16T03:08:58.000Z",
-          "wordCount": null,
-          "title": "Pension plan changing investment options",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpk5gp/does_the_iran_war_still_have_the_capacity_to/",
-          "author": null,
-          "description": "Please correct me on any of this, as I'm frankly not sure any of my info is right.\n What I've heard is that oil traffic through Hormuz is beginning to approach pre-war levels and the are pipelines being built that could also carry some of the 20 million barrels a day that were going through Hormuz pre-war, although those pipelines will still take a long time to complete. So it seems Iran doesn't have the capacity to stop traffic through Hormuz.\n The US is out of targets to bomb, except for the refineries, but that seems an unlikely target as it would take a hit on the world economy, which Trump has shown himself averse to doing.\n Boots on the ground is something Trump seems completely opposed to.\n So, is there even a way the war could still impact stocks in the dramatic way it did at the outbreak of the war or something similar to that?\n The only thing I see as potentially being disruptive if Iran or some its proxies decided to harass commercial ships with drones or otherwise, which might lead to insurance companies being unwilling to insure ships or driving the price insurance to untenable heights, which then may lead to a choking off of traffic. Is that a plausible concern?\n Is there some potential scenario that I'm overlooking that could have an impact on stock prices?\n    submitted by    /u/themainheadcase  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vpk5gp/does_the_iran_war_still_have_the_capacity_to/",
-          "publishedOn": "2026-08-16T01:44:09.000Z",
-          "wordCount": null,
-          "title": "Does the Iran war still have the capacity to impact global stock indices?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpjd2z/looking_to_confirm_my_understanding_of/",
-          "author": null,
-          "description": "It seems to me the goal of it is to withdraw from it in such a way where you remain in the lowest possible tax bracket.\n So when retirement comes, I, assume, would need to not have any other type of income and withdraw from it in such a way that it keeps me in the lowest tax bracket.\n Is that how that works? Seems challenging as unsure what my income situation will be like in the future but that's how I understand it currently.\n    submitted by    /u/MusingsAndMind  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vpjd2z/looking_to_confirm_my_understanding_of/",
-          "publishedOn": "2026-08-16T01:04:45.000Z",
-          "wordCount": null,
-          "title": "Looking to confirm my understanding of Traditional 401ks.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpj93a/rate_my_roth_ira_split_just_opened_my_account_and/",
-          "author": null,
-          "description": "I currently am only looking at ETFs and mutual funds, I’m 19 so I’m ok with some volatility since I’m investing very long term. Here is how I’m planning to distribute:\n 40% VOO (S&P 500)\n 10% QQQM (NASDAQ top 100, ai/tech heavy)\n 10% FSTA (large, mid, small cap, focused on consumer staples)\n 20% FZILX (large, mid, small cap foreign markets)\n 5% REXC (international rare earths except China)\n 5% COPX (international copper)\n 5% XLE (energy/gas/oil mainly interested in the Exxon Mobil holdings)\n 5% XLI (heavy manufacturing [mainly interested in their caterpillar and by proxy solar turbines holding (huge energy subsidiary of caterpillar)]\n investing with fidelity if that matters\n    submitted by    /u/Poopbob_brownpants  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vpj93a/rate_my_roth_ira_split_just_opened_my_account_and/",
-          "publishedOn": "2026-08-16T00:59:31.000Z",
-          "wordCount": null,
-          "title": "Rate my Roth IRA split, just opened my account and haven’t put anything in yet, just looking for advice.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vphnkm/if_i_think_theres_a_chance_i_hit_the_roth_income/",
-          "author": null,
-          "description": "What the title says. I’ve never hit any of the income limits for my Roth before but I got a new job and a raise and I think there’s a strong possibility I go past the income limit to be able to invest in a Roth for the year. \n I will hit my max 401k contribution sometime in October. \n I’m not sure exactly where I’ll land with pre tax 401k deductions against my income and bonuses but it’s very much a possibility.\n I have cash now I want to invest.\n Should I just go right for a backdoor? Or is it better I sit on the cash until the end of the year?\n    submitted by    /u/iamacheeto1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vphnkm/if_i_think_theres_a_chance_i_hit_the_roth_income/",
-          "publishedOn": "2026-08-15T23:43:42.000Z",
-          "wordCount": null,
-          "title": "If I think there’s a chance I hit the Roth income limit, should I just do a backdoor or should I wait?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vpg919/treasury_direct_is_going_to_idme_for_login/",
-          "author": null,
-          "description": "Recently got an email from treasury direct ( [subscriptions@subscriptions.treas.gov](mailto:subscriptions@subscriptions.treas.gov)) that they will make ID.me mandatory for login on October 28, 2026 and will initially phase in the option September 13, 2026. While I use this anyway for IRS login, I know a lot of people will almost certainly get confused by this change. It seems odd they skipped over login.gov and instead went private. Im considering helping some elderly relatives just pull their money out of I bonds and invest in in Muni's in a reg brokerage as if you have ever been locked out of ID.me you will know the hassle to get back in.\n Actual email:\n Dear TreasuryDirect Customer,\n TreasuryDirect is excited to share that, starting next month, a new login experience, ID.me (https://www…",
-          "link": "https://www.reddit.com/r/investing/comments/1vpg919/treasury_direct_is_going_to_idme_for_login/",
-          "publishedOn": "2026-08-15T22:38:37.000Z",
-          "wordCount": null,
-          "title": "Treasury Direct is going to ID.me for login.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1vp88a9/ltcg_or_dividends_or_cash_to_pay_for_big_ticket/",
-          "author": null,
-          "description": "Hey y`all. I'm 42, debt free, single, have a 6 month emergency fund, and I want to do a little travel. I make $70,000 a year and I'm in the 22% tax bracket. It would take me the rest of the year to save up for a trip if I paid in cash. I also have enough in VOO for LTCG to pay for a trip. I'd need $5,000ish for the trip. I'm curious everyone's thoughts on using a brokerage account for some playtime instead of just saving up in cash. \n I'm still maxing my Roth and HSA and I don't expect to retire until I'm 63. If I have extra money around I tend to just hide it in the market. I only tend to do a trip like this every 4 or 5 years. As I get older I'd like to do this more often. I'm allergic to fun and I need your help. :) \n Also, are there people out there that use VOO or JEPQ to fund some of the bigger ticket items in their lives while they save for retirement? When is this a good idea?\n    submitted by    /u/Zestyclose_Panda_886  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1vp88a9/ltcg_or_dividends_or_cash_to_pay_for_big_ticket/",
-          "publishedOn": "2026-08-15T17:08:41.000Z",
-          "wordCount": null,
-          "title": "LTCG or dividends or cash to pay for big ticket fun?",
           "imageUrl": null
         }
       ]
