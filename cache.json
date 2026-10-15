@@ -6,6 +6,186 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#0",
+          "author": null,
+          "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-15T01:49:46.000Z",
+          "wordCount": 6739,
+          "title": "AI giant Anthropic sees revenue surge ahead of stock market listing",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c0rezqpnekro#0",
+          "author": null,
+          "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+          "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T23:02:57.000Z",
+          "wordCount": 9654,
+          "title": "How backlash against data centres could shape the US midterm elections",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo#0",
+          "author": null,
+          "description": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+          "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T23:01:28.000Z",
+          "wordCount": 8808,
+          "title": "How a Chinese-made toy gets to a US retailer",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#3",
+          "author": null,
+          "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+          "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T23:01:11.000Z",
+          "wordCount": 7469,
+          "title": "How much is the minimum wage?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2639/live/ce1249e0-a9c2-11f0-8da2-811fba9518ff.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro#0",
+          "author": null,
+          "description": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+          "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T17:46:30.000Z",
+          "wordCount": 7614,
+          "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o#0",
+          "author": null,
+          "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T16:47:32.000Z",
+          "wordCount": 7470,
+          "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/877e/live/417f8270-c7f0-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c305649p2d6o#3",
+          "author": null,
+          "description": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
+          "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T15:57:11.000Z",
+          "wordCount": 7705,
+          "title": "'It's rough out here': Americans struggle with rising inflation",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e691/live/4f2f6b20-adf0-11f1-ad53-0d91a06f3150.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo#0",
+          "author": null,
+          "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+          "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T15:54:04.000Z",
+          "wordCount": 7367,
+          "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#1",
+          "author": null,
+          "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T15:26:14.000Z",
+          "wordCount": 8452,
+          "title": "US inflation rises more than expected - here's what is happening with prices",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#3",
+          "author": null,
+          "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T15:26:14.000Z",
+          "wordCount": 8452,
+          "title": "US inflation rises more than expected - here's what is happening with prices",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko#1",
+          "author": null,
+          "description": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
+          "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T13:45:34.000Z",
+          "wordCount": 7735,
+          "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a5/live/6ec3c040-c7d5-11f1-9671-5b70c6e774ea.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po#1",
+          "author": null,
+          "description": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+          "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T12:09:45.000Z",
+          "wordCount": 6893,
+          "title": "Wayfair among firms fined millions for misleading sales tactics",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo#1",
+          "author": null,
+          "description": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+          "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T11:57:22.000Z",
+          "wordCount": 6300,
+          "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2437/live/04805c60-c7c2-11f1-993a-152cbb068da1.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o#3",
+          "author": null,
+          "description": "With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T11:13:10.000Z",
+          "wordCount": 7057,
+          "title": "Job cuts could fund diesel price drop says deputy",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa52/live/68ef6760-276b-11f1-82f7-f757ccb9d4bd.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o#0",
+          "author": null,
+          "description": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+          "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T11:04:12.000Z",
+          "wordCount": 7203,
+          "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31bf/live/83599ee0-c7b6-11f1-b41f-d7a6cb474575.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo#3",
+          "author": null,
+          "description": "An estimated 47,500 people in Sheffield are unable to make ends meet and pay their bills.",
+          "link": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T09:59:51.000Z",
+          "wordCount": 9494,
+          "title": "'It's definitely tight trying to budget on maternity leave'",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f910/live/93417b80-c6f7-11f1-b4dd-e786ec6f11b1.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro#1",
+          "author": null,
+          "description": "Thomas Woldbye tells the Today progamme it would be \"good to know\" the government's position on the project, after comments made by the prime minister.",
+          "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T04:59:06.000Z",
+          "wordCount": 8670,
+          "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/645d/live/6faaea30-c74c-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o#1",
+          "author": null,
+          "description": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-14T02:05:32.000Z",
+          "wordCount": 6321,
+          "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d37/live/18ad5d80-c797-11f1-b506-c77373b53604.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo#0",
           "author": null,
           "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
@@ -3604,136 +3784,6 @@
           "wordCount": 6253,
           "title": "US borrowing costs hit highest level since 2007",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0838/live/ae2bcee0-b12c-11f1-b199-f1c9bc04a179.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo#1",
-          "author": null,
-          "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
-          "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-15T11:05:42.000Z",
-          "wordCount": 8599,
-          "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo#3",
-          "author": null,
-          "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
-          "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-15T11:05:42.000Z",
-          "wordCount": 8599,
-          "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1",
-          "author": null,
-          "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-15T08:49:31.000Z",
-          "wordCount": 8937,
-          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7fc/live/b2c645c0-b104-11f1-a540-61c3f7fc4e6c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo#3",
-          "author": null,
-          "description": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
-          "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-15T07:20:55.000Z",
-          "wordCount": 8324,
-          "title": "What is the triple lock and how much is the state pension worth?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/829c/live/70bf2ad0-5bff-11f0-960d-e9f1088a89fe.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po#3",
-          "author": null,
-          "description": "Jersey charities say leaving donations in wills can be \"transformational\", regardless of how much.",
-          "link": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-15T05:03:47.000Z",
-          "wordCount": 7059,
-          "title": "Charities praise will gifts despite cost of living",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b98/live/ff9723d0-b030-11f1-9ae0-e316eeb4632d.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck20989806e9o#1",
-          "author": null,
-          "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-          "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-15T02:50:36.000Z",
-          "wordCount": 9371,
-          "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc0/live/aa535ba0-b0a8-11f1-bc1f-3f186ca4140c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o#0",
-          "author": null,
-          "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
-          "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-15T00:32:21.000Z",
-          "wordCount": 7565,
-          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33f7/live/2a9699c0-b06e-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3eq7485kewo#0",
-          "author": null,
-          "description": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
-          "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-14T23:08:28.000Z",
-          "wordCount": 7859,
-          "title": "I got paid $5,000 to move to a place I'd never heard of",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3eq7485kewo#3",
-          "author": null,
-          "description": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
-          "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-14T23:08:28.000Z",
-          "wordCount": 7859,
-          "title": "I got paid $5,000 to move to a place I'd never heard of",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o#0",
-          "author": null,
-          "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-14T23:07:56.000Z",
-          "wordCount": 6422,
-          "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o#0",
-          "author": null,
-          "description": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-14T22:01:39.000Z",
-          "wordCount": 9149,
-          "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c736/live/8f2be3c0-b070-11f1-9819-95a805e73cfa.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o#1",
-          "author": null,
-          "description": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
-          "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-14T19:29:12.000Z",
-          "wordCount": 8934,
-          "title": "Carney gambles on the world's biggest investors betting on Canada",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b067/live/866137e0-adff-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no#0",
-          "author": null,
-          "description": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
-          "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-14T19:06:46.000Z",
-          "wordCount": 7615,
-          "title": "Government set to nationalise troubled steel firm",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/383f/live/2ff2a330-b057-11f1-9902-771b6dd8af6a.jpg"
         }
       ]
     },
@@ -3748,6 +3798,226 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
+          "author": "Alex Travelli",
+          "description": "As Starlink seeks permission to operate in India, a recent protest in New Delhi showed how quickly authorities can cut off mobile internet access.",
+          "link": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
+          "publishedOn": "2026-10-15T01:52:59.000Z",
+          "wordCount": null,
+          "title": "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+          "author": "Christine Hauser",
+          "description": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
+          "link": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+          "publishedOn": "2026-10-14T23:17:50.000Z",
+          "wordCount": null,
+          "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
+          "author": "Michael Rothfeld, Maggie Haberman and Maureen Farrell",
+          "description": "Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark.",
+          "link": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
+          "publishedOn": "2026-10-14T22:38:04.000Z",
+          "wordCount": null,
+          "title": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
+          "author": "Ryan Mac",
+          "description": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
+          "link": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
+          "publishedOn": "2026-10-14T22:20:50.000Z",
+          "wordCount": null,
+          "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+          "author": "Joe Rennison",
+          "description": "The S&P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
+          "link": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+          "publishedOn": "2026-10-14T21:30:57.000Z",
+          "wordCount": null,
+          "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
+          "author": "Aruni Soni",
+          "description": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
+          "link": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
+          "publishedOn": "2026-10-14T21:25:25.000Z",
+          "wordCount": null,
+          "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
+          "author": "Colby Smith",
+          "description": "September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.",
+          "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
+          "publishedOn": "2026-10-14T20:22:19.000Z",
+          "wordCount": null,
+          "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
+          "author": "Tony Romm",
+          "description": "The final inflation report before the 2026 election — showing price increases and stagnant wages — spelled bad political news for the White House.",
+          "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
+          "publishedOn": "2026-10-14T18:42:13.000Z",
+          "wordCount": null,
+          "title": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
+          "author": "Jenny Gross and Lisa Friedman",
+          "description": "In a volatile moment in the region, a significant increase in attacks on vessels passing through the vital waterway is raising alarm.",
+          "link": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
+          "publishedOn": "2026-10-14T18:20:24.000Z",
+          "wordCount": null,
+          "title": "Attacks on Ships in Strait of Hormuz Escalate Sharply",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+          "author": "John Koblin",
+          "description": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.",
+          "link": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+          "publishedOn": "2026-10-14T17:21:26.000Z",
+          "wordCount": null,
+          "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
+          "author": "Erik Wemple",
+          "description": "The ruling will allow the outlets to enter the White House grounds while they sue to overturn the ban. But it doesn’t resolve all of their access problems.",
+          "link": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
+          "publishedOn": "2026-10-14T15:46:23.000Z",
+          "wordCount": null,
+          "title": "Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
+          "author": "Keith Bradsher",
+          "description": "China’s exports grew last month at the fastest pace in almost any month since the end of the global financial crisis.",
+          "link": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
+          "publishedOn": "2026-10-14T15:41:21.000Z",
+          "wordCount": null,
+          "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
+          "author": "Lisa Lerer",
+          "description": "Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory.",
+          "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
+          "publishedOn": "2026-10-14T15:25:31.000Z",
+          "wordCount": null,
+          "title": "Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
+          "author": "Aruni Soni",
+          "description": "Consumers are paying more for everyday goods and services, like food, computers and streaming.",
+          "link": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
+          "publishedOn": "2026-10-14T14:52:43.000Z",
+          "wordCount": null,
+          "title": "5 Costs Americans Are Paying More for as Inflation Rises",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/heres-the-latest",
+          "author": "Colby Smith",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/heres-the-latest",
+          "publishedOn": "2026-10-14T14:43:18.000Z",
+          "wordCount": null,
+          "title": "Here’s the latest.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html",
+          "author": "Mark Miller",
+          "description": "The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January.",
+          "link": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html",
+          "publishedOn": "2026-10-14T14:31:11.000Z",
+          "wordCount": null,
+          "title": "Social Security COLA for 2027 Will Be 3.6%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html",
+          "author": "Sydney Ember",
+          "description": "Energy prices have surged since the start of war with Iran, lifting inflation in the United States.",
+          "link": "https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html",
+          "publishedOn": "2026-10-14T14:18:28.000Z",
+          "wordCount": null,
+          "title": "Gas Prices Are Up 34% From a Year Ago, Adding to Inflation Pressures",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html",
+          "author": "Sydney Ember",
+          "description": "Inflation has made basic goods hard to afford and attitudes toward inequality have changed, studies from the Pew Research Center showed.",
+          "link": "https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html",
+          "publishedOn": "2026-10-14T14:00:06.000Z",
+          "wordCount": null,
+          "title": "Rising Costs Push Necessities Out of Reach for Nearly Half of Americans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/media/hollywood-agents-producers-ron-howard.html",
+          "author": "John Koblin",
+          "description": "A new alliance seeks legislation to force the biggest entertainment and streaming companies to devote half of their content budgets to independent producers in the U.S.",
+          "link": "https://www.nytimes.com/2026/10/14/business/media/hollywood-agents-producers-ron-howard.html",
+          "publishedOn": "2026-10-14T13:00:06.000Z",
+          "wordCount": null,
+          "title": "Hollywood Agents and Producers Push to Restore Glory Days of Indie TV",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+          "description": "The arrest of an OpenAI employee accused of planting a bug in an office of the artificial intelligence giant flags another concern for the industry.",
+          "link": "https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html",
+          "publishedOn": "2026-10-14T12:39:24.000Z",
+          "wordCount": null,
+          "title": "What Allegations of Spying at OpenAI Mean for the A.I. Industry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html",
+          "author": "Tony Romm and Colby Smith",
+          "description": "President Trump tapped his political appointees to determine whether he could oust Lisa Cook, a Fed governor he had already tried to oust.",
+          "link": "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html",
+          "publishedOn": "2026-10-14T09:02:27.000Z",
+          "wordCount": null,
+          "title": "Trump’s Latest Effort to Fire Fed Governor Lisa Cook Underscores Political Motives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/14/business/medicare-advantage-plan-finder.html",
+          "author": "Susan Jaffe",
+          "description": "The government has made improvements to the Medicare Plan Finder, a key online tool, in time for open enrollment. It helps seniors compare policies to avoid costly surprises.",
+          "link": "https://www.nytimes.com/2026/10/14/business/medicare-advantage-plan-finder.html",
+          "publishedOn": "2026-10-14T09:01:25.000Z",
+          "wordCount": null,
+          "title": "Choosing a Medicare Advantage Provider for 2027 May Be Easier, but Not Perfect",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
           "author": "Rob Copeland",
@@ -7437,156 +7707,6 @@
           "wordCount": null,
           "title": "Congress Has Proposed Many Bills for A.I. Regulation. Lawmakers Have Enacted Few.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
-          "author": "Colby Smith",
-          "description": "The Federal Reserve is expected to raise interest rates on Wednesday, putting Kevin M. Warsh, the chairman, at odds with the administration just before the midterms.",
-          "link": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
-          "publishedOn": "2026-09-15T09:04:03.000Z",
-          "wordCount": null,
-          "title": "Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/15/business/media/poll-watching-midterm-election.html",
-          "author": "Tiffany Hsu",
-          "description": "Groups are preparing thousands of observers for midterm elections in November. Some volunteers are being conditioned to expect bad behavior.",
-          "link": "https://www.nytimes.com/2026/09/15/business/media/poll-watching-midterm-election.html",
-          "publishedOn": "2026-09-15T09:02:06.000Z",
-          "wordCount": null,
-          "title": "It’s Poll Watcher Training Season. Distrust Is on the Lesson Plan.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html",
-          "author": "River Akira Davis and Hisako Ueno",
-          "description": "As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening.",
-          "link": "https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html",
-          "publishedOn": "2026-09-15T04:00:08.000Z",
-          "wordCount": null,
-          "title": "Architects of Japan’s Easy-Money Policies Are Changing Their Minds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html",
-          "author": "Alan Rappeport",
-          "description": "The move, which targeted a bank that is already under U.S. sanctions, was part of the Trump administration’s Operation Economic Outcast initiative.",
-          "link": "https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html",
-          "publishedOn": "2026-09-14T22:23:29.000Z",
-          "wordCount": null,
-          "title": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
-          "author": "Joe Rennison",
-          "description": "One of the world’s most important interest rates hit a level recorded only once since the global financial crisis, as investors rebuffed the Trump administration’s efforts to sway the bond market.",
-          "link": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
-          "publishedOn": "2026-09-14T22:17:15.000Z",
-          "wordCount": null,
-          "title": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
-          "author": "Joe Rennison",
-          "description": "Companies at the forefront of artificial intelligence in Asia, Europe and the United States posted declines after tech leaders expressed worries about the safety of “frontier” A.I. technology.",
-          "link": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
-          "publishedOn": "2026-09-14T20:12:09.000Z",
-          "wordCount": null,
-          "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html",
-          "author": "Jenny Gross and Gregory Schmidt",
-          "description": "Traders sold oil futures on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia.",
-          "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html",
-          "publishedOn": "2026-09-14T20:06:36.000Z",
-          "wordCount": null,
-          "title": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html",
-          "author": "Lauren McCarthy",
-          "description": "President Trump recently blamed Ukrainian attacks on Russian refineries for causing a spike in diesel prices, but analysts say the Iran war is probably a bigger factor.",
-          "link": "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html",
-          "publishedOn": "2026-09-14T19:58:01.000Z",
-          "wordCount": null,
-          "title": "What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
-          "author": "Carl Zimmer",
-          "description": "Today’s chatbots aren’t likely to help lone actors invent a deadly pathogen, experts say. But newer models, trained in biology, may need stronger safeguards.",
-          "link": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
-          "publishedOn": "2026-09-14T19:36:43.000Z",
-          "wordCount": null,
-          "title": "A.I. Queries From Abroad Raise Fears of a Biological Weapons Race",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html",
-          "author": "Christina Jewett",
-          "description": "Federal projects are rolling out A.I. agents that offer therapy and prescribe medicine, raising concerns about safety and the influence of venture capital investors.",
-          "link": "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html",
-          "publishedOn": "2026-09-14T17:38:00.000Z",
-          "wordCount": null,
-          "title": "Trump Administration Moves to Integrate A.I. Into Medical Care Despite Concerns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html",
-          "author": "Lisa Lerer",
-          "description": "Senator Dan Sullivan of Alaska has shown quiet support for President Trump’s tariffs. His brother, the head of their family business, has described the economic volatility as an enormous challenge.",
-          "link": "https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html",
-          "publishedOn": "2026-09-14T17:19:58.000Z",
-          "wordCount": null,
-          "title": "Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/dining/danny-meyer-hospitality-book.html",
-          "author": "Kim Severson",
-          "description": "In a new memoir, the man behind Shake Shack and a suite of influential restaurants revisits the business blunders that taught him valuable lessons.",
-          "link": "https://www.nytimes.com/2026/09/14/dining/danny-meyer-hospitality-book.html",
-          "publishedOn": "2026-09-14T16:51:50.000Z",
-          "wordCount": null,
-          "title": "Why Is Danny Meyer, the Happy Face of Hospitality, Serving Up Regrets?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html",
-          "author": "Alan Rappeport",
-          "description": "The Treasury secretary had dared “Bloomberg terminal bros” to bet against him and they did.",
-          "link": "https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html",
-          "publishedOn": "2026-09-14T16:49:12.000Z",
-          "wordCount": null,
-          "title": "Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
-          "author": "Niraj Chokshi",
-          "description": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
-          "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
-          "publishedOn": "2026-09-14T16:42:19.000Z",
-          "wordCount": null,
-          "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/14/business/cisco-eeoc-palestinian-harassment.html",
-          "author": "Noam Scheiber",
-          "description": "The finding by the U.S. Equal Employment Opportunity Commission said there was reason to believe that the tech giant subjected employees to a hostile environment.",
-          "link": "https://www.nytimes.com/2026/09/14/business/cisco-eeoc-palestinian-harassment.html",
-          "publishedOn": "2026-09-14T15:33:56.000Z",
-          "wordCount": null,
-          "title": "Cisco Likely Allowed Harassment of Pro-Palestinian Workers, EEOC Says",
-          "imageUrl": null
         }
       ]
     },
@@ -7595,6 +7715,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648",
+          "publishedOn": "2026-10-15T01:42:40.000Z",
+          "wordCount": null,
+          "title": "Yemen’s Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0UP_L.jpg",
+            "length": "84204",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0UP_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+          "publishedOn": "2026-10-15T01:36:24.000Z",
+          "wordCount": null,
+          "title": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9D20T_L.jpg",
+            "length": "53923",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9D20T_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
+          "publishedOn": "2026-10-15T01:31:03.000Z",
+          "wordCount": null,
+          "title": "Paysign CEO Mark Newcomer sells $766,895 of PAYS stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+            "length": "99672",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
+          "publishedOn": "2026-10-15T01:30:30.000Z",
+          "wordCount": null,
+          "title": "Oil prices fall as investors weigh supply outlook, Middle East tensions",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9E031_L.jpg",
+            "length": "74056",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9E031_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/bond-trading-weakens-for-us-banks-as-interest-rate-volatility-affects-investors-4949884",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/bond-trading-weakens-for-us-banks-as-interest-rate-volatility-affects-investors-4949884",
+          "publishedOn": "2026-10-15T01:24:26.000Z",
+          "wordCount": null,
+          "title": "Bond trading weakens for US banks as interest rate volatility affects investors",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1V3_L.jpg",
+            "length": "54634",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1V3_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
+          "publishedOn": "2026-10-15T01:18:36.000Z",
+          "wordCount": null,
+          "title": "Brazil’s Senate approves shorter workweek in win for Lula",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9E01Y_L.jpg",
+            "length": "84473",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9E01Y_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
+          "publishedOn": "2026-10-15T01:18:21.000Z",
+          "wordCount": null,
+          "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9E01R_L.jpg",
+            "length": "88952",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9E01R_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
+          "publishedOn": "2026-10-15T01:16:10.000Z",
+          "wordCount": null,
+          "title": "Fastly CTO Artur Bergman sells $1.08 million in company stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+            "length": "150078",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
+          "publishedOn": "2026-10-15T01:12:37.000Z",
+          "wordCount": null,
+          "title": "Norway’s wealth fund set to overhaul ethical rules after US scrutiny",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+            "length": "19139",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
+          "publishedOn": "2026-10-15T01:05:41.000Z",
+          "wordCount": null,
+          "title": "Nikkei 225 plunges to 61.8% Fib with RSI at 23: Live levels",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+            "length": "17251",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+        },
         {
           "id": "https://www.investing.com/news/company-news/pharmx-q1-fy27-slides-marketplace-gtv-surges-150-targets-100m-runrate-93CH-4947867",
           "author": "Investing.com",
@@ -11809,126 +12079,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8F021_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/jean-smart-makes-emmy-history-with-fifth-win-for-hacks-4900688",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/jean-smart-makes-emmy-history-with-fifth-win-for-hacks-4900688",
-          "publishedOn": "2026-09-15T01:42:22.000Z",
-          "wordCount": null,
-          "title": "Jean Smart, Noah Wyle win Emmys as Hollywood honors best of TV",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8E00Y_L.jpg",
-            "length": "53656",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8E00Y_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/sb-energy-to-sell-up-to-500-million-in-shares-to-japan-investors-as-part-of-us-ipo-4900718",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/sb-energy-to-sell-up-to-500-million-in-shares-to-japan-investors-as-part-of-us-ipo-4900718",
-          "publishedOn": "2026-09-15T01:37:15.000Z",
-          "wordCount": null,
-          "title": "SB Energy to sell up to $500 million in shares to Japan investors as part of US IPO",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8E03G_L.jpg",
-            "length": "67422",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8E03G_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/impact-biomedical-corrects-merger-exchange-ratio-sets-reverse-stock-split-93CH-4900717",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/impact-biomedical-corrects-merger-exchange-ratio-sets-reverse-stock-split-93CH-4900717",
-          "publishedOn": "2026-09-15T01:32:33.000Z",
-          "wordCount": null,
-          "title": "Impact Biomedical corrects merger exchange ratio, sets reverse stock split",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEM502AK_1200_L.jpg",
-            "length": "131348",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM502AK_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/lifevantage-chief-sales-officer-cunningham-sells-55k-in-shares-93CH-4900716",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/lifevantage-chief-sales-officer-cunningham-sells-55k-in-shares-93CH-4900716",
-          "publishedOn": "2026-09-15T01:31:02.000Z",
-          "wordCount": null,
-          "title": "Lifevantage chief sales officer Cunningham sells $55k in shares",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-            "length": "128832",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/waymo-plans-tokyo-robotaxi-service-in-2027-with-go-nihon-kotsu-4900713",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/waymo-plans-tokyo-robotaxi-service-in-2027-with-go-nihon-kotsu-4900713",
-          "publishedOn": "2026-09-15T01:19:46.000Z",
-          "wordCount": null,
-          "title": "Waymo plans Tokyo robotaxi service in 2027 with GO, Nihon Kotsu",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEE0U1TO_M.jpg",
-            "length": "19826",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEE0U1TO_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/cpi-card-group-chairman-riley-sanford-buys-299989-in-shares-93CH-4900711",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/cpi-card-group-chairman-riley-sanford-buys-299989-in-shares-93CH-4900711",
-          "publishedOn": "2026-09-15T01:15:53.000Z",
-          "wordCount": null,
-          "title": "CPI Card Group chairman Riley Sanford buys $299,989 in shares",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-            "length": "114383",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/cpi-card-group-director-mallela-ravi-buys-21500-in-common-stock-93CH-4900710",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/cpi-card-group-director-mallela-ravi-buys-21500-in-common-stock-93CH-4900710",
-          "publishedOn": "2026-09-15T01:15:48.000Z",
-          "wordCount": null,
-          "title": "CPI Card Group director Mallela Ravi buys $21,500 in common stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-            "length": "162121",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/accenture-to-pay-25-million-to-settle-us-government-allegations-over-dei-4900700",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/accenture-to-pay-25-million-to-settle-us-government-allegations-over-dei-4900700",
-          "publishedOn": "2026-09-15T01:06:28.000Z",
-          "wordCount": null,
-          "title": "Accenture to pay $25 million to settle US government allegations over DEI",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8E01R_L.jpg",
-            "length": "65680",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8E01R_L.jpg"
         }
       ]
     },
@@ -11937,6 +12087,146 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x650t1/how_to_survive_a_recession/",
+          "author": null,
+          "description": "Hi - I've been contributing monthly from last 2 years on Individual stocks investment (not on etfs? and built my portfolio about 123k. \n Looking at the situation, I am worried how to handle recession and I am already down from the recent falls.\n What is your strategy to survive recession if there is one tomorrow? Do all close your stock positions by taking a loss and enter when you get a hint that market has bottomed out.\n Pls guide , thanks for your reply.\n    submitted by    /u/Classic_Principle828  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x650t1/how_to_survive_a_recession/",
+          "publishedOn": "2026-10-14T22:26:16.000Z",
+          "wordCount": null,
+          "title": "How to survive a recession?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x63j86/how_bad_is_it_i_was_scared_of_stocks_had_1500000/",
+          "author": null,
+          "description": "Basically what the title says honestly, I was absolutely terrified when I inherited the money when I was 15 years old I didn’t understand anything. I brought it to the bank. They charged me a high advisory fee. I was terrified for investing in stocks because some of my family members had lost lots of money in the stock market and after 10 years it’s only grown up about $100,000. I missed out on investing for the last two years cause I didn’t understand AI and I didn’t wanna have anything to do with it so I trusted the bank.\n So how screwed am I? How much money did I lose? I was looking at approximation if I had invested it and it could’ve been probably over 6 to 7,000,000 if I had chose even just partial invest investments in stocks. I have a lot of debt from my doctorate around $200,000 of debt. I don’t know what to do at this point. I’m terrified of losing more money because the stock market seems like it’s gonna do bad but I don’t know what to do.\n I really don’t feel qualified to deal with this amount of money, but at the same time when I’ve trusted the banks, they haven’t done anything with it. What would you suggest? I’d appreciate any help. What should I even invest in like she isn’t even worth investing in stocks at this point? I don’t understand investing and I’m just terrified of losing it all.\n (it’s unrelated, but I had a suicide attempt in late 2024 so for the last 2 years honestly I haven’t really cared. The money is really stressing me out, especially knowing how much I could’ve made) \n    submitted by    /u/Capable_Pepper_5704  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x63j86/how_bad_is_it_i_was_scared_of_stocks_had_1500000/",
+          "publishedOn": "2026-10-14T21:23:37.000Z",
+          "wordCount": null,
+          "title": "How bad is it I was scared of stocks had 1,500,000 inherited 10 years ago and it is 1,600,000 10 years later.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x61me1/ok_ladies_and_gents_this_is_embarrassing_to_admit/",
+          "author": null,
+          "description": "I just turned 60 years old and, due to a horrendous divorce and various circumstances, including my own stupidity and lack of foresight, I have no retirement account. I have $100,000 to invest. What are your thoughts on the best way to proceed? I’m hopeful to be able to work until I’m 70. My social security should be around 5K per month, for what that’s worth. \n    submitted by    /u/DocHoliday8514  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x61me1/ok_ladies_and_gents_this_is_embarrassing_to_admit/",
+          "publishedOn": "2026-10-14T20:06:37.000Z",
+          "wordCount": null,
+          "title": "Ok ladies and gents, this is embarrassing to admit, but…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x60rpa/do_you_have_stoploss_orders_on_the_etfs_mutual/",
+          "author": null,
+          "description": "Not getting into an argument about whether we’re in a bubble, and if it will pop soon. Or whether you can time the market. \n I want to get a simple survey:\n How far are you from retirement, and do you have emergency stop-loss orders on your funds in case of drastic sell-offs?\n I don’t (about 10-2 years out) but am considering it. \n    submitted by    /u/PsychologicalGold734  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x60rpa/do_you_have_stoploss_orders_on_the_etfs_mutual/",
+          "publishedOn": "2026-10-14T19:33:00.000Z",
+          "wordCount": null,
+          "title": "Do you have stop-loss orders on the ETFs / mutual funds in your retirement account?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5wdbz/im_thinking_of_investing_in_sp_500_but_idk_how/",
+          "author": null,
+          "description": "I currently have 8700 into my savings, i make 1000 a month and spend abt 330 for gas and insurance, then i put the rest into my savings allowing me to save abt 500 a month. should i invest daily, weekly, bi weekly, montly, and if so, how much should i invest?\n    submitted by    /u/glugggghhhh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5wdbz/im_thinking_of_investing_in_sp_500_but_idk_how/",
+          "publishedOn": "2026-10-14T16:48:32.000Z",
+          "wordCount": null,
+          "title": "Im thinking of investing in S&P 500 but idk how much",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5vx8d/how_do_i_find_an_etf_with_this_magical_5_with_low/",
+          "author": null,
+          "description": "CNBC keeps saying \"you can now earn 5% with little or no risk\" but every ETF I look at has lost significant value this year. I understand WHY these funds lose value, but I'm trying to understand WHY anyone would knowingly choose a fund like this. And how or where do you find this magical 5% with little or no risk?\n    submitted by    /u/Fernando_Abramowitz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5vx8d/how_do_i_find_an_etf_with_this_magical_5_with_low/",
+          "publishedOn": "2026-10-14T16:31:32.000Z",
+          "wordCount": null,
+          "title": "How do I find an ETF with this magical \"5% with low risk\" I keep hearing about?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5sun5/best_investment_strategy_being_24/",
+          "author": null,
+          "description": "I’m 24 with 34k in my 401k and my monthly expenses are decently low. I only pay property tax and utilities because I live in a paid off house the only debt that I’m in is I owe 20 K on my truck and have around $8000 in credit card debt that I’m taking care of right now and am about to start a new job I’ll be making around 100k after bonus with a 16% raise in 2 years and 3% annual raise every year. My new company matches 200% of 5% so my question is what would be the best investment strategy I’m wanting to open a Roth but I don’t know if I should max my Roth and contribute 5% to get a 10% match from my employer or 10% 401k and 5% Roth. I have a meeting. With a financial advisor in a few weeks. So trying to get some ideas I can run by them. I’m not atm wanting to retire early just want to be set up for the future and build my net worth early so compounding interest can do its thing in 40 years. Thank yall also for everyone who has invested well and strategically if you were in my shoes at 24 in my position how would you go about? it?\n    submitted by    /u/Low_Equipment_5932  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5sun5/best_investment_strategy_being_24/",
+          "publishedOn": "2026-10-14T14:34:09.000Z",
+          "wordCount": null,
+          "title": "Best investment strategy being 24",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5rfb8/rising_yields_are_fine_really/",
+          "author": null,
+          "description": "In case you didn't know: Rising yields and strong earnings, often go hand in hand.\n As investor, this is the implication you should care about.\n As yields rise, earnings tend to go up as well (because the two are often related).\n And while rising yields do seem to bring unrest among investors, what's happening is completely normal.\n It goes like this:\n → The business cycle picks up\n → Revenue and earnings grow\n → Demand for stuff is going up\n → This pushes inflation upwards\n → Which then adds pressure to yields.\n In other words, stocks and bond yields can rise together because they're responding to the same thing: a stronger economy.\n (in our case, at the moment, the stronger economy is the tech-economy).\n The problem though... Will come when earnings shows signs of easing, while yields are still high. Luckily, the recent signs from Micron and ASML reports, show the opposite still.\n So do chill your bearish beans.\n Zoomed out, yields and inflation are okay.\n    submitted by    /u/INtotheVEST  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5rfb8/rising_yields_are_fine_really/",
+          "publishedOn": "2026-10-14T13:36:37.000Z",
+          "wordCount": null,
+          "title": "Rising yields are fine, really",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5p3by/crowded_positions_and_unwinding_risks/",
+          "author": null,
+          "description": "The US rally is increasingly being funded from abroad. Overseas investors have poured nearly $2 trillion into US assets over the past year, a record, with equities accounting for the bulk of those flows. \n As a result, global portfolios are now more exposed to US stocks than at any point before. For now, that demand remains a powerful tailwind. \n However, much of the return foreign investors earn on US assets depends on the currency. A weaker dollar would erode those gains and could quickly turn enthusiasm into selling pressure, particularly among investors who have not hedged their exposure. \n That is where the risk lies, the trade has become crowded, the inflows that have supported the rally could therefore become the very source of the unwind.\n    submitted by    /u/Possible_Donut4451  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5p3by/crowded_positions_and_unwinding_risks/",
+          "publishedOn": "2026-10-14T11:47:39.000Z",
+          "wordCount": null,
+          "title": "Crowded positions and unwinding risks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5omej/best_strategy_on_retirement_funds/",
+          "author": null,
+          "description": "i need VERY safe interest while minimizing tax so any index quantity would be low\n the most simple is probably schwab passive around 3.5%\n comparison to CDS, SGOV, and other similar options would be welcome and i will pause questions about any indexes to another question\n    submitted by    /u/GameMusic  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5omej/best_strategy_on_retirement_funds/",
+          "publishedOn": "2026-10-14T11:22:29.000Z",
+          "wordCount": null,
+          "title": "best strategy on retirement funds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5lver/ubs_is_bullish_on_commodities_why/",
+          "author": null,
+          "description": "Tight supply, geopolitics and industrial demand - UBS betting on commodities.\n In their view: UBS View \n Brief: \n  \nEnergy (Oil): UBS notes that the physical oil market remains globally tight due to ongoing supply disruptions and attacks impacting transit through the Strait of Hormuz and the Red Sea. They view recent G7 emergency inventory releases as only a temporary band-aid that actually shrinks future market buffers, leaving oil prices sensitive to further supply outages.\n Gold: While rising U.S. real yields and a stronger dollar present short-term headwinds, UBS highlights that structural demand - specifically robust central bank buying (such as from China, Poland, and Uzbekistan) alongside steady ETF inflows - will continue to underpin the market and support prices moving forward.\n Industrial Metals & Agriculture: UBS maintains a constructive outlook on industrial metals (favoring copper due to constrained mine production, strong Chinese demand, and data center/electrification investments) and agricultural commodities (where tight inventories and El Niño weather disruptions are putting upward pressure on global food prices).\n  \nNFA\n    submitted by    /u/Prestigious-Bank2145  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5lver/ubs_is_bullish_on_commodities_why/",
+          "publishedOn": "2026-10-14T08:31:33.000Z",
+          "wordCount": null,
+          "title": "UBS is bullish on commodities - why?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5le9u/daily_general_discussion_and_advice_thread/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5le9u/daily_general_discussion_and_advice_thread/",
+          "publishedOn": "2026-10-14T08:00:19.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - October 14, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5k7fx/with_treasury_yields_above_5_what_would_make_you/",
+          "author": null,
+          "description": "In the past, the reasoning behind holding onto equities was that other forms of investments were not paying off well. This is no longer the case now that long-term U.S. Treasury bonds are earning yields of about 5% or more. The certainty of a fixed rate of return (on an individual bond held until maturity) is looking more and more attractive in light of the uncertainty surrounding equity returns. However, there is the issue of inflation, taxes, and the chance of losing out on a bull market.\n How is this weighing on those who invest for the long term in this community?\n Are you comfortable making fresh investments in equities at these valuations, or have bonds become sufficiently attractive to change your asset allocation?\n If you opt for bonds, will you commit to locking in yields for the long term, or go for shorter maturities and wait?\n At what stock market return expectation over the next 10–15 years do you feel that the higher risk justifies the investment over a Treasury?\n Have any of you moved some assets from equities to bonds in recent times? How did you come to this decision?\n    submitted by    /u/micschumi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5k7fx/with_treasury_yields_above_5_what_would_make_you/",
+          "publishedOn": "2026-10-14T06:42:24.000Z",
+          "wordCount": null,
+          "title": "With Treasury yields above 5%, what would make you choose stocks over bonds right now?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1x5gaua/is_a_etf_like_schd_a_good_candidate_in_current/",
+          "author": null,
+          "description": "Lately I have been thinking to reduce my exposure to certain stocks that have seen explosive growth in last year or so due to increased investments in AI hardware. Would offloading such stocks (say MU and DELL) and moving funds to high Dividend ETFs like SCHD a good move for next year or two? Share your thoughts.\n    submitted by    /u/Am_Not_Crazy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1x5gaua/is_a_etf_like_schd_a_good_candidate_in_current/",
+          "publishedOn": "2026-10-14T02:56:25.000Z",
+          "wordCount": null,
+          "title": "Is a ETF like SCHD a good candidate in current volatile economic environment?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1x5d4z0/all_in_on_pltr_100_of_my_portfolio/",
           "author": null,
@@ -14565,76 +14855,6 @@
           "publishedOn": "2026-09-15T14:40:58.000Z",
           "wordCount": null,
           "title": "Battery Manufacturer CATL (CYATY) is super cheap at the moment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wgu0bb/daily_general_discussion_and_advice_thread/",
-          "author": null,
-          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wgu0bb/daily_general_discussion_and_advice_thread/",
-          "publishedOn": "2026-09-15T08:00:30.000Z",
-          "wordCount": null,
-          "title": "Daily General Discussion and Advice Thread - September 15, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wgmjm5/i_see_a_lot_of_speculation_that_warsh_will/",
-          "author": null,
-          "description": "A combination of hot inflation and hot jobs reports has pushed the odds of a Fed rate hike to over 90%. But I'm seeing plenty of speculation that Warsh will continue to 'let the market figure it out'. I understand the skepticism - a lot of people believe he's the president's puppet and think he will delay the rate hike as long as possible. \n But can he actually hold rates with the market almost fully expecting a hike?\n Consider the consequences of defying extremely high market expectations and holding rates while inflation is blatantly surging. The market would understand the Fed is not serious about fighting inflation and Fed credibility would instantly collapse. Long term treasury yields would take off, which would be horrendous for the national debt.\n Even if Warsh is actually there to appease the president and the stock market, are these consequences he's willing to accept?\n    submitted by    /u/BGID_to_the_moon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wgmjm5/i_see_a_lot_of_speculation_that_warsh_will/",
-          "publishedOn": "2026-09-15T01:35:36.000Z",
-          "wordCount": null,
-          "title": "I see a lot of speculation that Warsh will continue to hold rates at FOMC despite 90% odds of a hike. Is holding actually an option for him?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wgmbe8/is_iron_mountain_undervalued/",
-          "author": null,
-          "description": "Hi all,\n IRM seems to be doing well as they transition from a paper records storage company to an information infrastructure platform and a digital data center. Has a good dividend they increased last year and wouldn’t be surprised if they increased it again based on them increasing guidance and beating earnings easily.\n What are your thoughts?\n    submitted by    /u/Apprehensive-Size150  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wgmbe8/is_iron_mountain_undervalued/",
-          "publishedOn": "2026-09-15T01:24:42.000Z",
-          "wordCount": null,
-          "title": "Is Iron Mountain Undervalued?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wgmb57/utilizing_leverage_to_diversify_across_time/",
-          "author": null,
-          "description": "M21, still in school but have an offer signed with a trading firm for next year after I graduate, for around 800k. With the goal of trying to retire early, I’d of course be putting most of my earnings into investments.\n Recently I saw this paper that was interesting, it was about how individuals can achieve better diversification across their lives by having more notional invested early through the use of leverage, since people tend to have more money later than earlier. Paper here: [https://papers.ssrn.com/sol3/papers.cfm?abstract\\\\\\_id=1149340](https://papers.ssrn.com/sol3/papers.cfm?abstract%5C_id=1149340)) (Life-Cycle Investing and Leverage: Buying Stock on Margin Can Reduce Retirement Risk)\n Was wondering what you guys think about this idea. Should we be investing in high leverage products early in life to adjust for the fact that we simply have less money now than later? This could help even out the exposure to investments we have throughout time, though I’m not sure it’s worth it with the extra fees and risks that come with leverage.\n    submitted by    /u/nategraffiti  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wgmb57/utilizing_leverage_to_diversify_across_time/",
-          "publishedOn": "2026-09-15T01:24:21.000Z",
-          "wordCount": null,
-          "title": "Utilizing leverage to diversify across time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wghn2r/what_percentage_of_your_portfolio_or_net_worth_is/",
-          "author": null,
-          "description": "I know the general advice is to not overly invest in high risk stocks, that is not what this post is about. Instead I am wondering how much of either your net worth or your stock portfolio if you are heavily invested in the market is in stocks that you feel may balloon in value in the coming months or years, either emerging technology, or other long shot high reward stocks or etfs.\n In my case I have about 25% of my brokerage account is in such high reward stocks, but the vast majority of my net worth is tied up in non publicly traded stocks and real estate, making my entire brokerage account a bit of a playground so this currently accounts for less than 2% of my net worth.\n I will leave it up to you to define what you consider high risk.\n    submitted by    /u/Penguin_Life_Now  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wghn2r/what_percentage_of_your_portfolio_or_net_worth_is/",
-          "publishedOn": "2026-09-14T22:03:57.000Z",
-          "wordCount": null,
-          "title": "What percentage of your portfolio or net worth is high risk high reward stocks.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wga1f6/options_for_symbolic_gift_stocks/",
-          "author": null,
-          "description": "Hey, i'm looking to get someone a share of a company as a symbolic surprise gift. \n i already looked into giveashare.com and uniquestockgifts.com, but the former has insane shipping prices for where i live and the latter doesn't let me choose my country even with the digital certificate option. are there any alternatives i can try? i don't need a physical certificate, or even any certificate at all\n    submitted by    /u/edjak53  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wga1f6/options_for_symbolic_gift_stocks/",
-          "publishedOn": "2026-09-14T17:31:07.000Z",
-          "wordCount": null,
-          "title": "options for symbolic gift stocks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wg9mvt/why_the_market_looks_like_it_cant_possible_go/",
-          "author": null,
-          "description": "If even days like these with so many bad news the S&P is still a few % points from ATH, what will make the market go down?\n I remember previous years when just a fraction of the news we had these months appeared, the market tanked, now it's not moving at all.\n Is it euphory of AI? Is it because there's so much cash and every dip is bought? or what's happening? Is it something pumping the market artificially?\n I feel that's not normal and there will be soon a reversal of this sentiment.\n LE: for those that say earnings, 2021 had great earnings, including FE, you know what happened in 2022\n    submitted by    /u/clintron_abc  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wg9mvt/why_the_market_looks_like_it_cant_possible_go/",
-          "publishedOn": "2026-09-14T17:17:07.000Z",
-          "wordCount": null,
-          "title": "Why the market looks like it can't possible go down? What's keeping it up?",
           "imageUrl": null
         }
       ]

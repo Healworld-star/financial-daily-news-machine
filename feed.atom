@@ -2,10 +2,715 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://healworld-star.github.io/financial-daily-news-machine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T02:14:45.839Z</updated>
+    <updated>2026-10-15T01:55:59.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://healworld-star.github.io/financial-daily-news-machine/index.html"/>
     <link rel="self" href="https://healworld-star.github.io/financial-daily-news-machine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Musk Blames Tycoon for Stalling Satellite Internet Access in India]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html"/>
+        <updated>2026-10-15T01:52:59.000Z</updated>
+        <summary type="html"><![CDATA[As Starlink seeks permission to operate in India, a recent protest in New Delhi showed how quickly authorities can cut off mobile internet access.]]></summary>
+        <author>
+            <name>Alex Travelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI giant Anthropic sees revenue surge ahead of stock market listing]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-15T01:49:46.000Z</updated>
+        <summary type="html"><![CDATA[It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yemen’s Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit]]></title>
+        <id>https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648</id>
+        <link href="https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"/>
+        <updated>2026-10-15T01:42:40.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction]]></title>
+        <id>https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208</id>
+        <link href="https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208"/>
+        <updated>2026-10-15T01:36:24.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paysign CEO Mark Newcomer sells $766,895 of PAYS stock]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373</id>
+        <link href="https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373"/>
+        <updated>2026-10-15T01:31:03.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oil prices fall as investors weigh supply outlook, Middle East tensions]]></title>
+        <id>https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372</id>
+        <link href="https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372"/>
+        <updated>2026-10-15T01:30:30.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bond trading weakens for US banks as interest rate volatility affects investors]]></title>
+        <id>https://www.investing.com/news/economy-news/bond-trading-weakens-for-us-banks-as-interest-rate-volatility-affects-investors-4949884</id>
+        <link href="https://www.investing.com/news/economy-news/bond-trading-weakens-for-us-banks-as-interest-rate-volatility-affects-investors-4949884"/>
+        <updated>2026-10-15T01:24:26.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil’s Senate approves shorter workweek in win for Lula]]></title>
+        <id>https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366</id>
+        <link href="https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366"/>
+        <updated>2026-10-15T01:18:36.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asian markets sell off as AI trades crumble after hot US CPI data]]></title>
+        <id>https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348</id>
+        <link href="https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348"/>
+        <updated>2026-10-15T01:18:21.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastly CTO Artur Bergman sells $1.08 million in company stock]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365</id>
+        <link href="https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365"/>
+        <updated>2026-10-15T01:16:10.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norway’s wealth fund set to overhaul ethical rules after US scrutiny]]></title>
+        <id>https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361</id>
+        <link href="https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361"/>
+        <updated>2026-10-15T01:12:37.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nikkei 225 plunges to 61.8% Fib with RSI at 23: Live levels]]></title>
+        <id>https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960</id>
+        <link href="https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960"/>
+        <updated>2026-10-15T01:05:41.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html"/>
+        <updated>2026-10-14T23:17:50.000Z</updated>
+        <summary type="html"><![CDATA[The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.]]></summary>
+        <author>
+            <name>Christine Hauser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How backlash against data centres could shape the US midterm elections]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c0rezqpnekro#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T23:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Chinese-made toy gets to a US retailer]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c5djvyde0y1jo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T23:01:28.000Z</updated>
+        <summary type="html"><![CDATA[With Christmas on the horizon, we trace children's toys from factories in China to US shelves.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much is the minimum wage?]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T23:01:11.000Z</updated>
+        <summary type="html"><![CDATA[What are the National Minimum Wage and the National Living Wage, and how much are they worth?]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html"/>
+        <updated>2026-10-14T22:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark.]]></summary>
+        <author>
+            <name>Michael Rothfeld, Maggie Haberman and Maureen Farrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to survive a recession?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x650t1/how_to_survive_a_recession/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x650t1/how_to_survive_a_recession/"/>
+        <updated>2026-10-14T22:26:16.000Z</updated>
+        <summary type="html"><![CDATA[Hi - I've been contributing monthly from last 2 years on Individual stocks investment (not on etfs? and built my portfolio about 123k. 
+ Looking at the situation, I am worried how to handle recession and I am already down from the recent falls.
+ What is your strategy to survive recession if there is one tomorrow? Do all close your stock positions by taking a loss and enter when you get a hint that market has bottomed out.
+ Pls guide , thanks for your reply.
+    submitted by    /u/Classic_Principle828  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html"/>
+        <updated>2026-10-14T22:20:50.000Z</updated>
+        <summary type="html"><![CDATA[For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.]]></summary>
+        <author>
+            <name>Ryan Mac</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html"/>
+        <updated>2026-10-14T21:30:57.000Z</updated>
+        <summary type="html"><![CDATA[The S&P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.]]></summary>
+        <author>
+            <name>Joe Rennison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html"/>
+        <updated>2026-10-14T21:25:25.000Z</updated>
+        <summary type="html"><![CDATA[President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.]]></summary>
+        <author>
+            <name>Aruni Soni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How bad is it I was scared of stocks had 1,500,000 inherited 10 years ago and it is 1,600,000 10 years later.]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x63j86/how_bad_is_it_i_was_scared_of_stocks_had_1500000/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x63j86/how_bad_is_it_i_was_scared_of_stocks_had_1500000/"/>
+        <updated>2026-10-14T21:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Basically what the title says honestly, I was absolutely terrified when I inherited the money when I was 15 years old I didn’t understand anything. I brought it to the bank. They charged me a high advisory fee. I was terrified for investing in stocks because some of my family members had lost lots of money in the stock market and after 10 years it’s only grown up about $100,000. I missed out on investing for the last two years cause I didn’t understand AI and I didn’t wanna have anything to do with it so I trusted the bank.
+ So how screwed am I? How much money did I lose? I was looking at approximation if I had invested it and it could’ve been probably over 6 to 7,000,000 if I had chose even just partial invest investments in stocks. I have a lot of debt from my doctorate around $200,000 of debt. I don’t know what to do at this point. I’m terrified of losing more money because the stock market seems like it’s gonna do bad but I don’t know what to do.
+ I really don’t feel qualified to deal with this amount of money, but at the same time when I’ve trusted the banks, they haven’t done anything with it. What would you suggest? I’d appreciate any help. What should I even invest in like she isn’t even worth investing in stocks at this point? I don’t understand investing and I’m just terrified of losing it all.
+ (it’s unrelated, but I had a suicide attempt in late 2024 so for the last 2 years honestly I haven’t really cared. The money is really stressing me out, especially knowing how much I could’ve made) 
+    submitted by    /u/Capable_Pepper_5704  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html"/>
+        <updated>2026-10-14T20:22:19.000Z</updated>
+        <summary type="html"><![CDATA[September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.]]></summary>
+        <author>
+            <name>Colby Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ok ladies and gents, this is embarrassing to admit, but…]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x61me1/ok_ladies_and_gents_this_is_embarrassing_to_admit/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x61me1/ok_ladies_and_gents_this_is_embarrassing_to_admit/"/>
+        <updated>2026-10-14T20:06:37.000Z</updated>
+        <summary type="html"><![CDATA[I just turned 60 years old and, due to a horrendous divorce and various circumstances, including my own stupidity and lack of foresight, I have no retirement account. I have $100,000 to invest. What are your thoughts on the best way to proceed? I’m hopeful to be able to work until I’m 70. My social security should be around 5K per month, for what that’s worth. 
+    submitted by    /u/DocHoliday8514  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you have stop-loss orders on the ETFs / mutual funds in your retirement account?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x60rpa/do_you_have_stoploss_orders_on_the_etfs_mutual/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x60rpa/do_you_have_stoploss_orders_on_the_etfs_mutual/"/>
+        <updated>2026-10-14T19:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Not getting into an argument about whether we’re in a bubble, and if it will pop soon. Or whether you can time the market. 
+ I want to get a simple survey:
+ How far are you from retirement, and do you have emergency stop-loss orders on your funds in case of drastic sell-offs?
+ I don’t (about 10-2 years out) but am considering it. 
+    submitted by    /u/PsychologicalGold734  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html"/>
+        <updated>2026-10-14T18:42:13.000Z</updated>
+        <summary type="html"><![CDATA[The final inflation report before the 2026 election — showing price increases and stagnant wages — spelled bad political news for the White House.]]></summary>
+        <author>
+            <name>Tony Romm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacks on Ships in Strait of Hormuz Escalate Sharply]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html"/>
+        <updated>2026-10-14T18:20:24.000Z</updated>
+        <summary type="html"><![CDATA[In a volatile moment in the region, a significant increase in attacks on vessels passing through the vital waterway is raising alarm.]]></summary>
+        <author>
+            <name>Jenny Gross and Lisa Friedman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drop-off charges at UK airports to be reviewed after sharp increase]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cwp8gynk13rro#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T17:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Confirming the review, the government said it was "vital to ensure travel remains accessible and that passengers are treated fairly".]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html"/>
+        <updated>2026-10-14T17:21:26.000Z</updated>
+        <summary type="html"><![CDATA[The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.]]></summary>
+        <author>
+            <name>John Koblin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Im thinking of investing in S&P 500 but idk how much]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5wdbz/im_thinking_of_investing_in_sp_500_but_idk_how/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5wdbz/im_thinking_of_investing_in_sp_500_but_idk_how/"/>
+        <updated>2026-10-14T16:48:32.000Z</updated>
+        <summary type="html"><![CDATA[I currently have 8700 into my savings, i make 1000 a month and spend abt 330 for gas and insurance, then i put the rest into my savings allowing me to save abt 500 a month. should i invest daily, weekly, bi weekly, montly, and if so, how much should i invest?
+    submitted by    /u/glugggghhhh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix to shed 1,000 jobs in steepest cuts since 2022]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T16:47:32.000Z</updated>
+        <summary type="html"><![CDATA[The cuts equate to around 6% of the streaming giant's total workforce worldwide.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do I find an ETF with this magical "5% with low risk" I keep hearing about?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5vx8d/how_do_i_find_an_etf_with_this_magical_5_with_low/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5vx8d/how_do_i_find_an_etf_with_this_magical_5_with_low/"/>
+        <updated>2026-10-14T16:31:32.000Z</updated>
+        <summary type="html"><![CDATA[CNBC keeps saying "you can now earn 5% with little or no risk" but every ETF I look at has lost significant value this year. I understand WHY these funds lose value, but I'm trying to understand WHY anyone would knowingly choose a fund like this. And how or where do you find this magical 5% with little or no risk?
+    submitted by    /u/Fernando_Abramowitz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['It's rough out here': Americans struggle with rising inflation]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c305649p2d6o#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T15:57:11.000Z</updated>
+        <summary type="html"><![CDATA[US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cm04054ykqqqo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T15:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico]]></title>
+        <id>https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html</id>
+        <link href="https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html"/>
+        <updated>2026-10-14T15:46:23.000Z</updated>
+        <summary type="html"><![CDATA[The ruling will allow the outlets to enter the White House grounds while they sue to overturn the ban. But it doesn’t resolve all of their access problems.]]></summary>
+        <author>
+            <name>Erik Wemple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s Exports Soar, Putting Its Trade Surplus on Track for a Record]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html"/>
+        <updated>2026-10-14T15:41:21.000Z</updated>
+        <summary type="html"><![CDATA[China’s exports grew last month at the fastest pace in almost any month since the end of the global financial crisis.]]></summary>
+        <author>
+            <name>Keith Bradsher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US inflation rises more than expected - here's what is happening with prices]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T15:26:14.000Z</updated>
+        <summary type="html"><![CDATA[The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US inflation rises more than expected - here's what is happening with prices]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T15:26:14.000Z</updated>
+        <summary type="html"><![CDATA[The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html"/>
+        <updated>2026-10-14T15:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory.]]></summary>
+        <author>
+            <name>Lisa Lerer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Costs Americans Are Paying More for as Inflation Rises]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html"/>
+        <updated>2026-10-14T14:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Consumers are paying more for everyday goods and services, like food, computers and streaming.]]></summary>
+        <author>
+            <name>Aruni Soni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s the latest.]]></title>
+        <id>https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/heres-the-latest</id>
+        <link href="https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/heres-the-latest"/>
+        <updated>2026-10-14T14:43:18.000Z</updated>
+        <author>
+            <name>Colby Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best investment strategy being 24]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5sun5/best_investment_strategy_being_24/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5sun5/best_investment_strategy_being_24/"/>
+        <updated>2026-10-14T14:34:09.000Z</updated>
+        <summary type="html"><![CDATA[I’m 24 with 34k in my 401k and my monthly expenses are decently low. I only pay property tax and utilities because I live in a paid off house the only debt that I’m in is I owe 20 K on my truck and have around $8000 in credit card debt that I’m taking care of right now and am about to start a new job I’ll be making around 100k after bonus with a 16% raise in 2 years and 3% annual raise every year. My new company matches 200% of 5% so my question is what would be the best investment strategy I’m wanting to open a Roth but I don’t know if I should max my Roth and contribute 5% to get a 10% match from my employer or 10% 401k and 5% Roth. I have a meeting. With a financial advisor in a few weeks. So trying to get some ideas I can run by them. I’m not atm wanting to retire early just want to be set up for the future and build my net worth early so compounding interest can do its thing in 40 years. Thank yall also for everyone who has invested well and strategically if you were in my shoes at 24 in my position how would you go about? it?
+    submitted by    /u/Low_Equipment_5932  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Security COLA for 2027 Will Be 3.6%]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html"/>
+        <updated>2026-10-14T14:31:11.000Z</updated>
+        <summary type="html"><![CDATA[The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January.]]></summary>
+        <author>
+            <name>Mark Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gas Prices Are Up 34% From a Year Ago, Adding to Inflation Pressures]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html"/>
+        <updated>2026-10-14T14:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Energy prices have surged since the start of war with Iran, lifting inflation in the United States.]]></summary>
+        <author>
+            <name>Sydney Ember</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising Costs Push Necessities Out of Reach for Nearly Half of Americans]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html"/>
+        <updated>2026-10-14T14:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Inflation has made basic goods hard to afford and attitudes toward inequality have changed, studies from the Pew Research Center showed.]]></summary>
+        <author>
+            <name>Sydney Ember</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving test waits fall to two-year low - but still average 20 weeks]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c94g1kvz006ko#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T13:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising yields are fine, really]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5rfb8/rising_yields_are_fine_really/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5rfb8/rising_yields_are_fine_really/"/>
+        <updated>2026-10-14T13:36:37.000Z</updated>
+        <summary type="html"><![CDATA[In case you didn't know: Rising yields and strong earnings, often go hand in hand.
+ As investor, this is the implication you should care about.
+ As yields rise, earnings tend to go up as well (because the two are often related).
+ And while rising yields do seem to bring unrest among investors, what's happening is completely normal.
+ It goes like this:
+ → The business cycle picks up
+ → Revenue and earnings grow
+ → Demand for stuff is going up
+ → This pushes inflation upwards
+ → Which then adds pressure to yields.
+ In other words, stocks and bond yields can rise together because they're responding to the same thing: a stronger economy.
+ (in our case, at the moment, the stronger economy is the tech-economy).
+ The problem though... Will come when earnings shows signs of easing, while yields are still high. Luckily, the recent signs from Micron and ASML reports, show the opposite still.
+ So do chill your bearish beans.
+ Zoomed out, yields and inflation are okay.
+    submitted by    /u/INtotheVEST  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hollywood Agents and Producers Push to Restore Glory Days of Indie TV]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/media/hollywood-agents-producers-ron-howard.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/media/hollywood-agents-producers-ron-howard.html"/>
+        <updated>2026-10-14T13:00:06.000Z</updated>
+        <summary type="html"><![CDATA[A new alliance seeks legislation to force the biggest entertainment and streaming companies to devote half of their content budgets to independent producers in the U.S.]]></summary>
+        <author>
+            <name>John Koblin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Allegations of Spying at OpenAI Mean for the A.I. Industry]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html"/>
+        <updated>2026-10-14T12:39:24.000Z</updated>
+        <summary type="html"><![CDATA[The arrest of an OpenAI employee accused of planting a bug in an office of the artificial intelligence giant flags another concern for the industry.]]></summary>
+        <author>
+            <name>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayfair among firms fined millions for misleading sales tactics]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cqx298e5rr3po#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T12:09:45.000Z</updated>
+        <summary type="html"><![CDATA[The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Civil servant faked illness with make-up to juggle five jobs, court hears]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T11:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crowded positions and unwinding risks]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5p3by/crowded_positions_and_unwinding_risks/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5p3by/crowded_positions_and_unwinding_risks/"/>
+        <updated>2026-10-14T11:47:39.000Z</updated>
+        <summary type="html"><![CDATA[The US rally is increasingly being funded from abroad. Overseas investors have poured nearly $2 trillion into US assets over the past year, a record, with equities accounting for the bulk of those flows. 
+ As a result, global portfolios are now more exposed to US stocks than at any point before. For now, that demand remains a powerful tailwind. 
+ However, much of the return foreign investors earn on US assets depends on the currency. A weaker dollar would erode those gains and could quickly turn enthusiasm into selling pressure, particularly among investors who have not hedged their exposure. 
+ That is where the risk lies, the trade has become crowded, the inflows that have supported the rally could therefore become the very source of the unwind.
+    submitted by    /u/Possible_Donut4451  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[best strategy on retirement funds]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5omej/best_strategy_on_retirement_funds/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5omej/best_strategy_on_retirement_funds/"/>
+        <updated>2026-10-14T11:22:29.000Z</updated>
+        <summary type="html"><![CDATA[i need VERY safe interest while minimizing tax so any index quantity would be low
+ the most simple is probably schwab passive around 3.5%
+ comparison to CDS, SGOV, and other similar options would be welcome and i will pause questions about any indexes to another question
+    submitted by    /u/GameMusic  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Job cuts could fund diesel price drop says deputy]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T11:13:10.000Z</updated>
+        <summary type="html"><![CDATA[With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faisal Islam: What surprise praise for UK economy tells us about the Budget]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cx30eq0vyed4o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T11:04:12.000Z</updated>
+        <summary type="html"><![CDATA[On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['It's definitely tight trying to budget on maternity leave']]></title>
+        <id>https://www.bbc.co.uk/news/articles/c3ewegye0g0qo#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T09:59:51.000Z</updated>
+        <summary type="html"><![CDATA[An estimated 47,500 people in Sheffield are unable to make ends meet and pay their bills.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s Latest Effort to Fire Fed Governor Lisa Cook Underscores Political Motives]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html"/>
+        <updated>2026-10-14T09:02:27.000Z</updated>
+        <summary type="html"><![CDATA[President Trump tapped his political appointees to determine whether he could oust Lisa Cook, a Fed governor he had already tried to oust.]]></summary>
+        <author>
+            <name>Tony Romm and Colby Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing a Medicare Advantage Provider for 2027 May Be Easier, but Not Perfect]]></title>
+        <id>https://www.nytimes.com/2026/10/14/business/medicare-advantage-plan-finder.html</id>
+        <link href="https://www.nytimes.com/2026/10/14/business/medicare-advantage-plan-finder.html"/>
+        <updated>2026-10-14T09:01:25.000Z</updated>
+        <summary type="html"><![CDATA[The government has made improvements to the Medicare Plan Finder, a key online tool, in time for open enrollment. It helps seniors compare policies to avoid costly surprises.]]></summary>
+        <author>
+            <name>Susan Jaffe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UBS is bullish on commodities - why?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5lver/ubs_is_bullish_on_commodities_why/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5lver/ubs_is_bullish_on_commodities_why/"/>
+        <updated>2026-10-14T08:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Tight supply, geopolitics and industrial demand - UBS betting on commodities.
+ In their view: UBS View 
+ Brief: 
+  
+Energy (Oil): UBS notes that the physical oil market remains globally tight due to ongoing supply disruptions and attacks impacting transit through the Strait of Hormuz and the Red Sea. They view recent G7 emergency inventory releases as only a temporary band-aid that actually shrinks future market buffers, leaving oil prices sensitive to further supply outages.
+ Gold: While rising U.S. real yields and a stronger dollar present short-term headwinds, UBS highlights that structural demand - specifically robust central bank buying (such as from China, Poland, and Uzbekistan) alongside steady ETF inflows - will continue to underpin the market and support prices moving forward.
+ Industrial Metals & Agriculture: UBS maintains a constructive outlook on industrial metals (favoring copper due to constrained mine production, strong Chinese demand, and data center/electrification investments) and agricultural commodities (where tight inventories and El Niño weather disruptions are putting upward pressure on global food prices).
+  
+NFA
+    submitted by    /u/Prestigious-Bank2145  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily General Discussion and Advice Thread - October 14, 2026]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5le9u/daily_general_discussion_and_advice_thread/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5le9u/daily_general_discussion_and_advice_thread/"/>
+        <updated>2026-10-14T08:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!
+ Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.
+ If you are new to investing - please refer to Wiki - Getting Started
+ The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List
+ The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos
+ If your question is "I have $XXXXXXX, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
+  
+How old are you? What country do you live in?
+ Are you employed/making income? How much?
+ What are your objectives with this money? (Buy a house? Retirement savings?)
+ What is your time horizon? Do you need this money next month? Next 20yrs?
+ What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
+ What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)
+ Any big debts (include interest rate) or expenses?
+ And any other relevant financial information will be useful to give you a proper answer.
+  
+Check the resources in the sidebar.
+ Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With Treasury yields above 5%, what would make you choose stocks over bonds right now?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5k7fx/with_treasury_yields_above_5_what_would_make_you/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5k7fx/with_treasury_yields_above_5_what_would_make_you/"/>
+        <updated>2026-10-14T06:42:24.000Z</updated>
+        <summary type="html"><![CDATA[In the past, the reasoning behind holding onto equities was that other forms of investments were not paying off well. This is no longer the case now that long-term U.S. Treasury bonds are earning yields of about 5% or more. The certainty of a fixed rate of return (on an individual bond held until maturity) is looking more and more attractive in light of the uncertainty surrounding equity returns. However, there is the issue of inflation, taxes, and the chance of losing out on a bull market.
+ How is this weighing on those who invest for the long term in this community?
+ Are you comfortable making fresh investments in equities at these valuations, or have bonds become sufficiently attractive to change your asset allocation?
+ If you opt for bonds, will you commit to locking in yields for the long term, or go for shorter maturities and wait?
+ At what stock market return expectation over the next 10–15 years do you feel that the higher risk justifies the investment over a Treasury?
+ Have any of you moved some assets from equities to bonds in recent times? How did you come to this decision?
+    submitted by    /u/micschumi  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not building third runway would be 'huge missed opportunity', warns Heathrow boss]]></title>
+        <id>https://www.bbc.co.uk/news/articles/ckdd8egder5ro#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T04:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Thomas Woldbye tells the Today progamme it would be "good to know" the government's position on the project, after comments made by the prime minister.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is a ETF like SCHD a good candidate in current volatile economic environment?]]></title>
+        <id>https://www.reddit.com/r/investing/comments/1x5gaua/is_a_etf_like_schd_a_good_candidate_in_current/</id>
+        <link href="https://www.reddit.com/r/investing/comments/1x5gaua/is_a_etf_like_schd_a_good_candidate_in_current/"/>
+        <updated>2026-10-14T02:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Lately I have been thinking to reduce my exposure to certain stocks that have seen explosive growth in last year or so due to increased investments in AI hardware. Would offloading such stocks (say MU and DELL) and moving funds to high Dividend ETFs like SCHD a good move for next year or two? Share your thoughts.
+    submitted by    /u/Am_Not_Crazy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Lose money with friends!</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight]]></title>
         <id>https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html</id>
@@ -14,6 +719,16 @@
         <summary type="html"><![CDATA[Federal regulators said the bank had waved through suspicious transactions without proper care.]]></summary>
         <author>
             <name>Rob Copeland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bank of America hit with $1.2bn fine for money laundering failings]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-10-14T02:05:32.000Z</updated>
+        <summary type="html"><![CDATA[The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.]]></summary>
+        <author>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
@@ -14639,463 +15354,6 @@ Check the resources in the sidebar.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State pension likely to top £13,000 a year as UK wage growth slows to 3.9%]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c2l8v7l0djqo#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-15T11:05:42.000Z</updated>
-        <summary type="html"><![CDATA[The rise has reignited the debate about the state pension's long-term affordability and generational fairness.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State pension likely to top £13,000 a year as UK wage growth slows to 3.9%]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c2l8v7l0djqo#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-15T11:05:42.000Z</updated>
-        <summary type="html"><![CDATA[The rise has reignited the debate about the state pension's long-term affordability and generational fairness.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates]]></title>
-        <id>https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html</id>
-        <link href="https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html"/>
-        <updated>2026-09-15T09:04:03.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Reserve is expected to raise interest rates on Wednesday, putting Kevin M. Warsh, the chairman, at odds with the administration just before the midterms.]]></summary>
-        <author>
-            <name>Colby Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Poll Watcher Training Season. Distrust Is on the Lesson Plan.]]></title>
-        <id>https://www.nytimes.com/2026/09/15/business/media/poll-watching-midterm-election.html</id>
-        <link href="https://www.nytimes.com/2026/09/15/business/media/poll-watching-midterm-election.html"/>
-        <updated>2026-09-15T09:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Groups are preparing thousands of observers for midterm elections in November. Some volunteers are being conditioned to expect bad behavior.]]></summary>
-        <author>
-            <name>Tiffany Hsu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-15T08:49:31.000Z</updated>
-        <summary type="html"><![CDATA[The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily General Discussion and Advice Thread - September 15, 2026]]></title>
-        <id>https://www.reddit.com/r/investing/comments/1wgu0bb/daily_general_discussion_and_advice_thread/</id>
-        <link href="https://www.reddit.com/r/investing/comments/1wgu0bb/daily_general_discussion_and_advice_thread/"/>
-        <updated>2026-09-15T08:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!
- Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.
- If you are new to investing - please refer to Wiki - Getting Started
- The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List
- The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos
- If your question is "I have $XXXXXXX, what do I do?" or other "advice for my personal situation" questions, you should include relevant information, such as the following:
-  
-How old are you? What country do you live in?
- Are you employed/making income? How much?
- What are your objectives with this money? (Buy a house? Retirement savings?)
- What is your time horizon? Do you need this money next month? Next 20yrs?
- What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)
- What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)
- Any big debts (include interest rate) or expenses?
- And any other relevant financial information will be useful to give you a proper answer.
-  
-Check the resources in the sidebar.
- Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!
-    submitted by    /u/AutoModerator  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the triple lock and how much is the state pension worth?]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cq6m03ld7nvo#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-15T07:20:55.000Z</updated>
-        <summary type="html"><![CDATA[The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charities praise will gifts despite cost of living]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cj9xerk9v2po#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-15T05:03:47.000Z</updated>
-        <summary type="html"><![CDATA[Jersey charities say leaving donations in wills can be "transformational", regardless of how much.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Architects of Japan’s Easy-Money Policies Are Changing Their Minds]]></title>
-        <id>https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html</id>
-        <link href="https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html"/>
-        <updated>2026-09-15T04:00:08.000Z</updated>
-        <summary type="html"><![CDATA[As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening.]]></summary>
-        <author>
-            <name>River Akira Davis and Hisako Ueno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI regulation faces political deadlock as calls grow for Congress to act]]></title>
-        <id>https://www.bbc.co.uk/news/articles/ck20989806e9o#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-15T02:50:36.000Z</updated>
-        <summary type="html"><![CDATA[With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jean Smart, Noah Wyle win Emmys as Hollywood honors best of TV]]></title>
-        <id>https://www.investing.com/news/stock-market-news/jean-smart-makes-emmy-history-with-fifth-win-for-hacks-4900688</id>
-        <link href="https://www.investing.com/news/stock-market-news/jean-smart-makes-emmy-history-with-fifth-win-for-hacks-4900688"/>
-        <updated>2026-09-15T01:42:22.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SB Energy to sell up to $500 million in shares to Japan investors as part of US IPO]]></title>
-        <id>https://www.investing.com/news/stock-market-news/sb-energy-to-sell-up-to-500-million-in-shares-to-japan-investors-as-part-of-us-ipo-4900718</id>
-        <link href="https://www.investing.com/news/stock-market-news/sb-energy-to-sell-up-to-500-million-in-shares-to-japan-investors-as-part-of-us-ipo-4900718"/>
-        <updated>2026-09-15T01:37:15.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I see a lot of speculation that Warsh will continue to hold rates at FOMC despite 90% odds of a hike. Is holding actually an option for him?]]></title>
-        <id>https://www.reddit.com/r/investing/comments/1wgmjm5/i_see_a_lot_of_speculation_that_warsh_will/</id>
-        <link href="https://www.reddit.com/r/investing/comments/1wgmjm5/i_see_a_lot_of_speculation_that_warsh_will/"/>
-        <updated>2026-09-15T01:35:36.000Z</updated>
-        <summary type="html"><![CDATA[A combination of hot inflation and hot jobs reports has pushed the odds of a Fed rate hike to over 90%. But I'm seeing plenty of speculation that Warsh will continue to 'let the market figure it out'. I understand the skepticism - a lot of people believe he's the president's puppet and think he will delay the rate hike as long as possible. 
- But can he actually hold rates with the market almost fully expecting a hike?
- Consider the consequences of defying extremely high market expectations and holding rates while inflation is blatantly surging. The market would understand the Fed is not serious about fighting inflation and Fed credibility would instantly collapse. Long term treasury yields would take off, which would be horrendous for the national debt.
- Even if Warsh is actually there to appease the president and the stock market, are these consequences he's willing to accept?
-    submitted by    /u/BGID_to_the_moon  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact Biomedical corrects merger exchange ratio, sets reverse stock split]]></title>
-        <id>https://www.investing.com/news/company-news/impact-biomedical-corrects-merger-exchange-ratio-sets-reverse-stock-split-93CH-4900717</id>
-        <link href="https://www.investing.com/news/company-news/impact-biomedical-corrects-merger-exchange-ratio-sets-reverse-stock-split-93CH-4900717"/>
-        <updated>2026-09-15T01:32:33.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lifevantage chief sales officer Cunningham sells $55k in shares]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/lifevantage-chief-sales-officer-cunningham-sells-55k-in-shares-93CH-4900716</id>
-        <link href="https://www.investing.com/news/insider-trading-news/lifevantage-chief-sales-officer-cunningham-sells-55k-in-shares-93CH-4900716"/>
-        <updated>2026-09-15T01:31:02.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Iron Mountain Undervalued?]]></title>
-        <id>https://www.reddit.com/r/investing/comments/1wgmbe8/is_iron_mountain_undervalued/</id>
-        <link href="https://www.reddit.com/r/investing/comments/1wgmbe8/is_iron_mountain_undervalued/"/>
-        <updated>2026-09-15T01:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Hi all,
- IRM seems to be doing well as they transition from a paper records storage company to an information infrastructure platform and a digital data center. Has a good dividend they increased last year and wouldn’t be surprised if they increased it again based on them increasing guidance and beating earnings easily.
- What are your thoughts?
-    submitted by    /u/Apprehensive-Size150  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utilizing leverage to diversify across time]]></title>
-        <id>https://www.reddit.com/r/investing/comments/1wgmb57/utilizing_leverage_to_diversify_across_time/</id>
-        <link href="https://www.reddit.com/r/investing/comments/1wgmb57/utilizing_leverage_to_diversify_across_time/"/>
-        <updated>2026-09-15T01:24:21.000Z</updated>
-        <summary type="html"><![CDATA[M21, still in school but have an offer signed with a trading firm for next year after I graduate, for around 800k. With the goal of trying to retire early, I’d of course be putting most of my earnings into investments.
- Recently I saw this paper that was interesting, it was about how individuals can achieve better diversification across their lives by having more notional invested early through the use of leverage, since people tend to have more money later than earlier. Paper here: [https://papers.ssrn.com/sol3/papers.cfm?abstract\\\_id=1149340](https://papers.ssrn.com/sol3/papers.cfm?abstract%5C_id=1149340)) (Life-Cycle Investing and Leverage: Buying Stock on Margin Can Reduce Retirement Risk)
- Was wondering what you guys think about this idea. Should we be investing in high leverage products early in life to adjust for the fact that we simply have less money now than later? This could help even out the exposure to investments we have throughout time, though I’m not sure it’s worth it with the extra fees and risks that come with leverage.
-    submitted by    /u/nategraffiti  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo plans Tokyo robotaxi service in 2027 with GO, Nihon Kotsu]]></title>
-        <id>https://www.investing.com/news/stock-market-news/waymo-plans-tokyo-robotaxi-service-in-2027-with-go-nihon-kotsu-4900713</id>
-        <link href="https://www.investing.com/news/stock-market-news/waymo-plans-tokyo-robotaxi-service-in-2027-with-go-nihon-kotsu-4900713"/>
-        <updated>2026-09-15T01:19:46.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPI Card Group chairman Riley Sanford buys $299,989 in shares]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/cpi-card-group-chairman-riley-sanford-buys-299989-in-shares-93CH-4900711</id>
-        <link href="https://www.investing.com/news/insider-trading-news/cpi-card-group-chairman-riley-sanford-buys-299989-in-shares-93CH-4900711"/>
-        <updated>2026-09-15T01:15:53.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPI Card Group director Mallela Ravi buys $21,500 in common stock]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/cpi-card-group-director-mallela-ravi-buys-21500-in-common-stock-93CH-4900710</id>
-        <link href="https://www.investing.com/news/insider-trading-news/cpi-card-group-director-mallela-ravi-buys-21500-in-common-stock-93CH-4900710"/>
-        <updated>2026-09-15T01:15:48.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accenture to pay $25 million to settle US government allegations over DEI]]></title>
-        <id>https://www.investing.com/news/stock-market-news/accenture-to-pay-25-million-to-settle-us-government-allegations-over-dei-4900700</id>
-        <link href="https://www.investing.com/news/stock-market-news/accenture-to-pay-25-million-to-settle-us-government-allegations-over-dei-4900700"/>
-        <updated>2026-09-15T01:06:28.000Z</updated>
-        <author>
-            <name>Reuters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-15T00:32:21.000Z</updated>
-        <summary type="html"><![CDATA[US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it "taking over the World" are a "HOAX".]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I got paid $5,000 to move to a place I'd never heard of]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c3eq7485kewo#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T23:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I got paid $5,000 to move to a place I'd never heard of]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c3eq7485kewo#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T23:08:28.000Z</updated>
-        <summary type="html"><![CDATA[Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pubs in England and Wales to allow digital ID apps to prove age]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cm4gl6j53w19o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T23:07:56.000Z</updated>
-        <summary type="html"><![CDATA[New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran]]></title>
-        <id>https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html"/>
-        <updated>2026-09-14T22:23:29.000Z</updated>
-        <summary type="html"><![CDATA[The move, which targeted a bank that is already under U.S. sanctions, was part of the Trump administration’s Operation Economic Outcast initiative.]]></summary>
-        <author>
-            <name>Alan Rappeport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10-Year Treasury Yield Touches 5%, Highest Level in Years]]></title>
-        <id>https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html"/>
-        <updated>2026-09-14T22:17:15.000Z</updated>
-        <summary type="html"><![CDATA[One of the world’s most important interest rates hit a level recorded only once since the global financial crisis, as investors rebuffed the Trump administration’s efforts to sway the bond market.]]></summary>
-        <author>
-            <name>Joe Rennison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What percentage of your portfolio or net worth is high risk high reward stocks.]]></title>
-        <id>https://www.reddit.com/r/investing/comments/1wghn2r/what_percentage_of_your_portfolio_or_net_worth_is/</id>
-        <link href="https://www.reddit.com/r/investing/comments/1wghn2r/what_percentage_of_your_portfolio_or_net_worth_is/"/>
-        <updated>2026-09-14T22:03:57.000Z</updated>
-        <summary type="html"><![CDATA[I know the general advice is to not overly invest in high risk stocks, that is not what this post is about. Instead I am wondering how much of either your net worth or your stock portfolio if you are heavily invested in the market is in stocks that you feel may balloon in value in the coming months or years, either emerging technology, or other long shot high reward stocks or etfs.
- In my case I have about 25% of my brokerage account is in such high reward stocks, but the vast majority of my net worth is tied up in non publicly traded stocks and real estate, making my entire brokerage account a bit of a playground so this currently accounts for less than 2% of my net worth.
- I will leave it up to you to define what you consider high risk.
-    submitted by    /u/Penguin_Life_Now  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pubs, hotels and gyms in Wales to get 30% business rates cut]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T22:01:39.000Z</updated>
-        <summary type="html"><![CDATA[The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down]]></title>
-        <id>https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html"/>
-        <updated>2026-09-14T20:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Companies at the forefront of artificial intelligence in Asia, Europe and the United States posted declines after tech leaders expressed worries about the safety of “frontier” A.I. technology.]]></summary>
-        <author>
-            <name>Joe Rennison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oil Prices Jump as Attacks Choke Off Saudi Energy Supply]]></title>
-        <id>https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html</id>
-        <link href="https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html"/>
-        <updated>2026-09-14T20:06:36.000Z</updated>
-        <summary type="html"><![CDATA[Traders sold oil futures on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia.]]></summary>
-        <author>
-            <name>Jenny Gross and Gregory Schmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.]]></title>
-        <id>https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html"/>
-        <updated>2026-09-14T19:58:01.000Z</updated>
-        <summary type="html"><![CDATA[President Trump recently blamed Ukrainian attacks on Russian refineries for causing a spike in diesel prices, but analysts say the Iran war is probably a bigger factor.]]></summary>
-        <author>
-            <name>Lauren McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I. Queries From Abroad Raise Fears of a Biological Weapons Race]]></title>
-        <id>https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html"/>
-        <updated>2026-09-14T19:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Today’s chatbots aren’t likely to help lone actors invent a deadly pathogen, experts say. But newer models, trained in biology, may need stronger safeguards.]]></summary>
-        <author>
-            <name>Carl Zimmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carney gambles on the world's biggest investors betting on Canada]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c0m3neyyzm7o#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T19:29:12.000Z</updated>
-        <summary type="html"><![CDATA[In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Government set to nationalise troubled steel firm]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cm9w47ngje9no#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-09-14T19:06:46.000Z</updated>
-        <summary type="html"><![CDATA[Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Administration Moves to Integrate A.I. Into Medical Care Despite Concerns]]></title>
-        <id>https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html"/>
-        <updated>2026-09-14T17:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Federal projects are rolling out A.I. agents that offer therapy and prescribe medicine, raising concerns about safety and the influence of venture capital investors.]]></summary>
-        <author>
-            <name>Christina Jewett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[options for symbolic gift stocks]]></title>
-        <id>https://www.reddit.com/r/investing/comments/1wga1f6/options_for_symbolic_gift_stocks/</id>
-        <link href="https://www.reddit.com/r/investing/comments/1wga1f6/options_for_symbolic_gift_stocks/"/>
-        <updated>2026-09-14T17:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Hey, i'm looking to get someone a share of a company as a symbolic surprise gift. 
- i already looked into giveashare.com and uniquestockgifts.com, but the former has insane shipping prices for where i live and the latter doesn't let me choose my country even with the digital certificate option. are there any alternatives i can try? i don't need a physical certificate, or even any certificate at all
-    submitted by    /u/edjak53  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alaska Sen. Dan Sullivan Walks a Tricky Line on Tariffs as He Seeks Re-Election]]></title>
-        <id>https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/us/politics/sullivan-trump-republican-tariffs-alaska.html"/>
-        <updated>2026-09-14T17:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Senator Dan Sullivan of Alaska has shown quiet support for President Trump’s tariffs. His brother, the head of their family business, has described the economic volatility as an enormous challenge.]]></summary>
-        <author>
-            <name>Lisa Lerer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the market looks like it can't possible go down? What's keeping it up?]]></title>
-        <id>https://www.reddit.com/r/investing/comments/1wg9mvt/why_the_market_looks_like_it_cant_possible_go/</id>
-        <link href="https://www.reddit.com/r/investing/comments/1wg9mvt/why_the_market_looks_like_it_cant_possible_go/"/>
-        <updated>2026-09-14T17:17:07.000Z</updated>
-        <summary type="html"><![CDATA[If even days like these with so many bad news the S&P is still a few % points from ATH, what will make the market go down?
- I remember previous years when just a fraction of the news we had these months appeared, the market tanked, now it's not moving at all.
- Is it euphory of AI? Is it because there's so much cash and every dip is bought? or what's happening? Is it something pumping the market artificially?
- I feel that's not normal and there will be soon a reversal of this sentiment.
- LE: for those that say earnings, 2021 had great earnings, including FE, you know what happened in 2022
-    submitted by    /u/clintron_abc  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Is Danny Meyer, the Happy Face of Hospitality, Serving Up Regrets?]]></title>
-        <id>https://www.nytimes.com/2026/09/14/dining/danny-meyer-hospitality-book.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/dining/danny-meyer-hospitality-book.html"/>
-        <updated>2026-09-14T16:51:50.000Z</updated>
-        <summary type="html"><![CDATA[In a new memoir, the man behind Shake Shack and a suite of influential restaurants revisits the business blunders that taught him valuable lessons.]]></summary>
-        <author>
-            <name>Kim Severson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher]]></title>
-        <id>https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html"/>
-        <updated>2026-09-14T16:49:12.000Z</updated>
-        <summary type="html"><![CDATA[The Treasury secretary had dared “Bloomberg terminal bros” to bet against him and they did.]]></summary>
-        <author>
-            <name>Alan Rappeport</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Suspends Flights With Airline Whose Plane Crashed in Miami]]></title>
-        <id>https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html"/>
-        <updated>2026-09-14T16:42:19.000Z</updated>
-        <summary type="html"><![CDATA[The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.]]></summary>
-        <author>
-            <name>Niraj Chokshi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fed rate hike on Wednesday now likely, say economists, and at least one more to follow]]></title>
         <id>https://www.reddit.com/r/finance/comments/1wg7l5i/fed_rate_hike_on_wednesday_now_likely_say/</id>
         <link href="https://www.reddit.com/r/finance/comments/1wg7l5i/fed_rate_hike_on_wednesday_now_likely_say/"/>
@@ -15104,16 +15362,6 @@ Check the resources in the sidebar.
  [link]   [comments]]]></summary>
         <author>
             <name>Financial news and views</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Likely Allowed Harassment of Pro-Palestinian Workers, EEOC Says]]></title>
-        <id>https://www.nytimes.com/2026/09/14/business/cisco-eeoc-palestinian-harassment.html</id>
-        <link href="https://www.nytimes.com/2026/09/14/business/cisco-eeoc-palestinian-harassment.html"/>
-        <updated>2026-09-14T15:33:56.000Z</updated>
-        <summary type="html"><![CDATA[The finding by the U.S. Equal Employment Opportunity Commission said there was reason to believe that the tech giant subjected employees to a hostile environment.]]></summary>
-        <author>
-            <name>Noam Scheiber</name>
         </author>
     </entry>
     <entry>
