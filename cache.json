@@ -6,6 +6,176 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo#0",
+          "author": null,
+          "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T23:27:05.000Z",
+          "wordCount": 7593,
+          "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo#0",
+          "author": null,
+          "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+          "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T23:12:06.000Z",
+          "wordCount": 8493,
+          "title": "The grads ditching the UK for a fresh start abroad",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a70c/live/920779f0-cd4f-11f1-a64c-550be9e3c66b.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do#0",
+          "author": null,
+          "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+          "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T23:04:03.000Z",
+          "wordCount": 8629,
+          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o#0",
+          "author": null,
+          "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+          "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T22:54:58.000Z",
+          "wordCount": 7224,
+          "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo#0",
+          "author": null,
+          "description": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+          "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T21:49:07.000Z",
+          "wordCount": 8021,
+          "title": "Meta fined $25bn for 'lies' over user data privacy",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#0",
+          "author": null,
+          "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T19:54:57.000Z",
+          "wordCount": 8263,
+          "title": "Websites taken down worldwide as critical cyber-security update issued",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c620reny4e1no#5",
+          "author": null,
+          "description": "Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act.",
+          "link": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T17:06:28.000Z",
+          "wordCount": 8240,
+          "title": "A warning to anyone with credit card debt...",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a31/live/38c961d0-cd47-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo#1",
+          "author": null,
+          "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+          "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T17:06:16.000Z",
+          "wordCount": 8263,
+          "title": "Burnham proposes plan to cut standing charges from gas bills",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b7c/live/04502cf0-cd5a-11f1-b962-b7ff822cde72.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo#3",
+          "author": null,
+          "description": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+          "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T17:06:16.000Z",
+          "wordCount": 8263,
+          "title": "Burnham proposes plan to cut standing charges from gas bills",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b7c/live/04502cf0-cd5a-11f1-b962-b7ff822cde72.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crz981p0klvgo#1",
+          "author": null,
+          "description": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+          "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T17:04:13.000Z",
+          "wordCount": 8206,
+          "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f80b/live/ce035410-cd6d-11f1-bc2e-018d645d8d21.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o#1",
+          "author": null,
+          "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+          "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T15:58:05.000Z",
+          "wordCount": 7848,
+          "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca73/live/aa125910-cd46-11f1-8177-0f8bd59b54c4.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o#1",
+          "author": null,
+          "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+          "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T10:20:15.000Z",
+          "wordCount": 7027,
+          "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d837/live/21441720-cd34-11f1-935f-b9c228680c6f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o#1",
+          "author": null,
+          "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T10:16:17.000Z",
+          "wordCount": 8807,
+          "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/295f/live/2e2e9560-cd3d-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o#3",
+          "author": null,
+          "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T10:16:17.000Z",
+          "wordCount": 8807,
+          "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/295f/live/2e2e9560-cd3d-11f1-9a39-31b474234113.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo#1",
+          "author": null,
+          "description": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
+          "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T08:35:47.000Z",
+          "wordCount": 9668,
+          "title": "What is happening to UK prices?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73aa/live/9eb3d5f0-a8dd-11f0-a522-95977dce8b09.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo#3",
+          "author": null,
+          "description": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
+          "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T08:35:47.000Z",
+          "wordCount": 9668,
+          "title": "What is happening to UK prices?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73aa/live/9eb3d5f0-a8dd-11f0-a522-95977dce8b09.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo#5",
+          "author": null,
+          "description": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+          "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-21T05:00:54.000Z",
+          "wordCount": 8821,
+          "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b3e2/live/213f4910-cd1c-11f1-a64c-550be9e3c66b.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o#0",
           "author": null,
           "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
@@ -3504,166 +3674,6 @@
           "wordCount": 8759,
           "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e040/live/3904a2b0-b675-11f1-b711-df5e4d50c2fd.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmn8eqg2v2xyo#5",
-          "author": null,
-          "description": "Written prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.",
-          "link": "https://www.bbc.co.uk/news/videos/cmn8eqg2v2xyo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-22T10:57:42.000Z",
-          "wordCount": 7052,
-          "title": "Are vet bills about to get cheaper?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52c3/live/b980e2a0-b670-11f1-a430-4d16ee157c41.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o#2",
-          "author": null,
-          "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-          "link": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-22T09:11:48.000Z",
-          "wordCount": 9833,
-          "title": "Spain battles climate change on several fronts",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c68049m18435o#1",
-          "author": null,
-          "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
-          "link": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-22T08:52:12.000Z",
-          "wordCount": 7856,
-          "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b35/live/fba80dd0-b65b-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cr0qx2p587nxo#3",
-          "author": null,
-          "description": "Volunteer blood bike charity Freewheelers workers said they are also facing tough choices.",
-          "link": "https://www.bbc.co.uk/news/articles/cr0qx2p587nxo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-22T08:33:49.000Z",
-          "wordCount": 9051,
-          "title": "'Nightmare' for taxi drivers as fuel prices soar",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a8/live/978f4900-b668-11f1-b785-7d19738c6de2.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cxp845vnpv27o#3",
-          "author": null,
-          "description": "A business says fuel duty will need to be cut by 30p to 50p per litre to help.",
-          "link": "https://www.bbc.co.uk/news/articles/cxp845vnpv27o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-22T05:24:01.000Z",
-          "wordCount": 8586,
-          "title": "Rising fuel prices 'cost tow truck business £10k'",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1188/live/e6c94290-b5ba-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c8qlwp7q9662o#3",
-          "author": null,
-          "description": "It comes as fuel prices reach their highest since 2022, driven by conflict in the Middle East.",
-          "link": "https://www.bbc.co.uk/news/articles/c8qlwp7q9662o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-22T05:05:41.000Z",
-          "wordCount": 9286,
-          "title": "Soaring fuel costs hit small businesses",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a68d/live/d678b2f0-b5d2-11f1-8c16-65d8f060d73f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o#1",
-          "author": null,
-          "description": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
-          "link": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-22T01:44:17.000Z",
-          "wordCount": 6917,
-          "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be84/live/b73dbac0-b5ff-11f1-bc1f-3f186ca4140c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo#0",
-          "author": null,
-          "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-          "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-22T01:36:54.000Z",
-          "wordCount": 6592,
-          "title": "Flights at major US airports delayed after cable cut by construction workers",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4d4/live/c9f5d180-b608-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cgjqgjn3n2wo#3",
-          "author": null,
-          "description": "Former culinary-challenged students share four low cost meals they think everyone can master.",
-          "link": "https://www.bbc.co.uk/news/articles/cgjqgjn3n2wo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-21T23:41:20.000Z",
-          "wordCount": 9673,
-          "title": "I couldn't cook when I left home – but these easy £2.50 recipes became my go-to",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9cd/live/8b3a0650-b5e5-11f1-a430-4d16ee157c41.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo#0",
-          "author": null,
-          "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
-          "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-21T23:01:26.000Z",
-          "wordCount": 8701,
-          "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cdb/live/ffc48210-ac22-11f1-9bd9-7b7da208bd5c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo#3",
-          "author": null,
-          "description": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
-          "link": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-21T23:01:26.000Z",
-          "wordCount": 8701,
-          "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cdb/live/ffc48210-ac22-11f1-9bd9-7b7da208bd5c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo#0",
-          "author": null,
-          "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-21T23:01:18.000Z",
-          "wordCount": 8404,
-          "title": "Vet prescription fees capped under rule changes",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/342d/live/bc86a7d0-b5dc-11f1-8c16-65d8f060d73f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo#3",
-          "author": null,
-          "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-21T23:01:18.000Z",
-          "wordCount": 8404,
-          "title": "Vet prescription fees capped under rule changes",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/342d/live/bc86a7d0-b5dc-11f1-8c16-65d8f060d73f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o#0",
-          "author": null,
-          "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-21T21:34:32.000Z",
-          "wordCount": 7037,
-          "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b081/live/0dfb6860-b5ee-11f1-aff1-eb6baa3fda4f.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o#0",
-          "author": null,
-          "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-          "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-21T20:21:18.000Z",
-          "wordCount": 9579,
-          "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5fc4/live/2a039960-b5d0-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go#0",
-          "author": null,
-          "description": "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
-          "link": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-21T16:39:01.000Z",
-          "wordCount": 7555,
-          "title": "Repeated air traffic control failures leave us in worrying territory",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b31/live/a4cf8470-b5d9-11f1-b1d1-571ed4d7ff2c.jpg"
         }
       ]
     },
@@ -3678,6 +3688,126 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+          "author": "Jack Ewing",
+          "description": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
+          "link": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+          "publishedOn": "2026-10-21T23:06:24.000Z",
+          "wordCount": null,
+          "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+          "author": "Ryan Mac and Jack Ewing",
+          "description": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
+          "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+          "publishedOn": "2026-10-21T20:57:22.000Z",
+          "wordCount": null,
+          "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+          "author": "Vanessa Friedman",
+          "description": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
+          "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+          "publishedOn": "2026-10-21T20:03:25.000Z",
+          "wordCount": null,
+          "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+          "author": "Aruni Soni",
+          "description": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.",
+          "link": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+          "publishedOn": "2026-10-21T19:50:08.000Z",
+          "wordCount": null,
+          "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+          "author": "Jack Ewing",
+          "description": "General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.",
+          "link": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+          "publishedOn": "2026-10-21T18:23:52.000Z",
+          "wordCount": null,
+          "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html",
+          "author": "Erik Wemple and Ash Adams",
+          "description": "The state’s challenging geography and newspapers’ broader economic struggles have stretched reporters in Alaska, just as its competitive U.S. Senate race has grabbed national attention.",
+          "link": "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html",
+          "publishedOn": "2026-10-21T16:20:25.000Z",
+          "wordCount": null,
+          "title": "Alaska’s Journalists Join Forces to Cover the Midterms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
+          "author": "Lisa Friedman",
+          "description": "The project will lessen the country’s dependence on imported energy, though environmental advocates say it undercuts a pledge to reduce carbon emissions.",
+          "link": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
+          "publishedOn": "2026-10-21T15:10:29.000Z",
+          "wordCount": null,
+          "title": "U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+          "description": "Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.",
+          "link": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
+          "publishedOn": "2026-10-21T13:37:04.000Z",
+          "wordCount": null,
+          "title": "SpaceX Boosts the A.I. Rally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
+          "author": "Mike Abrams, Chloe W. Shakin, Stuart A. Thompson, Aisha Khan and Mark Scheffler",
+          "description": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.",
+          "link": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
+          "publishedOn": "2026-10-21T13:21:54.000Z",
+          "wordCount": null,
+          "title": "How The New York Times Reports on A.I. Images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html",
+          "author": "Jesse Drucker",
+          "description": "Ron Wyden, ranking Democrat on the Senate Finance Committee, is investigating the firms over their role in helping corporations dodge billions in taxes.",
+          "link": "https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html",
+          "publishedOn": "2026-10-21T09:02:33.000Z",
+          "wordCount": null,
+          "title": "Senator Asks 4 Accounting Giants to Describe Malta Tax Advice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html",
+          "author": "Alex Travelli",
+          "description": "A boardroom fight, an attempted veto and government intervention have plunged the Tata Group, one of India’s most revered institutions, into a fight over its future.",
+          "link": "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html",
+          "publishedOn": "2026-10-21T09:01:54.000Z",
+          "wordCount": null,
+          "title": "A Battle for Control of India’s Biggest Business Empire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/21/business/taiwan-gender-quotas.html",
+          "author": "Li Yuan",
+          "description": "The island adopted quotas for women running for public office decades before other countries. The upshot? Today, few of them need quotas to get elected.",
+          "link": "https://www.nytimes.com/2026/10/21/business/taiwan-gender-quotas.html",
+          "publishedOn": "2026-10-21T09:01:25.000Z",
+          "wordCount": null,
+          "title": "For an Experiment in Political Affirmative Action, Look to Taiwan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
           "author": "Nicole Sperling",
@@ -7167,166 +7297,6 @@
           "wordCount": null,
           "title": "What’s Next for Paramount",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html",
-          "author": "Keith Bradsher",
-          "description": "Manufacturers are struggling with constrained supplies as U.S. and Chinese officials negotiate over export restrictions with consequences for global industry.",
-          "link": "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html",
-          "publishedOn": "2026-09-22T12:55:00.000Z",
-          "wordCount": null,
-          "title": "China’s Continued Control of Rare Earths Looms Over Trump-Xi Meeting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/22/business/media/david-ellison-hollywood-mega-mogul.html",
-          "author": "Brooks Barnes",
-          "description": "With Paramount and Warner Bros. under his control, Mr. Ellison will be “the Hollywood equivalent of Superman, Caesar and Midas combined.” But challenges remain.",
-          "link": "https://www.nytimes.com/2026/09/22/business/media/david-ellison-hollywood-mega-mogul.html",
-          "publishedOn": "2026-09-22T09:03:36.000Z",
-          "wordCount": null,
-          "title": "Paramount’s Warner Bros. Takeover Makes David Ellison a Hollywood Mega-Mogul",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/22/business/scott-bessent-bond-market.html",
-          "author": "Joe Rennison",
-          "description": "By one measure, U.S. government bond markets have posted negative returns, but markets in others countries have experienced steeper losses.",
-          "link": "https://www.nytimes.com/2026/09/22/business/scott-bessent-bond-market.html",
-          "publishedOn": "2026-09-22T09:02:32.000Z",
-          "wordCount": null,
-          "title": "What’s Behind Bessent’s Boasts About the U.S. Bond Market",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/22/travel/group-trip-expenses-splitting-costs.html",
-          "author": "Ryley Ober",
-          "description": "From bachelorette trips to family vacations, group travel can cause relationship-ending fallouts. Here’s how to navigate difficult conversations about finances.",
-          "link": "https://www.nytimes.com/2026/09/22/travel/group-trip-expenses-splitting-costs.html",
-          "publishedOn": "2026-09-22T09:01:28.000Z",
-          "wordCount": null,
-          "title": "How to Split Expenses on a Group Trip Without Fighting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
-          "author": "Jack Ewing",
-          "description": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
-          "link": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
-          "publishedOn": "2026-09-22T09:00:22.000Z",
-          "wordCount": null,
-          "title": "As Computers Take the Driver’s Seat, Experts Worry About Safety",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html",
-          "author": "Ana Swanson",
-          "description": "Beyond warm meetings between their leaders, the countries are engaging in tit-for-tat measures that call into question the stability of their arrangement.",
-          "link": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html",
-          "publishedOn": "2026-09-22T01:03:49.000Z",
-          "wordCount": null,
-          "title": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/heres-the-latest",
-          "author": "Michael M. Grynbaum, Erik Wemple, Ali Watkins, Chris Cameron and Benjamin Mueller",
-          "description": "",
-          "link": "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/heres-the-latest",
-          "publishedOn": "2026-09-21T23:50:09.000Z",
-          "wordCount": null,
-          "title": "Here’s the latest.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
-          "author": "Benjamin Mullin, David McCabe, Shawn Hubler and Laurel Rosenhall",
-          "description": "By resolving a lawsuit filed by a group of states, the media mogul David Ellison removed the last major hurdle he faced in buying Warner Bros. Discovery.",
-          "link": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
-          "publishedOn": "2026-09-21T22:04:38.000Z",
-          "wordCount": null,
-          "title": "Paramount Settles States’ Lawsuit, Clearing Way for Warner Bros. Merger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/media/cnn-cbs-paramount-david-ellison.html",
-          "author": "John Koblin and Benjamin Mullin",
-          "description": "The looming ownership of the network by David Ellison has caused anxiety in its newsroom for months.",
-          "link": "https://www.nytimes.com/2026/09/21/business/media/cnn-cbs-paramount-david-ellison.html",
-          "publishedOn": "2026-09-21T21:56:00.000Z",
-          "wordCount": null,
-          "title": "CNN’s Future Will Include an Editorial Oversight Board",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html",
-          "author": "Michael M. Grynbaum and Ali Watkins",
-          "description": "The move was an escalation of President Trump’s showdown with the White House press corps after he moved to bar journalists from CNN, MS NOW and Politico.",
-          "link": "https://www.nytimes.com/2026/09/21/business/media/cnn-trump-press-pool-ban.html",
-          "publishedOn": "2026-09-21T21:14:17.000Z",
-          "wordCount": 7793,
-          "title": "Networks Suspend Pool Coverage of Trump After White House Bars CNN",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/21/multimedia/21xp-CNN-btcm/21xp-CNN-btcm-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/white-house-press-pool-trump.html",
-          "author": "Erik Wemple and Michael D. Shear",
-          "description": "By barring CNN, the White House has thrown a staple of TV news coverage into disarray.",
-          "link": "https://www.nytimes.com/2026/09/21/business/white-house-press-pool-trump.html",
-          "publishedOn": "2026-09-21T20:37:58.000Z",
-          "wordCount": null,
-          "title": "What Is the White House Press Pool, and Why Did It Suspend TV Coverage of Trump?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-          "author": "Maureen Farrell",
-          "description": "Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.",
-          "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
-          "publishedOn": "2026-09-21T20:04:39.000Z",
-          "wordCount": null,
-          "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html",
-          "author": "Erik Wemple",
-          "description": "In a joint statement, CNN, MS NOW and Politico argued that President Trump’s decision to bar them from the White House grounds violates their First Amendment rights.",
-          "link": "https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html",
-          "publishedOn": "2026-09-21T19:02:28.000Z",
-          "wordCount": null,
-          "title": "CNN, MS NOW and Politico to Sue Trump Administration Over White House Access",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-          "author": "Kirsten Grind",
-          "description": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
-          "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-          "publishedOn": "2026-09-21T15:37:40.000Z",
-          "wordCount": 9235,
-          "title": "The A.I. Party House Where Networking Has a Dark Side",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/AI-HOUSE-Hillsborough-1-flph/AI-HOUSE-Hillsborough-1-flph-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/china-agriculture-trade-soybeans.html",
-          "author": "Sui-Lee Wee",
-          "description": "Soybeans are the notable exception, revealing Beijing’s selective approach to fulfilling trade commitments ahead of the summit between President Trump and Xi Jinping.",
-          "link": "https://www.nytimes.com/2026/09/21/business/china-agriculture-trade-soybeans.html",
-          "publishedOn": "2026-09-21T14:49:27.000Z",
-          "wordCount": 8201,
-          "title": "China Promised to Buy More U.S. Farm Goods. It Hasn’t Happened.",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/18/multimedia/18Biz-China-Pledges-01-hpzw/18Biz-China-Pledges-01-hpzw-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/21/business/consulting-firms-employees-ai-startups.html",
-          "author": "Aruni Soni",
-          "description": "Beckoned by the glamour of the start-up space, the industry’s college recruits are joining A.I. companies able to outmatch their consulting salaries.",
-          "link": "https://www.nytimes.com/2026/09/21/business/consulting-firms-employees-ai-startups.html",
-          "publishedOn": "2026-09-21T14:11:55.000Z",
-          "wordCount": null,
-          "title": "Young Consultants Are Jumping Ship for A.I. Start-Ups",
-          "imageUrl": null
         }
       ]
     },
@@ -7335,6 +7305,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/chevron-chief-legal-officer-r-hewitt-pate-sells-97m-in-stock-93CH-4964524",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/chevron-chief-legal-officer-r-hewitt-pate-sells-97m-in-stock-93CH-4964524",
+          "publishedOn": "2026-10-22T01:46:09.000Z",
+          "wordCount": null,
+          "title": "Chevron chief legal officer R. Hewitt Pate sells $9.7m in stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+            "length": "128832",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/regional-management-svp-catherine-atwood-sells-7002-of-common-stock-93CH-4964522",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/regional-management-svp-catherine-atwood-sells-7002-of-common-stock-93CH-4964522",
+          "publishedOn": "2026-10-22T01:46:05.000Z",
+          "wordCount": null,
+          "title": "Regional management SVP Catherine Atwood sells $7,002 of common stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+            "length": "157240",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/cirrus-logic-evp-baumgartner-sells-125636-in-stock-93CH-4964523",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/cirrus-logic-evp-baumgartner-sells-125636-in-stock-93CH-4964523",
+          "publishedOn": "2026-10-22T01:46:05.000Z",
+          "wordCount": null,
+          "title": "Cirrus Logic EVP Baumgartner sells $125,636 in stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+            "length": "157240",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/tesla-aims-to-sell-cybercab-robotaxis-by-end-of-year-despite-federal-probe-4964518",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/tesla-aims-to-sell-cybercab-robotaxis-by-end-of-year-despite-federal-probe-4964518",
+          "publishedOn": "2026-10-22T01:43:11.000Z",
+          "wordCount": null,
+          "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9L033_L.jpg",
+            "length": "61583",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9L033_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/pantoro-q1-fy2027-slides-production-up-21-costs-down-8-93CH-4964517",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/pantoro-q1-fy2027-slides-production-up-21-costs-down-8-93CH-4964517",
+          "publishedOn": "2026-10-22T01:43:00.000Z",
+          "wordCount": null,
+          "title": "Pantoro Q1 FY2027 slides: production up 21%, costs down 8%",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg",
+            "length": "52321",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXNPEK370AU_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
+          "publishedOn": "2026-10-22T01:42:57.000Z",
+          "wordCount": null,
+          "title": "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI, robots",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1Y9_L.jpg",
+            "length": "27619",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9K1Y9_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/commodities-news/us-agriculture-dept-confirms-first-detection-of-new-world-screwworm-in-us-wildlife-4964342",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/commodities-news/us-agriculture-dept-confirms-first-detection-of-new-world-screwworm-in-us-wildlife-4964342",
+          "publishedOn": "2026-10-22T01:42:40.000Z",
+          "wordCount": null,
+          "title": "New World screwworm cases confirmed in wildlife in Texas, beef cow in New Mexico",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9K23J_L.jpg",
+            "length": "34736",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9K23J_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-pantoro-posts-strong-q1-2026-cash-flow-shares-rise-93CH-4964516",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-pantoro-posts-strong-q1-2026-cash-flow-shares-rise-93CH-4964516",
+          "publishedOn": "2026-10-22T01:32:33.000Z",
+          "wordCount": null,
+          "title": "Earnings call transcript: Pantoro posts strong Q1 2026 cash flow, shares rise",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+            "length": "17251",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-at-3-after-backtoback-hikes-won-strengthens-4964507",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/bank-of-korea-holds-rates-at-3-after-backtoback-hikes-won-strengthens-4964507",
+          "publishedOn": "2026-10-22T01:27:43.000Z",
+          "wordCount": null,
+          "title": "Bank of Korea holds rates at 3% after back-to-back hikes",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEC290IY_M.jpg",
+            "length": "18685",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC290IY_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/nickel-industries-q3-2026-slides-mining-hits-record-amid-rkef-squeeze-93CH-4964506",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/nickel-industries-q3-2026-slides-mining-hits-record-amid-rkef-squeeze-93CH-4964506",
+          "publishedOn": "2026-10-22T01:25:55.000Z",
+          "wordCount": null,
+          "title": "Nickel Industries Q3 2026 slides: mining hits record amid RKEF squeeze",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+            "length": "154617",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-yancoal-australia-q3-2026-cash-jumps-on-stronger-coal-prices-93CH-4961480",
           "author": "Investing.com",
@@ -11594,126 +11714,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8M01P_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/eu-and-philippines-agree-on-free-trade-deal-4909812",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/eu-and-philippines-agree-on-free-trade-deal-4909812",
-          "publishedOn": "2026-09-22T01:36:27.000Z",
-          "wordCount": null,
-          "title": "EU and Philippines agree on free trade deal",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8L023_L.jpg",
-            "length": "50599",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8L023_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/gigacloud-technology-director-chen-zhiwu-sells-159360-in-shares-93CH-4909811",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/gigacloud-technology-director-chen-zhiwu-sells-159360-in-shares-93CH-4909811",
-          "publishedOn": "2026-09-22T01:31:12.000Z",
-          "wordCount": null,
-          "title": "GigaCloud technology director Chen Zhiwu sells $159,360 in shares",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-            "length": "114383",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/gold-rises-as-oil-slide-eases-inflation-fears-trump-signals-iran-talks-4909810",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/gold-rises-as-oil-slide-eases-inflation-fears-trump-signals-iran-talks-4909810",
-          "publishedOn": "2026-09-22T01:24:14.000Z",
-          "wordCount": null,
-          "title": "Gold rises as oil slide eases inflation fears, Trump signals Iran talks",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPED4U0TY-ORUBS_M.jpg",
-            "length": "18101",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPED4U0TY-ORUBS_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/oil-edges-higher-as-markets-eye-usiran-talks-saudi-flows-4909809",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/oil-edges-higher-as-markets-eye-usiran-talks-saudi-flows-4909809",
-          "publishedOn": "2026-09-22T01:23:20.000Z",
-          "wordCount": null,
-          "title": "Oil edges higher as markets eye U.S.-Iran talks, Saudi flows",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEABT05G_M.jpg",
-            "length": "21488",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEABT05G_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/binance-faces-us-probe-over-potential-iran-sanctions-violations-bloomberg-93CH-4909807",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/binance-faces-us-probe-over-potential-iran-sanctions-violations-bloomberg-93CH-4909807",
-          "publishedOn": "2026-09-22T01:02:31.000Z",
-          "wordCount": null,
-          "title": "Binance faces U.S. probe over potential Iran sanctions violations- Bloomberg",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-            "length": "17251",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370",
-          "publishedOn": "2026-09-22T01:01:15.000Z",
-          "wordCount": null,
-          "title": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8K199_L.jpg",
-            "length": "48617",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8K199_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/better-home--finance-cco-paula-tuffin-sells-38413-in-shares-93CH-4909806",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/better-home--finance-cco-paula-tuffin-sells-38413-in-shares-93CH-4909806",
-          "publishedOn": "2026-09-22T01:00:58.000Z",
-          "wordCount": null,
-          "title": "Better home & finance CCO Paula Tuffin sells $38,413 in shares",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-            "length": "92235",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/why-is-anaptysbio-stock-rising-afterhours-today-93CH-4909804",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-anaptysbio-stock-rising-afterhours-today-93CH-4909804",
-          "publishedOn": "2026-09-22T00:57:29.000Z",
-          "wordCount": null,
-          "title": "Why is AnaptysBio stock rising afterhours today?",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
-            "length": "32039",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg"
         }
       ]
     },
@@ -14660,6 +14660,46 @@
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/finance/comments/1xbxkwm/im_24_and_looking_to_make_friends_who_are/",
+          "author": null,
+          "description": "I’m just getting started on my financial literacy journey and currently taking a course to learn the basics. I’d love to connect with others who are also learning or who are further along and enjoy sharing knowledge.\n It would be nice to study together, keep each other motivated, share what we’re learning, and grow together financially. Maybe we could even have video calls once we get comfortable with each other!\n If you’re interested in learning together and building friendships along the way, message me! 💕\n    submitted by    /u/cloud_honeymoon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1xbxkwm/im_24_and_looking_to_make_friends_who_are/",
+          "publishedOn": "2026-10-21T19:55:09.000Z",
+          "wordCount": null,
+          "title": "I’m 24 and looking to make friends who are interested in finance and financial literacy! 💰📚",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1xbx4i3/the_latest_kbeauty_craze_is_made_from_dead/",
+          "author": null,
+          "description": "submitted by    /u/businessinsider  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1xbx4i3/the_latest_kbeauty_craze_is_made_from_dead/",
+          "publishedOn": "2026-10-21T19:37:47.000Z",
+          "wordCount": null,
+          "title": "The latest K-beauty craze is made from dead Americans' skin. Now it's aiming for the US.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1xbiu8h/russias_gold_reserves_fall_to_lowest_since_1998/",
+          "author": null,
+          "description": "submitted by    /u/Technical_Ostrich_47  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1xbiu8h/russias_gold_reserves_fall_to_lowest_since_1998/",
+          "publishedOn": "2026-10-21T09:49:37.000Z",
+          "wordCount": null,
+          "title": "Russia's gold reserves fall to lowest since 1998",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1x9nyuh/moronic_monday_october_19_2026_your_weekly/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1x9nyuh/moronic_monday_october_19_2026_your_weekly/",
+          "publishedOn": "2026-10-19T05:01:08.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - October 19, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/finance/comments/1x8a6fu/can_anyone_tell_me_how_much_ill_get_back_from_my/",
           "author": null,
           "description": "My company is being bought and we are all losing our shares, this is my life savings (or my first attempt at it) and I need to know how much I’ll end up with.\n Issue is I run 3 save as you earns and have one BAYE also.\n Buyout rate is £7.15\n If anyone can make sense of it id appreciate the help\n    submitted by    /u/CrabbyGoose  \n [link]   [comments]",
@@ -14897,36 +14937,6 @@
           "publishedOn": "2026-09-23T17:23:45.000Z",
           "wordCount": null,
           "title": "Mohamed El-Erian warns markets could pressure central banks into further rate hikes despite weakening economic fundamentals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1wmeah2/fed_and_boe_step_up_scrutiny_of_bank_exposure_to/",
-          "author": null,
-          "description": "submitted by    /u/financialtimes  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1wmeah2/fed_and_boe_step_up_scrutiny_of_bank_exposure_to/",
-          "publishedOn": "2026-09-21T14:25:08.000Z",
-          "wordCount": null,
-          "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1wm3a8l/moronic_monday_september_21_2026_your_weekly/",
-          "author": null,
-          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1wm3a8l/moronic_monday_september_21_2026_your_weekly/",
-          "publishedOn": "2026-09-21T05:01:30.000Z",
-          "wordCount": null,
-          "title": "Moronic Monday - September 21, 2026 - Your Weekly Questions Thread",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1wksyuv/bond_investors_see_a_potential_recovery_after/",
-          "author": null,
-          "description": "submitted by    /u/thisisinsider  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1wksyuv/bond_investors_see_a_potential_recovery_after/",
-          "publishedOn": "2026-09-19T18:01:34.000Z",
-          "wordCount": null,
-          "title": "Bond investors see a potential recovery after 10-year Treasury yields briefly topped 5%",
           "imageUrl": null
         }
       ]
