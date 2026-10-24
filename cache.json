@@ -6,6 +6,136 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#0",
+          "author": null,
+          "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+          "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T00:36:47.000Z",
+          "wordCount": 7587,
+          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo#0",
+          "author": null,
+          "description": "Do British pensioners have it better or worse than those in other countries?",
+          "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T00:09:12.000Z",
+          "wordCount": 8310,
+          "title": "How does the UK state pension compare with other countries?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo#3",
+          "author": null,
+          "description": "Do British pensioners have it better or worse than those in other countries?",
+          "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T00:09:12.000Z",
+          "wordCount": 8310,
+          "title": "How does the UK state pension compare with other countries?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#0",
+          "author": null,
+          "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+          "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-24T00:05:45.000Z",
+          "wordCount": 7368,
+          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o#3",
+          "author": null,
+          "description": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T23:50:45.000Z",
+          "wordCount": 9993,
+          "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef86/live/f04a5c10-cdf6-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o#5",
+          "author": null,
+          "description": "The little-known investment Martin Lewis wants you to understand",
+          "link": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T15:41:28.000Z",
+          "wordCount": 7445,
+          "title": "The little-known investment Martin Lewis wants you to understand...",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/723e/live/4b75a380-ced6-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo#0",
+          "author": null,
+          "description": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+          "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T15:15:13.000Z",
+          "wordCount": 7417,
+          "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77ce/live/5103dfb0-ceef-11f1-b2ae-23f8d2a0e0c0.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o#3",
+          "author": null,
+          "description": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show.",
+          "link": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T11:58:19.000Z",
+          "wordCount": 6670,
+          "title": "Island inflation rate rises to 3%, figures show",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73df/live/68fa1570-ced2-11f1-8507-45cb00a1c41c.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o#0",
+          "author": null,
+          "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T11:48:04.000Z",
+          "wordCount": 6686,
+          "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1887/live/ab960500-cec9-11f1-bed9-e3a2c35dfdd6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o#0",
+          "author": null,
+          "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+          "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T08:04:17.000Z",
+          "wordCount": 9420,
+          "title": "The Indian workers filming their work to train AI",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo#3",
+          "author": null,
+          "description": "We ask people in the capital how much they pay for their homes.",
+          "link": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T05:45:54.000Z",
+          "wordCount": 7468,
+          "title": "Renting in London - 'I pay £2,000 for one bedroom'",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a2e/live/4cb6a370-b676-11f1-a430-4d16ee157c41.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo#5",
+          "author": null,
+          "description": "We ask people in the capital how much they pay for their homes.",
+          "link": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T05:45:54.000Z",
+          "wordCount": 7468,
+          "title": "Renting in London - 'I pay £2,000 for one bedroom'",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a2e/live/4cb6a370-b676-11f1-a430-4d16ee157c41.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwz0vxl21m3jo#3",
+          "author": null,
+          "description": "Errol McGuiness says he has changed his daily routine to cope with higher household bills.",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0vxl21m3jo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-23T05:35:35.000Z",
+          "wordCount": 8703,
+          "title": "'I live in the dark': How rising bills are shaping daily life",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e7d/live/f4c36480-cd5b-11f1-b962-b7ff822cde72.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o#2",
           "author": null,
           "description": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
@@ -3376,6 +3506,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pcfmsv.jpg"
         },
         {
+          "id": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po#4",
+          "author": null,
+          "description": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-09-25T08:31:56.000Z",
+          "wordCount": 10401,
+          "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9282/live/a5ccbcd0-b660-11f1-b1d1-571ed4d7ff2c.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo#1",
           "author": null,
           "description": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
@@ -3464,186 +3604,6 @@
           "wordCount": 8600,
           "title": "Reported assaults on Britain's rail services rise by more than a third",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo#1",
-          "author": null,
-          "description": "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
-          "link": "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-24T10:14:47.000Z",
-          "wordCount": 7707,
-          "title": "Rolls-Royce signs 'multi-million' engine deal",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc85/live/41e196b0-748d-11f1-bb8c-7bdd252343cb.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo#5",
-          "author": null,
-          "description": "Consumer expert Harry Kind walks through what to do when buying travel insurance.",
-          "link": "https://www.bbc.co.uk/news/videos/cm62k9jj7reyo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-24T10:05:26.000Z",
-          "wordCount": 6725,
-          "title": "What to think about when buying travel insurance",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/386b/live/e8dce220-b7f0-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo#3",
-          "author": null,
-          "description": "According to the Trussell Trust, an anti-poverty charity, some food banks are having pay for 30-50% of the food they are supplying.",
-          "link": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-24T05:45:04.000Z",
-          "wordCount": 7629,
-          "title": "Food banks 'in crisis' amid fears some may have to close",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b4b3/live/2889b9c0-b774-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cvn0j77dzjdko#3",
-          "author": null,
-          "description": "Business owners say higher fuel costs are creating challenges on several fronts.",
-          "link": "https://www.bbc.co.uk/news/articles/cvn0j77dzjdko?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-24T05:10:25.000Z",
-          "wordCount": 8856,
-          "title": "Rising fuel costs hitting businesses and customers",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9872/live/87f004f0-b765-11f1-8e7f-6f99c81f3136.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c670lknwqyxno#3",
-          "author": null,
-          "description": "Some young people are staying at home while attending university as they cannot afford to move.",
-          "link": "https://www.bbc.co.uk/news/articles/c670lknwqyxno?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-24T05:05:35.000Z",
-          "wordCount": 7728,
-          "title": "Rise in 'commuter students' due to living costs",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a144/live/9b9dd4a0-b7e2-11f1-b86f-f9f95031dc8c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o#0",
-          "author": null,
-          "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-          "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-24T00:50:24.000Z",
-          "wordCount": 8766,
-          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4bad/live/e6a022b0-b75a-11f1-bc1f-3f186ca4140c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo#0",
-          "author": null,
-          "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-24T00:28:46.000Z",
-          "wordCount": 6689,
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo#0",
-          "author": null,
-          "description": "Texas is now the country's biggest producer of solar-farmed electricity.",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T23:12:22.000Z",
-          "wordCount": 8898,
-          "title": "How the oil capital of the US welcomed a solar power boom",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f97/live/4aae6ad0-b68b-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o#0",
-          "author": null,
-          "description": "Consumers are feeling the squeeze from the rising price of protein.",
-          "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T23:12:01.000Z",
-          "wordCount": 7861,
-          "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9929/live/60547480-b76a-11f1-bc1f-3f186ca4140c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po#0",
-          "author": null,
-          "description": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-          "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T22:35:14.000Z",
-          "wordCount": 7181,
-          "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo#0",
-          "author": null,
-          "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T22:01:17.000Z",
-          "wordCount": 9748,
-          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/149c/live/60c365b0-b306-11f1-aa6a-fb974fe212f6.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo#1",
-          "author": null,
-          "description": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-          "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T21:25:01.000Z",
-          "wordCount": 6529,
-          "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a429/live/49107af0-b78b-11f1-bc1f-3f186ca4140c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o#1",
-          "author": null,
-          "description": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
-          "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T21:01:55.000Z",
-          "wordCount": 6973,
-          "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6817/live/74cc1330-b73f-11f1-aa9c-3d062fa3aea7.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/sounds/play/w3ct8glw#5",
-          "author": null,
-          "description": "What both want from the visit and how the leaders' relationship could shape its outcome",
-          "link": "https://www.bbc.co.uk/sounds/play/w3ct8glw?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T20:30:00.000Z",
-          "wordCount": 6980,
-          "title": "Business Daily",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pc3mz0.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c65ymznkr291o#1",
-          "author": null,
-          "description": "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
-          "link": "https://www.bbc.co.uk/news/articles/c65ymznkr291o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T19:21:10.000Z",
-          "wordCount": 8161,
-          "title": "Bentley unveils its first fully electric car",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d28/live/4a744720-b77f-11f1-82bf-a7fbaca3dc9e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o#1",
-          "author": null,
-          "description": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
-          "link": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T19:10:22.000Z",
-          "wordCount": 6383,
-          "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e68a/live/b1d1e440-b752-11f1-97a1-31b436cb8908.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cmq8j1nk2wnxo#5",
-          "author": null,
-          "description": "Why is the price of protein powder rising?",
-          "link": "https://www.bbc.co.uk/news/videos/cmq8j1nk2wnxo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T18:53:04.000Z",
-          "wordCount": 6048,
-          "title": "Why is the price of protein powder rising?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e15/live/029ea830-b768-11f1-b1d1-571ed4d7ff2c.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo#0",
-          "author": null,
-          "description": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-09-23T16:42:47.000Z",
-          "wordCount": 6932,
-          "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4148/live/6d68fee0-b745-11f1-aa9c-3d062fa3aea7.jpg"
         }
       ]
     },
@@ -3658,6 +3618,186 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
+          "author": "Tony Romm",
+          "description": "A bill to bolster the nation’s unemployment insurance program reflects the concern — and the risks — in Washington.",
+          "link": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
+          "publishedOn": "2026-10-24T01:51:00.000Z",
+          "wordCount": null,
+          "title": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
+          "author": "Eshe Nelson",
+          "description": "Moody’s held the country’s credit rating steady amid political uncertainty and a rise in borrowing costs that have worsened France’s debt situation.",
+          "link": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
+          "publishedOn": "2026-10-23T23:23:10.000Z",
+          "wordCount": null,
+          "title": "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html",
+          "author": "Jeff Sommer",
+          "description": "While higher interest rates are a complication for stocks and bonds, they are an unequivocal boon if you just want to park some cash and make a little money, our columnist says.",
+          "link": "https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html",
+          "publishedOn": "2026-10-23T20:49:09.000Z",
+          "wordCount": null,
+          "title": "A Simple Way to Benefit From Rising Rates: Buy Money Market Funds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+          "author": "Alan Rappeport and Ana Swanson",
+          "description": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
+          "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+          "publishedOn": "2026-10-23T20:29:40.000Z",
+          "wordCount": null,
+          "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+          "author": "Joe Rennison",
+          "description": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
+          "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+          "publishedOn": "2026-10-23T20:03:29.000Z",
+          "wordCount": null,
+          "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
+          "author": "Peter Coy",
+          "description": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
+          "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
+          "publishedOn": "2026-10-23T18:46:44.000Z",
+          "wordCount": null,
+          "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+          "author": "Nina Agrawal",
+          "description": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more.",
+          "link": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
+          "publishedOn": "2026-10-23T17:43:05.000Z",
+          "wordCount": null,
+          "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+          "author": "Rebecca F. Elliott and Maddie McGarvey",
+          "description": "In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for.",
+          "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+          "publishedOn": "2026-10-23T16:00:09.000Z",
+          "wordCount": null,
+          "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+          "author": "Ana Swanson",
+          "description": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory.",
+          "link": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+          "publishedOn": "2026-10-23T15:59:45.000Z",
+          "wordCount": null,
+          "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
+          "author": "Tiffany Hsu",
+          "description": "A Minnesota group worried that its opposition could expose it to prosecution under the state’s deceptive-practices law. Its lawsuit could have wide implications for limiting speech around elections.",
+          "link": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
+          "publishedOn": "2026-10-23T15:44:52.000Z",
+          "wordCount": null,
+          "title": "A Fight Over Felon Voting Prompts a Free Speech Debate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html",
+          "author": "Andrew Duehren",
+          "description": "Among the stakes in next month’s election is the long-running question of whether tax cuts can shape how people vote.",
+          "link": "https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html",
+          "publishedOn": "2026-10-23T14:24:54.000Z",
+          "wordCount": null,
+          "title": "Republicans Cut Taxes to Win the Midterms. It May Not Work Out.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
+          "author": "Pete Wells",
+          "description": "Just as they were finding a toehold stateside, artisanal producers got caught in a trade war.",
+          "link": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
+          "publishedOn": "2026-10-23T14:09:33.000Z",
+          "wordCount": null,
+          "title": "Trump’s Tariffs Slow America’s Access to Canada’s Cheese",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html",
+          "author": "Michael J. de la Merced",
+          "description": "Pennylane, a French company, has gained market share in its home country by helping accountants work with clients. It’s aiming to expand internationally.",
+          "link": "https://www.nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html",
+          "publishedOn": "2026-10-23T13:12:52.000Z",
+          "wordCount": null,
+          "title": "A.I. and New Rules for Accounting Are an Opportunity for Start-Ups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html",
+          "author": "James Paton",
+          "description": "The Swedish automaker plans to cut another 2,500 jobs, joining competitors in offering a gloomy view of the world’s biggest car market.",
+          "link": "https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html",
+          "publishedOn": "2026-10-23T13:08:46.000Z",
+          "wordCount": null,
+          "title": "Volvo Shares Plunge as China Ambitions Fade for Western Carmakers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
+          "author": "Ann Carrns",
+          "description": "Much of the debt stems from hospital bills, researchers say. Even people with insurance are falling behind. But there are ways to get help.",
+          "link": "https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html",
+          "publishedOn": "2026-10-23T13:00:17.000Z",
+          "wordCount": null,
+          "title": "Americans Are Struggling to Pay Rising Medical Costs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+          "description": "Investors are bracing for a one-two punch: rising oil prices and concerns about the soaring costs of the artificial intelligence buildout.",
+          "link": "https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
+          "publishedOn": "2026-10-23T11:42:50.000Z",
+          "wordCount": null,
+          "title": "A Tech Rotation Roils the Markets, Again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/business/trump-ground-beef-imports.html",
+          "author": "Kevin Draper",
+          "description": "About a fifth of the 300,000 metric tons of lean beef trimmings have come through customs, six weeks through a program designed to lower prices.",
+          "link": "https://www.nytimes.com/2026/10/23/business/trump-ground-beef-imports.html",
+          "publishedOn": "2026-10-23T09:02:14.000Z",
+          "wordCount": null,
+          "title": "Trump’s Plan to Import More Ground Beef Is Falling Short",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/10/23/insider/royal-canin-purina.html",
+          "author": "Jenny Gross",
+          "description": "A Times journalist and animal lover spent a day at a Royal Canin facility to understand how pet food giants are studying the taste buds of dogs and cats.",
+          "link": "https://www.nytimes.com/2026/10/23/insider/royal-canin-purina.html",
+          "publishedOn": "2026-10-23T07:00:07.000Z",
+          "wordCount": null,
+          "title": "‘Cats Love Gravy’: How a Reporter Ended Up at a Pet Food Research Center",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
           "author": "Karla Adam and Dustin Volz",
@@ -7037,226 +7177,6 @@
           "wordCount": null,
           "title": "The court ordered Trump to restore access for CNN, MS Now and Politico last night.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/24/business/dealbook/ai-safety-concerns-go-global.html",
-          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Lauren Hirsch",
-          "description": "The Australian government is the latest victim of a hack by artificial intelligence tools, adding to growing worries about the technology.",
-          "link": "https://www.nytimes.com/2026/09/24/business/dealbook/ai-safety-concerns-go-global.html",
-          "publishedOn": "2026-09-24T12:04:28.000Z",
-          "wordCount": null,
-          "title": "A.I. Safety Concerns Go Global",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html",
-          "author": "Reed Abelson and Teddy Rosenbluth",
-          "description": "The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care.",
-          "link": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html",
-          "publishedOn": "2026-09-24T11:03:03.000Z",
-          "wordCount": null,
-          "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html",
-          "author": "James Paton",
-          "description": "A decade after the sale of Germany’s Kuka, Europe is seeking to shift into a higher gear to unlock the potential in robotics and artificial intelligence.",
-          "link": "https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html",
-          "publishedOn": "2026-09-24T11:00:08.000Z",
-          "wordCount": null,
-          "title": "In a Race With China, German Robots Are Outnumbered 14 to 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/24/business/dealbook/precision-neuroscience-brain-bill-ackman.html",
-          "author": "Lauren Hirsch",
-          "description": "By backing Precision Neuroscience, the billionaire Bill Ackman joins Elon Musk and Jeff Bezos in diving into an emerging industry.",
-          "link": "https://www.nytimes.com/2026/09/24/business/dealbook/precision-neuroscience-brain-bill-ackman.html",
-          "publishedOn": "2026-09-24T11:00:05.000Z",
-          "wordCount": null,
-          "title": "Investors Are Betting On Devices That Connect the Brain to Computers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
-          "author": "Erik Wemple",
-          "description": "Judge Timothy J. Kelly issued a temporary restraining order and told the White House to immediately restore the press credentials for the employees of the three news outlets.",
-          "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
-          "publishedOn": "2026-09-24T08:13:36.000Z",
-          "wordCount": null,
-          "title": "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/jeffrey-epstein-darren-indyke-richard-kahn-investigation.html",
-          "author": "Matthew Goldstein and Devlin Barrett",
-          "description": "Lawyers for Darren Indyke and Richard Kahn said their clients were “confident that any investigation will reveal that they were not involved in any of Epstein’s crimes.”",
-          "link": "https://www.nytimes.com/2026/09/23/business/jeffrey-epstein-darren-indyke-richard-kahn-investigation.html",
-          "publishedOn": "2026-09-24T00:34:39.000Z",
-          "wordCount": null,
-          "title": "Epstein’s Accountant and Lawyer Are Said to Be Under Federal Investigation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html",
-          "author": "Erik Wemple",
-          "description": "Judge Timothy J. Kelly heard arguments about President Trump’s recent decision to bar CNN, MS NOW and Politico from the White House grounds. He said he would issue a decision about it “as soon as possible.”",
-          "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html",
-          "publishedOn": "2026-09-24T00:27:46.000Z",
-          "wordCount": 7467,
-          "title": "Judge Holds Off on Immediate Ruling on White House’s Media Ban",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/23biz-media-ban-ruling-hfo-hclw/23biz-media-ban-ruling-hfo-hclw-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/media/tv-networks-xi-arrival.html",
-          "author": "Michael M. Grynbaum",
-          "description": "The White House TV pool has suspended its coverage of President Trump since he banned CNN, MS NOW and Politico from the White House.",
-          "link": "https://www.nytimes.com/2026/09/23/business/media/tv-networks-xi-arrival.html",
-          "publishedOn": "2026-09-23T22:50:24.000Z",
-          "wordCount": 6875,
-          "title": "NBC, CBS and More TV Networks Didn’t Film Xi’s Arrival Amid Trump’s Press Ban",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/23trump-media-hearing-boycott-lvzk/23trump-media-hearing-boycott-lvzk-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html",
-          "author": "Sheryl Gay Stolberg and Tony Romm",
-          "description": "Democrats and Republicans in Congress opposed the creation of a commission with the power to veto federal research awards.",
-          "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html",
-          "publishedOn": "2026-09-23T21:16:35.000Z",
-          "wordCount": null,
-          "title": "Trump Backtracks on Plan for New Controls on N.I.H. Grants",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/bonds-interest-rates.html",
-          "author": "Joe Rennison",
-          "description": "The 10-year Treasury yield on Wednesday rose to around 5.1 percent, as investors increasingly expect the Fed Reserve will raise interest rates again.",
-          "link": "https://www.nytimes.com/2026/09/23/business/bonds-interest-rates.html",
-          "publishedOn": "2026-09-23T21:10:29.000Z",
-          "wordCount": null,
-          "title": "Bond Yields Soar as Investors Foresee Another Fed Interest Rate Increase",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/heres-the-latest",
-          "author": "Erik Wemple and Zach Montague",
-          "description": "",
-          "link": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/heres-the-latest",
-          "publishedOn": "2026-09-23T20:33:27.000Z",
-          "wordCount": 19625,
-          "title": "Here’s the latest.",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/23trump-media-hearing-promo-launch-cfkg/23trump-media-hearing-topart-cfkg-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/bessent-jp-morgan-stock.html",
-          "author": "Alan Rappeport",
-          "description": "Treasury Secretary Scott Bessent’s finances were reviewed by the inspector general after Mr. Bessent incorrectly listed at least $100,000 of the stock, which was owned by his husband, as cash.",
-          "link": "https://www.nytimes.com/2026/09/23/business/bessent-jp-morgan-stock.html",
-          "publishedOn": "2026-09-23T20:12:13.000Z",
-          "wordCount": 7292,
-          "title": "Bessent ‘Inadvertently’ Failed to Report Holdings of JPMorgan Stock",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/23dc-bessent-ghkz/23dc-bessent-ghkz-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/the-new-york-times-stopped-publishing-white-house-pool-photos-in-support-of-the-banned-outlets",
-          "author": "Katie Robertson",
-          "description": "",
-          "link": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/the-new-york-times-stopped-publishing-white-house-pool-photos-in-support-of-the-banned-outlets",
-          "publishedOn": "2026-09-23T19:42:27.000Z",
-          "wordCount": 19638,
-          "title": "The New York Times stopped publishing White House pool photos in support of the banned outlets.",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/23trump-media-hearing-times-response-clvp/23trump-media-hearing-times-response-clvp-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/media/florida-new-york-times-lawsuit.html",
-          "author": "Katie Robertson and David Ovalle",
-          "description": "The state’s attorney general demanded access to company records to examine how the newspaper’s board oversees editorial standards amid claims of anti-Israel bias.",
-          "link": "https://www.nytimes.com/2026/09/23/business/media/florida-new-york-times-lawsuit.html",
-          "publishedOn": "2026-09-23T19:26:32.000Z",
-          "wordCount": null,
-          "title": "Florida Files Lawsuit Against The New York Times",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/the-judge-in-this-case-once-restored-white-house-access-for-a-cnn-reporter-after-trump-stripped-it",
-          "author": "Erik Wemple",
-          "description": "",
-          "link": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/the-judge-in-this-case-once-restored-white-house-access-for-a-cnn-reporter-after-trump-stripped-it",
-          "publishedOn": "2026-09-23T19:24:49.000Z",
-          "wordCount": null,
-          "title": "The judge in this case once restored White House access for a CNN reporter after Trump stripped it.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/heres-what-the-news-outlets-and-the-white-house-have-said-in-court-papers",
-          "author": "Erik Wemple",
-          "description": "",
-          "link": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/heres-what-the-news-outlets-and-the-white-house-have-said-in-court-papers",
-          "publishedOn": "2026-09-23T19:11:43.000Z",
-          "wordCount": 19636,
-          "title": "Here’s what the news outlets and the White House have said in court papers.",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/23/multimedia/23trump-media-hearing-legal-arguments-vzfq/23trump-media-hearing-legal-arguments-vzfq-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/us/politics/rfk-jr-book-advances-maha.html",
-          "author": "Christina Jewett and Sheryl Gay Stolberg",
-          "description": "A new disclosure also shows $210,000 in consulting fees paid to Cheryl Hines, the health secretary’s wife, by one of several MAHA-affiliated groups capitalizing from his agenda.",
-          "link": "https://www.nytimes.com/2026/09/23/us/politics/rfk-jr-book-advances-maha.html",
-          "publishedOn": "2026-09-23T18:46:36.000Z",
-          "wordCount": null,
-          "title": "RFK Jr. Drew $4 Million in Book Advances From Publisher Who Also Monetized MAHA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/trump-faced-the-sting-of-cancellation-this-week",
-          "author": "Peter Baker",
-          "description": "",
-          "link": "https://www.nytimes.com/live/2026/09/23/business/trump-cnn-politico-msnow-ban-hearing/trump-faced-the-sting-of-cancellation-this-week",
-          "publishedOn": "2026-09-23T18:44:02.000Z",
-          "wordCount": 19630,
-          "title": "Trump faced the sting of cancellation this week.",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/21/multimedia/21dc-trump-camera-czlj/21dc-trump-camera-czlj-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/media/disney-bob-chapek-bob-iger.html",
-          "author": "Brooks Barnes",
-          "description": "In a new memoir, Bob Chapek publicly addresses his 2022 ouster for the first time. He blames Mr. Iger, who both preceded and succeeded him at Disney.",
-          "link": "https://www.nytimes.com/2026/09/23/business/media/disney-bob-chapek-bob-iger.html",
-          "publishedOn": "2026-09-23T18:31:00.000Z",
-          "wordCount": null,
-          "title": "Disney’s Fired C.E.O. Bob Chapek Settles Scores With Bob Iger in New Book",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html",
-          "author": "Michael M. Grynbaum",
-          "description": "The home of Sean Hannity and Laura Ingraham has joined rival networks in suspending its coverage of pooled presidential events.",
-          "link": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html",
-          "publishedOn": "2026-09-23T17:10:33.000Z",
-          "wordCount": null,
-          "title": "Fox News Finds Itself at Odds With Trump on Press Ban",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html",
-          "author": "Erik Wemple",
-          "description": "President Trump determined that CNN, MS NOW and Politico were in “violation of the standards of professionalism and decorum” expected at the White House.",
-          "link": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html",
-          "publishedOn": "2026-09-23T14:58:08.000Z",
-          "wordCount": 7127,
-          "title": "White House Defends Trump’s Ban on CNN, MS NOW and Politico in Court Filing",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/22/multimedia/22biz-white-house-response-ban-HFO-zkwf/22biz-white-house-response-ban-HFO-zkwf-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/09/23/business/covid-nursing-homes-trump.html",
-          "author": "Christopher Rowland and Carolyn Y. Johnson",
-          "description": "The agency led by Dr. Mehmet Oz is proposing an end to weekly tracking of respiratory infections at the facilities where thousands of elderly residents died in the pandemic.",
-          "link": "https://www.nytimes.com/2026/09/23/business/covid-nursing-homes-trump.html",
-          "publishedOn": "2026-09-23T14:53:47.000Z",
-          "wordCount": null,
-          "title": "Trump Officials May Undo Nursing Home Mandates for Reporting Covid",
-          "imageUrl": null
         }
       ]
     },
@@ -7265,6 +7185,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/democrat-on-us-fcc-urges-broadcast-industry-to-be-more-aggressive-confronting-the-agency-4970551",
+          "publishedOn": "2026-10-24T01:42:20.000Z",
+          "wordCount": null,
+          "title": "Democrat on US FCC urges broadcast industry to be more aggressive confronting the agency",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9N01V_L.jpg",
+            "length": "56743",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9N01V_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/us-repeatedly-asked-musk-to-restrict-or-expand-starlink-access-reuters-says-4970542",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/us-repeatedly-asked-musk-to-restrict-or-expand-starlink-access-reuters-says-4970542",
+          "publishedOn": "2026-10-24T01:19:07.000Z",
+          "wordCount": null,
+          "title": "U.S. repeatedly asked Musk to restrict or expand Starlink access, Reuters says",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEB4K16W_M.jpg",
+            "length": "19317",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEB4K16W_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/transcripts/vertex-at-asn-kidney-week-2026-renal-push-gathers-pace-93CH-4970541",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/transcripts/vertex-at-asn-kidney-week-2026-renal-push-gathers-pace-93CH-4970541",
+          "publishedOn": "2026-10-24T01:17:47.000Z",
+          "wordCount": null,
+          "title": "Vertex at ASN Kidney Week 2026: renal push gathers pace",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+            "length": "19139",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-4970304",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-4970304",
+          "publishedOn": "2026-10-24T00:55:01.000Z",
+          "wordCount": null,
+          "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1TJ_L.jpg",
+            "length": "58825",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1TJ_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/uks-healey-to-give-two-statebacked-lenders-20-billion-capital-boost-in-budget-4970530",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/uks-healey-to-give-two-statebacked-lenders-20-billion-capital-boost-in-budget-4970530",
+          "publishedOn": "2026-10-24T00:54:25.000Z",
+          "wordCount": null,
+          "title": "UK’s Healey to give two state-backed lenders £20 billion capital boost in budget",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9N00Y_L.jpg",
+            "length": "21808",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9N00Y_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/us-to-remove-50-tariffs-on-some-canadian-goods-to-help-republicans-in-midterms-wsj-reports-4970225",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/us-to-remove-50-tariffs-on-some-canadian-goods-to-help-republicans-in-midterms-wsj-reports-4970225",
+          "publishedOn": "2026-10-24T00:48:26.000Z",
+          "wordCount": null,
+          "title": "Trump ends tariffs on some Canadian products, as Senator Collins faces close race",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1PJ_L.jpg",
+            "length": "55299",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9M1PJ_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/therma-bright-plans-private-placement-of-up-to-420000-93CH-4970528",
+          "publishedOn": "2026-10-24T00:44:30.000Z",
+          "wordCount": null,
+          "title": "Therma Bright plans private placement of up to $420,000",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
+            "length": "114209",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527",
+          "publishedOn": "2026-10-24T00:41:30.000Z",
+          "wordCount": null,
+          "title": "Russia, Ukraine agree to local ceasefire as new peace talks planned - Reuters",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4P01I_L.jpg",
+            "length": "40785",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4P01I_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/goldcana-closes-c1-million-flowthrough-private-placement-93CH-4970525",
+          "publishedOn": "2026-10-24T00:36:36.000Z",
+          "wordCount": null,
+          "title": "Goldcana closes C$1 million flow-through private placement",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEM3718V_1200_L.jpg",
+            "length": "115911",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM3718V_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/unresthit-france-poised-for-moodys-ratings-verdict-4968793",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/unresthit-france-poised-for-moodys-ratings-verdict-4968793",
+          "publishedOn": "2026-10-24T00:24:22.000Z",
+          "wordCount": null,
+          "title": "France spared Moody’s ratings downgrade as it struggles with unrest",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0VX_L.jpg",
+            "length": "52857",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9M0VX_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/transcripts/earnings-call-transcript-fenix-resources-q1-2026-update-shows-progress-shares-slip-93CH-4967920",
           "author": "Investing.com",
@@ -11494,156 +11564,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://content-media.investing.com/news/LYNXMPEM3917D_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/why-did-broadcom-shares-fall-today-93CH-4914321",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/why-did-broadcom-shares-fall-today-93CH-4914321",
-          "publishedOn": "2026-09-24T01:22:28.000Z",
-          "wordCount": null,
-          "title": "Why did Broadcom shares fall today?",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
-            "length": "18513",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/gold-steadies-after-selloff-as-oil-strong-us-data-lift-fed-hike-bets-4914320",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-selloff-as-oil-strong-us-data-lift-fed-hike-bets-4914320",
-          "publishedOn": "2026-09-24T01:22:12.000Z",
-          "wordCount": null,
-          "title": "Gold steadies after selloff as oil, strong U.S. data lift Fed hike bets",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEL2D0V8_L.jpg",
-            "length": "60818",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEL2D0V8_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-142-roc-1b-invested-93CH-4914319",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-142-roc-1b-invested-93CH-4914319",
-          "publishedOn": "2026-09-24T01:22:01.000Z",
-          "wordCount": null,
-          "title": "Fonterra FY26 slides: record volumes drive 14.2% ROC, $1B invested",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEM3115H_1200_L.jpg",
-            "length": "161811",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM3115H_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-returns-1b-capital-plan-unveiled-93CH-4914318",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-returns-1b-capital-plan-unveiled-93CH-4914318",
-          "publishedOn": "2026-09-24T01:21:47.000Z",
-          "wordCount": null,
-          "title": "Fonterra FY26 slides: record returns, $1B+ capital plan unveiled",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
-            "length": "114209",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-142-return-on-capital-93CH-4914317",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-142-return-on-capital-93CH-4914317",
-          "publishedOn": "2026-09-24T01:21:36.000Z",
-          "wordCount": null,
-          "title": "Fonterra FY26 slides: record volumes drive 14.2% return on capital",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEM0J0ZC_1200_L.jpg",
-            "length": "138403",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM0J0ZC_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-returns-above-target-93CH-4914316",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-returns-above-target-93CH-4914316",
-          "publishedOn": "2026-09-24T01:21:18.000Z",
-          "wordCount": null,
-          "title": "Fonterra FY26 slides: record volumes drive returns above target",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-            "length": "163522",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-roc-above-target-range-93CH-4914314",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/company-news/fonterra-fy26-slides-record-volumes-drive-roc-above-target-range-93CH-4914314",
-          "publishedOn": "2026-09-24T01:19:21.000Z",
-          "wordCount": null,
-          "title": "Fonterra FY26 slides: record volumes drive ROC above target range",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEM3718V_1200_L.jpg",
-            "length": "115911",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM3718V_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war-4914308",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war-4914308",
-          "publishedOn": "2026-09-24T01:18:28.000Z",
-          "wordCount": null,
-          "title": "Oil prices edge lower as Iran says it is open to diplomacy to end the war",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM8N02U_L.jpg",
-            "length": "43291",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM8N02U_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/old-second-bancorp-vice-chairman-collins-sells-395k-in-stock-93CH-4914305",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/old-second-bancorp-vice-chairman-collins-sells-395k-in-stock-93CH-4914305",
-          "publishedOn": "2026-09-24T01:16:00.000Z",
-          "wordCount": null,
-          "title": "Old second bancorp vice chairman Collins sells $395k in stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-            "length": "135320",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/quantumsi-gc-lapointe-sells-10994-in-shares-for-tax-withholding-93CH-4914306",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/quantumsi-gc-lapointe-sells-10994-in-shares-for-tax-withholding-93CH-4914306",
-          "publishedOn": "2026-09-24T01:16:00.000Z",
-          "wordCount": null,
-          "title": "Quantum-Si GC LaPointe sells $10,994 in shares for tax withholding",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-            "length": "128832",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
         }
       ]
     },
@@ -11652,6 +11572,66 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xdvfia/investment_thesis_for_trading_week_1026_1030/",
+          "author": null,
+          "description": "​\n When I thought that earnings season started with a bang I did not expect this week's reaction.\n As always there are no good or bad earnings only how the market reacts to earnings and apparently the market does not like earnings this quarter.\n More tech giants are going to report next week and bulls can only hope that sentiment changes.\n Let's hope other tech giants don't go cash flow negative like Meta.\n If the NDX 100 ends lower next week the monthly chart will show two consecutive reversal patterns (One hanging man pattern and one bearish engulfing pattern)!\n From a pure chart perspective semis could bounce at the 200 day average if the bull market is overall still intact.\n Fear and Greed index plus put/call ratio allow for a bounce any time.\n That leaves us with the drop in yields. I…",
+          "link": "https://www.reddit.com/r/investing/comments/1xdvfia/investment_thesis_for_trading_week_1026_1030/",
+          "publishedOn": "2026-10-24T01:07:34.000Z",
+          "wordCount": null,
+          "title": "Investment thesis for trading week 10/26 - 10/30",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xdqtqt/when_are_indexes_supposed_to_crash/",
+          "author": null,
+          "description": "It is amazing to me how all of ETF's that follow indexes or have a wide range of stock are near 52w moving averages, yet so much stuff has crashed 20 to 70% already when you look at individual tickers, and other bigger companies also took big losses.\n We've seen yields go to 5%\n We've seen Trump do Trump things. \"Vote for me if you want more war after midterms\" like wtf.\n We've seen AI capex fears hit ATH's with Oracle CDS going up, gloom and doom news about robots taking over\n And yet the indexes which are supposedly \"held by a few stocks\" that basically depend on this AI spending continue to go up.\n So I don't know what it takes for markets to finally give us a capitulation so we can buy indexes at, at least, a -10% discount, but refuse to get anywhere near the 200WMA for a long time now.\n I am bagholding so much cash, like im 90% cash and have around 400k€ waiting in money market funds. Im also bagholding some IREN which is my only equity now, like 500 shares, at a 50% loss now. Im not selling, but im also not buying because these things can dump so much (and recover quick if narrative shifts).\n So my idea is to start a position on my ETF watchlist (mostly FGEQ, ISPA, VDIV) when SP500 crashes and takes down all these ETFs with it, and also add to my % of gambling allocation with high beta stocks like IREN which can run blazing fast once we hit the event horizon and everyone has capitulated. But it just feels like im stuck in this loop where indexes will forever go up while magically most individual tickers are dumping already. So I don't get it like wtf. We had 70% crashes on so many tickers, if the indexes crashes like say 10 to 20%, how low are these going to get?\n TL;DR: Just give me a proper crash so I can allocate.\n    submitted by    /u/BigPhone6871  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xdqtqt/when_are_indexes_supposed_to_crash/",
+          "publishedOn": "2026-10-23T21:36:07.000Z",
+          "wordCount": null,
+          "title": "When are indexes supposed to crash?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xdhbpq/traditional_to_roth_conversion_does_this_make/",
+          "author": null,
+          "description": "I recently moved a couple retirement accounts I set up (but never really contributed much to) at TRowe and were invested in mutual funds to Fidelity. They were a small Roth IRA and traditional IRA. The traditional was mainly rollover money from 401k's from a previous employer and is around $50k. The Roth is around $12k. \n This is not my main retirement account, that's currently a 401k I'm putting 10% into + a 6% employer match. I estimate I'm 12-15 years from when I'd like to retire.\n My wife has considerably more invested (from an inheritance) and we also have a house. She also stands to (probably) inherit more, including property. My parents on the other hand are a little more \"blue collar\"...We are looking to move in the next five years and start downsizing as we are both in our early 50's. We still have two kids in college which we are paying for out of pocket so to avoid student loans (which I realize directly impacts the total amount we can be actively saving for our own retirements)...\n Anyway, does it make sense to explore converting my current traditional into a Roth IRA? Since I've moved into Fidelity several months ago it's being just getting beaten up as the market - depending on the investment (ETFs) I'm currently down anyway from 5% to 9%, so does that mean I'd be taking a capital loss and therefore avoid a big tax penalty?\n    submitted by    /u/DKord  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xdhbpq/traditional_to_roth_conversion_does_this_make/",
+          "publishedOn": "2026-10-23T15:33:43.000Z",
+          "wordCount": null,
+          "title": "Traditional to Roth conversion - does this make sense to pursue?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xd7xqx/daily_general_discussion_and_advice_thread/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xd7xqx/daily_general_discussion_and_advice_thread/",
+          "publishedOn": "2026-10-23T08:01:08.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - October 23, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xd3u81/el_dorado_county_ca_sells_27_taxdefaulted_lots_on/",
+          "author": null,
+          "description": "El Dorado County sells 27 lots of tax-defaulted land on Bid4Assets on November 6. I checked every one against the county's own assessor records. Deposits are due October 30.\n Eight of them are an acre or more and open under $15,000:\n - 062-500-040-000: 44.83 acres, opening bid $14,000, assessed $112,567\n - 061-490-016-000: 9.48 acres, $11,000, assessed $83,619\n - 088-350-021-000: 4.79 acres, $9,400, assessed $55,350\n - 061-490-015-000: 9.52 acres, $8,800, assessed $63,108\n - 041-370-008-000: 1.91 acres, $4,700, assessed $40,836\n - 041-370-005-000: 2.03 acres, $4,600, assessed $30,361\n - 033-160-006-000: 1 acre, $3,900, assessed $15,352 (offered last year, no bid)\n - 062-160-006-000: 1.75 acres, $2,700, assessed $5,960\n There were ten on this list until this week. Owners can still pay off a…",
+          "link": "https://www.reddit.com/r/investing/comments/1xd3u81/el_dorado_county_ca_sells_27_taxdefaulted_lots_on/",
+          "publishedOn": "2026-10-23T04:03:26.000Z",
+          "wordCount": null,
+          "title": "El Dorado County, CA sells 27 tax-defaulted lots on Nov 6. Eight are 1 to 45 acres and open under $15,000",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xd3l2o/wait_just_a_minute_this_cant_be_identical/",
+          "author": null,
+          "description": "A 2008 WARNING SIGN IS FLASHING AGAIN! \n History doesn’t always repeat itself, but these market signals are hard to ignore. Housing stocks arefalling while tha S&P 500 continues hovering near record highs creating a divergence that looks veryy similar to the setup before the 2008 financial crisis. \n With high interest rates putting pressure on the housing market investors r watching closely The video suggests roughly 50 trading days could be left if the same historical timeline plays out but that’s a scenario, NOT a guaranteed prediction.\n The biggest market risks often build quietly before everyone notices. Stay informed, watch the signals n never ignore the warning signs..\n https://youtube.com/shorts/hdR\\_\\_NR1zZo?is=F401ITUhv2E94VWW\n    submitted by    /u/Worried-Share7679  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xd3l2o/wait_just_a_minute_this_cant_be_identical/",
+          "publishedOn": "2026-10-23T03:50:31.000Z",
+          "wordCount": null,
+          "title": "Wait just a minute this cant be identical",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1xcyz5e/today_i_realized_ai_is_a_bubble_because_of_this/",
           "author": null,
@@ -14480,126 +14460,6 @@
           "publishedOn": "2026-09-25T14:10:11.000Z",
           "wordCount": null,
           "title": "8 Investment Lessons I Learned from Stay Calm by David Booth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1woocza/10_year_outlook_on_my_ira/",
-          "author": null,
-          "description": "I've been thinking about my stock investing and looked up what's been going on, busy life lol taxpayer lyfe\n 39 years old...I bought/total cost about 6k worth of shares in 10 years, and it's been hovering around 40k recently\n 5 line items total, 3 of which I've owned for 8-10 years, 3 trades a year average and never owned more than 7 line items in the whole time\n what's crazy is this has been ramping up in last few years as i envisioned from back then and I see it as the beginning as well its strange and has me thinking. If I get into the 100k range + for this account I plan to hedge some\n One of those line items is actually in place as a purposeful new high risk but calculated for what could be another 10 years + w how I can be\n feel free to ask anything, this is a modest account I know and seems very risky, but i haven't explained how it's only a small part of my portfolio too\n Ai said this:\n investing in 10 years i turned very few line items stocks 6x is that unique? about 3 trades per year avg \n Yes, turning a few stock line items into a 6x return over 10 years is highly unique and places you well ahead of both the broader market and the vast majority of individual retail investors. \n    submitted by    /u/lostsurfer24t  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1woocza/10_year_outlook_on_my_ira/",
-          "publishedOn": "2026-09-24T01:29:26.000Z",
-          "wordCount": null,
-          "title": "10 year outlook on my IRA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1woo45n/ilmn_who_couldve_guessed/",
-          "author": null,
-          "description": "I took a small position in ILMN earlier this year and got out with about a 10% gain. I was reviewing my closed positions just now and took a look at the ticker today. And holy shit! My cost basis was about $140ish and ILMN is at $256 today. My position wasn't big enough for that to have been life-changing gains, but wow. Anyone knowledgeable about this sector care to weigh in on the stratospheric jump in the last three months? Not looking for financial advice, just to understand the industry a bit better. \n    submitted by    /u/counterhit121  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1woo45n/ilmn_who_couldve_guessed/",
-          "publishedOn": "2026-09-24T01:17:40.000Z",
-          "wordCount": null,
-          "title": "ILMN: who couldve guessed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1woluax/isnt_concentration_actually_proven_to_win_over/",
-          "author": null,
-          "description": "​\n Look at the historical graphs: VOO vs. VTI, for example, or VT vs. IOO or more concentrated developed-market/global large-cap indexes. In many of these cases, the more concentrated exposure has outperformed the broader, more diversified version over long periods.\n So why do we tend to dismiss concentration as inherently riskier without looking at the actual historical evidence?\n At what point does diversification become over-diversification and simply dilute exposure to the winners?\n    submitted by    /u/Helpful-Staff9562  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1woluax/isnt_concentration_actually_proven_to_win_over/",
-          "publishedOn": "2026-09-23T23:35:35.000Z",
-          "wordCount": null,
-          "title": "Isn’t concentration actually proven to win over the long term? .",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wolilh/burry_is_shorting_ais_hype_but_ackman_is_betting/",
-          "author": null,
-          "description": "Ive been thinking about Burry vs. Ackman's thesis lately and i'm leaning more to Burry's stance, not on the entirety of AI but mainly on Palantir. \n Palantir can be a great business and yet still a terrible stock at the wrong price. It's currently trading around 84x forward earnings and roughly 138x sales in the latest data, which means the market is already assuming years of strong growth and execution.\n Palantir's business is growing and generating cash but Burry doesn't need the business to fail. The bear case is simply whether growth slows, margins disappoint, or the market decides that this good company is not worth such an extreme price....\n Though i dont think this take is generalizable to the rest of the AI giants. Nvidia's profits are real high, and Microsoft/Meta trade closer to 22–25× forward earnings. There's real distribution, cash flow, and existing customers that can pay for the AI spending.\n I think Ackman may be right that the biggest platforms will capture a large share of the AI profits and Burry may be right that some of the most hyped AI stocks are priced for too much perfection..\n Specifically for Palantir, im leaning more towards the bear case because of the valuation. At around 84x forward earnings, the company has very little room for an ordinary slowdown or a merely good quarter. I think AI names like Palantir are too aggressively priced...\n Love to hear you guys' thoughts on this?\n    submitted by    /u/Consistent-Radio-428  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wolilh/burry_is_shorting_ais_hype_but_ackman_is_betting/",
-          "publishedOn": "2026-09-23T23:21:16.000Z",
-          "wordCount": null,
-          "title": "Burry is shorting AI's hype but Ackman is betting on them. Who's right?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wokut8/how_do_you_decide_when_to_cash_out_your_position/",
-          "author": null,
-          "description": "I’m in my late-20s, and one of the stocks I own shot up 30% this week. I’m now up approximately 230% and could cash out the position for about $22,000. \n My original goal was $15,000. I like the company but I feel like it’s going to be very volatile from this point forward (pending-FDA Approval) and I think it’s time to lock in my profit with big life events on the horizon (wedding and buying a house).\n I’ve owned the stock for 2 years it was one of my first investments. Keep in mind, I’m asking how you decide for yourself, not whether I should or shouldn’t. Thank you in advance. \n    submitted by    /u/you_hit_me_inthe_cup  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wokut8/how_do_you_decide_when_to_cash_out_your_position/",
-          "publishedOn": "2026-09-23T22:53:00.000Z",
-          "wordCount": null,
-          "title": "How do you decide when to cash out your position?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1woihrd/lot_of_activity_surrounding_metronic_mdt_shares/",
-          "author": null,
-          "description": "A week ago, I received an exchange offer asking to trade shares of Medtronic for MiniMed (MMED) at a 7% discount. \n Today, that offer expired but I received a request from my broker to enroll in their share lending program and lend out shares of Medtronic. To lend to short sellers, correct?\n I know that MiniMed was spun off from Medtronic a few months ago. Other than that, can anyone tell me what is going on? I've never received either type of these offers for any stock in the past. \n    submitted by    /u/Upset-Kaleidoscope45  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1woihrd/lot_of_activity_surrounding_metronic_mdt_shares/",
-          "publishedOn": "2026-09-23T21:15:29.000Z",
-          "wordCount": null,
-          "title": "Lot of activity surrounding Metronic (MDT) shares lately",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wohctd/150k_at_25_etfstockpicking/",
-          "author": null,
-          "description": "Hi,\n I am 25 years old, studying medicine, and through part-time jobs and smart investing from a young age (18), I have managed to grow my portfolio to $150,000.My original plan was to start putting everything into VWCE and chill, because I realize I have a long time horizon ahead of me and that compound interest can grow my wealth significantly over time.\n Lately, however, people have been discouraging me from doing this, saying that I am young, that I should take more risks and try picking individual stocks or even investing in riskier assets such as crypto. Their argument is that I can afford to wait out any potential market downturns, and that investing in ETFs means missing out on potential gains.\n What would you advise me? Is simply holding VWCE over a 30-year horizon really an unnecessarily passive approach? I invest using a DCA strategy every month, and I would gradually increase the amount as my income grows.\n As for my future, I expect to earn a solid income for most of my working career as a doctor, so I probably won't need to withdraw money from my investments. I am investing primarily for retirement, or perhaps some form of FIRE around the age of 50.\n (Sorry for grammar and bad spelling, english is not my first language)\n    submitted by    /u/VelkejNajetec420  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wohctd/150k_at_25_etfstockpicking/",
-          "publishedOn": "2026-09-23T20:31:05.000Z",
-          "wordCount": null,
-          "title": "150k$ at 25, ETF/Stockpicking?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wod6kb/nscale_ipos1_analysis_investor_delusion_or_great/",
-          "author": null,
-          "description": "Bankruptcy Risk - Management and its auditors agree that without additional financing or major spending cuts, Nscale could go bankrupt.\n Spending Cuts - Management’s backup plan is to delay or cancel construction. That could delay the customer service Nscale needs to earn revenue, and customers can cancel some deals if delivery is late. The filing does not explain how much of its existing purchase commitments it can cancel.\n Funding Needed - At June 30, Nscale had $1.5 billion in cash and $27.5 billion in equipment and construction commitments, mostly payable in 2026–27. Financing for the Anthropic project was not yet secured.\n Contracts Not Yet Active - Nscale reports $103.4 billion in contract value, but only $2.6 billion relates to capacity already delivered and serving customers.\n Losses - In the first half of 2026, Nscale recorded $140.6 million in sales and a $492 million operating loss. Its positive operating cash flow came largely from customers paying in advance.\n Customer Concentration - Microsoft and Anthropic account for roughly $88.4 billion of the reported contract value.\n Accounting Controls - Nscale disclosed material weaknesses in the controls used to prepare its financial reports.\n Positives - Sales grew more than 13-fold year over year. Microsoft and Anthropic signed multiyear agreements, and Nvidia invested.\n  \n   submitted by    /u/finalfrontierspace  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wod6kb/nscale_ipos1_analysis_investor_delusion_or_great/",
-          "publishedOn": "2026-09-23T17:55:51.000Z",
-          "wordCount": null,
-          "title": "NSCALE IPO/S1 Analysis - Investor Delusion or Great Buy?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wocwom/nth_cycle_inks_1_billion_minerals_offtake_with/",
-          "author": null,
-          "description": "https://www.reuters.com/business/retail-consumer/nth-cycle-inks-1-billion-minerals-offtake-with-glencore-ahead-public-listing-2026-09-22/\n The interesting part of this agreement is not only the headline value. It is the structure.\n Glencore is expected to supply approximately 24,000 tonnes of battery “black mass” annually. Nth Cycle plans to process that material into lithium carbonate and a nickel-rich intermediate product, which will then go back to Glencore.\n In other words, Glencore is supplying the feed and receiving the recovered materials. Nth Cycle provides the processing step.\n That could reduce two major risks faced by recycling companies: finding enough consistent feedstock and securing buyers for the resulting products.\n The $1 billion figure still deserves caution. The reported value depends on future metal prices and the variable mineral content of the material being processed. It should not be read as $1 billion of guaranteed, fixed-margin revenue.\n Nth Cycle is also planning a larger facility in the southeastern United States, supported in part by a $100 million Department of Energy grant, with operations targeted for 2029.\n Could this feedstock-plus-offtake model become the preferred structure for battery recyclers, or does it leave too much economic control with the commodity trader?\n    submitted by    /u/Value_Trader4053  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wocwom/nth_cycle_inks_1_billion_minerals_offtake_with/",
-          "publishedOn": "2026-09-23T17:45:37.000Z",
-          "wordCount": null,
-          "title": "Nth Cycle inks $1 billion minerals offtake with Glencore ahead of public listing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1woajis/im_sharing_my_little_progress_with_you/",
-          "author": null,
-          "description": "Hi! I'd like to share the little progress I've made these years. I started this portfolio in 2022 carving out money from family, friends and all my savings. We started with $10,600 USD; it may not be much, but I hope we can watch it grow together. I will be sharing results every month independently whether it goes up or down.\n I couldn't attach my broker's chart so I'll let the basic info here.\n PS 1: I'm a value long-term investor and like tech industry.\n PS 2: In August 2026, money grew by +4.14%.\n If anyone is interested on yearly returns:\n 2022: -29.20% (didn't choose the best year to start lol)\n 2023: +63.56% (heavily invested in Nvidia and AMD this year)\n 2024: +46.02% (same as previous year)\n 2025: +18.35% (more diversified portfolio now)\n 2026: +19.05% (let's see how the rest of the year goes).\n At least until today, it's an accumulated return of ~+138%. Hoping it keeps growing over the years.\n PS 3: Since 2022, new deposits have been made to the account, currently the portfolio is $113.924. That's between capital gains and new deposits.\n And current stocks/etfs allocation (percentages of the portfolio) - Comments:\n  \nMSFT (21,04%) - Bought this stock this year on February\n QQQ (17,68%) - I'd like to have more here in the future\n PGR (10,49%) - It has been cheap for a while now\n GOOGL (5,64%) - Bought some in 2022, 2024 and 2025\n MCO (5,55%) - Recently bought too on February\n MBGL (3,81%) - Last month purchase\n SPGI (3,74%) - This month purchase\n DE (3,56%) - Bought once in 2022, still hodl\n NVDA (3,48%) - Bought in 2022, reduced a bit of exposure on Feb 2026\n UNH (2.52%) - I bought a bit when stock fell in 2025\n  \n   submitted by    /u/josehdezq  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1woajis/im_sharing_my_little_progress_with_you/",
-          "publishedOn": "2026-09-23T16:19:38.000Z",
-          "wordCount": null,
-          "title": "I'm sharing my little progress with you.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wo71zq/how_much_cash_do_you_keep_outside_your/",
-          "author": null,
-          "description": "My emergency fund should cover several months of my basic expenses, but I keep questioning how much cash I should actually keep outside my investments.\n I understand why an emergency fund needs to be easily accessible. At the same time, keeping a large amount in cash means that money isn't invested for the long term.\n The difficult part is deciding where that balance should be. If I keep too little, an unexpected expense could force me to sell investments at a bad time. If I keep too much, I may be holding more cash than I realistically need.\n I know everyone's situation is different, especially depending on income stability, monthly expenses and other sources of cash.\n How do you decide how much money to keep in cash versus investing it?\n    submitted by    /u/ArushiBhagtni  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wo71zq/how_much_cash_do_you_keep_outside_your/",
-          "publishedOn": "2026-09-23T14:08:51.000Z",
-          "wordCount": null,
-          "title": "How much cash do you keep outside your investments for emergencies?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wo6zca/has_anyone_heard_something_good_about_lucyd/",
-          "author": null,
-          "description": "I am thinking of investing in smartglasses company and found this small cap, but very promising project. They have a Reebok partnership and is about to open 700 new stores in america, canada, new zealand and australia. Seems very good in my opinion, but wanted to ask before i buy.\n    submitted by    /u/Dense_Bat_8225  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wo6zca/has_anyone_heard_something_good_about_lucyd/",
-          "publishedOn": "2026-09-23T14:06:04.000Z",
-          "wordCount": null,
-          "title": "Has anyone heard something good about Lucyd glasses?",
           "imageUrl": null
         }
       ]
