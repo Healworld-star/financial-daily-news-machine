@@ -6,6 +6,86 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o#0",
+          "author": null,
+          "description": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+          "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-02T01:15:25.000Z",
+          "wordCount": 6657,
+          "title": "Binance users withdraw $3.6bn after record crypto hack",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crpdgp4y017go#0",
+          "author": null,
+          "description": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-01T23:34:49.000Z",
+          "wordCount": 6510,
+          "title": "Don't get caught out by new Buy Now Pay Later rules",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/crpdgp4y017go#3",
+          "author": null,
+          "description": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-01T23:34:49.000Z",
+          "wordCount": 6510,
+          "title": "Don't get caught out by new Buy Now Pay Later rules",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o#3",
+          "author": null,
+          "description": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+          "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-01T22:25:51.000Z",
+          "wordCount": 9183,
+          "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7eaa/live/a5c67c70-d637-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko#0",
+          "author": null,
+          "description": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+          "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-01T16:57:14.000Z",
+          "wordCount": 6412,
+          "title": "Thousands of jobs at Virgin Media O2 to be cut",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o#1",
+          "author": null,
+          "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-01T13:11:37.000Z",
+          "wordCount": 6793,
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo#3",
+          "author": null,
+          "description": "Families in the West Midlands say they are worried about paying winter energy bills.",
+          "link": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-01T07:15:06.000Z",
+          "wordCount": 8338,
+          "title": "Energy bills help 'doesn't go far enough'",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26db/live/70c13820-d471-11f1-9dda-1ba6fcc7d159.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o#3",
+          "author": null,
+          "description": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
+          "link": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-01T07:11:33.000Z",
+          "wordCount": 7985,
+          "title": "Diwali hampers to bring hope to families in need",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4469/live/f01ae000-d5eb-11f1-bfdd-73f39e6db31d.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o#3",
           "author": null,
           "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
@@ -14,6 +94,26 @@
           "wordCount": 6852,
           "title": "Shops looted as German cost of living protests turn violent",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1d6/live/e39b2030-d58f-11f1-b151-73ae9f7607e8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo#0",
+          "author": null,
+          "description": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+          "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-01T00:17:05.000Z",
+          "wordCount": 8978,
+          "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o#0",
+          "author": null,
+          "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+          "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-10-31T02:12:19.000Z",
+          "wordCount": 6724,
+          "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno#3",
@@ -3344,86 +3444,6 @@
           "wordCount": 7990,
           "title": "The job interview question you don't have to answer",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e493/live/17316b80-bd89-11f1-a2ad-3160f44bb180.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o#0",
-          "author": null,
-          "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-          "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-03T08:58:44.000Z",
-          "wordCount": 8016,
-          "title": "Suppliers pile pressure on government over energy bills",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/767f/live/4c61a230-be64-11f1-b36c-81ad410b221e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o#3",
-          "author": null,
-          "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-          "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-03T08:58:44.000Z",
-          "wordCount": 8016,
-          "title": "Suppliers pile pressure on government over energy bills",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/767f/live/4c61a230-be64-11f1-b36c-81ad410b221e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo#3",
-          "author": null,
-          "description": "The facility offers essential items for free, including clothes for babies and small children.",
-          "link": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-03T06:08:05.000Z",
-          "wordCount": 8197,
-          "title": "New baby bank 'open to everybody'",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee86/live/9145a8c0-bcb5-11f1-a3e9-bbda6f9b9e25.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c5j9x99yep92o#3",
-          "author": null,
-          "description": "Households across Northern Ireland face increasing pressure on the cost of living as energy price hikes have come into effect.",
-          "link": "https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-03T05:27:43.000Z",
-          "wordCount": 9427,
-          "title": "Rising energy costs add to cost of living for Northern Ireland's consumers",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d961/live/cb899890-be66-11f1-b36c-81ad410b221e.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo#0",
-          "author": null,
-          "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-02T20:25:19.000Z",
-          "wordCount": 8118,
-          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o#3",
-          "author": null,
-          "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
-          "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-02T16:58:30.000Z",
-          "wordCount": 7728,
-          "title": "Watch: Why has UK diesel price hit an all time high?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8fb/live/e1a711e0-bea5-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o#5",
-          "author": null,
-          "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
-          "link": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-02T16:58:30.000Z",
-          "wordCount": 7728,
-          "title": "Watch: Why has UK diesel price hit an all time high?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8fb/live/e1a711e0-bea5-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo#0",
-          "author": null,
-          "description": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
-          "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-02T15:50:05.000Z",
-          "wordCount": 8239,
-          "title": "UK diesel prices top £2 a litre for first time, RAC says",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95e2/live/57b2dba0-be95-11f1-babe-4199b0e7ccea.jpg"
         }
       ]
     },
@@ -3438,6 +3458,66 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+          "author": "Joe Rennison",
+          "description": "Futures on the S&P 500, which allow investors to bet on the market before the official start of trading, rose slightly on Sunday night.",
+          "link": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+          "publishedOn": "2026-11-02T01:37:46.000Z",
+          "wordCount": null,
+          "title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
+          "author": "Kate Conger",
+          "description": "The cryptocurrency exchange saw an immediate uptick in customer withdrawals, following the theft of $6.3 billion in tokens that has been linked to North Korea.",
+          "link": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
+          "publishedOn": "2026-11-01T18:28:24.000Z",
+          "wordCount": null,
+          "title": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
+          "author": "Katie Robertson",
+          "description": "Even though marketers have increasingly shifted their dollars to other media, local stations are reaping a bonanza during these midterm elections. Nowhere is this is more evident than in Texas.",
+          "link": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
+          "publishedOn": "2026-11-01T15:04:46.000Z",
+          "wordCount": null,
+          "title": "As Political Ad Spending Skyrockets, Broadcast TV Remains King",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+          "author": "Peter Eavis, Jenny Gross and Choe Sang-Hun",
+          "description": "South Korea’s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started.",
+          "link": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+          "publishedOn": "2026-11-01T10:02:30.000Z",
+          "wordCount": null,
+          "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/01/business/anthony-romero-aclu.html",
+          "author": "Jordyn Holman",
+          "description": "Anthony Romero has led the American Civil Liberties Union since 2001. He worries that Americans have fewer rights now.",
+          "link": "https://www.nytimes.com/2026/11/01/business/anthony-romero-aclu.html",
+          "publishedOn": "2026-11-01T10:01:49.000Z",
+          "wordCount": null,
+          "title": "ACLU’s Anthony Romero Says CEOs Are ‘Ducking the Hard Issues’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+          "author": "Michael S. Rosenwald",
+          "description": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101.",
+          "link": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+          "publishedOn": "2026-11-01T10:00:44.000Z",
+          "wordCount": null,
+          "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
           "author": "Rebecca Chao",
@@ -6707,146 +6787,6 @@
           "wordCount": null,
           "title": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/03/business/restaurants-glp1-weight-loss.html",
-          "author": "Julie Creswell",
-          "description": "Fewer orders and higher costs are squeezing restaurants big and small as people on the weight-loss drugs eat and drink less when dining out.",
-          "link": "https://www.nytimes.com/2026/10/03/business/restaurants-glp1-weight-loss.html",
-          "publishedOn": "2026-10-03T12:44:43.000Z",
-          "wordCount": null,
-          "title": "Weight Loss Drugs Give Restaurants a New Hurdle: Diners Who Eat Less",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html",
-          "author": "Tony Romm",
-          "description": "The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up.",
-          "link": "https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html",
-          "publishedOn": "2026-10-03T09:03:53.000Z",
-          "wordCount": null,
-          "title": "Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html",
-          "author": "Erik Wemple",
-          "description": "The Trump administration again defended the decision to bar CNN, MS NOW and Politico from the White House and to exclude journalists from the pool that covers the president in small spaces.",
-          "link": "https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html",
-          "publishedOn": "2026-10-03T02:29:40.000Z",
-          "wordCount": null,
-          "title": "White House Filing Claims President Has Authority to Bar News Outlets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
-          "author": "Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi",
-          "description": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in a grower’s field or processing facility.",
-          "link": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
-          "publishedOn": "2026-10-02T22:25:24.000Z",
-          "wordCount": null,
-          "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
-          "author": "Jeff Sommer",
-          "description": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.",
-          "link": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
-          "publishedOn": "2026-10-02T20:36:55.000Z",
-          "wordCount": null,
-          "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/media/skydance-paramount-warner-bros.html",
-          "author": "Benjamin Mullin and Nicole Sperling",
-          "description": "David Ellison, the tech scion who will run the combined company, borrowed the name of his original entertainment company that reflects his love of aviation. On Friday, the C.E.O.s of Warner Bros. were told they would not stay on once the companies merged.",
-          "link": "https://www.nytimes.com/2026/10/02/business/media/skydance-paramount-warner-bros.html",
-          "publishedOn": "2026-10-02T19:56:28.000Z",
-          "wordCount": null,
-          "title": "Mash-Up of Paramount and Warner Bros. Will Be Called Skydance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
-          "author": "Lisa Friedman and Rebecca F. Elliott",
-          "description": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately.",
-          "link": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
-          "publishedOn": "2026-10-02T18:28:16.000Z",
-          "wordCount": null,
-          "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
-          "author": "Keith Bradsher and Alexandra Stevenson",
-          "description": "China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled.",
-          "link": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
-          "publishedOn": "2026-10-02T18:18:31.000Z",
-          "wordCount": null,
-          "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
-          "author": "Jack Ewing",
-          "description": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
-          "link": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
-          "publishedOn": "2026-10-02T18:07:45.000Z",
-          "wordCount": null,
-          "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html",
-          "author": "Talmon Joseph Smith",
-          "description": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.",
-          "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html",
-          "publishedOn": "2026-10-02T17:09:45.000Z",
-          "wordCount": null,
-          "title": "Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
-          "author": "Ben Casselman and Talmon Joseph Smith",
-          "description": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers.",
-          "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
-          "publishedOn": "2026-10-02T16:41:45.000Z",
-          "wordCount": null,
-          "title": "Black Unemployment Rose Sharply in September, Jobs Report Shows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
-          "author": "Talmon Joseph Smith",
-          "description": "",
-          "link": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
-          "publishedOn": "2026-10-02T15:59:17.000Z",
-          "wordCount": null,
-          "title": "Here’s the latest.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html",
-          "author": "Colby Smith",
-          "description": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials.",
-          "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html",
-          "publishedOn": "2026-10-02T15:50:14.000Z",
-          "wordCount": null,
-          "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html",
-          "author": "Andrew Duehren",
-          "description": "As billionaires become a popular political target, a new book urges Washington not to lose sight of a much larger, and quieter, group of wealthy business owners.",
-          "link": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html",
-          "publishedOn": "2026-10-02T15:08:10.000Z",
-          "wordCount": 8901,
-          "title": "The Rich People Democrats Aren’t Talking About",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/01/business/00dc-ideas-taxtherich/00dc-ideas-taxtherich-facebookJumbo.jpg"
         }
       ]
     },
@@ -6855,6 +6795,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/economy-news/rba-preview-november-25-bps-hike-expected-as-inflation-outlook-worsens-4989814",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/rba-preview-november-25-bps-hike-expected-as-inflation-outlook-worsens-4989814",
+          "publishedOn": "2026-11-02T02:39:49.000Z",
+          "wordCount": null,
+          "title": "RBA Preview November: 25 bps hike expected as inflation outlook worsens",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEB4403T_M.jpg",
+            "length": "19137",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEB4403T_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/66-since-picked-which-pharma-stock-did-our-ai-pick-before-a-30-earnings-beat-4989813",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/66-since-picked-which-pharma-stock-did-our-ai-pick-before-a-30-earnings-beat-4989813",
+          "publishedOn": "2026-11-02T02:39:44.000Z",
+          "wordCount": null,
+          "title": "+66% since picked: Which pharma stock did our AI pick before a 30% earnings beat?",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM741K3_L.jpg",
+            "length": "85785",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM741K3_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
+          "publishedOn": "2026-11-02T02:36:20.000Z",
+          "wordCount": null,
+          "title": "Shares steady as Apple earnings near, oil eases",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA101F_L.jpg",
+            "length": "98289",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXNPEMA101F_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/why-is-agricultural-bank-of-china-stock-climbing-today-93CH-4989811",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/why-is-agricultural-bank-of-china-stock-climbing-today-93CH-4989811",
+          "publishedOn": "2026-11-02T02:34:05.000Z",
+          "wordCount": null,
+          "title": "Why is Agricultural Bank of China stock climbing today?",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+            "length": "13197",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/stt-gdc-seeks-24-billion-loan-as-ai-data-centre-financing-expands-bloomberg-93CH-4989810",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/stt-gdc-seeks-24-billion-loan-as-ai-data-centre-financing-expands-bloomberg-93CH-4989810",
+          "publishedOn": "2026-11-02T02:28:49.000Z",
+          "wordCount": null,
+          "title": "STT GDC seeks $2.4 billion loan as AI data centre financing expands: Bloomberg",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+            "length": "20314",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/why-is-industrial-and-commercial-bank-of-china-stock-rallying-today-93CH-4989809",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/why-is-industrial-and-commercial-bank-of-china-stock-rallying-today-93CH-4989809",
+          "publishedOn": "2026-11-02T02:26:34.000Z",
+          "wordCount": null,
+          "title": "Why is Industrial and Commercial Bank of China stock rallying today?",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+            "length": "13839",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/exclusiveaustralian-outback-data-centre-pulls-timeline-after-regulator-stalls-4989777",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/exclusiveaustralian-outback-data-centre-pulls-timeline-after-regulator-stalls-4989777",
+          "publishedOn": "2026-11-02T02:25:07.000Z",
+          "wordCount": null,
+          "title": "Exclusive-Australian outback data centre pulls timeline after regulator stalls",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA01AK_L.jpg",
+            "length": "96053",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXNPEMA01AK_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economic-indicators/new-zealands-twospeed-economy-poses-election-dilemma-for-ruling-national-party-4989769",
+          "publishedOn": "2026-11-02T02:24:55.000Z",
+          "wordCount": null,
+          "title": "New Zealand’s two-speed economy poses election dilemma for ruling National party",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA015J_L.jpg",
+            "length": "65036",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXNPEMA015J_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist-4989802",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist-4989802",
+          "publishedOn": "2026-11-02T02:24:25.000Z",
+          "wordCount": null,
+          "title": "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA104B_L.jpg",
+            "length": "52241",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXNPEMA104B_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economic-indicators/china-factory-output-grows-at-fastest-pace-in-6-months-ratingdog-pmi-4989808",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economic-indicators/china-factory-output-grows-at-fastest-pace-in-6-months-ratingdog-pmi-4989808",
+          "publishedOn": "2026-11-02T02:15:59.000Z",
+          "wordCount": null,
+          "title": "China factory output grows at fastest pace in 6 months: RatingDog PMI",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEE7D0AE_M.jpg",
+            "length": "34568",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEE7D0AE_M.jpg"
+        },
         {
           "id": "https://www.investing.com/news/economy-news/trump-calls-50-million-contract-for-exlawyer-habba-mildon-not-acceptable-4989369",
           "author": "Reuters",
@@ -11124,156 +11214,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
-          "publishedOn": "2026-10-03T02:02:40.000Z",
-          "wordCount": null,
-          "title": "Bitcoin holds below $85,000 as SEC custody proposal boosts institutional outlook",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXNPEL260TM_L.jpg",
-            "length": "114144",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXNPEL260TM_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-cfo-scott-burrows-sells-226m-in-stock-93CH-4930687",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-cfo-scott-burrows-sells-226m-in-stock-93CH-4930687",
-          "publishedOn": "2026-10-03T02:01:31.000Z",
-          "wordCount": null,
-          "title": "Spyre Therapeutics CFO Scott Burrows sells $2.26m in stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-            "length": "162121",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-438-in-company-stock-93CH-4930686",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/coreweave-cfo-nitin-agrawal-sells-438-in-company-stock-93CH-4930686",
-          "publishedOn": "2026-10-03T02:01:12.000Z",
-          "wordCount": null,
-          "title": "CoreWeave CFO Nitin Agrawal sells $438 in company stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-            "length": "99672",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-ceo-cameron-turtle-sells-138m-in-syre-stock-93CH-4930685",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/spyre-therapeutics-ceo-cameron-turtle-sells-138m-in-syre-stock-93CH-4930685",
-          "publishedOn": "2026-10-03T02:01:10.000Z",
-          "wordCount": null,
-          "title": "Spyre Therapeutics CEO Cameron Turtle sells $1.38m in SYRE stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-            "length": "150078",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/japan-shifts-messaging-to-counter-view-its-policies-are-reflationary-katayama-says-in-tv-interview-4930677",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/japan-shifts-messaging-to-counter-view-its-policies-are-reflationary-katayama-says-in-tv-interview-4930677",
-          "publishedOn": "2026-10-03T01:54:22.000Z",
-          "wordCount": null,
-          "title": "Japan shifts messaging to counter view its policies are reflationary, Katayama says in TV interview",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM92016_L.jpg",
-            "length": "47444",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM92016_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/coreweave-principal-accounting-officer-jeff-baker-sells-438-in-crwv-stock-93CH-4930673",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/coreweave-principal-accounting-officer-jeff-baker-sells-438-in-crwv-stock-93CH-4930673",
-          "publishedOn": "2026-10-03T01:46:13.000Z",
-          "wordCount": null,
-          "title": "CoreWeave principal accounting officer Jeff Baker sells $438 in CRWV stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-            "length": "99672",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-ceo-klein-sells-209m-in-stock-93CH-4930672",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-ceo-klein-sells-209m-in-stock-93CH-4930672",
-          "publishedOn": "2026-10-03T01:46:01.000Z",
-          "wordCount": null,
-          "title": "Oruka Therapeutics CEO Klein sells $2.09m in stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-            "length": "157240",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/docusign-cro-paula-hansen-sells-227061-in-company-stock-93CH-4930660",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/docusign-cro-paula-hansen-sells-227061-in-company-stock-93CH-4930660",
-          "publishedOn": "2026-10-03T01:35:30.000Z",
-          "wordCount": null,
-          "title": "DocuSign CRO Paula Hansen sells $227,061 in company stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-            "length": "150078",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/coreweave-evp-chen-goldberg-sells-438-in-stock-93CH-4930659",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/coreweave-evp-chen-goldberg-sells-438-in-stock-93CH-4930659",
-          "publishedOn": "2026-10-03T01:35:27.000Z",
-          "wordCount": null,
-          "title": "CoreWeave EVP Chen Goldberg sells $438 in stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-            "length": "157240",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/snowflake-evp-christian-kleinerman-sells-512m-in-shares-93CH-4930658",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/snowflake-evp-christian-kleinerman-sells-512m-in-shares-93CH-4930658",
-          "publishedOn": "2026-10-03T01:35:16.000Z",
-          "wordCount": null,
-          "title": "Snowflake EVP Christian Kleinerman sells $5.12m in shares",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-            "length": "157240",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
         }
       ]
     },
@@ -11282,6 +11222,76 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xlkt9q/has_anyone_made_money_by_investing_with_republic/",
+          "author": null,
+          "description": "Several years ago, I invested small amounts in a few bars and restaurants with NextSeed. Some went out of business due to Covid. Others returned my investment plus interest (around 12%). Republic took over NextSeed, and the ones that were still in business stopped paying. I also invested in Austin Flipsters through Republic and the company disappeared. I no longer live in Texas, so small claims court is out of the question.\n    submitted by    /u/lgainor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xlkt9q/has_anyone_made_money_by_investing_with_republic/",
+          "publishedOn": "2026-11-02T01:54:37.000Z",
+          "wordCount": null,
+          "title": "Has anyone made money by investing with Republic?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xlituk/schg_vs_vgt_vs_qqqm_which_one/",
+          "author": null,
+          "description": "I have been heavily investing into SCHG for a few years now, but as I continue to gain more money I am afraid of leaving a lot on the table. For some context I am 28 and have plenty of time to continue investing. I’m just trying to maximize. I know that none of them are losing bets. Thank you!\n    submitted by    /u/ReasonableCold357  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xlituk/schg_vs_vgt_vs_qqqm_which_one/",
+          "publishedOn": "2026-11-02T00:17:49.000Z",
+          "wordCount": null,
+          "title": "SCHG vs. VGT vs. QQQM. Which one?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xlg7eu/why_did_now_get_hated_all_of_a_sudden/",
+          "author": null,
+          "description": "Can someone explain to me in plain English why $NOW got hammered as much as losing $50B, roughly 1/3 of its market cap, in 1 day?\n Yes, it’s a double miss for EPS and FCF in Q3 and $NOW lowered its cRPO guidance for Q4.\n But it increased its FCF margin to 36% for 2026 and reduced its capex. While still growing cRPO 21% YoY and FCF 20% YoY.\n I don’t get how this business was loved by many people (if not almost everyone) for a few months (especially after partnering with NVIDIA and other hyperscalers) and now it’s hated and the stock drops 30% in 1 trading day.\n Is Mr. Market overreacting (once) again?\n    submitted by    /u/No-Sea-5276  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xlg7eu/why_did_now_get_hated_all_of_a_sudden/",
+          "publishedOn": "2026-11-01T22:19:42.000Z",
+          "wordCount": null,
+          "title": "Why did $NOW get hated all of a sudden?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xl9mm3/is_the_tech_sector_a_safe_long_term_bet_2_decades/",
+          "author": null,
+          "description": "Even if the absurd growth in the sector doesn't continue at the levels seen in recent years, I would think 1: as long as AI integrates into society the way people think it will and 2: people continue to have disposable income then tech will always be a safe bet.\n However if global market conditions change due to forces such as climate change, then energy and agricultural sectors may see more growth than tech in the future.\n I'm also interested in the healthcare sector. AI stands to change a lot about how healthcare is approached, at least in biotech. If AGI or society-wide integration of AI never happens, I believe healthcare stands the most to gain from the research and development of AI. Though, on the other hand, I worry if macroeconomic conditions may force a much larger percentage of the population into being uninsured than many are projecting. Which may limit the returns of these great technological strides in this sector.\n    submitted by    /u/Faithful_Husband  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xl9mm3/is_the_tech_sector_a_safe_long_term_bet_2_decades/",
+          "publishedOn": "2026-11-01T17:55:04.000Z",
+          "wordCount": null,
+          "title": "Is the tech sector a safe long term bet (2 decades plus)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xl56w5/us_national_debt_75_domestic/",
+          "author": null,
+          "description": "75-78% of the USA national debt is domestic. So that is about $30 trillion in domestic debt and $10 trillion in foreign debt.\n The USA GDP is about $32 trillion. That is much larger than the $10 trillion in foreign debt.\n Domestic debt includes federal trust funds (like Social Security), the Federal Reserve, state and local governments, banks, pension funds, and American individual investors.\n So what does this even mean? Is the fact that close to 80% of the debt is domestic make it less bad?\n For example my uncle holds hundreds of thousands in treasury bills and bonds. He gets paid interest from the US government.\n Has the whole national debt issue been overstated?\n Or does it mean US citizens who hold US debt are in a good position and US citizens who don’t are screwed?\n    submitted by    /u/Shoddy_Ad7511  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xl56w5/us_national_debt_75_domestic/",
+          "publishedOn": "2026-11-01T15:00:41.000Z",
+          "wordCount": null,
+          "title": "US National Debt: 75% Domestic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xl4a8w/the_shipping_industry_has_amassed_3_trillion_in/",
+          "author": null,
+          "description": "The global shipping industry has amassed over 3 Trillion dollars in case over the last five years, according to leading maritime economist Martin Stopford.\n This is from the freight spike coming out of COVID lockdowns, then the US-Russia energy shock, and then this year’s US-Iran war oil supply shock and diesel crunch, in which oil tankers on the Persian Gulf-Far East route are earning $1.3 million PER DAY.\n This dwarfs the cash reserves of the Magnificent 7 tech firms, where the holder of the largest cash reserves is Microsoft with $111.26 billion.\n How can investors best gain exposure to this sector? Is it too late and buying into the top in tanker segment?\n Is there like a broader sector index covering tankers, container shipping and dry bulk all together?\n Lastly are these gargantuan profits made on the back of wars going to be in the sights of governments via a windfall levy or tax?\n https://www.tradewindsnews.com/opinion/-3trn-question-can-shipping-transform-itself-from-a-climate-laggard-to-a-leader-/2-1-2063906\n    submitted by    /u/Maritimewarp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xl4a8w/the_shipping_industry_has_amassed_3_trillion_in/",
+          "publishedOn": "2026-11-01T14:22:02.000Z",
+          "wordCount": null,
+          "title": "The shipping industry has amassed $3 Trillion in cash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xkydcb/daily_general_discussion_and_advice_thread/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xkydcb/daily_general_discussion_and_advice_thread/",
+          "publishedOn": "2026-11-01T09:00:56.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - November 01, 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1xkom2s/will_renters_renting_and_investing_the_difference/",
           "author": null,
@@ -14200,86 +14210,6 @@
           "publishedOn": "2026-10-04T02:39:48.000Z",
           "wordCount": null,
           "title": "Micron's CEO was asked if memory pricing holds into 2028. He answered a different question.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1wway0s/holding_sgov_for_more_than_3_months_i_dont/",
-          "author": null,
-          "description": "This has been bugging me every once in a while for a year or so. Some guy asked where he should park his cash for no risk for about 6 months. I replied BIL or SGOV have essentially zero risk as long as you hold for 3+ months. Some person claimed to “do this for a living and if I have to explain to you how interest rates work, it’s over your head” when I insisted even on the worst case scenario, he’d still not lose anything after 6 months. This person disagreed again and I got down voted and he got upvoted. \n So what is this scenario? Short term interest rates spike to 45%?! Even then the laddered t bills would compensate. I’m sure there is a scenario that involves nuclear war and entire currency collapse, but is there a “unprecedented” scenario that seems plausible although unlikely in missing. \n I understand inverse basic bond price/yield. I buy a 3mo t bill and rates go from 5% to 10% overnight the next day, I’ll “lose” money in the value of the bond, but if I hold for 3 months, it all comes back. What am I missing? \n    submitted by    /u/rithsleeper  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1wway0s/holding_sgov_for_more_than_3_months_i_dont/",
-          "publishedOn": "2026-10-03T01:36:43.000Z",
-          "wordCount": null,
-          "title": "Holding SGOV for more than 3 months. I don’t understand a comment.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1ww8h38/treasuries_yields_still_rose_after_nonstellar_nfp/",
-          "author": null,
-          "description": "Short end of curve 2-yield yield, the one most sensitive to Feds rate change policy, still rose even after odds of October rate hikes dropped, even after bad NFP report today. Make that make sense?\n I understand why the longer yields kept elevated as without a rate hike, investors into treasuries expect inflation to remain elevated, increasing risk of holding longer dated bonds. \n Feel sorry for the smaller banks, who’s holding of bond assets are dropping in value compared to their value of deposits. And making loans at higher rates are hurting their business as I’m sure loan applications have dropped. 😔 \n    submitted by    /u/Background-Day-4957  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1ww8h38/treasuries_yields_still_rose_after_nonstellar_nfp/",
-          "publishedOn": "2026-10-02T23:32:06.000Z",
-          "wordCount": null,
-          "title": "Treasuries yields still rose after nonstellar NFP report.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1ww5sjf/what_are_some_investing_tools_that_are_normally/",
-          "author": null,
-          "description": "Hi all, I’m building a stock research website that has ai write reports on stocks quarterly based on their SEC filings, and I am now looking to expand beyond the core product by offering some tools investors commonly use for research. My website doesn’t charge for anything, and I don’t plan on adding login walls for anything anytime soon. What are some tools you guys find valuable that normally are paid or locked behind a login wall that you’d like to see free and anonymous? (Not promoting my site here, I will not reveal the name or URL)\n    submitted by    /u/Ok_Television8309  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1ww5sjf/what_are_some_investing_tools_that_are_normally/",
-          "publishedOn": "2026-10-02T21:30:19.000Z",
-          "wordCount": null,
-          "title": "What are some investing tools that are normally locked behind a paywall or a login wall?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1ww4a27/favorite_mutual_funds_for_retirement/",
-          "author": null,
-          "description": "Interestingly enough, most posts for mutual fund recommendations on Reddit seem to come from posters who live in India and reference the “nifty fifty”.\n Can anyone in the US recommend some great mutual funds (no ETFs) for long term investing? Maybe something I can hold for 15 years? They can be growth or value or whatever. I’m looking for anything you like. Could be VIGAX, FBGRX, FSELX, VITAX, DEMZX or really anything. I already have broad US and international index funds. I am looking for others you might like. Maybe aggressive, passive, but low fee would be good, but am open to anything you may recommend even if active with higher fees. Thanks.\n    submitted by    /u/Ok_Supermarket_1236  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1ww4a27/favorite_mutual_funds_for_retirement/",
-          "publishedOn": "2026-10-02T20:27:11.000Z",
-          "wordCount": null,
-          "title": "Favorite Mutual Funds for Retirement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1ww498x/google_says_allocate_my_ira_as_100_equities_im/",
-          "author": null,
-          "description": "Looking to retire next year at 59. Long story short, I have post-tax cash that I can use to set up a 6-8 year bridge until I claim SS. After that, SS+pension should cover about 80-90% of my spending needs, maybe even all of my needs depending on how things go.\n Google AI is saying that I'm almost completely isolated from SORR and suggesting that I should reallocate all of my IRA money into equities. I'm currently at about 11% and always thought I should increase that number. \n Given the current valuation of the market, this seems overly risky even if it does seem to make mathematical sense. Anyone think Google is way off here?\n    submitted by    /u/PHL1365  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1ww498x/google_says_allocate_my_ira_as_100_equities_im/",
-          "publishedOn": "2026-10-02T20:26:12.000Z",
-          "wordCount": null,
-          "title": "Google says allocate my IRA as 100% equities. I'm retiring next year.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1ww42d9/fidelity_money_market_fund_fzdxx_treasuries_yield/",
-          "author": null,
-          "description": "I use FZDXX to park my savings to earn slightly more interest than a traditional savings account. https://fundresearch.fidelity.com/mutual-funds/summary/31617H805\n This paper fund is weighted towards ~55% Treasuries and ST maturity instruments (46% <8 days, 76% <31 days). Does a principal value decrease risk exist (<= 25%) given the increase in 10 year Treasury yields and the Bank of Japan selling its American debt?\n The extra bps interest is nice, but not at the risk of my principal taking a large hit. I would not have had this concern if not for the aforementioned factors. TYIA!\n    submitted by    /u/saltandpepper96  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1ww42d9/fidelity_money_market_fund_fzdxx_treasuries_yield/",
-          "publishedOn": "2026-10-02T20:18:22.000Z",
-          "wordCount": null,
-          "title": "Fidelity Money Market Fund FZDXX - Treasuries Yield Exposure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1ww13nf/i_can_only_invest_in_individual_stocks_no_etfs_or/",
-          "author": null,
-          "description": "I'm a US citizen and European tax resident. This particular combination makes it economically impractical to invest in any type of fund due to extremely adverse tax consequences. \n Realistically, I can only invest in individual equities. Are there any other options other than buying say, 30-50, individual stocks and replicating an index or buying huge conglomerates like Berkshire, (which follow the index fairly closely)? \n I am also unsure how to incorporate bonds under this scenario. \n    submitted by    /u/Tiny-Art7074  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1ww13nf/i_can_only_invest_in_individual_stocks_no_etfs_or/",
-          "publishedOn": "2026-10-02T18:20:45.000Z",
-          "wordCount": null,
-          "title": "I can only invest in individual stocks (no ETFs or Mutual Funds) what to do?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1ww06su/by_conducting_daily_trade_reviews_discussions/",
-          "author": null,
-          "description": "Of course, I didn't always follow what Claude said, I solicited opinion and acted according to my own best judgement.\n I want some real opinions from real human on how I did, what my weaknesses are, what my strengths are, I genuinely want to get better at this trading thingy as it's paying more than my day time salary at this point.\n I also want to know if I did well because I was in a bull market, I know that I could have bought META at the beginning and just held, and made way more money but hindsight is 20/20.\n Here is the entire trade map (designed by me and made by Claude)\n https://claude.ai/artifact/4rCNVYh5tpsn6mFckVfWfs\n Here is the gain / loss over time if you don't have time to see the lengthy trade map\n https://i.imgur.com/57CJozy.png\n    submitted by    /u/Glancealot  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1ww06su/by_conducting_daily_trade_reviews_discussions/",
-          "publishedOn": "2026-10-02T17:44:54.000Z",
-          "wordCount": null,
-          "title": "By conducting daily trade reviews & discussions with Claude over the past two months, I achieved an approximate 18% return, translating to a net gain of $43,000",
           "imageUrl": null
         }
       ]
