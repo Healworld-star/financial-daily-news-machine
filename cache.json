@@ -6,6 +6,166 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o#0",
+          "author": null,
+          "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-10T03:58:13.000Z",
+          "wordCount": 8520,
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo#0",
+          "author": null,
+          "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+          "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-10T01:55:22.000Z",
+          "wordCount": 6370,
+          "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o#3",
+          "author": null,
+          "description": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+          "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-10T00:00:22.000Z",
+          "wordCount": 9052,
+          "title": "Headteachers say families will struggle after another rise in school dinner prices",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ca3/live/100121b0-dc75-11f1-bbe9-83c09cc9b23f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ckgel338xql3o#1",
+          "author": null,
+          "description": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T23:51:22.000Z",
+          "wordCount": 10444,
+          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o#0",
+          "author": null,
+          "description": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+          "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T21:52:28.000Z",
+          "wordCount": 8661,
+          "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4310/live/95e56210-dc92-11f1-b244-e54544344237.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo#0",
+          "author": null,
+          "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T19:58:01.000Z",
+          "wordCount": 7999,
+          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo#5",
+          "author": null,
+          "description": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+          "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T19:00:43.000Z",
+          "wordCount": 7599,
+          "title": "The facial recognition technology stopping shoplifters",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76aa/live/83bb9250-dc6d-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo#0",
+          "author": null,
+          "description": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+          "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T18:40:31.000Z",
+          "wordCount": 9879,
+          "title": "How a civil servant got away with juggling five jobs for so long",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm70pgnx891do#0",
+          "author": null,
+          "description": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+          "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T17:17:16.000Z",
+          "wordCount": 8506,
+          "title": "Civil servant who secretly held five jobs found guilty of fraud",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o#0",
+          "author": null,
+          "description": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+          "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T16:46:40.000Z",
+          "wordCount": 6802,
+          "title": "Poundland unable to buy new stock as fears over collapse grow",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c59/live/3c72aa60-dc53-11f1-b8a2-9782924402f8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo#3",
+          "author": null,
+          "description": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+          "link": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T16:01:19.000Z",
+          "wordCount": 7263,
+          "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fead/live/0dafb010-dc53-11f1-a869-656dc96bd12d.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo#3",
+          "author": null,
+          "description": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living costs affect the government’s commitment to tackling climate change?",
+          "link": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T13:42:03.000Z",
+          "wordCount": 7879,
+          "title": "Rising cost of living tests UK's net zero ambitions",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0086/live/20d5ad30-dc43-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo#1",
+          "author": null,
+          "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+          "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T12:06:22.000Z",
+          "wordCount": 7435,
+          "title": "Government's EV targets expected to be reduced this week",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko#3",
+          "author": null,
+          "description": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
+          "link": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T08:12:30.000Z",
+          "wordCount": 7874,
+          "title": "Is it the end of free school milk?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a537/live/98c8c400-da02-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko#1",
+          "author": null,
+          "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+          "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T07:10:11.000Z",
+          "wordCount": 8338,
+          "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83e2/live/f1cb1e30-dc24-11f1-93e1-3b657b665bcf.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c933x074xz58o#3",
+          "author": null,
+          "description": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission.",
+          "link": "https://www.bbc.co.uk/news/articles/c933x074xz58o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-09T06:13:11.000Z",
+          "wordCount": 7175,
+          "title": "Hut owner wins battle to keep living in off-grid home he built",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c63/live/8d803e90-d6db-11f1-b2be-0146bf989691.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no#0",
           "author": null,
           "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
@@ -3174,26 +3334,6 @@
           "wordCount": 7084,
           "title": "Citroen revives the 2CV for an electric age",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9db/live/c47fea70-c3f4-11f1-97a9-2d4b5e26e282.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo#1",
-          "author": null,
-          "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-11T14:38:10.000Z",
-          "wordCount": 6600,
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o#3",
-          "author": null,
-          "description": "Cancer charity Daft as a Brush and Teesside Minibus Hire say they are struggling with pump prices.",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-11T06:23:27.000Z",
-          "wordCount": 7927,
-          "title": "Charities and businesses wrestle with diesel cost",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6c5/live/05711430-c3c0-11f1-9798-abffda1e61e7.jpg"
         }
       ]
     },
@@ -3208,6 +3348,166 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+          "author": "Keith Bradsher",
+          "description": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+          "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+          "publishedOn": "2026-11-10T04:00:06.000Z",
+          "wordCount": null,
+          "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
+          "author": "Ken Bensinger",
+          "description": "The suit claims that any payments to Alex Bruesewitz, a Republican strategist, could have violated federal law. He has denied ever taking such funds.",
+          "link": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
+          "publishedOn": "2026-11-10T02:32:06.000Z",
+          "wordCount": null,
+          "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+          "author": "Rebecca F. Elliott",
+          "description": "The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela, nearly two decades after it left the country.",
+          "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+          "publishedOn": "2026-11-10T00:51:53.000Z",
+          "wordCount": null,
+          "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+          "author": "Ana Swanson and Devlin Barrett",
+          "description": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
+          "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+          "publishedOn": "2026-11-09T23:27:05.000Z",
+          "wordCount": null,
+          "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+          "author": "Adam B. Ellick and Laurence Blair",
+          "description": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
+          "link": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+          "publishedOn": "2026-11-09T21:26:15.000Z",
+          "wordCount": null,
+          "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+          "author": "Rebecca F. Elliott and Lisa Friedman",
+          "description": "The global benchmark price is down roughly $20 a barrel since late October, when it traded for around $113.",
+          "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+          "publishedOn": "2026-11-09T21:24:16.000Z",
+          "wordCount": null,
+          "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+          "author": "Joe Rennison and Jason Karaian",
+          "description": "The chip maker’s shares fell sharply after its C.E.O., Jensen Huang, admitted to a relationship with a businesswoman suspected of spying for China.",
+          "link": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+          "publishedOn": "2026-11-09T21:23:34.000Z",
+          "wordCount": null,
+          "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+          "author": "Adam Satariano",
+          "description": "The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular.",
+          "link": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+          "publishedOn": "2026-11-09T20:18:47.000Z",
+          "wordCount": null,
+          "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+          "author": "Niraj Chokshi",
+          "description": "The company said it needed fewer workers because production was increasing more slowly than previously expected.",
+          "link": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+          "publishedOn": "2026-11-09T20:00:31.000Z",
+          "wordCount": null,
+          "title": "Boeing Will Cut 5% of Commercial Plane Employees",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+          "author": "Ben Casselman, Tony Romm and Colby Smith",
+          "description": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing.",
+          "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+          "publishedOn": "2026-11-09T19:28:16.000Z",
+          "wordCount": null,
+          "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+          "author": "Noam Scheiber and Lauren Hirsch",
+          "description": "Among the reasons that the 95-year-old law firm fell apart was a failure to adapt to the eat-or-be-eaten ethos of Big Law.",
+          "link": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+          "publishedOn": "2026-11-09T17:35:50.000Z",
+          "wordCount": null,
+          "title": "$2 Billion Wasn’t Enough to Save Weil Gotshal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+          "author": "Ivan Penn",
+          "description": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
+          "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+          "publishedOn": "2026-11-09T15:18:30.000Z",
+          "wordCount": null,
+          "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+          "description": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond.",
+          "link": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
+          "publishedOn": "2026-11-09T13:33:07.000Z",
+          "wordCount": null,
+          "title": "How Indispensable Is Jensen Huang?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
+          "author": "Natasha Singer and Dana Goldstein",
+          "description": "The request came from Senator Edward J. Markey of Massachusetts, after Google said it would not turn off artificial intelligence tools for students using its search engine.",
+          "link": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
+          "publishedOn": "2026-11-09T10:04:01.000Z",
+          "wordCount": null,
+          "title": "Senator Tells Google to Let Schools Disable A.I. Features in Search",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
+          "author": "Sapna Maheshwari",
+          "description": "The Ogilvy ad agency and the CAA talent agency introduced a partnership to create promotions featuring digital replicas of celebrities.",
+          "link": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
+          "publishedOn": "2026-11-09T10:02:38.000Z",
+          "wordCount": null,
+          "title": "A.I.-Generated Celebrity Ads Get an Assist From Terry Crews",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
+          "author": "Kim Bhasin",
+          "description": "Shoppers strained by high costs of living are expected to put a priority on value this season, whether they’re buying gifts or everyday items for themselves.",
+          "link": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
+          "publishedOn": "2026-11-09T10:02:30.000Z",
+          "wordCount": null,
+          "title": "Shoppers to Use Black Friday Sales to Stock Up on Essentials",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
           "author": "Maggie Haberman, Jonathan Swan, Julian E. Barnes and Tripp Mickle",
@@ -6547,46 +6847,6 @@
           "wordCount": null,
           "title": "Strikes Put Saudi Arabia’s Economy Under Pressure",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
-          "author": "Max Read",
-          "description": "Plus: How far to go for a colleague, and now your chance to give someone advice.",
-          "link": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
-          "publishedOn": "2026-10-11T09:01:32.000Z",
-          "wordCount": null,
-          "title": "A Contagious Aversion to Overhead Lights",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
-          "author": "Alissa Wilkinson",
-          "description": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
-          "link": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
-          "publishedOn": "2026-10-11T09:01:17.000Z",
-          "wordCount": null,
-          "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
-          "author": "Joe Gose",
-          "description": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns.",
-          "link": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
-          "publishedOn": "2026-10-11T09:00:16.000Z",
-          "wordCount": null,
-          "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
-          "author": "David McCabe, Michael M. Grynbaum, Benjamin Mullin, Lauren Hirsch and Glenn Thrush",
-          "description": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
-          "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
-          "publishedOn": "2026-10-11T00:39:17.000Z",
-          "wordCount": null,
-          "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
-          "imageUrl": null
         }
       ]
     },
@@ -6595,6 +6855,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/advanced-flower-capital-president-robyn-tannenbaum-buys-30900-in-stock-93CH-5014061",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/advanced-flower-capital-president-robyn-tannenbaum-buys-30900-in-stock-93CH-5014061",
+          "publishedOn": "2026-11-10T04:31:11.000Z",
+          "wordCount": null,
+          "title": "Advanced Flower Capital president Robyn Tannenbaum buys $30,900 in stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+            "length": "178658",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-751013-in-shares-93CH-5014060",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/sierra-bancorp-director-lynda-scearcy-sells-751013-in-shares-93CH-5014060",
+          "publishedOn": "2026-11-10T04:31:10.000Z",
+          "wordCount": null,
+          "title": "Sierra Bancorp director Lynda Scearcy sells $751,013 in shares",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+            "length": "157240",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/avis-budget-group-director-glenn-lurie-sells-734425-in-shares-93CH-5014059",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/avis-budget-group-director-glenn-lurie-sells-734425-in-shares-93CH-5014059",
+          "publishedOn": "2026-11-10T04:30:57.000Z",
+          "wordCount": null,
+          "title": "Avis Budget Group director Glenn Lurie sells $734,425 in shares",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/AvisBudgetGroupvehiclerentalcompany_800x533_L_1667286532.jpg",
+            "length": "64039",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/AvisBudgetGroupvehiclerentalcompany_800x533_L_1667286532.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/why-is-nippon-carbide-industries-stock-surging-today-93CH-5014054",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/why-is-nippon-carbide-industries-stock-surging-today-93CH-5014054",
+          "publishedOn": "2026-11-10T04:29:09.000Z",
+          "wordCount": null,
+          "title": "Why is Nippon Carbide Industries stock surging today?",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+            "length": "25035",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/tim-participacoes-adr-earnings-missed-by-009-revenue-fell-short-of-estimates-5014053",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/tim-participacoes-adr-earnings-missed-by-009-revenue-fell-short-of-estimates-5014053",
+          "publishedOn": "2026-11-10T04:27:37.000Z",
+          "wordCount": null,
+          "title": "TIM Participacoes ADR earnings missed by $0.09, revenue fell short of estimates",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+            "length": "19139",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/wm-technology-earnings-missed-by-006-revenue-fell-short-of-estimates-5014052",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/wm-technology-earnings-missed-by-006-revenue-fell-short-of-estimates-5014052",
+          "publishedOn": "2026-11-10T04:27:31.000Z",
+          "wordCount": null,
+          "title": "WM Technology earnings missed by $0.06, revenue fell short of estimates",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+            "length": "212959",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/brt-earnings-missed-by-002-revenue-fell-short-of-estimates-5014051",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/brt-earnings-missed-by-002-revenue-fell-short-of-estimates-5014051",
+          "publishedOn": "2026-11-10T04:21:43.000Z",
+          "wordCount": null,
+          "title": "BRT earnings missed by $0.02, revenue fell short of estimates",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+            "length": "20582",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
+          "publishedOn": "2026-11-10T04:21:27.000Z",
+          "wordCount": null,
+          "title": "Asia FX subdued, dollar holds losses ahead of U.S. inflation data",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEF0600R_M.jpg",
+            "length": "27548",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEF0600R_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/earnings/bandai-namco-h1-profit-jumps-27-on-toys-digital-strength-hikes-guidance-5014049",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/earnings/bandai-namco-h1-profit-jumps-27-on-toys-digital-strength-hikes-guidance-5014049",
+          "publishedOn": "2026-11-10T04:21:07.000Z",
+          "wordCount": null,
+          "title": "Bandai Namco H1 profit jumps 27% on toys, digital strength; hikes guidance",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEAAG04G_M.jpg",
+            "length": "46234",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEAAG04G_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861",
+          "publishedOn": "2026-11-10T04:18:38.000Z",
+          "wordCount": null,
+          "title": "Exclusive-Anthropic’s nearly $70 billion IPO plan briefly circulated to banks, then retracted",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA904J_L.jpg",
+            "length": "58862",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXNPEMA904J_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/economy-news/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit-5010387",
           "author": "Reuters",
@@ -10894,156 +11304,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9A04Q_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/vaxcyte-svp-elvia-cowan-sells-16-million-in-company-stock-93CH-4942421",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/vaxcyte-svp-elvia-cowan-sells-16-million-in-company-stock-93CH-4942421",
-          "publishedOn": "2026-10-11T02:16:08.000Z",
-          "wordCount": null,
-          "title": "Vaxcyte SVP Elvia Cowan sells $1.6 million in company stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-            "length": "212959",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/intapp-ceo-john-hall-sells-109500-in-company-stock-93CH-4942414",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/intapp-ceo-john-hall-sells-109500-in-company-stock-93CH-4942414",
-          "publishedOn": "2026-10-11T02:01:17.000Z",
-          "wordCount": null,
-          "title": "Intapp CEO John Hall sells $109,500 in company stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-            "length": "178658",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/progress-software-chief-legal-officer-sells-46065-in-shares-93CH-4942413",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/progress-software-chief-legal-officer-sells-46065-in-shares-93CH-4942413",
-          "publishedOn": "2026-10-11T02:01:06.000Z",
-          "wordCount": null,
-          "title": "Progress software chief legal officer sells $46,065 in shares",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-            "length": "135320",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/twist-bioscience-ceo-emily-leproust-sells-919373-in-stock-93CH-4942406",
-          "publishedOn": "2026-10-11T01:46:09.000Z",
-          "wordCount": null,
-          "title": "Twist Bioscience CEO Emily Leproust sells $919,373 in stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-            "length": "99672",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/could-a-change-of-government-in-spain-have-big-implications-on-energy-policy-4942397",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/could-a-change-of-government-in-spain-have-big-implications-on-energy-policy-4942397",
-          "publishedOn": "2026-10-11T01:42:28.000Z",
-          "wordCount": null,
-          "title": "Could a change of government in Spain have big implications on energy policy?",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEE102JT_M.jpg",
-            "length": "18774",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEE102JT_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/sunrun-president--cro-paul-dickson-sells-122971-in-company-stock-93CH-4942393",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/sunrun-president--cro-paul-dickson-sells-122971-in-company-stock-93CH-4942393",
-          "publishedOn": "2026-10-11T01:31:00.000Z",
-          "wordCount": null,
-          "title": "Sunrun president & CRO Paul Dickson sells $122,971 in company stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-            "length": "92235",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/ncino-ceo-sean-desmond-sells-150716-of-ncno-stock-93CH-4942392",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/ncino-ceo-sean-desmond-sells-150716-of-ncno-stock-93CH-4942392",
-          "publishedOn": "2026-10-11T01:30:56.000Z",
-          "wordCount": null,
-          "title": "Ncino CEO Sean Desmond sells $150,716 of NCNO stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-            "length": "92235",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/sunrun-ceo-mary-powell-sells-188939-in-shares-93CH-4942386",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/sunrun-ceo-mary-powell-sells-188939-in-shares-93CH-4942386",
-          "publishedOn": "2026-10-11T01:16:13.000Z",
-          "wordCount": null,
-          "title": "Sunrun CEO Mary Powell sells $188,939 in shares",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-            "length": "92235",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/pc-connection-director-david-beffanegrini-sells-405250-in-stock-93CH-4942385",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/pc-connection-director-david-beffanegrini-sells-405250-in-stock-93CH-4942385",
-          "publishedOn": "2026-10-11T01:16:01.000Z",
-          "wordCount": null,
-          "title": "PC Connection director David Beffa-Negrini sells $405,250 in stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-            "length": "157240",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/sunrun-chief-legal--people-officer-sells-77967-in-stock-93CH-4942379",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/sunrun-chief-legal--people-officer-sells-77967-in-stock-93CH-4942379",
-          "publishedOn": "2026-10-11T01:01:05.000Z",
-          "wordCount": null,
-          "title": "Sunrun chief legal & people officer sells $77,967 in stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-            "length": "162121",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
         }
       ]
     },
@@ -14240,6 +14500,36 @@
       "siteUrl": "https://www.reddit.com/r/finance/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/finance/comments/1xsbb29/advice_on_grooming_ftom_someone_in_finance/",
+          "author": null,
+          "description": "I want to get this hairstyle, is this allowed and ok in finance/risk management? Would this be allowed?\n Thank you .\n    submitted by    /u/Pranav_devatha  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1xsbb29/advice_on_grooming_ftom_someone_in_finance/",
+          "publishedOn": "2026-11-10T02:31:27.000Z",
+          "wordCount": null,
+          "title": "Advice on grooming ftom someone in finance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1xs2rrq/the_buffett_and_munger_mindset_the_circle_of/",
+          "author": null,
+          "description": "submitted by    /u/No-Pride-8979  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1xs2rrq/the_buffett_and_munger_mindset_the_circle_of/",
+          "publishedOn": "2026-11-09T20:28:21.000Z",
+          "wordCount": null,
+          "title": "THE BUFFETT AND MUNGER MINDSET: The Circle of Competence and Rationality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/finance/comments/1xrjzk6/moronic_monday_november_09_2026_your_weekly/",
+          "author": null,
+          "description": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n Replies are expected to be constructive and civil.\n Any questions about your personal finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/finance/comments/1xrjzk6/moronic_monday_november_09_2026_your_weekly/",
+          "publishedOn": "2026-11-09T06:01:13.000Z",
+          "wordCount": null,
+          "title": "Moronic Monday - November 09, 2026 - Your Weekly Questions Thread",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/finance/comments/1xoxd2l/the_buffett_and_munger_mindset_why_patience_beats/",
           "author": null,
           "description": "This episode dives into Warren Buffett's foundational psychological principle: patience. Unlike most fields where constant activity yields results, successful investing requires waiting for the pitch right in your strike zone—avoiding big mistakes while letting market frothiness pass by. Explore how staying rational, operating within your circle of competence, and swinging with full force only when high-conviction opportunities arise (like Buffett’s iconic Coca-Cola investment) creates long-term outperformance.\n DON'T WORRY, BE HAPPY.\n    submitted by    /u/No-Pride-8979  \n [link]   [comments]",
@@ -14457,26 +14747,6 @@
           "publishedOn": "2026-10-12T05:01:16.000Z",
           "wordCount": null,
           "title": "Moronic Monday - October 12, 2026 - Your Weekly Questions Thread",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1x1nn7i/its_a_tough_time_to_launch_a_hedge_fund/",
-          "author": null,
-          "description": "submitted by    /u/bloomberg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1x1nn7i/its_a_tough_time_to_launch_a_hedge_fund/",
-          "publishedOn": "2026-10-09T15:00:46.000Z",
-          "wordCount": null,
-          "title": "It’s a Tough Time to Launch a Hedge Fund",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/finance/comments/1x0qqd5/how_us_mortgage_bonds_can_trigger_a_vicious_loop/",
-          "author": null,
-          "description": "submitted by    /u/wreckingcru  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/finance/comments/1x0qqd5/how_us_mortgage_bonds_can_trigger_a_vicious_loop/",
-          "publishedOn": "2026-10-08T13:19:41.000Z",
-          "wordCount": null,
-          "title": "How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields",
           "imageUrl": null
         }
       ]
