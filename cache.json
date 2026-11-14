@@ -6,6 +6,106 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o#0",
+          "author": null,
+          "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T21:14:22.000Z",
+          "wordCount": 8084,
+          "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro#0",
+          "author": null,
+          "description": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T19:53:57.000Z",
+          "wordCount": 8078,
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o#0",
+          "author": null,
+          "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T18:36:57.000Z",
+          "wordCount": 9066,
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo#5",
+          "author": null,
+          "description": "Are board games making a comeback this Christmas?",
+          "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T18:00:40.000Z",
+          "wordCount": 7682,
+          "title": "Are board games making a comeback this Christmas?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b4ae/live/c7c33a10-df89-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo#5",
+          "author": null,
+          "description": "From cider to candy canes: What people are emergency stockpiling",
+          "link": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T16:31:22.000Z",
+          "wordCount": 7429,
+          "title": "What are people emergency stockpiling?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8cd/live/45b94880-df7e-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o#5",
+          "author": null,
+          "description": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
+          "link": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T14:16:09.000Z",
+          "wordCount": 7660,
+          "title": "Shoplifters 'stealing to order' in Scottish shops",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8772/live/ab53f030-df62-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c67429m3vem3o#0",
+          "author": null,
+          "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+          "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T12:22:30.000Z",
+          "wordCount": 8924,
+          "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o#0",
+          "author": null,
+          "description": "Knowing how much heat your home loses is important before installing a new heating system.",
+          "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T09:29:25.000Z",
+          "wordCount": 8718,
+          "title": "Heat pumps: How much heat does your home really need?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no#3",
+          "author": null,
+          "description": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+          "link": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T06:23:37.000Z",
+          "wordCount": 7085,
+          "title": "Politicians back focus on cost of living",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cfc/live/57fb8580-dee3-11f1-9bb0-8de7754c4db5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo#3",
+          "author": null,
+          "description": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T06:21:34.000Z",
+          "wordCount": 9160,
+          "title": "Cider makers fear future for orchards as costs grow",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1441/live/d9d1bfc0-dde4-11f1-9204-cdcddf7d901c.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#0",
           "author": null,
           "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
@@ -44,6 +144,16 @@
           "wordCount": 7891,
           "title": "'My window faces a brick wall': What's your rent in NYC?",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d61/live/e2fa1790-de8a-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo#1",
+          "author": null,
+          "description": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-13T01:17:58.000Z",
+          "wordCount": 7357,
+          "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo#0",
@@ -334,6 +444,16 @@
           "wordCount": 7874,
           "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#1",
+          "author": null,
+          "description": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-10T14:45:46.000Z",
+          "wordCount": 8741,
+          "title": "US inflation higher than expected in October - here's what is happening with prices",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo#1",
@@ -3174,116 +3294,6 @@
           "wordCount": 7962,
           "title": "Banks say Healey is planning Budget tax raid on their profits",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41e4/live/21134080-c8bd-11f1-bdfb-e3788aeae9ec.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no#0",
-          "author": null,
-          "description": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
-          "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T14:55:21.000Z",
-          "wordCount": 6797,
-          "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/717e/live/d95f6d50-c898-11f1-b0a4-81e564f1cfaa.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/ck8dz1me439no#1",
-          "author": null,
-          "description": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-          "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T13:25:17.000Z",
-          "wordCount": 8597,
-          "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b1e/live/a9237850-c87c-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo#3",
-          "author": null,
-          "description": "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living.",
-          "link": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T05:37:44.000Z",
-          "wordCount": 7151,
-          "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1b8/live/3f6d9360-c7e5-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo#0",
-          "author": null,
-          "description": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-15T01:49:46.000Z",
-          "wordCount": 6739,
-          "title": "AI giant Anthropic sees revenue surge ahead of stock market listing",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c0rezqpnekro#0",
-          "author": null,
-          "description": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
-          "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-14T23:02:57.000Z",
-          "wordCount": 9654,
-          "title": "How backlash against data centres could shape the US midterm elections",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo#0",
-          "author": null,
-          "description": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
-          "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-14T23:01:28.000Z",
-          "wordCount": 8808,
-          "title": "How a Chinese-made toy gets to a US retailer",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro#3",
-          "author": null,
-          "description": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
-          "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-14T23:01:11.000Z",
-          "wordCount": 7469,
-          "title": "How much is the minimum wage?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2639/live/ce1249e0-a9c2-11f0-8da2-811fba9518ff.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro#0",
-          "author": null,
-          "description": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
-          "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-14T17:46:30.000Z",
-          "wordCount": 7614,
-          "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o#0",
-          "author": null,
-          "description": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-14T16:47:32.000Z",
-          "wordCount": 7470,
-          "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/877e/live/417f8270-c7f0-11f1-a64c-550be9e3c66b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c305649p2d6o#3",
-          "author": null,
-          "description": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
-          "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-14T15:57:11.000Z",
-          "wordCount": 7705,
-          "title": "'It's rough out here': Americans struggle with rising inflation",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e691/live/4f2f6b20-adf0-11f1-ad53-0d91a06f3150.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo#0",
-          "author": null,
-          "description": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
-          "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-14T15:54:04.000Z",
-          "wordCount": 7367,
-          "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg"
         }
       ]
     },
@@ -3298,6 +3308,166 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+          "author": "Sarah Kliff and Margot Sanger-Katz",
+          "description": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
+          "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+          "publishedOn": "2026-11-14T02:22:25.000Z",
+          "wordCount": 7480,
+          "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-medicaid-qmwz/13dc-medicaid-qmwz-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+          "author": "Joe Rennison",
+          "description": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as stocks have held their ground broadly.",
+          "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+          "publishedOn": "2026-11-14T00:40:29.000Z",
+          "wordCount": 7575,
+          "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13Biz-markets-week-zmqw/13Biz-markets-week-zmqw-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
+          "author": "Ann Carrns",
+          "description": "The victims are often older people or immigrants, with thieves going after vacant land or unoccupied homes. But there are ways to protect yourself.",
+          "link": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
+          "publishedOn": "2026-11-14T00:27:27.000Z",
+          "wordCount": 8276,
+          "title": "Deed Theft Is Rising, Along With Property Values",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/business/13biz-adviser2/13biz-adviser2-facebookJumbo.png"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+          "author": "Lauren Hirsch and Cory Weinberg",
+          "description": "As market uncertainty deepens, investment banks are on a roadshow to sell investors on what could be the largest public offering ever.",
+          "link": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+          "publishedOn": "2026-11-13T22:46:15.000Z",
+          "wordCount": 7784,
+          "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-Anthropic-roadshow-01-mhbc/13biz-Anthropic-roadshow-01-mhbc-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+          "author": "Michael Levenson",
+          "description": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
+          "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+          "publishedOn": "2026-11-13T22:30:40.000Z",
+          "wordCount": 7386,
+          "title": "Microsoft’s Global Outage and Fixes: What We Know",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+          "author": "Karen Weise",
+          "description": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies.",
+          "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+          "publishedOn": "2026-11-13T21:28:58.000Z",
+          "wordCount": 7576,
+          "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+          "author": "Tripp Mickle, Gilad Thaler, Thomas Vollkommer, Shawn Paik, Nikolay Nikolov, James Surdam, Rafaela Balster, June Kim and Mark Oltmanns",
+          "description": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central role in the company and the artificial intelligence industry.",
+          "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+          "publishedOn": "2026-11-13T20:14:05.000Z",
+          "wordCount": 5704,
+          "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/15/arts/RV_Thumbnail-25/RV_Thumbnail-25--facebookJumbo.png?play-overlay"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+          "author": "Maureen Farrell and Rob Copeland",
+          "description": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
+          "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+          "publishedOn": "2026-11-13T19:52:01.000Z",
+          "wordCount": 7876,
+          "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Nvidia-Wall-Street-01-hmfk/12biz-Nvidia-Wall-Street-01-hmfk-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
+          "author": "Tony Romm",
+          "description": "The incoming majority is also planning aggressive oversight of the White House budget director, who appears to be working to install an ally to monitor the budget office’s handling of federal spending.",
+          "link": "https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html",
+          "publishedOn": "2026-11-13T17:09:55.000Z",
+          "wordCount": 8482,
+          "title": "Democrats Eye Strict New Limits on White House Budget Powers",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trump-budget-02-ckgz/13dc-trump-budget-02-ckgz-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
+          "author": "Amy Qin",
+          "description": "Many East Asians said that he had swagger and seemed like a superhero. Now there are worries that the spy scandal turns into hyper scrutiny against them.",
+          "link": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
+          "publishedOn": "2026-11-13T17:05:47.000Z",
+          "wordCount": 7776,
+          "title": "Asian Americans Share Disappointment and Fear After Jensen Huang Scandal",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/00nat-huang-asianamericans-clvp/00nat-huang-asianamericans-clvp-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
+          "author": "Ana Swanson",
+          "description": "The Treasury secretary blamed the department for not sanctioning the Singaporean firm and said that Nvidia employees should be held accountable if they sidestepped the law.",
+          "link": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
+          "publishedOn": "2026-11-13T17:05:12.000Z",
+          "wordCount": 7497,
+          "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-megaspeed-hpft/13dc-megaspeed-hpft-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+          "author": "Erin Griffith and Cory Weinberg",
+          "description": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+          "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+          "publishedOn": "2026-11-13T16:36:28.000Z",
+          "wordCount": 7888,
+          "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-nvidia-startups-2-mfvc/13biz-nvidia-startups-2-mfvc-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
+          "author": "Colby Smith",
+          "description": "The Federal Reserve will vote on interest rates less frequently beginning next year as part of a plan by the central bank’s chairman, Kevin M. Warsh, to overhaul how it operates.",
+          "link": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
+          "publishedOn": "2026-11-13T15:45:40.000Z",
+          "wordCount": 7899,
+          "title": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-fed-01-fjhv/13dc-fed-01-fjhv-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html",
+          "author": "Sui-Lee Wee, Adam Satariano, Xinyun Wu and River Akira Davis",
+          "description": "The ex-Nvidia C.E.O. was a bridge between companies and governments. His exit will reverberate, especially in China where it could accelerate a self-reliance drive.",
+          "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html",
+          "publishedOn": "2026-11-13T15:29:56.000Z",
+          "wordCount": 8463,
+          "title": "Jensen Huang’s Fall Costs Asia an A.I. Ambassador to the U.S.",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13Biz-Nvidia-China-mfjl/13Biz-Nvidia-China-mfjl-facebookJumbo-v2.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+          "description": "The ouster of Jensen Huang from the chipmaker he helped found is reverberating throughout Silicon Valley, Washington and beyond.",
+          "link": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
+          "publishedOn": "2026-11-13T13:19:40.000Z",
+          "wordCount": 9186,
+          "title": "A Scorecard for Huang’s Exit From Nvidia",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13db-jensen-lutnick-qtfj/13db-jensen-lutnick-qtfj-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+          "author": "Clay Risen",
+          "description": "An Austrian designer is unveiling a version that aims to solve an age-old problem for connoisseurs: how to keep the alcohol from overpowering the aroma.",
+          "link": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+          "publishedOn": "2026-11-13T10:03:25.000Z",
+          "wordCount": 8546,
+          "title": "One Man’s Quest to Create the Perfect Whiskey Glass",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12FD-whiskey-glass-cover1-gckz/12FD-whiskey-glass-cover1-gckz-facebookJumbo.jpg"
+        },
         {
           "id": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
           "author": "Adeel Hassan and Ishani Desai",
@@ -6857,186 +7027,6 @@
           "wordCount": 8037,
           "title": "California’s Proposition 45 Brings the Sprawl Debate Back",
           "imageUrl": "https://static01.nyt.com/images/2026/10/14/multimedia/00biz-Prop-45-cfkt/00biz-Prop-45-cfkt-facebookJumbo.jpg"
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/15/business/epstein-banks-midterm-elections.html",
-          "author": "Matthew Goldstein",
-          "description": "With an eye on retaking control of Congress, Democrats are introducing a bill that would hold banks accountable for their handling of Jeffrey Epstein’s finances.",
-          "link": "https://www.nytimes.com/2026/10/15/business/epstein-banks-midterm-elections.html",
-          "publishedOn": "2026-10-15T14:31:12.000Z",
-          "wordCount": null,
-          "title": "Midterms Could Shift Focus of Epstein Abuse to Banks’ Role",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/15/business/media/shook-research-veritant-forbes.html",
-          "author": "Benjamin Mullin",
-          "description": "The company, known for its rankings of wealth advisers, sped up a rebranding after its founder acknowledged a secret $6 million payment to the top editor of Forbes.",
-          "link": "https://www.nytimes.com/2026/10/15/business/media/shook-research-veritant-forbes.html",
-          "publishedOn": "2026-10-15T12:45:05.000Z",
-          "wordCount": null,
-          "title": "Shook Research Changes Name to Veritant After Forbes Scandal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html",
-          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi, Lauren Hirsch and Ian Mount",
-          "description": "Investors are newly worried about the health of artificial intelligence infrastructure companies like CoreWeave. That’s weighing on the wider A.I. industry.",
-          "link": "https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html",
-          "publishedOn": "2026-10-15T12:30:05.000Z",
-          "wordCount": null,
-          "title": "The Fallout From the ‘Neocloud’ Wipeout",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-          "author": "Jack Ewing",
-          "description": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
-          "link": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-          "publishedOn": "2026-10-15T12:17:34.000Z",
-          "wordCount": null,
-          "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html",
-          "author": "Jenny Gross",
-          "description": "Attacks near the Strait of Hormuz have claimed the lives of at least 25 seafarers. Their survivors are reeling.",
-          "link": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html",
-          "publishedOn": "2026-10-15T10:54:39.000Z",
-          "wordCount": null,
-          "title": "Families of Sailors Killed in Iran War Struggle for Compensation and Closure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/15/business/chinese-evs-europe-paris-motor-show.html",
-          "author": "James Paton",
-          "description": "At this week’s Paris Motor Show, there are no signs the influx of low-cost Chinese vehicles will slow despite European Union efforts.",
-          "link": "https://www.nytimes.com/2026/10/15/business/chinese-evs-europe-paris-motor-show.html",
-          "publishedOn": "2026-10-15T09:04:33.000Z",
-          "wordCount": null,
-          "title": "Chinese Carmakers, Once a Sideshow, Take Center Stage at Paris Motor Show",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
-          "author": "Alex Travelli",
-          "description": "As Starlink seeks permission to operate in India, a recent protest in New Delhi showed how quickly authorities can cut off mobile internet access.",
-          "link": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
-          "publishedOn": "2026-10-15T01:52:59.000Z",
-          "wordCount": null,
-          "title": "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
-          "author": "Christine Hauser",
-          "description": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
-          "link": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
-          "publishedOn": "2026-10-14T23:17:50.000Z",
-          "wordCount": null,
-          "title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
-          "author": "Michael Rothfeld, Maggie Haberman and Maureen Farrell",
-          "description": "Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark.",
-          "link": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
-          "publishedOn": "2026-10-14T22:38:04.000Z",
-          "wordCount": null,
-          "title": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
-          "author": "Ryan Mac",
-          "description": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort.",
-          "link": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
-          "publishedOn": "2026-10-14T22:20:50.000Z",
-          "wordCount": null,
-          "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
-          "author": "Joe Rennison",
-          "description": "The S&P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
-          "link": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
-          "publishedOn": "2026-10-14T21:30:57.000Z",
-          "wordCount": null,
-          "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
-          "author": "Aruni Soni",
-          "description": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
-          "link": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
-          "publishedOn": "2026-10-14T21:25:25.000Z",
-          "wordCount": null,
-          "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
-          "author": "Colby Smith",
-          "description": "September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures.",
-          "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
-          "publishedOn": "2026-10-14T20:22:19.000Z",
-          "wordCount": null,
-          "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
-          "author": "Tony Romm",
-          "description": "The final inflation report before the 2026 election — showing price increases and stagnant wages — spelled bad political news for the White House.",
-          "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
-          "publishedOn": "2026-10-14T18:42:13.000Z",
-          "wordCount": null,
-          "title": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
-          "author": "Jenny Gross and Lisa Friedman",
-          "description": "In a volatile moment in the region, a significant increase in attacks on vessels passing through the vital waterway is raising alarm.",
-          "link": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
-          "publishedOn": "2026-10-14T18:20:24.000Z",
-          "wordCount": null,
-          "title": "Attacks on Ships in Strait of Hormuz Escalate Sharply",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
-          "author": "John Koblin",
-          "description": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.",
-          "link": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
-          "publishedOn": "2026-10-14T17:21:26.000Z",
-          "wordCount": null,
-          "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
-          "author": "Erik Wemple",
-          "description": "The ruling will allow the outlets to enter the White House grounds while they sue to overturn the ban. But it doesn’t resolve all of their access problems.",
-          "link": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
-          "publishedOn": "2026-10-14T15:46:23.000Z",
-          "wordCount": null,
-          "title": "Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
-          "author": "Keith Bradsher",
-          "description": "China’s exports grew last month at the fastest pace in almost any month since the end of the global financial crisis.",
-          "link": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
-          "publishedOn": "2026-10-14T15:41:21.000Z",
-          "wordCount": null,
-          "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
-          "imageUrl": null
         }
       ]
     },
@@ -7045,6 +7035,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/verano-holdings-director-john-tipton-sells-44711-in-stock-93CH-5027001",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/verano-holdings-director-john-tipton-sells-44711-in-stock-93CH-5027001",
+          "publishedOn": "2026-11-14T03:31:33.000Z",
+          "wordCount": null,
+          "title": "Verano Holdings director John Tipton sells $44,711 in stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+            "length": "128832",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/galaxy-gaming-director-boushy-buys-17775-in-common-stock-93CH-5026999",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/galaxy-gaming-director-boushy-buys-17775-in-common-stock-93CH-5026999",
+          "publishedOn": "2026-11-14T03:31:10.000Z",
+          "wordCount": null,
+          "title": "Galaxy Gaming director Boushy buys $17,775 in common stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+            "length": "178658",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/chefs-warehouse-cao-tim-mccauley-sells-107m-in-stock-93CH-5027000",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/chefs-warehouse-cao-tim-mccauley-sells-107m-in-stock-93CH-5027000",
+          "publishedOn": "2026-11-14T03:31:10.000Z",
+          "wordCount": null,
+          "title": "Chefs’ Warehouse CAO Tim McCauley sells $1.07M in stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+            "length": "99672",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/trimas-director-daniel-tredwell-buys-2526-in-company-stock-93CH-5026998",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/trimas-director-daniel-tredwell-buys-2526-in-company-stock-93CH-5026998",
+          "publishedOn": "2026-11-14T03:31:01.000Z",
+          "wordCount": null,
+          "title": "Trimas director Daniel Tredwell buys $2,526 in company stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+            "length": "212959",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/nmi-holdings-chief-admin-officer-sells-23m-in-stock-93CH-5026986",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/nmi-holdings-chief-admin-officer-sells-23m-in-stock-93CH-5026986",
+          "publishedOn": "2026-11-14T03:16:20.000Z",
+          "wordCount": null,
+          "title": "NMI Holdings chief admin officer sells $2.3M in stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+            "length": "92235",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/nexgel-interim-ceo-brian-kieser-acquires-732688-in-common-stock-93CH-5026985",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/nexgel-interim-ceo-brian-kieser-acquires-732688-in-common-stock-93CH-5026985",
+          "publishedOn": "2026-11-14T03:16:18.000Z",
+          "wordCount": null,
+          "title": "NEXGEL interim CEO Brian Kieser acquires $732,688 in common stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+            "length": "150078",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/neuronetics-director-jorey-chernett-sells-448-million-in-stock-93CH-5026984",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/neuronetics-director-jorey-chernett-sells-448-million-in-stock-93CH-5026984",
+          "publishedOn": "2026-11-14T03:15:58.000Z",
+          "wordCount": null,
+          "title": "Neuronetics director Jorey Chernett sells $4.48 million in stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+            "length": "128832",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/nexgel-director-steven-glassman-buys-25003-in-common-stock-93CH-5026983",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/nexgel-director-steven-glassman-buys-25003-in-common-stock-93CH-5026983",
+          "publishedOn": "2026-11-14T03:15:57.000Z",
+          "wordCount": null,
+          "title": "NEXGEL director Steven Glassman buys $25,003 in common stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+            "length": "128832",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/exagen-director-jorey-chernett-sells-745794-in-xgn-shares-93CH-5026975",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/exagen-director-jorey-chernett-sells-745794-in-xgn-shares-93CH-5026975",
+          "publishedOn": "2026-11-14T03:01:22.000Z",
+          "wordCount": null,
+          "title": "Exagen director Jorey Chernett sells $745,794 in XGN shares",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+            "length": "162121",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/carl-icahn-director-sells-337m-centuri-holdings-stock-93CH-5026974",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/carl-icahn-director-sells-337m-centuri-holdings-stock-93CH-5026974",
+          "publishedOn": "2026-11-14T03:01:00.000Z",
+          "wordCount": null,
+          "title": "Carl Icahn, director, sells $33.7M Centuri Holdings stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+            "length": "212959",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/insider-trading-news/larimar-therapeutics-chief-development-officer-buys-13549-in-stock-93CH-5024035",
           "author": "Investing.com",
@@ -11344,156 +11484,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648",
-          "publishedOn": "2026-10-15T01:42:40.000Z",
-          "wordCount": null,
-          "title": "Yemen’s Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0UP_L.jpg",
-            "length": "84204",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9D0UP_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
-          "publishedOn": "2026-10-15T01:36:24.000Z",
-          "wordCount": null,
-          "title": "At Anthropic pre-IPO meet: ‘Thinking’ caps, surging revenue, no human extinction",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9D20T_L.jpg",
-            "length": "53923",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9D20T_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/paysign-ceo-mark-newcomer-sells-766895-of-pays-stock-93CH-4950373",
-          "publishedOn": "2026-10-15T01:31:03.000Z",
-          "wordCount": null,
-          "title": "Paysign CEO Mark Newcomer sells $766,895 of PAYS stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-            "length": "99672",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
-          "publishedOn": "2026-10-15T01:30:30.000Z",
-          "wordCount": null,
-          "title": "Oil prices fall as investors weigh supply outlook, Middle East tensions",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9E031_L.jpg",
-            "length": "74056",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9E031_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/bond-trading-weakens-for-us-banks-as-interest-rate-volatility-affects-investors-4949884",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/bond-trading-weakens-for-us-banks-as-interest-rate-volatility-affects-investors-4949884",
-          "publishedOn": "2026-10-15T01:24:26.000Z",
-          "wordCount": null,
-          "title": "Bond trading weakens for US banks as interest rate volatility affects investors",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1V3_L.jpg",
-            "length": "54634",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9D1V3_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/brazils-senate-approves-shorter-workweek-in-win-for-lula-4950366",
-          "publishedOn": "2026-10-15T01:18:36.000Z",
-          "wordCount": null,
-          "title": "Brazil’s Senate approves shorter workweek in win for Lula",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9E01Y_L.jpg",
-            "length": "84473",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9E01Y_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
-          "publishedOn": "2026-10-15T01:18:21.000Z",
-          "wordCount": null,
-          "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9E01R_L.jpg",
-            "length": "88952",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9E01R_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/insider-trading-news/fastly-cto-artur-bergman-sells-108-million-in-company-stock-93CH-4950365",
-          "publishedOn": "2026-10-15T01:16:10.000Z",
-          "wordCount": null,
-          "title": "Fastly CTO Artur Bergman sells $1.08 million in company stock",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-            "length": "150078",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/norways-wealth-fund-set-to-overhaulethical-rules-after-us-scrutiny-4950361",
-          "publishedOn": "2026-10-15T01:12:37.000Z",
-          "wordCount": null,
-          "title": "Norway’s wealth fund set to overhaul ethical rules after US scrutiny",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
-            "length": "19139",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/nikkei-225-coiled-in-ichimoku-cloud-live-levels-93CH-4942960",
-          "publishedOn": "2026-10-15T01:05:41.000Z",
-          "wordCount": null,
-          "title": "Nikkei 225 plunges to 61.8% Fib with RSI at 23: Live levels",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-            "length": "17251",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg"
         }
       ]
     },
@@ -11502,6 +11492,136 @@
       "feedUrl": "https://www.reddit.com/r/investing/.rss",
       "siteUrl": "https://www.reddit.com/r/investing/",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xvs9d7/do_you_feel_ahead_do_you_feel_less_anxious_about/",
+          "author": null,
+          "description": "I see so many people talking about how bad the economy is, how expensive everything has become, and how difficult it is to get ahead. But as an investor, do you find yourself feeling less fearful than the average person?\n I feel like, while a lot of people here are gamblers, as investors, we approach life a little differently. We have plans, backup plans, and backup plans for those backup plans. \n Yes, everything is expensive. Yes, the economy is uncertain. And yes, it sometimes feels like the world is on fire. But honestly, I’m not as worried because I know I’m actively building a future for myself.\n I also recognize how privileged I am to be in this position. I come to Reddit and see people in r/Adulting struggling to make ends meet, wishing they had enough money left over to invest or e…",
+          "link": "https://www.reddit.com/r/investing/comments/1xvs9d7/do_you_feel_ahead_do_you_feel_less_anxious_about/",
+          "publishedOn": "2026-11-14T03:37:22.000Z",
+          "wordCount": null,
+          "title": "Do you feel ahead? Do you feel less anxious about the economy because you’ve been investing and preparing for your future, or does the current economic climate still make you just as nervous?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xvrdet/could_japans_monetary_policy_trigger_a_major_us/",
+          "author": null,
+          "description": "I’ve been reading about Japan’s monetary policy changes and their potential implications for the U.S. economy, and I’m curious what everyone thinks.\n Here’s what’s happening:\n * The Bank of Japan is moving away from decades of ultra-low interest rates, potentially triggering an unwinding of the yen carry trade.\n * The yen has weakened to around ¥160 per dollar, while Japanese 10-year government bond yields have risen to approximately 2.8%.\n * Japan’s Nikkei entered bear-market territory on November 6, falling more than 20% from its June peak.\n * Japan holds approximately $1.07 trillion in U.S. Treasuries, making it one of America’s largest foreign creditors.\n * U.S. Treasury Secretary Scott Bessent has already supported coordinated currency intervention and advocated expanding the Fed’s FIMA facility to help foreign central banks access dollar liquidity without selling Treasuries.\n My fear is what happens if Japan continues raising interest rates and Japanese investors begin pulling significant amounts of capital out of U.S. markets.\n Could this trigger a chain reaction involving Treasury selloffs, higher U.S. borrowing costs, an unwinding of leveraged positions, and broader liquidity problems?\n I’m especially concerned about how this could work with the already elevated U.S. debt levels, AI-related stock valuations, and vulnerabilities in private credit markets.\n How serious is this risk? Could Japan’s monetary tightening realistically trigger a major U.S. market crash or recession, or are these concerns being exaggerated?\n And if a large-scale unwinding does happen, does the Fed have sufficient tools to contain the damage, or could we be looking at something resembling a systemic financial crisis?\n Curious to hear everyone’s thoughts, especially from people who understand international bond markets and monetary policy.\n    submitted by    /u/Ok_Recording5675  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xvrdet/could_japans_monetary_policy_trigger_a_major_us/",
+          "publishedOn": "2026-11-14T02:51:34.000Z",
+          "wordCount": null,
+          "title": "Could Japan’s monetary policy trigger a major U.S. market crash? How concerned should we be?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xvpv8t/while_i_prefer_to_trade_ive_been_looking_into/",
+          "author": null,
+          "description": "25% $RSP - Equal weighted S&P500, the core, slightly less volitile than VOO \n 25% $IQQ - NASDAQ, for growth (less fees than QQQ) \n 25% $VT - Exposure to the whole world in an ETF \n 25% $BRK.B - Ignores bullshit in the market, only buys good companies \n It's a little bit complicated to calculate long term returns as some of these funds haven't existed that long, but by using historical data and underlying indices this split should return ~13% pa.\n The one thing I'm concerned about it US exposure. This is about 90% US, so I am really considering swapping VT with VXUS, witch is a world ETF that excludes the US, we get things closer to 12% pa, but 75% US exposure. Would love some thoughts on that change.\n Some images with charts and comparisons:\n https://pbs.twimg.com/media/HXDFxz5bwAA4Qyh?format=png&name=large\n https://pbs.twimg.com/media/HXDEp8aa0AAYDXa?format=jpg&name=large\n    submitted by    /u/mrfunnyman909  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xvpv8t/while_i_prefer_to_trade_ive_been_looking_into/",
+          "publishedOn": "2026-11-14T01:35:13.000Z",
+          "wordCount": null,
+          "title": "While I prefer to trade, I've been looking into options for DCA as I have some friends who are more interested in that. Any thoughts?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xvnc0o/any_long_term_individual_stock_holders/",
+          "author": null,
+          "description": "I know that index funds are suitable stock to have when looking at 20-30 years horizon. But I am curious if there is anybody who has held an individual stock for more than 10 years. What has been your experience like and do you think that your stock would have grown more if you had invested it in an index fund instead of individual stock ?\n    submitted by    /u/Normal-Doc123  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xvnc0o/any_long_term_individual_stock_holders/",
+          "publishedOn": "2026-11-13T23:36:37.000Z",
+          "wordCount": null,
+          "title": "Any long term individual stock holders ?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xvlfdd/need_help_understanding_the_plummeting_of_clean/",
+          "author": null,
+          "description": "Hey guys, I'm a newbie investor. I'm in my 20s and have been investing around ten thousand over the course of two years. Mostly at random. Making a mixture of good and bad decisions along the way.\n My largest investment, unfortunately, turned out to be a bad one. I invested in one ETF focused on clean energies by Invesco https://www.invesco.com/uk/en/financial-products/etfs/invesco-global-clean-energy-ucits-etf-acc.html \n I accidentally invested near (what I ignored to be) an all time-high of this ETF. I am today sitting at a hefty -27%. The bigger problem, however, is that I cannot make sense of this massive decrease, and that's where I would like some senior members of the sub to step in and give me pointers.\n With the world poised to need more energy than ever, and fossil duels drying out, shouldn't the clean energy sector be thriving in the coming years and a safe \"future bet\"? How can the drastic -30% decrease be explained for an ETF instead of an individual stock, over merely 6 months?\n I'm not asking for advice, but rather for a more informed opinion to understand the serious decrease of the sector and its long term prospects.\n    submitted by    /u/MagicLucas  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xvlfdd/need_help_understanding_the_plummeting_of_clean/",
+          "publishedOn": "2026-11-13T22:13:56.000Z",
+          "wordCount": null,
+          "title": "Need help understanding the plummeting of clean energies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xvjuh7/costco_stock_take_profits_or_hold/",
+          "author": null,
+          "description": "Since Costco is above 1100 now is it a good idea to dump most of it? PE is still super high but the business obviously makes stable income and has insane renewal rate. I don't think there would be any super surprise for earnings since its just a normal business at this point opening couple stores a year.\n    submitted by    /u/Icy_Cheesecake5121  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xvjuh7/costco_stock_take_profits_or_hold/",
+          "publishedOn": "2026-11-13T21:10:06.000Z",
+          "wordCount": null,
+          "title": "Costco stock take profits or hold?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xvcxkv/sold_all_nvda_230am_after_hours/",
+          "author": null,
+          "description": "I usually don’t buy into the hype on stocks. Do I think NVDA will be worth a lot more than stock price now? YES \n I wasn’t paying attention yesterday during the day. Then I was researching at night and was watching overnight markets. \n Closed $168 and was dropping in overnight trading. \n I have NEVER traded overnight before so I had to use my Think or Swim App.\n Anyway I just rebought NVDA $175, $180, $202 in the last several weeks. \n I had $300,000 spread out across (2) IRA’s and a Brokerage. I just had a feeling today was not going to be good and I am hoping it goes down and then I may buy it back. I just didn’t want to watch my money disappear. \n I bet I lost $20,000 but I would have lost $10,000 more today so I feel good about getting rid of it for now!\n I sold at $163.50\n Not sure WHEN is a good price to jump back? I almost jumped back at $170. I am thinking it will be in $140’s and maybe $130’s this year. \n When do you guys think is a good time to buy back In? Or are many of you buying no matter what? \n    submitted by    /u/GumballCowboy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xvcxkv/sold_all_nvda_230am_after_hours/",
+          "publishedOn": "2026-11-13T16:49:13.000Z",
+          "wordCount": null,
+          "title": "SOLD ALL NVDA @ 2:30am After Hours.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xv7ciy/are_we_still_playing_by_the_right_financial_rules/",
+          "author": null,
+          "description": "We’ve all been taught about compound interest. Invest early, invest consistently, let your money compound for 30, 40 or even 60 years. Eventually, you’ll have financial freedom. It makes sense. And historically, it has worked for many people. But I think we should be asking some new questions.\n What happens when inflation keeps eating away at purchasing power? When real estate prices rise faster than people’s ability to save? When an entire generation finds it increasingly difficult to afford what previous generations took for granted? And what about AI?? We might be approaching a period when entire professions change or even disappear.\n Are we really sure that the financial playbook designed for previous generations will work exactly the same way for the next ones?\n I’m not saying I have the answers. But questioning old assumptions seems more important than ever. Maybe it’s time to rethink what wealth, ownership and financial independence actually mean. Are we preparing for the next 40 years using yesterday’s rules?\n    submitted by    /u/AeonPeter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xv7ciy/are_we_still_playing_by_the_right_financial_rules/",
+          "publishedOn": "2026-11-13T13:04:12.000Z",
+          "wordCount": null,
+          "title": "Are we still playing by the right financial rules?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xv5wii/i_took_a_closer_look_at_this_portfolio_and_found/",
+          "author": null,
+          "description": "Portfolio reviews can get messy when clients have built up a mix of ETFs and individual stocks over the years. Sometimes there’s more overlap than you'd expect. I once helped a client review a portfolio with VOO (~11.6k),SPY(~3.7k), SCHG (~3.2k),VT(~2.7k) and a few individual stocks through anvita mate. It grouped the funds by exposure and flagged how heavily the listed holdings leaned towards US large caps. VOO and SPY had around 99% overlap across their top 10 holdings, while SCHG shared several of those same stocks. VT added some international exposure, but the overall allocation was still quite US-focused. It also pointed out that holding several funds with similar top holdings doesn't necessarily mean you're getting much more diversification. \n That was probably the biggest thing that stood out. The harder part is next. Selling overlapping funds could simplify things, but might also trigger capital gains tax. The investor may need some of that money for a car in the next year or two, too. \n Would you recommend cleaning up the portfolio now, or leave some overlap alone to avoid the tax bill?\n    submitted by    /u/99thCode  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xv5wii/i_took_a_closer_look_at_this_portfolio_and_found/",
+          "publishedOn": "2026-11-13T11:54:04.000Z",
+          "wordCount": null,
+          "title": "I took a closer look at this portfolio and found quite a bit of overlap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xv5ugo/vst_q3_ebitda_up_50_and_guidance_narrowed_higher/",
+          "author": null,
+          "description": "Vistra reported Q3 on Nov 6 and filed the 10-Q on Nov 9. I read the release, the 10-Q and the 8-K on the Cogentrix closing. Here is what actually changed and what the current price implies. These are my notes, not advice.\n What improved\n  \nQ3 ongoing-ops adjusted EBITDA was $2.378bn, up from $1.581bn a year ago (+$797m, more than 50%). Nine-month EBITDA was $5.639bn, up from $4.170bn.\n 2026 EBITDA guidance narrowed from $6.8–7.6bn to $7.1–7.5bn, so the midpoint went up. FCFbG guidance moved from $3.925–4.725bn to $4.3–4.7bn.\n The company gave first 2027 ranges: EBITDA $7.7–8.5bn and FCFbG $4.3–5.1bn. The deck says these reflect the Cogentrix close and the first phase of the Meta PPA. It doesn't say whether the 2026 range includes Cogentrix.\n  \nWhat the headline numbers don't show\n  \nGAAP n…",
+          "link": "https://www.reddit.com/r/investing/comments/1xv5ugo/vst_q3_ebitda_up_50_and_guidance_narrowed_higher/",
+          "publishedOn": "2026-11-13T11:50:54.000Z",
+          "wordCount": null,
+          "title": "VST Q3: EBITDA up 50%+ and guidance narrowed higher, but the balance sheet in the 10-Q doesn't show the current position. A walk through the filing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xv30rr/daily_general_discussion_and_advice_thread/",
+          "author": null,
+          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xv30rr/daily_general_discussion_and_advice_thread/",
+          "publishedOn": "2026-11-13T09:01:01.000Z",
+          "wordCount": null,
+          "title": "Daily General Discussion and Advice Thread - November 13, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xuyvau/buy_nvda_short_hyperscalers/",
+          "author": null,
+          "description": "NVDA Q3 revenue and profit is expected to be $100B and $60B so it is trading at 10x and 16.7x respectively. Hyperscalers are responsible for a large portion of that. A group of them should propose a buyout as a strategic way to ensure supply priority and negatively impact the others. The markets will probably punish the buyers initially because of the debt but then realize the competitive advantage. Am I drinking too much? \n    submitted by    /u/TDSucksBalls  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xuyvau/buy_nvda_short_hyperscalers/",
+          "publishedOn": "2026-11-13T04:54:03.000Z",
+          "wordCount": null,
+          "title": "Buy NVDA / Short Hyperscalers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/investing/comments/1xuxkvf/nvidia_buy_the_dip_or_wait/",
+          "author": null,
+          "description": "We’ve all seen what’s happened with NVIDIA recently. Looking ahead, do you think the current dip presents a good buying opportunity, or is it worth waiting to see if the stock drops further?\n I’m curious to hear what everyone’s thinking and whether you’re buying, holding off, or staying away for now.\n    submitted by    /u/DadiStefanoni  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/investing/comments/1xuxkvf/nvidia_buy_the_dip_or_wait/",
+          "publishedOn": "2026-11-13T03:45:07.000Z",
+          "wordCount": null,
+          "title": "NVIDIA - Buy the dip or wait?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/investing/comments/1xuwwlq/this_is_why_ive_beening_watching_rsp_vs_spy_lately/",
           "author": null,
@@ -14530,136 +14650,6 @@
           "publishedOn": "2026-10-15T16:59:03.000Z",
           "wordCount": null,
           "title": "nontraded BDCs are paying out roughly half of redemption requests. how much do you trust the NAV?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x6n5jf/submitting_multiple_acats_at_once_and_with_achs/",
-          "author": null,
-          "description": "Does anyone have experience submitting multiple ACATs at once to the same outgoing brokerage? Is there a chance this will screw things up, or should it be OK? Clearing firm is Apex. I've heard lots of different things about what's allowed, e.g. are you allowed to have any ACH transactions on the account while waiting? Thank to anyone who can share their experience. \n    submitted by    /u/Creative-Question538  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x6n5jf/submitting_multiple_acats_at_once_and_with_achs/",
-          "publishedOn": "2026-10-15T14:29:05.000Z",
-          "wordCount": null,
-          "title": "Submitting multiple ACATs at once? And with ACHs?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x6mv44/mag7_vs_other_growth_stocks_which_have_the/",
-          "author": null,
-          "description": "I've been considering investing £600 per month over the next 15 months (£9,000 total), initially focusing on the Mag7\n However, I'm also interested in other high-growth companies, particularly in AI, semiconductors and technology infrastructure.\n Given current valuations, earnings expectations and potential catalysts through January 2028, I'm curious whether MAG7 will continue outperforming or whether there are more attractive opportunities elsewhere.\n Which companies or sectors do you believe have the strongest growth potential over the next 15 months, and what's your investment thesis?\n Interested in discussing valuations, growth drivers and potential risks rather than seeking personal financial advice.\n    submitted by    /u/oralardaburalarda  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x6mv44/mag7_vs_other_growth_stocks_which_have_the/",
-          "publishedOn": "2026-10-15T14:17:27.000Z",
-          "wordCount": null,
-          "title": "MAG7 vs other growth stocks: Which have the strongest potential through 2027?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x6kmqw/wholesale_prices_jump_in_a_wild_63_rally_biggest/",
-          "author": null,
-          "description": "September’s producer price index came in much hotter than economists forecasted on Thursday, underscoring the continued inflationary pressure from energy amid the U.S. war with Iran.\n The measure of underylying inflation pressures climbed 1.3% in September and 6.3% on an annual basis, marking its largest 12-month advance since late 2022, according to data released by the Bureau of Labor Statistics.\n Economists polled by Dow Jones forecasted an advance of 0.6% on the month and 5.5% annually.\n    submitted by    /u/Gaius__Of__The_Julii  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x6kmqw/wholesale_prices_jump_in_a_wild_63_rally_biggest/",
-          "publishedOn": "2026-10-15T12:43:52.000Z",
-          "wordCount": null,
-          "title": "Wholesale prices jump in a wild 6.3% rally, biggest gain since 2022 when inflation ran almost 10%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x6gl0m/anthropic_just_reported_some_absolutely/",
-          "author": null,
-          "description": "According to the Financial Times, Anthropic generated $16.8 BILLION in revenue in Q3, up 46% from $11.5 billion in Q2 and that's nearly $5.3 billion in additional quarterly revenue in just THREE months. Anthropic also told investors it was profitable on an adjusted basis AND cash flow positive during the quarter. This is a pretty big deal because one of the biggest concerns surrounding AI companies has been whether they can actually turn this massive demand into a sustainable business, especially when they're spending billions of dollars training models and running inference. \n And this is where things get even more interesting. Anthropic is planning to spend MORE THAN $500 BILLION on computing and AI infrastructure over the next decade. Think about that for a second. That's an average of more than $50 billion annually, although the actual spending will likely vary significantly from year to year. All of that money has to go somewhere. We're talking about GPUs, memory, networking equipment, optical components, data centers, power infrastructure, and everything else required to support increasingly powerful AI models. This is exactly why I continue to be so bullish on the broader AI infrastructure trade.\n    submitted by    /u/Appropriate_Top_5274  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x6gl0m/anthropic_just_reported_some_absolutely/",
-          "publishedOn": "2026-10-15T08:56:20.000Z",
-          "wordCount": null,
-          "title": "Anthropic just reported some absolutely ridiculous numbers!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x6fy5h/bitcoin_birth_of_a_new_asset_class_my_ass_its/",
-          "author": null,
-          "description": "TL;DR: Having an advantage in the real world vs waiting for a greater fool to regain it.\n Imagine if in the past, people who paid into pyramid schemes or chain letters called that contribution \"buying an asset,\" and referred to the paid amount as its price or value.\n For example, in a chain letter, someone sends $10 to the person ahead of them on the list, signs their name at the bottom, and claims: 'I bought an asset worth $10.' The next participant comes along, sends $20 to the previous one, signs the list, and says: 'Now I own an asset worth $20.' And the media headlines proclaim: 'Asset Value Surges by 100%!'\n In reality, there is only a list of participants waiting for payments from others. Nothing else. People would say such individuals and the media had lost their minds. Participant…",
-          "link": "https://www.reddit.com/r/investing/comments/1x6fy5h/bitcoin_birth_of_a_new_asset_class_my_ass_its/",
-          "publishedOn": "2026-10-15T08:14:34.000Z",
-          "wordCount": null,
-          "title": "Bitcoin: Birth of a new asset class? My ass. It’s just a chain letter in code.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x6fqbe/daily_general_discussion_and_advice_thread/",
-          "author": null,
-          "description": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n Please consider consulting our FAQ first - https://www.reddit.com/r/investing/wiki/faq And our side bar also has useful resources.\n If you are new to investing - please refer to Wiki - Getting Started\n The reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - Reading List\n The media list in the wiki has a list of reputable podcasts and videos - Podcasts and Videos\n If your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n  \nHow old are you? What country do you live in?\n Are you employed/making income? How much?\n What are your objectives with this money? (Buy a house? Retirement savings?)\n What is your time horizon? Do you need this money next month? Next 20yrs?\n What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n Any big debts (include interest rate) or expenses?\n And any other relevant financial information will be useful to give you a proper answer.\n  \nCheck the resources in the sidebar.\n Be aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!\n    submitted by    /u/AutoModerator  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x6fqbe/daily_general_discussion_and_advice_thread/",
-          "publishedOn": "2026-10-15T08:00:41.000Z",
-          "wordCount": null,
-          "title": "Daily General Discussion and Advice Thread - October 15, 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x6c7ds/interesting_facts_about_october_and_the_stock/",
-          "author": null,
-          "description": "October holds the historical reputation for having some of the most famous and catastrophic market crashes.\n The Panic of 1907: A severe financial crisis which triggered a massive run on banks.\n The 1929 Crash (Black Tuesday/Thursday): The severe market collapse that led into the Great Depression, with the Dow Jones dropping around 25% over a few days in late October.\n Black Monday (1987): On October 19, 1987, the Dow Jones Industrial Average plummeted 22.6%, the largest one-day percentage drop in history. \n The 2008 Financial Crisis: Steep declines and intense volatility of the Great Recession peaked in October 2008.\n October 10, 2025, Bitcoin’s Flash Crash, losing over $19B in leveraged positions within 24 hours. \n    submitted by    /u/Background-Day-4957  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x6c7ds/interesting_facts_about_october_and_the_stock/",
-          "publishedOn": "2026-10-15T04:23:31.000Z",
-          "wordCount": null,
-          "title": "Interesting facts about October and the stock market",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x650t1/how_to_survive_a_recession/",
-          "author": null,
-          "description": "Hi - I've been contributing monthly from last 2 years on Individual stocks investment (not on etfs? and built my portfolio about 123k. \n Looking at the situation, I am worried how to handle recession and I am already down from the recent falls.\n What is your strategy to survive recession if there is one tomorrow? Do all close your stock positions by taking a loss and enter when you get a hint that market has bottomed out.\n Pls guide , thanks for your reply.\n    submitted by    /u/Classic_Principle828  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x650t1/how_to_survive_a_recession/",
-          "publishedOn": "2026-10-14T22:26:16.000Z",
-          "wordCount": null,
-          "title": "How to survive a recession?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x63j86/how_bad_is_it_i_was_scared_of_stocks_had_1500000/",
-          "author": null,
-          "description": "Basically what the title says honestly, I was absolutely terrified when I inherited the money when I was 15 years old I didn’t understand anything. I brought it to the bank. They charged me a high advisory fee. I was terrified for investing in stocks because some of my family members had lost lots of money in the stock market and after 10 years it’s only grown up about $100,000. I missed out on investing for the last two years cause I didn’t understand AI and I didn’t wanna have anything to do with it so I trusted the bank.\n So how screwed am I? How much money did I lose? I was looking at approximation if I had invested it and it could’ve been probably over 6 to 7,000,000 if I had chose even just partial invest investments in stocks. I have a lot of debt from my doctorate around $200,000 of debt. I don’t know what to do at this point. I’m terrified of losing more money because the stock market seems like it’s gonna do bad but I don’t know what to do.\n I really don’t feel qualified to deal with this amount of money, but at the same time when I’ve trusted the banks, they haven’t done anything with it. What would you suggest? I’d appreciate any help. What should I even invest in like she isn’t even worth investing in stocks at this point? I don’t understand investing and I’m just terrified of losing it all.\n (it’s unrelated, but I had a suicide attempt in late 2024 so for the last 2 years honestly I haven’t really cared. The money is really stressing me out, especially knowing how much I could’ve made) \n    submitted by    /u/Capable_Pepper_5704  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x63j86/how_bad_is_it_i_was_scared_of_stocks_had_1500000/",
-          "publishedOn": "2026-10-14T21:23:37.000Z",
-          "wordCount": null,
-          "title": "How bad is it I was scared of stocks had 1,500,000 inherited 10 years ago and it is 1,600,000 10 years later.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x61me1/ok_ladies_and_gents_this_is_embarrassing_to_admit/",
-          "author": null,
-          "description": "I just turned 60 years old and, due to a horrendous divorce and various circumstances, including my own stupidity and lack of foresight, I have no retirement account. I have $100,000 to invest. What are your thoughts on the best way to proceed? I’m hopeful to be able to work until I’m 70. My social security should be around 5K per month, for what that’s worth. \n    submitted by    /u/DocHoliday8514  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x61me1/ok_ladies_and_gents_this_is_embarrassing_to_admit/",
-          "publishedOn": "2026-10-14T20:06:37.000Z",
-          "wordCount": null,
-          "title": "Ok ladies and gents, this is embarrassing to admit, but…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x60rpa/do_you_have_stoploss_orders_on_the_etfs_mutual/",
-          "author": null,
-          "description": "Not getting into an argument about whether we’re in a bubble, and if it will pop soon. Or whether you can time the market. \n I want to get a simple survey:\n How far are you from retirement, and do you have emergency stop-loss orders on your funds in case of drastic sell-offs?\n I don’t (about 10-2 years out) but am considering it. \n    submitted by    /u/PsychologicalGold734  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x60rpa/do_you_have_stoploss_orders_on_the_etfs_mutual/",
-          "publishedOn": "2026-10-14T19:33:00.000Z",
-          "wordCount": null,
-          "title": "Do you have stop-loss orders on the ETFs / mutual funds in your retirement account?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x5wdbz/im_thinking_of_investing_in_sp_500_but_idk_how/",
-          "author": null,
-          "description": "I currently have 8700 into my savings, i make 1000 a month and spend abt 330 for gas and insurance, then i put the rest into my savings allowing me to save abt 500 a month. should i invest daily, weekly, bi weekly, montly, and if so, how much should i invest?\n    submitted by    /u/glugggghhhh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x5wdbz/im_thinking_of_investing_in_sp_500_but_idk_how/",
-          "publishedOn": "2026-10-14T16:48:32.000Z",
-          "wordCount": null,
-          "title": "Im thinking of investing in S&P 500 but idk how much",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/investing/comments/1x5vx8d/how_do_i_find_an_etf_with_this_magical_5_with_low/",
-          "author": null,
-          "description": "CNBC keeps saying \"you can now earn 5% with little or no risk\" but every ETF I look at has lost significant value this year. I understand WHY these funds lose value, but I'm trying to understand WHY anyone would knowingly choose a fund like this. And how or where do you find this magical 5% with little or no risk?\n    submitted by    /u/Fernando_Abramowitz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/investing/comments/1x5vx8d/how_do_i_find_an_etf_with_this_magical_5_with_low/",
-          "publishedOn": "2026-10-14T16:31:32.000Z",
-          "wordCount": null,
-          "title": "How do I find an ETF with this magical \"5% with low risk\" I keep hearing about?",
           "imageUrl": null
         }
       ]
