@@ -6,6 +6,136 @@
       "siteUrl": "https://www.bbc.co.uk/news/business",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o#0",
+          "author": null,
+          "description": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-18T04:00:54.000Z",
+          "wordCount": 7275,
+          "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo#0",
+          "author": null,
+          "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-18T03:07:22.000Z",
+          "wordCount": 6381,
+          "title": "Waymo pulls driverless taxis from all US freeways",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo#0",
+          "author": null,
+          "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-18T01:18:18.000Z",
+          "wordCount": 8075,
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o#0",
+          "author": null,
+          "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+          "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-18T00:00:24.000Z",
+          "wordCount": 9244,
+          "title": "Europe plans to catch the next computer chip wave",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#0",
+          "author": null,
+          "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+          "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T23:02:12.000Z",
+          "wordCount": 9186,
+          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo#1",
+          "author": null,
+          "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T20:04:54.000Z",
+          "wordCount": 8214,
+          "title": "Speed camera fault may have allowed drivers to escape fines",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/ck79210y125xo#0",
+          "author": null,
+          "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+          "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T18:43:05.000Z",
+          "wordCount": 9386,
+          "title": "Government backs welfare shake-up to prevent 'lost generation'",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo#0",
+          "author": null,
+          "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T18:24:21.000Z",
+          "wordCount": 6762,
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko#1",
+          "author": null,
+          "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+          "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T15:56:04.000Z",
+          "wordCount": 9120,
+          "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1236/live/f4363760-e29e-11f1-a094-5fdc692f3e33.png"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo#1",
+          "author": null,
+          "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+          "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T14:25:45.000Z",
+          "wordCount": 8682,
+          "title": "How new US chip restrictions on South East Asia will hit China",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo#1",
+          "author": null,
+          "description": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+          "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T12:43:07.000Z",
+          "wordCount": 8467,
+          "title": "Government must act now or lose Royal Mail, former minister warns",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/articles/cmn504nq5033o#1",
+          "author": null,
+          "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T11:17:32.000Z",
+          "wordCount": 7336,
+          "title": "US government confirms investigation into tech firm Megaspeed",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo#5",
+          "author": null,
+          "description": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
+          "link": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-17T10:49:58.000Z",
+          "wordCount": 8640,
+          "title": "Immigration arrests after organised crime blitz",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f280/live/05e985f0-e274-11f1-b639-73d1df360b76.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/articles/cry49plv8v3go#0",
           "author": null,
           "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
@@ -64,6 +194,16 @@
           "wordCount": 10208,
           "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/sounds/play/w3ct8grt#5",
+          "author": null,
+          "description": "Jensen Huang quit Nvidia, but the AI chip boom rolls on. What's changed is who's paying?",
+          "link": "https://www.bbc.co.uk/sounds/play/w3ct8grt?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-11-16T21:30:00.000Z",
+          "wordCount": 7042,
+          "title": "Business Daily",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pn9j3t.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo#5",
@@ -3184,126 +3324,6 @@
           "wordCount": 6281,
           "title": "Vinted blocks French looters listing stolen goods for sale",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3138/live/44562b50-cbd0-11f1-aba9-2bb2608f11d9.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo#0",
-          "author": null,
-          "description": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
-          "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-19T15:44:53.000Z",
-          "wordCount": 6396,
-          "title": "Bikes 'not for jousting,' says Lime after duel video",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14f2/live/5715c480-cbcb-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go#1",
-          "author": null,
-          "description": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
-          "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-19T12:16:32.000Z",
-          "wordCount": 7285,
-          "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1735/live/c618ad10-cbae-11f1-821f-c5d07d801cca.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o#5",
-          "author": null,
-          "description": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
-          "link": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-19T09:48:35.000Z",
-          "wordCount": 7950,
-          "title": "What are the new faces coming to UK bank notes?",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31d1/live/4fb6c520-cba0-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm2kez327gdko#1",
-          "author": null,
-          "description": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-19T09:38:25.000Z",
-          "wordCount": 6811,
-          "title": "Musk and Anthropic pledge public share giveaways",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/075f/live/77a0d170-cba0-11f1-9ee2-f74dfb8e54e5.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo#1",
-          "author": null,
-          "description": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-19T06:08:02.000Z",
-          "wordCount": 6607,
-          "title": "China's growth accelerates as AI boom helps boost exports",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo#3",
-          "author": null,
-          "description": "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem.",
-          "link": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-19T05:10:28.000Z",
-          "wordCount": 8773,
-          "title": "Charities 'busier than ever' with furniture poverty",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73f3/live/d16b6af0-c95f-11f1-9081-f19b8af087ed.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo#0",
-          "author": null,
-          "description": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
-          "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-19T00:22:20.000Z",
-          "wordCount": 7362,
-          "title": "People playing loud music on buses could face £100 fine",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/55c58490-cb0c-11f1-8d4d-2553b65f173b.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o#0",
-          "author": null,
-          "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
-          "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-18T23:28:45.000Z",
-          "wordCount": 6699,
-          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o#0",
-          "author": null,
-          "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-          "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-18T23:24:59.000Z",
-          "wordCount": 6372,
-          "title": "Don't fall for this - how to protect yourself from AI scams",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o#3",
-          "author": null,
-          "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-          "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-18T23:24:59.000Z",
-          "wordCount": 6372,
-          "title": "Don't fall for this - how to protect yourself from AI scams",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo#0",
-          "author": null,
-          "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-          "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-18T23:00:45.000Z",
-          "wordCount": 8936,
-          "title": "Home sellers cut asking prices on 3,000 properties a day",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo#3",
-          "author": null,
-          "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-          "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-          "publishedOn": "2026-10-18T23:00:45.000Z",
-          "wordCount": 8936,
-          "title": "Home sellers cut asking prices on 3,000 properties a day",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg"
         }
       ]
     },
@@ -3318,6 +3338,266 @@
       "feedUrl": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "siteUrl": "https://www.nytimes.com/section/business",
       "articles": [
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+          "author": "Tripp Mickle and Kalley Huang",
+          "description": "As the former chief executive and his allies lobbied for his return, the company’s chair said the board “does not intend to reinstate Jensen as C.E.O.”",
+          "link": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html",
+          "publishedOn": "2026-11-18T03:57:08.000Z",
+          "wordCount": null,
+          "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+          "author": "Christina Jewett",
+          "description": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
+          "link": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+          "publishedOn": "2026-11-18T03:26:28.000Z",
+          "wordCount": null,
+          "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+          "author": "Kalley Huang",
+          "description": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+          "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+          "publishedOn": "2026-11-17T23:48:31.000Z",
+          "wordCount": null,
+          "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
+          "author": "Tripp Mickle, Kalley Huang and Joe Rennison",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest",
+          "publishedOn": "2026-11-17T23:24:43.000Z",
+          "wordCount": 23318,
+          "title": "Here’s the latest.",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/17/multimedia/17nvidia-earnings-live-promo-launch-kmwt-copy/17nvidia-earnings-live-header-launch-kmwt-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew",
+          "author": "Ana Swanson, Tripp Mickle, Maggie Haberman and Jonathan Swan",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew",
+          "publishedOn": "2026-11-17T23:19:54.000Z",
+          "wordCount": 23331,
+          "title": "Commerce Secretary Howard Lutnick took a softer line on Nvidia as calls for tougher controls grew.",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/17/multimedia/17nvidia-earnings-live-lutnick-version-plzv/17nvidia-earnings-live-lutnick-version-plzv-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+          "author": "Amanda Holpuch",
+          "description": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+          "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+          "publishedOn": "2026-11-17T23:17:38.000Z",
+          "wordCount": null,
+          "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/trump-had-urged-jensen-huang-to-fight-for-his-job",
+          "author": "Maggie Haberman, Jonathan Swan, Tripp Mickle and Julian E. Barnes",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/trump-had-urged-jensen-huang-to-fight-for-his-job",
+          "publishedOn": "2026-11-17T22:53:13.000Z",
+          "wordCount": 23325,
+          "title": "Trump had urged Jensen Huang to fight for his job.",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/17nvidia-earnings-live-trump-version/13DC-TRUMP-HUANG-fwzc-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
+          "author": "Kalley Huang, Tripp Mickle and Ryan Mac",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
+          "publishedOn": "2026-11-17T22:20:01.000Z",
+          "wordCount": 23328,
+          "title": "Jensen Huang’s daughter, a close ally, remains in a senior role at Nvidia.",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/17nvidia-earnings-live-jensen-daughter-version/BIZ-MADISON-HUANG-1-01-cmjw-facebookJumbo-v2.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
+          "author": "Tripp Mickle, Ana Swanson, Paul Mozur, Jonathan Swan, Julian E. Barnes and Maggie Haberman",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall",
+          "publishedOn": "2026-11-17T21:53:20.000Z",
+          "wordCount": 23330,
+          "title": "Jensen Huang carried a secret for more than a year. It led to his downfall.",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/17nvidia-earnings-live-jensen-version/BIZ-JENSEN-CRASH-1-01-ljmc-facebookJumbo-v2.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+          "author": "Adam Satariano and Alexandra Stevenson",
+          "description": "New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Washington and Beijing.",
+          "link": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+          "publishedOn": "2026-11-17T21:04:16.000Z",
+          "wordCount": null,
+          "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil",
+          "author": "Emmy Martin",
+          "description": "",
+          "link": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil",
+          "publishedOn": "2026-11-17T21:01:05.000Z",
+          "wordCount": 23931,
+          "title": "What to know about the Nvidia turmoil.",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/17/multimedia/17nvidia-earnings-live-what-to-know-version-kzmb/17nvidia-earnings-live-what-to-know-version-kzmb-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
+          "author": "Ana Swanson and Tripp Mickle",
+          "description": "The announcement appeared to be a response to recent criticism that the Commerce Department has moved too slowly on the alleged chip smuggling case.",
+          "link": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
+          "publishedOn": "2026-11-17T20:56:02.000Z",
+          "wordCount": null,
+          "title": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html",
+          "author": "Victor Mather",
+          "description": "A national test mandated every three years was broadcast on television and radio at 2:20 p.m. Eastern time on Tuesday.",
+          "link": "https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html",
+          "publishedOn": "2026-11-17T20:38:29.000Z",
+          "wordCount": null,
+          "title": "What Was That Alert on TV and the Radio? It Was Only a Test.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
+          "author": "Joe Rennison",
+          "description": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
+          "link": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
+          "publishedOn": "2026-11-17T20:38:02.000Z",
+          "wordCount": null,
+          "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
+          "author": "Colby Smith and Tony Romm",
+          "description": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a “facade.”",
+          "link": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
+          "publishedOn": "2026-11-17T20:14:55.000Z",
+          "wordCount": null,
+          "title": "Fed Governor Cook Won’t Attend White House Hearing Without Changes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+          "author": "Andrew Duehren",
+          "description": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”",
+          "link": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+          "publishedOn": "2026-11-17T19:50:00.000Z",
+          "wordCount": null,
+          "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/video/business/100000011281784/how-democrats-winning-in-texas-affects-musk.html",
+          "author": "Kirsten Grind, Joy Sung, June Kim, Karl Mollohan, Nikolay Nikolov, Jon Miller, Nour Idriss and James Surdam",
+          "description": "Elon Musk’s companies have built a major presence in Texas, backed in part by Republican lawmakers who offered incentives and favorable policies. Now, Democrats in power could bring new scrutiny to those policies. Kirsten Grind, a Times investigative reporter, explains.",
+          "link": "https://www.nytimes.com/video/business/100000011281784/how-democrats-winning-in-texas-affects-musk.html",
+          "publishedOn": "2026-11-17T17:42:07.000Z",
+          "wordCount": null,
+          "title": "How Democrats Winning in Texas Affects Musk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
+          "author": "Brooks Barnes",
+          "description": "The company plans to finance growth with $3 billion in cost savings and, in a surprise move, said it would stop disclosing how much money its streaming business makes.",
+          "link": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
+          "publishedOn": "2026-11-17T17:03:49.000Z",
+          "wordCount": null,
+          "title": "Disney Doubles Down on New Shows and Movies Amid Industry Upheaval",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
+          "author": "Kirsten Grind and Lauren McGaughy",
+          "description": "SpaceX and Tesla are more embedded across Texas than they ever were in California, which Mr. Musk left in 2020 to escape Democratic policies.",
+          "link": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
+          "publishedOn": "2026-11-17T15:46:04.000Z",
+          "wordCount": null,
+          "title": "Elon Musk’s Texas GOP Allies, Who Gave Him $1.7 Billion, Have Been Voted Out. What Now?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
+          "author": "Vivian Wang and Gabriella Angotti-Jones",
+          "description": "J. Galen Buckwalter cheerfully agreed to provide his neural data for a research study. But when he asked for a copy, things got complicated.",
+          "link": "https://www.nytimes.com/2026/11/17/business/brain-data-access-rights-buckwalter.html",
+          "publishedOn": "2026-11-17T14:33:13.000Z",
+          "wordCount": null,
+          "title": "Does This Man Have a Right to the Data From His Own Brain?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
+          "author": "Rachel Abrams, Rebecca F. Elliott, Margot Sanger-Katz, Ben Casselman, Adrienne Hurst, Lexie Diao, Caitlin O’Keefe, Lisa Chow, Marc Georges, Liz O. Baylen, Elisheba Ittoop, Pat McCusker, Marion Lozano, Dan Powell and Alyssa Moxley",
+          "description": "Three reporters talk about what options the party really has to try to bring down the cost of living.",
+          "link": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
+          "publishedOn": "2026-11-17T14:01:14.000Z",
+          "wordCount": null,
+          "title": "Democrats Promised Lower Prices. What Can They Actually Do?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
+          "author": "Michael J. de la Merced",
+          "description": "The lifestyle guru appears in a new ad by the prediction market Kalshi as it announces changes to how it polices illicit trading on its platform.",
+          "link": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
+          "publishedOn": "2026-11-17T13:27:15.000Z",
+          "wordCount": null,
+          "title": "A Kalshi Ad With Martha Stewart Warns Against Insider Trading",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
+          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+          "description": "Wall Street is bracing for the chip maker’s latest earnings call, as analysts seek clues about the artificial intelligence giant’s future.",
+          "link": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
+          "publishedOn": "2026-11-17T13:02:17.000Z",
+          "wordCount": null,
+          "title": "Nvidia’s Earnings Call Is a High-Stakes Moment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
+          "author": "Gina Kolata",
+          "description": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
+          "link": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
+          "publishedOn": "2026-11-17T11:57:52.000Z",
+          "wordCount": null,
+          "title": "Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
+          "author": "Alexandra Stevenson and Murphy Zhao",
+          "description": "Public displays of friendship contrast with mounting trade and investment restrictions, highlighting the widening rift between the two economies.",
+          "link": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
+          "publishedOn": "2026-11-17T10:03:49.000Z",
+          "wordCount": null,
+          "title": "As Trump and Xi Mingle, Their Governments Are Arming Up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+          "author": "Russ Buettner, Khadija Sharife, Brian Fitzpatrick, Frederik Obermaier, Bastian Obermayer and Sophia Baumann",
+          "description": "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients.",
+          "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+          "publishedOn": "2026-11-17T06:00:12.000Z",
+          "wordCount": null,
+          "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html",
           "author": "Kim Bhasin",
@@ -7127,46 +7407,6 @@
           "wordCount": null,
           "title": "Strong Exports Stabilize China’s Economic Growth in Official Statistics",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html",
-          "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
-          "description": "The artificial intelligence giant plans to contribute 5 percent of its stock into a philanthropic fund. But its generosity depends on the A.I. boom continuing.",
-          "link": "https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html",
-          "publishedOn": "2026-10-19T11:47:58.000Z",
-          "wordCount": null,
-          "title": "Anthropic’s I.P.O. Charity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/19/arts/design/art-basel-miami-beach-contract-vegas.html",
-          "author": "Brett Sokol",
-          "description": "After 18 months of negotiations and warnings that it might relocate to Nevada, the Art Basel fair will remain in Miami Beach through 2031.",
-          "link": "https://www.nytimes.com/2026/10/19/arts/design/art-basel-miami-beach-contract-vegas.html",
-          "publishedOn": "2026-10-19T09:03:57.000Z",
-          "wordCount": null,
-          "title": "Art Basel Las Vegas? The Fight Over Miami Beach’s Fair",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/19/business/michigan-primary-disinformation-campaign.html",
-          "author": "Steven Lee Myers",
-          "description": "At least three dozen videos of people on the street expressing support for a Democratic candidate appeared millions of times on social media. It was unclear who paid for them.",
-          "link": "https://www.nytimes.com/2026/10/19/business/michigan-primary-disinformation-campaign.html",
-          "publishedOn": "2026-10-19T09:02:31.000Z",
-          "wordCount": null,
-          "title": "U.S. Political Money Funnels to Indian Bots to Lure Voters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
-          "author": "Nicole Sperling",
-          "description": "“You Can See Everything,” a documentary about the Theranos founder, made a big splash for a movie not yet in wide release. And Netflix had a box office milestone.",
-          "link": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
-          "publishedOn": "2026-10-18T21:55:14.000Z",
-          "wordCount": null,
-          "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows",
-          "imageUrl": null
         }
       ]
     },
@@ -7175,6 +7415,156 @@
       "feedUrl": "https://www.investing.com/rss/news.rss",
       "siteUrl": "https://www.investing.com",
       "articles": [
+        {
+          "id": "https://www.investing.com/news/company-news/ipayout-highlights-costeffective-global-payout-infrastructure-for-highvolume-lowvalue-payments-5034678",
+          "author": "FinanceWire",
+          "description": "",
+          "link": "https://www.investing.com/news/company-news/ipayout-highlights-costeffective-global-payout-infrastructure-for-highvolume-lowvalue-payments-5034678",
+          "publishedOn": "2026-11-18T04:29:14.000Z",
+          "wordCount": null,
+          "title": "i-payout Highlights Cost-Effective Global Payout Infrastructure for High-Volume, Low-Value Payments",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg",
+            "length": "114209",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM431CY_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/factboxjob-cuts-mount-across-corporate-australia-in-2026-5034677",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/factboxjob-cuts-mount-across-corporate-australia-in-2026-5034677",
+          "publishedOn": "2026-11-18T04:24:22.000Z",
+          "wordCount": null,
+          "title": "Factbox-Job cuts mount across corporate Australia in 2026",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAH0AM_L.jpg",
+            "length": "52473",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXNPEMAH0AM_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economic-indicators/malaysia-q3-gdp-grows-more-than-expected-on-ai-tourism-boost-5034675",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/economic-indicators/malaysia-q3-gdp-grows-more-than-expected-on-ai-tourism-boost-5034675",
+          "publishedOn": "2026-11-18T04:16:17.000Z",
+          "wordCount": null,
+          "title": "Malaysia Q3 GDP grows more than expected on AI, tourism boost",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEAAD066_M.jpg",
+            "length": "37584",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEAAD066_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/monolithic-power-systems-cao-dean-sells-6601-in-shares-93CH-5034674",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/monolithic-power-systems-cao-dean-sells-6601-in-shares-93CH-5034674",
+          "publishedOn": "2026-11-18T04:16:15.000Z",
+          "wordCount": null,
+          "title": "Monolithic Power Systems CAO Dean sells $6,601 in shares",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+            "length": "162121",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/ueda-says-boj-will-weigh-if-underlying-inflation-becomes-anchored-5034497",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/ueda-says-boj-will-weigh-if-underlying-inflation-becomes-anchored-5034497",
+          "publishedOn": "2026-11-18T04:12:18.000Z",
+          "wordCount": null,
+          "title": "Bank of Japan governor says central bank should keep raising rates",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAH047_L.jpg",
+            "length": "38437",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXNPEMAH047_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/economy-news/asia-stocks-set-to-snap-losing-streak-on-nvidia-beat-as-anthropic-looms-5034510",
+          "author": "Reuters",
+          "description": "",
+          "link": "https://www.investing.com/news/economy-news/asia-stocks-set-to-snap-losing-streak-on-nvidia-beat-as-anthropic-looms-5034510",
+          "publishedOn": "2026-11-18T04:06:23.000Z",
+          "wordCount": null,
+          "title": "Asia stocks choppy after Nvidia earnings as Anthropic pricing looms",
+          "enclosure": {
+            "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAH04P_L.jpg",
+            "length": "59455",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXNPEMAH04P_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/transcripts/cogstate-at-bell-potter-healthcare-conference-medidata-deal-lifts-outlook-93CH-5034664",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/transcripts/cogstate-at-bell-potter-healthcare-conference-medidata-deal-lifts-outlook-93CH-5034664",
+          "publishedOn": "2026-11-18T04:05:10.000Z",
+          "wordCount": null,
+          "title": "Cogstate at Bell Potter Healthcare Conference: medidata deal lifts outlook",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+            "length": "157240",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/stock-market-news/trump-withdraws-heidi-overtons-fda-nomination-axios-93CH-5034661",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/stock-market-news/trump-withdraws-heidi-overtons-fda-nomination-axios-93CH-5034661",
+          "publishedOn": "2026-11-18T04:02:27.000Z",
+          "wordCount": null,
+          "title": "Trump withdraws Heidi Overton’s FDA nomination- Axios",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+            "length": "11851",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/ceribell-director-josef-parvizi-sells-650500-in-shares-93CH-5034660",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/ceribell-director-josef-parvizi-sells-650500-in-shares-93CH-5034660",
+          "publishedOn": "2026-11-18T04:01:04.000Z",
+          "wordCount": null,
+          "title": "Ceribell director Josef Parvizi sells $650,500 in shares",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+            "length": "114383",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg"
+        },
+        {
+          "id": "https://www.investing.com/news/insider-trading-news/brixmor-director-sandra-lawrence-sells-389258-of-common-stock-93CH-5034659",
+          "author": "Investing.com",
+          "description": "",
+          "link": "https://www.investing.com/news/insider-trading-news/brixmor-director-sandra-lawrence-sells-389258-of-common-stock-93CH-5034659",
+          "publishedOn": "2026-11-18T04:00:57.000Z",
+          "wordCount": null,
+          "title": "Brixmor director Sandra Lawrence sells $389,258 of common stock",
+          "enclosure": {
+            "url": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+            "length": "178658",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
+        },
         {
           "id": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
           "author": "Reuters",
@@ -11489,156 +11879,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
-          "publishedOn": "2026-10-19T01:32:24.000Z",
-          "wordCount": null,
-          "title": "U.S. stock futures climb as investors return to AI trade after selloff",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
-            "length": "163522",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/indonesia-gets-wakeup-call-as-msci-prepares-to-expel-it-from-global-indexes-4956194",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/indonesia-gets-wakeup-call-as-msci-prepares-to-expel-it-from-global-indexes-4956194",
-          "publishedOn": "2026-10-19T01:31:30.000Z",
-          "wordCount": null,
-          "title": "Indonesia gets ’wake-up call’ as MSCI prepares to expel it from global indexes",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0HM_L.jpg",
-            "length": "68622",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9F0HM_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/indonesia-faces-rare-msci-exclusion-that-could-cut-it-off-from-global-capital-4956189",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/indonesia-faces-rare-msci-exclusion-that-could-cut-it-off-from-global-capital-4956189",
-          "publishedOn": "2026-10-19T01:31:15.000Z",
-          "wordCount": null,
-          "title": "Indonesia faces rare MSCI exclusion that could cut it off from global capital",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1IR_L.jpg",
-            "length": "78415",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9F1IR_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/australia-central-banker-sees-signs-of-labour-market-easing-4956192",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/australia-central-banker-sees-signs-of-labour-market-easing-4956192",
-          "publishedOn": "2026-10-19T01:31:02.000Z",
-          "wordCount": null,
-          "title": "Australia central banker sees signs of labour market easing",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9I01W_L.jpg",
-            "length": "28600",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9I01W_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/australias-ampol-thirdquarter-lytton-refining-margin-more-than-doubles-4956132",
-          "publishedOn": "2026-10-19T01:30:30.000Z",
-          "wordCount": null,
-          "title": "Australia’s Ampol third-quarter Lytton refining margin more than doubles",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9H0NK_L.jpg",
-            "length": "27937",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9H0NK_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/boj-may-need-to-tighten-faster-if-inflation-beats-forecast-imf-says-4956113",
-          "publishedOn": "2026-10-19T01:24:31.000Z",
-          "wordCount": null,
-          "title": "BOJ may need to tighten faster if inflation beats forecast, IMF says",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9G05C_L.jpg",
-            "length": "70336",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9G05C_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/sk-hynix-crashes-206-below-20period-ma-live-levels-93CH-4956188",
-          "publishedOn": "2026-10-19T01:06:34.000Z",
-          "wordCount": null,
-          "title": "SK Hynix crashes -20.6% below 20-period MA: Live levels",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-            "length": "16958",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/economy-news/beijings-population-expected-to-become-superaged-by-2035-4956187",
-          "author": "Reuters",
-          "description": "",
-          "link": "https://www.investing.com/news/economy-news/beijings-population-expected-to-become-superaged-by-2035-4956187",
-          "publishedOn": "2026-10-19T01:06:31.000Z",
-          "wordCount": null,
-          "title": "Beijing’s population expected to become super-aged by 2035",
-          "enclosure": {
-            "url": "https://content-media.investing.com/trkd-images/LYNXMPEM9I02O_L.jpg",
-            "length": "119183",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/trkd-images/LYNXMPEM9I02O_L.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/stock-market-news/nikkei-225-teeters-above-635725-support-live-levels-93CH-4956186",
-          "publishedOn": "2026-10-19T01:06:05.000Z",
-          "wordCount": null,
-          "title": "Nikkei 225 teeters above 63,572.5 support: Live levels",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-            "length": "25842",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg"
-        },
-        {
-          "id": "https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185",
-          "author": "Investing.com",
-          "description": "",
-          "link": "https://www.investing.com/news/commodities-news/gold-rises-as-warsh-remarks-curb-fed-hike-bets-4956185",
-          "publishedOn": "2026-10-19T01:04:18.000Z",
-          "wordCount": null,
-          "title": "Gold rises as Warsh remarks curb Fed hike bets",
-          "enclosure": {
-            "url": "https://content-media.investing.com/news/LYNXMPEA660DP_M.jpg",
-            "length": "19738",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://content-media.investing.com/news/LYNXMPEA660DP_M.jpg"
         }
       ]
     },
