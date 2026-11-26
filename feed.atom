@@ -2,10 +2,430 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://healworld-star.github.io/financial-daily-news-machine/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-25T05:43:59.146Z</updated>
+    <updated>2026-11-26T05:33:28.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://healworld-star.github.io/financial-daily-news-machine/index.html"/>
     <link rel="self" href="https://healworld-star.github.io/financial-daily-news-machine/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple pulls MiniMax AI chatbot from App Store over child safety concerns]]></title>
+        <id>https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028</id>
+        <link href="https://www.investing.com/news/stock-market-news/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-5052028"/>
+        <updated>2026-11-26T05:18:22.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patrick Industries director acquires $432,941 in company stock]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/patrick-industries-director-acquires-432941-in-company-stock-93CH-5052027</id>
+        <link href="https://www.investing.com/news/insider-trading-news/patrick-industries-director-acquires-432941-in-company-stock-93CH-5052027"/>
+        <updated>2026-11-26T05:15:59.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway]]></title>
+        <id>https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html</id>
+        <link href="https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html"/>
+        <updated>2026-11-26T05:14:22.000Z</updated>
+        <summary type="html"><![CDATA[The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries.]]></summary>
+        <author>
+            <name>Francesca Regalado and David Ovalle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China, Japan, South Korea and ASEAN launch talks on digital payments across borders]]></title>
+        <id>https://www.investing.com/news/economy-news/china-japan-south-korea-and-asean-launch-talks-on-digital-payments-across-borders-5052024</id>
+        <link href="https://www.investing.com/news/economy-news/china-japan-south-korea-and-asean-launch-talks-on-digital-payments-across-borders-5052024"/>
+        <updated>2026-11-26T05:06:51.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk says every U.S. child will receive two SpaceX shares]]></title>
+        <id>https://www.investing.com/news/stock-market-news/musk-says-every-us-child-will-receive-two-spacex-shares-5052023</id>
+        <link href="https://www.investing.com/news/stock-market-news/musk-says-every-us-child-will-receive-two-spacex-shares-5052023"/>
+        <updated>2026-11-26T05:06:39.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stocks rally in Asia, US tariffs not as dire as feared]]></title>
+        <id>https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871</id>
+        <link href="https://www.investing.com/news/stock-market-news/asia-shares-bounce-ai-and-tariffs-lurk-in-background-5051871"/>
+        <updated>2026-11-26T05:06:37.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis-Spain’s economic gains miss voters’ wallets as Sanchez seeks reelection]]></title>
+        <id>https://www.investing.com/news/economy-news/analysisspains-economic-gains-miss-voters-wallets-as-sanchez-seeks-reelection-5052022</id>
+        <link href="https://www.investing.com/news/economy-news/analysisspains-economic-gains-miss-voters-wallets-as-sanchez-seeks-reelection-5052022"/>
+        <updated>2026-11-26T05:06:24.000Z</updated>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger]]></title>
+        <id>https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021</id>
+        <link href="https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-taiwan-south-korea-rebound-nvidia-risks-linger-5052021"/>
+        <updated>2026-11-26T05:01:37.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In China, the ‘Female Gaze’ Is Driving a New Entertainment Boom]]></title>
+        <id>https://www.nytimes.com/2026/11/26/business/china-women-spending-entertainment.html</id>
+        <link href="https://www.nytimes.com/2026/11/26/business/china-women-spending-entertainment.html"/>
+        <updated>2026-11-26T05:00:17.000Z</updated>
+        <summary type="html"><![CDATA[From male dancers to handsome hiking companions, a thriving entertainment industry is catering to female fantasies and testing the limits of Beijing’s tolerance.]]></summary>
+        <author>
+            <name>Murphy Zhao, Alexandra Stevenson and Gilles Sabrié</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asia FX: won muted after BOK hikes rates, dollar steady]]></title>
+        <id>https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015</id>
+        <link href="https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015"/>
+        <updated>2026-11-26T04:48:40.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wolverine World Wide director sells $232,552 in common stock]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/wolverine-world-wide-director-sells-232552-in-common-stock-93CH-5052014</id>
+        <link href="https://www.investing.com/news/insider-trading-news/wolverine-world-wide-director-sells-232552-in-common-stock-93CH-5052014"/>
+        <updated>2026-11-26T04:46:04.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First US Bancshares director Staci Pierce buys $4,137 in stock]]></title>
+        <id>https://www.investing.com/news/insider-trading-news/first-us-bancshares-director-staci-pierce-buys-4137-in-stock-93CH-5052013</id>
+        <link href="https://www.investing.com/news/insider-trading-news/first-us-bancshares-director-staci-pierce-buys-4137-in-stock-93CH-5052013"/>
+        <updated>2026-11-26T04:46:01.000Z</updated>
+        <author>
+            <name>Investing.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK government set to publish new treaties agreed with EU]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c98r7p65edvgo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-26T02:13:00.000Z</updated>
+        <summary type="html"><![CDATA[The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html"/>
+        <updated>2026-11-26T02:01:20.000Z</updated>
+        <summary type="html"><![CDATA[A preliminary injunction halted an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago.]]></summary>
+        <author>
+            <name>John Koblin and Jim Rutenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.]]></title>
+        <id>https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html"/>
+        <updated>2026-11-26T01:53:20.000Z</updated>
+        <summary type="html"><![CDATA[The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.]]></summary>
+        <author>
+            <name>David E. Sanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US approves SpaceX plan to send a million data satellites to space]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cwp836l8n1jgo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-26T00:07:51.000Z</updated>
+        <summary type="html"><![CDATA[The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guitar wars - the transatlantic battle over the Stratocaster]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cqd01l9x8k48o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-26T00:01:37.000Z</updated>
+        <summary type="html"><![CDATA[US company Fender is in dispute with a German firm that makes generic versions of its key model.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empowered Democrats Aim at Weakened Regulation and Corporate Corruption]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html"/>
+        <updated>2026-11-25T23:24:51.000Z</updated>
+        <summary type="html"><![CDATA[After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.]]></summary>
+        <author>
+            <name>Alan Rappeport</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates]]></title>
+        <id>https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html"/>
+        <updated>2026-11-25T22:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.]]></summary>
+        <author>
+            <name>Eric Lipton and Anton Troianovski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US stocks fall further as fears over AI intensify]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T21:43:18.000Z</updated>
+        <summary type="html"><![CDATA[All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Man in Denver Has Been Throwing Eggs at Waymo Vehicles]]></title>
+        <id>https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html"/>
+        <updated>2026-11-25T21:36:34.000Z</updated>
+        <summary type="html"><![CDATA[The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.]]></summary>
+        <author>
+            <name>Johnny Diaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html"/>
+        <updated>2026-11-25T21:36:24.000Z</updated>
+        <summary type="html"><![CDATA[Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.]]></summary>
+        <author>
+            <name>Joe Rennison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html"/>
+        <updated>2026-11-25T21:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.]]></summary>
+        <author>
+            <name>Jason Karaian and Joe Rennison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poundland collapses putting 11,000 jobs at risk]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cm3vgdn037z4o#0</id>
+        <link href="https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T21:31:10.000Z</updated>
+        <summary type="html"><![CDATA[The discount chain has fallen into administration after its owners failed to find a buyer.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s Stock Debut Could Hurt Tech Start-Ups]]></title>
+        <id>https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html"/>
+        <updated>2026-11-25T21:30:58.000Z</updated>
+        <summary type="html"><![CDATA[As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies.]]></summary>
+        <author>
+            <name>Cory Weinberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we know about Trump's Thanksgiving tariffs]]></title>
+        <id>https://www.bbc.co.uk/news/videos/c3x29v11ed1xo#5</id>
+        <link href="https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T19:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones]]></title>
+        <id>https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html"/>
+        <updated>2026-11-25T19:34:40.000Z</updated>
+        <summary type="html"><![CDATA[The view of the Himalayan country as ancient and immutable is being challenged by young Bhutanese who are opening restaurants and shops, and getting beyond “gross national happiness.” A traveler explores.]]></summary>
+        <author>
+            <name>Anita Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html"/>
+        <updated>2026-11-25T19:13:30.000Z</updated>
+        <summary type="html"><![CDATA[The Federal Reserve is widely expected to raise interest rates next month.]]></summary>
+        <author>
+            <name>Colby Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martin Lewis' tips on staying warm this winter]]></title>
+        <id>https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo#3</id>
+        <link href="https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T17:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy price increase 'could put me in hospital']]></title>
+        <id>https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T17:26:13.000Z</updated>
+        <summary type="html"><![CDATA[People on Teesside share their views on the news energy bills are expected to increase by 26%.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scots react to news of rising energy prices]]></title>
+        <id>https://www.bbc.co.uk/news/videos/cmqlq07d71yko#3</id>
+        <link href="https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T16:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Scots describe how an increase in energy bills will affect them.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scots react to news of rising energy prices]]></title>
+        <id>https://www.bbc.co.uk/news/videos/cmqlq07d71yko#5</id>
+        <link href="https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T16:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Scots describe how an increase in energy bills will affect them.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump's accounts traded Nvidia shares 44 times this year, records show]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cq772vk664yvo#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T16:42:11.000Z</updated>
+        <summary type="html"><![CDATA[A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why has Poundland collapsed and what happens next?]]></title>
+        <id>https://www.bbc.co.uk/news/videos/ckregn0gq2ydo#5</id>
+        <link href="https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T16:24:30.000Z</updated>
+        <summary type="html"><![CDATA[The retail chain has collapsed just one year after being bought for £1 by an American firm.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"/>
+        <updated>2026-11-25T15:58:36.000Z</updated>
+        <summary type="html"><![CDATA[The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.]]></summary>
+        <author>
+            <name>Tony Romm and Ana Swanson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuel price hike will make life 'almost impossible']]></title>
+        <id>https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo#3</id>
+        <link href="https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T14:37:44.000Z</updated>
+        <summary type="html"><![CDATA[The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the Nvidia Rally Fizzled]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html"/>
+        <updated>2026-11-25T12:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Jensen Huang may be running Nvidia again, but investors are losing faith in the artificial intelligence boom the chipmaker has underpinned.]]></summary>
+        <author>
+            <name>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch the Task Force Panel Discussions From the DealBook Summit]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html"/>
+        <updated>2026-11-25T11:01:04.000Z</updated>
+        <summary type="html"><![CDATA[See the full conversations, led by journalists from The Times, about the impact of the midterm elections, what to expect next in the A.I. revolution, how to make America healthier and the future of work and purpose.]]></summary>
+        <author>
+            <name>Dealbook</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Your Apps With Fewer Taps]]></title>
+        <id>https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html"/>
+        <updated>2026-11-25T10:03:56.000Z</updated>
+        <summary type="html"><![CDATA[With pop-up menus and widgets, your phone or tablet gives you quick ways to check information and get things done with less effort.]]></summary>
+        <author>
+            <name>J. D. Biersdorfer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump]]></title>
+        <id>https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html"/>
+        <updated>2026-11-25T10:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Long delays have risen to levels not seen in more than 15 years, with no enforcement in sight.]]></summary>
+        <author>
+            <name>Christine Chung and Ben Blatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang]]></title>
+        <id>https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo#1</id>
+        <link href="https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T10:03:12.000Z</updated>
+        <summary type="html"><![CDATA[The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As Bob Iger Exits Disney for Good, an Unwelcome Biography Arrives]]></title>
+        <id>https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html</id>
+        <link href="https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html"/>
+        <updated>2026-11-25T10:02:47.000Z</updated>
+        <summary type="html"><![CDATA[“The House of Mouse” challenges the image the company’s former chief has cultivated over decades. He is scheduled to attend his final Disney board meeting next week.]]></summary>
+        <author>
+            <name>Brooks Barnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interest rate affect on Guernsey's housing market]]></title>
+        <id>https://www.bbc.co.uk/news/videos/c6x29vne7lnko#5</id>
+        <link href="https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-25T09:56:33.000Z</updated>
+        <summary type="html"><![CDATA[As interest rates rise, we look at the impact this could have on Guernsey's housing market.]]></summary>
+        <author>
+            <name>BBC News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malaysia Airlines parent orders 10 Boeing 787s to replace older Airbus jets]]></title>
         <id>https://www.investing.com/news/stock-market-news/malaysia-airlines-parent-to-buy-10-boeing-787dreamliners-ceo-says-5049604</id>
@@ -324,6 +744,16 @@
         <summary type="html"><![CDATA[Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.]]></summary>
         <author>
             <name>Yola Mzizi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Business Daily]]></title>
+        <id>https://www.bbc.co.uk/sounds/play/w3ct98sy#5</id>
+        <link href="https://www.bbc.co.uk/sounds/play/w3ct98sy?at_medium=RSS&amp;at_campaign=rss"/>
+        <updated>2026-11-24T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Grant LaFontaine explains how selling Pokémon cards inspired a billion-dollar business]]></summary>
+        <author>
+            <name>BBC News</name>
         </author>
     </entry>
     <entry>
@@ -14291,96 +14721,6 @@ GLD sits about 28% below its 52-week high of $509.70. I realize the run up was a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the beauty industry is boosting High Streets]]></title>
-        <id>https://www.bbc.co.uk/news/videos/cmr4y51lp5zko#5</id>
-        <link href="https://www.bbc.co.uk/news/videos/cmr4y51lp5zko?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T14:35:10.000Z</updated>
-        <summary type="html"><![CDATA[Marie Camara believes beauty and personal care businesses play a key role in supporting high streets.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Steps In to Rescue Stocks, But the Market Continues to Fall]]></title>
-        <id>https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html</id>
-        <link href="https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html"/>
-        <updated>2026-10-27T14:15:17.000Z</updated>
-        <summary type="html"><![CDATA[The Communist Party uses a “national team” of state-owned investment funds to stem the market rout. But this time, investors are not sure it will work.]]></summary>
-        <author>
-            <name>Alexandra Stevenson and Murphy Zhao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mbappé sorry for 'ill-judged' Mao remark after backlash in China]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cv62yg0erp8zo#1</id>
-        <link href="https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T13:25:54.000Z</updated>
-        <summary type="html"><![CDATA[The France star had referred to the former Chinese leader as a "dictator" during an interview about memes.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Co-Worker Is Losing It Over My Religion]]></title>
-        <id>https://www.nytimes.com/2026/10/25/business/religion-harassment-work.html</id>
-        <link href="https://www.nytimes.com/2026/10/25/business/religion-harassment-work.html"/>
-        <updated>2026-10-27T12:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Reader responses to a woman returning to the office after two decades of self-employment.]]></summary>
-        <author>
-            <name>Max Read</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holiday Travel Costs Are Soaring. Here’s How to Save.]]></title>
-        <id>https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html</id>
-        <link href="https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html"/>
-        <updated>2026-10-27T11:10:27.000Z</updated>
-        <summary type="html"><![CDATA[As airfares and gas prices surge, here’s how you can extend your travel budget.]]></summary>
-        <author>
-            <name>Elaine Glusac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.]]></title>
-        <id>https://www.nytimes.com/2026/10/27/business/pensions-ai.html</id>
-        <link href="https://www.nytimes.com/2026/10/27/business/pensions-ai.html"/>
-        <updated>2026-10-27T11:06:48.000Z</updated>
-        <summary type="html"><![CDATA[As exuberance around the technology stokes fears of a bubble, the nation’s public pensions are starting to grapple with their role — and their risks.]]></summary>
-        <author>
-            <name>Tony Romm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank]]></title>
-        <id>https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html</id>
-        <link href="https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html"/>
-        <updated>2026-10-27T10:09:10.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic named the Wall Street firms lead underwriters on its upcoming public offering, a role that will generate generous fees and enormous prestige.]]></summary>
-        <author>
-            <name>Lauren Hirsch and Sri Muppidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.]]></title>
-        <id>https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html</id>
-        <link href="https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html"/>
-        <updated>2026-10-27T09:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Inflation is moving in the wrong direction and the labor market remains stable, a combination that bolsters the case for higher interest rates.]]></summary>
-        <author>
-            <name>Colby Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans]]></title>
-        <id>https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html</id>
-        <link href="https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html"/>
-        <updated>2026-10-27T09:02:37.000Z</updated>
-        <summary type="html"><![CDATA[Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.]]></summary>
-        <author>
-            <name>James Paton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Daily General Discussion and Advice Thread - October 27, 2026]]></title>
         <id>https://www.reddit.com/r/investing/comments/1xgmifu/daily_general_discussion_and_advice_thread/</id>
         <link href="https://www.reddit.com/r/investing/comments/1xgmifu/daily_general_discussion_and_advice_thread/"/>
@@ -14426,118 +14766,6 @@ Check the resources in the sidebar.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rise in sales of radios and tinned foods, say retailers, after call to stock up]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c5rmy84np001o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T06:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donald Trump's biggest economic problem looks strangely familiar]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T06:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gerdau ADR earnings missed, revenue topped estimates]]></title>
-        <id>https://www.investing.com/news/earnings/gerdau-adr-earnings-missed-revenue-topped-estimates-4974080</id>
-        <link href="https://www.investing.com/news/earnings/gerdau-adr-earnings-missed-revenue-topped-estimates-4974080"/>
-        <updated>2026-10-27T02:16:56.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phreesia president David Linetsky buys $682 in company stock]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/phreesia-president-david-linetsky-buys-682-in-company-stock-93CH-4974079</id>
-        <link href="https://www.investing.com/news/insider-trading-news/phreesia-president-david-linetsky-buys-682-in-company-stock-93CH-4974079"/>
-        <updated>2026-10-27T02:15:56.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Star Bancorp earnings beat by $0.07, revenue topped estimates]]></title>
-        <id>https://www.investing.com/news/earnings/five-star-bancorp-earnings-beat-by-007-revenue-topped-estimates-4974070</id>
-        <link href="https://www.investing.com/news/earnings/five-star-bancorp-earnings-beat-by-007-revenue-topped-estimates-4974070"/>
-        <updated>2026-10-27T02:13:57.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hang Seng tests SMA(20) resistance in bear pennant: Live]]></title>
-        <id>https://www.investing.com/news/stock-market-news/hang-seng-nears-oversold-in-bear-flag-setup-live-levels-93CH-4971350</id>
-        <link href="https://www.investing.com/news/stock-market-news/hang-seng-nears-oversold-in-bear-flag-setup-live-levels-93CH-4971350"/>
-        <updated>2026-10-27T02:02:27.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peoples Bancorp director Billy Price Jr. buys $8,457 in company stock]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/peoples-bancorp-director-billy-price-jr-buys-8457-in-company-stock-93CH-4974067</id>
-        <link href="https://www.investing.com/news/insider-trading-news/peoples-bancorp-director-billy-price-jr-buys-8457-in-company-stock-93CH-4974067"/>
-        <updated>2026-10-27T02:01:15.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes']]></title>
-        <id>https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T01:57:48.000Z</updated>
-        <summary type="html"><![CDATA[The chancellor will axe tariffs on some staples as part of plans to give households "breathing space".]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earnings call transcript: Black Cat Syndicate Q1 2026 output disappoints, shares slip]]></title>
-        <id>https://www.investing.com/news/transcripts/earnings-call-transcript-black-cat-syndicate-q1-2026-output-disappoints-shares-slip-93CH-4974058</id>
-        <link href="https://www.investing.com/news/transcripts/earnings-call-transcript-black-cat-syndicate-q1-2026-output-disappoints-shares-slip-93CH-4974058"/>
-        <updated>2026-10-27T01:55:28.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple says it will replace iPhone Duo handsets with screen problems]]></title>
-        <id>https://www.bbc.co.uk/news/articles/c893zwlev2xpo#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T01:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Photos shared online showed faults appearing on the screens of Apple's first foldable device.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Byline Bancorp director Pamela Stewart buys $44,785 in shares]]></title>
-        <id>https://www.investing.com/news/insider-trading-news/byline-bancorp-director-pamela-stewart-buys-44785-in-shares-93CH-4974056</id>
-        <link href="https://www.investing.com/news/insider-trading-news/byline-bancorp-director-pamela-stewart-buys-44785-in-shares-93CH-4974056"/>
-        <updated>2026-10-27T01:47:52.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is SoftBank stock rallying today?]]></title>
-        <id>https://www.investing.com/news/stock-market-news/why-is-softbank-stock-rallying-today-93CH-4974055</id>
-        <link href="https://www.investing.com/news/stock-market-news/why-is-softbank-stock-rallying-today-93CH-4974055"/>
-        <updated>2026-10-27T01:45:47.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anyone have experience with GemAlgo AI trading?]]></title>
         <id>https://www.reddit.com/r/investing/comments/1xgfmr3/anyone_have_experience_with_gemalgo_ai_trading/</id>
         <link href="https://www.reddit.com/r/investing/comments/1xgfmr3/anyone_have_experience_with_gemalgo_ai_trading/"/>
@@ -14553,54 +14781,6 @@ Check the resources in the sidebar.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Earnings call transcript: Stanmore Resources posts record output in Q3 2026]]></title>
-        <id>https://www.investing.com/news/transcripts/earnings-call-transcript-stanmore-resources-posts-record-output-in-q3-2026-93CH-4974046</id>
-        <link href="https://www.investing.com/news/transcripts/earnings-call-transcript-stanmore-resources-posts-record-output-in-q3-2026-93CH-4974046"/>
-        <updated>2026-10-27T01:35:58.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK Hynix shares rise to two-week high on report of $12 billion dividend]]></title>
-        <id>https://www.investing.com/news/stock-market-news/sk-hynix-shares-rise-to-twoweek-high-on-report-of-12-billion-dividend-4974045</id>
-        <link href="https://www.investing.com/news/stock-market-news/sk-hynix-shares-rise-to-twoweek-high-on-report-of-12-billion-dividend-4974045"/>
-        <updated>2026-10-27T01:35:11.000Z</updated>
-        <author>
-            <name>Investing.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cmx235r9wr3yo#3</id>
-        <link href="https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-27T00:01:00.000Z</updated>
-        <summary type="html"><![CDATA[People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business Daily]]></title>
-        <id>https://www.bbc.co.uk/sounds/play/w3ct8grq#5</id>
-        <link href="https://www.bbc.co.uk/sounds/play/w3ct8grq?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-26T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[After decades of ultra-cheap money, the cost of borrowing in Japan is rising]]></summary>
-        <author>
-            <name>BBC News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I love Anthropic's products, BUT I think their S1 is a far scarier than people let on.]]></title>
         <id>https://www.reddit.com/r/investing/comments/1xg9fui/i_love_anthropics_products_but_i_think_their_s1/</id>
         <link href="https://www.reddit.com/r/investing/comments/1xg9fui/i_love_anthropics_products_but_i_think_their_s1/"/>
@@ -14609,26 +14789,6 @@ Check the resources in the sidebar.
  When you only look at the top 25 pages of the S-1, everything pretty much looks pretty good: Revenues up from $1.16B in H1 2025 to $16.3B in H1 2026. Q2 2026 GAAP operating profit was $1.03B. They have $131.7B in cash and near-cash equivalents. But if you look at the accounting mechanics, the accounting treatments, the working capital loops, and particularly footnote 9, you start to see that the structure of Anthropic is poised to be that of a high margin software company, while the balance sheet looks more like a highly leveraged utility. This is 100% GAAP-comp…]]></summary>
         <author>
             <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazilian Markets Convulse After Unexpected Election Result]]></title>
-        <id>https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html</id>
-        <link href="https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html"/>
-        <updated>2026-10-26T20:07:18.000Z</updated>
-        <summary type="html"><![CDATA[President Luiz Inácio Lula da Silva’s re-election victory prompted a sharp reversal in financial markets that had expected his opponent to win.]]></summary>
-        <author>
-            <name>Joe Rennison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's blockbuster share listing - 5 surprising things we now know]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o#0</id>
-        <link href="https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&amp;at_campaign=rss"/>
-        <updated>2026-10-26T19:57:23.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.]]></summary>
-        <author>
-            <name>BBC News</name>
         </author>
     </entry>
     <entry>
@@ -14643,16 +14803,6 @@ Check the resources in the sidebar.
  [link]   [comments]]]></summary>
         <author>
             <name>Lose money with friends!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s Riding on Anthropic Going Public? Nearly Everything.]]></title>
-        <id>https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html</id>
-        <link href="https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html"/>
-        <updated>2026-10-26T18:44:18.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.]]></summary>
-        <author>
-            <name>Erin Griffith and Lauren Hirsch</name>
         </author>
     </entry>
     <entry>
